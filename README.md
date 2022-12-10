@@ -1,2 +1,0 @@
-# translations
-Volumio Translations Files

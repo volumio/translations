@@ -1,0 +1,21 @@
+{
+  "COMMON": {
+    "SAVE": "සුරකින්න",
+    "CANCEL": "අවලංගු",
+    "CLOSE": "වසන්න",
+    "OK": "හරි",
+    "YES": "ඔව්",
+    "NO": "නැහැ",
+    "ACTION": "ක්‍රියාමාර්ග",
+    "TAB_SEARCH": "සොයන්න",
+    "TAB_SETTINGS": "සැකසුම්",
+    "TIME": "වේලාව",
+    "NEW": "නව"
+  },
+  "ALARM": {
+    "SLEEP_MODE_HOUR": "හෝරා(ව)"
+  },
+  "UI_SETTINGS": {
+    "THEME_SETTINGS": "තේමාවේ සැකසුම්"
+  }
+}
