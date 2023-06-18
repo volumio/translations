@@ -145,7 +145,22 @@
     "PLEASE_WAIT": "Por favor, espera",
     "CONNECT": "Conectar",
     "SEARCH_RESULTS_TITLE": "Número de resultados de búsqueda",
-    "SEARCH_RESULTS_DESC": "Número de resultados de búsqueda deseado"
+    "SEARCH_RESULTS_DESC": "Número de resultados de búsqueda deseado",
+    "DSP": "DSP",
+    "DISABLE": "Desactivar",
+    "ACCEPT": "Acepte",
+    "DECLINE": "Disminución",
+    "ACCEPT_OR_SHUTDOWN": "Acepte las condiciones del servicio o apague el sistema.",
+    "RELATED": "Relacionado",
+    "INSTANT_PLAY": "Me siento afortunado",
+    "SUPER_SEARCH": "Súper búsqueda",
+    "SUPER_SEARCH_EXAMPLE": "Ejemplo: smooth jazz con voces femeninas",
+    "ARTIST_NOT_FOUND_IN_YOUR_LIBRARY": "Artista no encontrado en su biblioteca",
+    "ALBUM_NOT_FOUND_IN_YOUR_LIBRARY": "Álbum no encontrado en tu biblioteca",
+    "RETRY": "Inténtalo de nuevo",
+    "EXIT": "Salida",
+    "OPEN_DEVICE": "Ir al dispositivo",
+    "PROGRESS": "Progreso"
   },
   "BROWSER": {
     "PLAY": "Reproducir",
@@ -181,7 +196,13 @@
     "NO_ITEMS": "No hay elementos",
     "NOT_FOUND": "No encontrado",
     "CREDITS_NOT_FOUND": "Créditos no encontrados",
-    "ARTIST_STORY_NOT_FOUND_FOR": "Historia del artista no encontrada para"
+    "ARTIST_STORY_NOT_FOUND_FOR": "Historia del artista no encontrada para",
+    "RELATED": "También le puede interesar",
+    "RELATED_ALBUMS": "Álbumes relacionados",
+    "RELATED_ARTISTS": "Artistas relacionados",
+    "SUPER_SEARCH": "Volumio SuperSearch BETA",
+    "SUPER_SEARCH_INFO": "SuperSearch es un modo de búsqueda que te permite pedir sugerencias musicales a Volumio de la misma forma que se las pedirías a un amigo o al dependiente de una tienda de discos. <br /><br />Simplemente escriba una pregunta tipo chat sobre el tipo de pistas que desea escuchar, y Volumio recuperará las pistas correspondientes para usted desde su biblioteca. <br /><br />Algunos ejemplos de consultas: <br /><br /> <ul><li>Jazz suave con voces femeninas</li><li>Italian indie rock </li><li>New wave con batería y sintetizador</li></ul><br /><br />Puedes preguntar en tu idioma o en inglés. El inglés suele ofrecer resultados más precisos.<br /> <br />Activando la reproducción automática, una vez completada la búsqueda, se reproducirán las pistas coincidentes<br /> <br />Notas: <br /><br /><ul><li>Para obtener lo mejor de SuperSearch debes tener al menos un servicio de streaming conectado, como TIDAL, QOBUZ o Spotify</li><li>Si no tienes ninguno de los anteriores, se sugiere que tu biblioteca local conste de al menos 1000 canciones</li></ul>.",
+    "SUPER_SEARCH_WAIT": "Por favor, espere, esta búsqueda tardará hasta 20 segundos..."
   },
   "MY_MUSIC": {
     "UPDATE": "Actualizar",
@@ -238,7 +259,10 @@
     "UNINSTALLING_PLUGIN": "Desinstalación del complemento",
     "UNPACKING_PLUGIN": "Desempaquetado del complemento",
     "UPDATING_PLUGIN": "Actualización del complemento",
-    "UPDATING_PLUGIN_FILES": "Actualizar archivos del complemento"
+    "UPDATING_PLUGIN_FILES": "Actualizar archivos del complemento",
+    "CHECKING_DEPENDENCIES": "Comprobación de que el plugin es adecuado para esta versión de Volumio",
+    "PLUGIN_LOGIN_MESSAGE": "Para acceder a la tienda de plugins necesitas <a href=\"/myvolumio/signup\">iniciar sesión en MyVolumio</a>.",
+    "PLUGIN_LOGIN": "Inicie sesión"
   },
   "UPDATER": {
     "DOWNLOAD_SPEED": "Velocidad de descarga",
@@ -257,7 +281,8 @@
     "SUCCESSFULLY_UPDATED_TO_VERSION": "Actualizado correctamente a la versión",
     "SYSTEM_RESTART_IN": "Tu dispositivo se reiniciará en ",
     "SYSTEM_RESTART_REQUIRED": "Reinicia tu dispositivo",
-    "UPDATE": "Actualizar"
+    "UPDATE": "Actualizar",
+    "UPDATE_AVAILABLE": "Hay disponible una actualización de software"
   },
   "TRACK_MANAGER": {
     "PLAYING": "Reproduciendo",
@@ -275,7 +300,8 @@
     "CLEAR_QUEUE": "Limpiar la cola",
     "REPEAT_ALL": "Repetir todo",
     "REPEAT_SINGLE": "Repetir una vez",
-    "REPEAT_OFF": "No repetir"
+    "REPEAT_OFF": "No repetir",
+    "INFINITY_PLAY": "Juego infinito"
   },
   "NETWORKFS": {
     "NO_DRIVES_FOUND": "No se encontraron unidades de red",
@@ -412,7 +438,15 @@
     "CONGRATULATIONS": "Felicidades",
     "DEVICE_SUCCESSFULLY_CONFIGURED": "Se ha configurado y está listo para reproducir",
     "PLEASE_DONATE": "Si te gusta Volumio, considera donar. ¡Tú puedes marcar la diferencia para este proyecto!",
-    "RUN_FIRST_CONFIG_WIZARD": "Ejecuta el asistente de primera configuración"
+    "RUN_FIRST_CONFIG_WIZARD": "Ejecuta el asistente de primera configuración",
+    "LOGIN": "Inicio de sesión",
+    "STREAMINGSERVICES": "Fuentes musicales",
+    "SELECT_YOUR_TIMEZONE": "Seleccione su zona horaria",
+    "NO_NEED_DEVICE_CODE_MESSAGE": "Si ya ha introducido el código de su dispositivo, no es necesario volver a introducirlo.",
+    "SOFTWAREUPDATE": "Actualización del software",
+    "AUTOMATIC_SOFTWAREUPDATE": "Actualizaciones automáticas",
+    "AUTOMATIC_SOFTWAREUPDATE_DESC": "Su dispositivo se actualizará automáticamente cuando se publique un nuevo firmware",
+    "UPDATE_AVAILABLE": "Hay disponible una actualización de software"
   },
   "SLEEP": {
     "POWER_OFF": "Apagado",
@@ -452,7 +486,21 @@
     "ACTIVE_GROUP": "Grupo activo",
     "SYNCED_PLAYBACK_NOT_AVAILABLE": "La reproducción sincronizada no está disponible",
     "REMOVE_ALL_DEVICES": "Quitar todos los dispositivos",
-    "GROUP_DEVICES": "Agrupar dispositivos"
+    "GROUP_DEVICES": "Agrupar dispositivos",
+    "GROUP_LEADER": "Jefe de grupo",
+    "REMOTE_CONTROL_DEVICES": "Dispositivos de control remoto",
+    "ACTIVE_DEVICES": "Dispositivos activos",
+    "CAST_DEVICES": "Dispositivos de fundición",
+    "LOCAL_PLAYBACK": "Juega aquí",
+    "CONTINUE_PLAYING": "Juega aquí",
+    "LOCAL_PLAYBACK_ENABLED": "La reproducción local está activada",
+    "INPUTS": "Entradas",
+    "PRESETS": "Preajustes",
+    "GROUPING": "Agrupación",
+    "CAST": "Fundición",
+    "SWITCH_DEVICE": "Dispositivo de conmutación",
+    "NO_CAST_DEVICES": "No se han encontrado dispositivos de fundición",
+    "NO_GROUPABLE_DEVICES": "No se han encontrado dispositivos agrupables"
   },
   "SIDEMENU": {
     "ANALOG_INPUT": "Entrada analógica",
@@ -689,7 +737,18 @@
     "MYVOLUMIO_NOT_ENABLED_ON_DEVICE": "MyVolumio no está habilitado en este dispositivo",
     "PLAN_REQUIRED": "es necesario para utilizar esta funcionalidad",
     "UPGRADE_YOUR_PLAN_NOW": "Actualiza tu plan ahora",
-    "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio incluye soporte para servicios de streaming como TIDAL, QOBUZ y High Res Audio, así como muchos complementos adicionales. Para obtener acceso completo a ellos, deberás suscribirte a un plan MyVolumio. ¡Ves a www.myvolumio.org para empezar una prueba gratuita!"
+    "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio incluye soporte para servicios de streaming como TIDAL, QOBUZ y High Res Audio, así como muchos complementos adicionales. Para obtener acceso completo a ellos, deberás suscribirte a un plan MyVolumio. ¡Ves a www.myvolumio.org para empezar una prueba gratuita!",
+    "NO_THANKS_NOT_INTERESTED": "No, gracias, no me interesa",
+    "GO_PREMIUM": "Go Premium",
+    "SAVE": "Guardar",
+    "MANIFEST_UI_ACCESS": "Acceso a la interfaz de usuario del manifiesto",
+    "MANIFEST_UI_ACCESS_DESCRIPTION": "Esta interfaz de usuario requiere un plan premium de Volumio. Pulse OK para iniciar sesión o registrarse en myVolumio. Pulse Cancelar para salir de esta interfaz.",
+    "CONGRATULATIONS": "Enhorabuena",
+    "ACCESS_TO_FEATURES": "Ahora tiene acceso a todos los servicios Volumio Premium. Disfrute de su experiencia Premium.",
+    "MYVOLUMIO_WIZARD_NO_INTERNET": "No estás conectado a Internet en este momento, por favor inicia sesión en MiVolumio después para obtener la mejor experiencia Volumio.",
+    "MODAL_SUPERSEARCH_PREMIUM_TITLE": "Superbúsqueda textual",
+    "MODAL_SUPERSEARCH_PREMIUM_TEXT": "Búsqueda textual, reproducción infinita gracias a la Inteligencia Artificial",
+    "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "Inteligencia artificial reproducción infinita"
   },
   "MYVOLUMIO_PLANS": {
     "LATEST_NEWS": "Recibe nuestras Noticias de MyVolumio",
@@ -707,7 +766,23 @@
     "INPUT_PLAYBACK": "Reproducción de entradas digitales y analógicas",
     "BLUETOOTH_INPUT": "Entrada de reproducción de audio Bluetooth",
     "ALL_VIRTUOSO_FEATURES": "Todas las características de Virtuoso",
-    "MUSIC_METADATA": "Descubrimiento de créditos musicales y de artistas"
+    "MUSIC_METADATA": "Descubrimiento de créditos musicales y de artistas",
+    "ALL_FREE_FEATURES": "Todas las funciones gratuitas",
+    "MANIFEST_UI": "Manifiesto UI",
+    "MULTIROOM_PLAYBACK": "Reproducción multisala",
+    "FILES_PLAYBACK": "Reproducción de todos los tipos de archivos",
+    "WEBRADIOS_DIRECTORY": "Directorios integrados de Webradios",
+    "ALARM_AND_SLEEP_FUNCTION": "Función de alarma y sueño",
+    "PLUGINS_STORE": "Tienda de plugins",
+    "DLNA_UPNP_BROWSING": "Navegación DLNA UPNP",
+    "AIRPLAY_PLAYBACK": "Reproducción Airplay",
+    "UPNP_RENDERER_PLAYBACK": "Reproducción UPNP Renderer",
+    "CONTEMPORARY_UI": "Interfaz de usuario web",
+    "IOS_ANDROID_APP": "Aplicaciones para iOS y Android",
+    "NETWORK_STORAGE_SUPPORT": "Almacenamiento en red Navegación",
+    "OVER_THE_AIR_UPDATES": "Actualizaciones por aire",
+    "AI_SUPERSEARCH": "Búsqueda textual AI",
+    "AI_INFINITY_PLAYBACK": "Reproducción AI Infinity"
   },
   "APPEARANCE": {
     "ALBUMARTIST": "Artista del álbum",
@@ -750,7 +825,10 @@
     "WEB_ALBUMART_ENABLE": "Carátula del álbum web",
     "WEB_ALBUMART_ENABLE_DOC": "Habilita la recuperación de la carátula del álbum desde la Web, si no se encuentra ninguna imagen en la carpeta de archivos",
     "WEB_ALBUMART_SIZE": "Tamaño de la carátula del álbum web",
-    "WEB_ALBUMART_SIZE_DOC": "Selecciona el tamaño de la carátula del álbum descargada de la web: una mayor calidad requiere tiempos de carga más largos. Los valores más bajos pueden mejorar los tiempos de carga."
+    "WEB_ALBUMART_SIZE_DOC": "Selecciona el tamaño de la carátula del álbum descargada de la web: una mayor calidad requiere tiempos de carga más largos. Los valores más bajos pueden mejorar los tiempos de carga.",
+    "UI_CONFIG_SELECT_TIMEZONE": "Seleccione la zona horaria",
+    "UI_CONFIG_SELECT_TIMEZONE_DOC": "Seleccione la zona horaria de su sistema",
+    "USER_INTERFACE_MANIFEST": "Manifiesto"
   },
   "MAIN_MENU": {
     "ALARM": "Alarma",
@@ -928,7 +1006,13 @@
     "TURN_OFF_IN": "Apagar en",
     "UPDATE_ALREADY_LATEST_VERSION": "Ya tienes la última versión",
     "UPDATE_FAILED": "Actualización fallida",
-    "VIDEO_OUT_OPTIONS": "Opciones de salida de video"
+    "VIDEO_OUT_OPTIONS": "Opciones de salida de video",
+    "AUTOMATIC_UPDATES": "Actualizaciones automáticas",
+    "AUTOMATIC_UPDATES_DOC": "Active las actualizaciones automáticas. Asegúrese de que su zona horaria está correctamente configurada.",
+    "AUTOMATIC_UPDATES_START_TIME": "Hora de inicio de la ventana de actualización automática",
+    "AUTOMATIC_UPDATES_START_TIME_DOC": "Hora de inicio de la ventana de actualización automática",
+    "AUTOMATIC_UPDATES_STOP_TIME": "Hora de finalización de la ventana de actualización automática",
+    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Hora de finalización de la ventana de actualización automática"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Mejores radios",
@@ -1019,5 +1103,57 @@
     "QOBUZ_FREE_TRIAL": "Prueba gratis",
     "QOBUZ_FREE_TRIAL_DESC": "Consigue 1 mes de prueba gratuita de QOBUZ HIFI (valorado en 19,99 €)",
     "QOBUZ_LOGOUT_DESC": "Este dispositivo está conectado a QOBUZ. Puede desconectarlo haciendo clic en el botón Cerrar sesión."
+  },
+  "DEVICESETUP": {
+    "SETUP_NEW_DEVICE": "Configurar un nuevo dispositivo",
+    "INSTRUCTION_STEP_1": "Enciende el dispositivo",
+    "INSTRUCTION_STEP_2": "Opcionalmente conecte un cable ethernet",
+    "INSTRUCTION_STEP_3": "Espere 5 minutos a que se inicie el dispositivo",
+    "INSTRUCTION_STEP_4": "Conéctate a tu red inalámbrica preferida",
+    "CONNECTION_METHOD": "¿Cómo quieres conectar tu dispositivo a la red?",
+    "CONNECTION_WIRELESS": "Inalámbrico",
+    "CONNECTION_WIRED": "Cableado",
+    "DEVICE_ALREADY_SETUP": "El dispositivo ya está configurado. Buscando nuevo dispositivo",
+    "LOOKING_FOR_WIRELESS_DEVICES": "Buscando dispositivos inalámbricos",
+    "LOOKING_FOR_WIRED_DEVICES": "Buscando dispositivos con cable",
+    "CONNECTED_TO_WIRELESS": "Conectado a",
+    "CONNECTING_TO_WIRELESS": "Conexión a",
+    "DEVICE_CONNECTION_METHOD": "¿Cómo quieres conectar tu dispositivo a la red?",
+    "OR_SELECT_WIRELESS_NETWORK": "O selecciona una red inalámbrica",
+    "SELECT_WIRELESS_NETWORK": "Seleccione una red inalámbrica",
+    "DEVICE_FOUND": "Dispositivo encontrado",
+    "SKIP_WIFI": "Sólo conexión por cable",
+    "ENTER_WIFI_PASSWORD": "Introduzca la contraseña para",
+    "CHECKING_UPDATES": "Comprobando las actualizaciones...",
+    "WAIT_FEW_MINUTES": "Puede tardar unos minutos",
+    "WAIT_5_MINUTES": "Puede tardar hasta 5 minutos. Espere por favor",
+    "WAIT_30_SECONDS": "Puede tardar hasta 30 segundos. Espere por favor",
+    "REBOOTING_DEVICE": "Reinicio del dispositivo",
+    "UPDATING_DEVICE": "Actualizar el dispositivo al software más reciente",
+    "DEVICE_UP_TO_DATE": "Su dispositivo está actualizado",
+    "GRANT_PERMISSIONS": "Cuando se le solicite, conceda permisos para conectarse",
+    "DEFAULT_NETWORK": "Su red actual",
+    "OTHER_NETWORKS": "O selecciona otra red",
+    "ERROR_NO_WIRELESS_DEVICE_FOUND": "No pudimos encontrar un dispositivo inalámbrico",
+    "ERROR_NO_WIRELESS_DEVICE_FOUND_SUB": "Asegúrate de que el dispositivo está encendido e intenta acercarte a él. Si el problema persiste, conecte una conexión a Internet por cable a su dispositivo. Pulsa \"Reintentar\" para volver a intentarlo, o \"Configuración manual\" para iniciar una configuración manual, o \"Configuración por cable\" para iniciar la configuración por cable.",
+    "ERROR_WIRELESS_DEVICE_CONNECTION": "No se ha podido conectar al dispositivo inalámbrico",
+    "ERROR_WIRELESS_DEVICE_CONNECTION_SUB": "Por favor, inténtalo de nuevo, o prueba con una conexión por cable.",
+    "ERROR_NO_WIRED_DEVICES_FOUND": "No se han encontrado dispositivos con cable",
+    "ERROR_NO_WIRED_DEVICES_FOUND_SUB": "Asegúrate de que tu dispositivo está encendido y tiene conexión a Internet.",
+    "ERROR_COULD_NOT_CONNECT_TO_WIFI": "No se ha podido conectar el dispositivo a",
+    "ERROR_COULD_NOT_CONNECT_TO_WIFI_SUB": "Por favor, compruebe la contraseña introducida para su red inalámbrica o intente una conexión por cable.",
+    "ERROR_COULD_NOT_UPDATE": "No se ha podido actualizar el dispositivo",
+    "ERROR_COULD_NOT_UPDATE_SUB": "Actualice su dispositivo desde la interfaz de usuario",
+    "MANUAL_WIFI_SELECTION": "Configuración manual",
+    "WIRED_SETUP": "Configuración por cable",
+    "MANUAL_SETUP": "Configuración inalámbrica manual",
+    "MANUAL_SETUP_SUB": "Pulsa \"Seleccionar red manualmente\" para abrir tu lista wifi. Busca un dispositivo llamado \"Volumio-XXXXX\" y conéctate a él (sin contraseña). Una vez hecho esto, vuelve a la aplicación y pulsa \"Continuar\".",
+    "SELECT_NETWORK": "Seleccione una red"
+  },
+  "DEVICELIST": {
+    "SETUP_NEW_DEVICE": "Configurar un nuevo dispositivo",
+    "SELECT_A_DEVICE": "Seleccione un dispositivo",
+    "SEARCHING_DEVICES": "Búsqueda de dispositivos",
+    "BACK_BUTTON": "Pulsa atrás dos veces para seleccionar otro dispositivo"
   }
 }

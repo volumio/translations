@@ -144,7 +144,23 @@
     "CONNECT": "Csatlakozás",
     "PLEASE_WAIT": "Kérem várjon",
     "SEARCH_RESULTS_TITLE": "Keresési eredmények száma",
-    "SEARCH_RESULTS_DESC": "Kívánt keresési eredmények száma"
+    "SEARCH_RESULTS_DESC": "Kívánt keresési eredmények száma",
+    "REMOVE": "Távolítsa el a",
+    "DSP": "DSP",
+    "DISABLE": "A  letiltása",
+    "ACCEPT": "Elfogadom",
+    "DECLINE": "Hanyatlás",
+    "ACCEPT_OR_SHUTDOWN": "Kérjük, fogadja el a szolgáltatási feltételeket, vagy állítsa le a rendszerét.",
+    "RELATED": "Kapcsolódó",
+    "INSTANT_PLAY": "Szerencsésnek érzem magam",
+    "SUPER_SEARCH": "Szuper keresés",
+    "SUPER_SEARCH_EXAMPLE": "Példa: smooth jazz női hangokkal",
+    "ARTIST_NOT_FOUND_IN_YOUR_LIBRARY": "A könyvtárban nem található művész",
+    "ALBUM_NOT_FOUND_IN_YOUR_LIBRARY": "Nem található album a könyvtáradban",
+    "RETRY": "Próbálja újra",
+    "EXIT": "Kilépés",
+    "OPEN_DEVICE": "Menj az eszközhöz",
+    "PROGRESS": "Progress"
   },
   "BROWSER": {
     "PLAY": "Lejátszás",
@@ -180,7 +196,13 @@
     "NOT_FOUND": "Nem található",
     "ARTIST_STORY_NOT_FOUND_FOR": "Az Előadó története nem található",
     "SKIP_BACKWARDS": "Ugrás Hátrafelé",
-    "CREDITS_NOT_FOUND": "Kreditek nem találhatók"
+    "CREDITS_NOT_FOUND": "Kreditek nem találhatók",
+    "RELATED": "Ez is érdekelheti Önt",
+    "RELATED_ALBUMS": "Kapcsolódó albumok",
+    "RELATED_ARTISTS": "Kapcsolódó művészek",
+    "SUPER_SEARCH": "Volumio SuperSearch BETA",
+    "SUPER_SEARCH_INFO": "A SuperSearch egy keresési mód, amely lehetővé teszi, hogy a Volumio-tól ugyanúgy kérjen zenei javaslatokat, mint ahogyan egy barátjától vagy egy lemezbolt eladójától kérdezné. <br /><br />Egyszerűen írj be egy csevegésszerű kérdést arra vonatkozóan, hogy milyen zeneszámokat szeretnél hallani, és a Volumio előkeresi neked a megfelelő zeneszámokat a könyvtáradból. <br /><br /> Néhány példa a lekérdezésekre: <br /><br /> <ul><li>Lágy jazz női hangokkal</li><li>Olasz indie rock </li><li>New wave dobokkal és szintetizátorral</li></ul><br /><br /><br />A kérdést vagy az Ön nyelvén, vagy angolul is megteheti. Az angol általában pontosabb eredményeket ad.<br /> <br />Az automatikus lejátszás engedélyezésével a keresés befejezése után a megfelelő zeneszámok lejátszásra kerülnek<br /> <br /> <br />Megjegyzések: <br /><br /><ul><li>Azért, hogy a lehető legtöbbet hozd ki a SuperSearchből, legalább egy streaming szolgáltatásnak csatlakoztatva kell lennie, mint például a TIDAL, QOBUZ vagy Spotify</li><li>Ha a fentiek közül egyik sem áll rendelkezésedre, akkor javasolt, hogy a helyi könyvtárad legalább 1000 zeneszámból álljon</li></ul>.",
+    "SUPER_SEARCH_WAIT": "Kérjük, várjon, a keresés legfeljebb 20 másodpercet vesz igénybe..."
   },
   "MY_MUSIC": {
     "UPDATE": "Frissítés",
@@ -237,7 +259,10 @@
     "UNINSTALLING_PLUGIN": "Beépülő eltávolítása",
     "UNPACKING_PLUGIN": "Beépülő kicsomagolása",
     "UPDATING_PLUGIN": "Beépülő frissítése",
-    "UPDATING_PLUGIN_FILES": "Beépülő fájlok frissítése"
+    "UPDATING_PLUGIN_FILES": "Beépülő fájlok frissítése",
+    "CHECKING_DEPENDENCIES": "Annak ellenőrzése, hogy a plugin alkalmas-e a Volumio adott verziójához",
+    "PLUGIN_LOGIN_MESSAGE": "A bővítménytárhoz való hozzáféréshez <a href=\"/myvolumio/signup\">be kell jelentkeznie a MyVolumio rendszerbe</a>.",
+    "PLUGIN_LOGIN": "Kérjük, jelentkezzen be"
   },
   "UPDATER": {
     "DOWNLOAD_SPEED": "Vissza a beépülőkhöz",
@@ -256,7 +281,8 @@
     "SUCCESSFULLY_UPDATED_TO_VERSION": "Sikeres frissítés a következő verzióra",
     "SYSTEM_RESTART_IN": "Az eszköz újraindul ... ",
     "SYSTEM_RESTART_REQUIRED": "Indítsa újra a készüléket",
-    "UPDATE": "Frissítés"
+    "UPDATE": "Frissítés",
+    "UPDATE_AVAILABLE": "Szoftverfrissítés elérhető"
   },
   "TRACK_MANAGER": {
     "PLAYING": "Lejátszás",
@@ -274,7 +300,8 @@
     "CLEAR_QUEUE": "Lejátszási sor ürítése",
     "REPEAT_ALL": "Ismételd meg mind",
     "REPEAT_SINGLE": "Ismételd meg",
-    "REPEAT_OFF": "Ismételés kikapcsolva"
+    "REPEAT_OFF": "Ismételés kikapcsolva",
+    "INFINITY_PLAY": "Infinity játék"
   },
   "NETWORKFS": {
     "NO_DRIVES_FOUND": "Nem található hálózati meghajtó",
@@ -611,7 +638,18 @@
     "MYVOLUMIO_NOT_ENABLED_ON_DEVICE": "A MyVolumio szolgáltatás nincs engedélyezve ezen a készüléken",
     "PLAN_REQUIRED": "előfizetés szükséges ennek a funkciónak a használatához",
     "UPGRADE_YOUR_PLAN_NOW": "Frissítse most az előfizetését",
-    "PLEASE_ENABLE_MY_VOLUMIO": "A MyVolumio lehetővé teszi a TIDAL, a QOBUZ és a High Res Audio zenei stream szolgáltatások és más bővítmények használatát. Az előbbi szolgáltatások eléréséhez menjen a www.myvolumio.org honlapra, válasszon egy előfizetési tervet és aktiválja az ingyenes próbaverziót !"
+    "PLEASE_ENABLE_MY_VOLUMIO": "A MyVolumio lehetővé teszi a TIDAL, a QOBUZ és a High Res Audio zenei stream szolgáltatások és más bővítmények használatát. Az előbbi szolgáltatások eléréséhez menjen a www.myvolumio.org honlapra, válasszon egy előfizetési tervet és aktiválja az ingyenes próbaverziót !",
+    "NO_THANKS_NOT_INTERESTED": "Nem, köszönöm, nem érdekel",
+    "GO_PREMIUM": "Go Premium",
+    "SAVE": "Mentés",
+    "MANIFEST_UI_ACCESS": "Manifest UI hozzáférés",
+    "MANIFEST_UI_ACCESS_DESCRIPTION": "Ehhez a felhasználói felülethez Volumio prémium csomag szükséges. Nyomja meg az OK gombot a bejelentkezéshez vagy a myVolumio regisztrációhoz. Nyomja meg a törlés gombot a felhasználói felület elhagyásához.",
+    "CONGRATULATIONS": "Gratulálunk",
+    "ACCESS_TO_FEATURES": "Mostantól hozzáférhet az összes Volumio Premium szolgáltatáshoz. Élvezze a prémium élményt.",
+    "MYVOLUMIO_WIZARD_NO_INTERNET": "Jelenleg nincs internetkapcsolata, kérjük, jelentkezzen be a MyVolumio rendszerbe, hogy a legjobb Volumio-élményt élvezhesse.",
+    "MODAL_SUPERSEARCH_PREMIUM_TITLE": "Szuperkeresés szöveges keresés",
+    "MODAL_SUPERSEARCH_PREMIUM_TEXT": "Szöveges keresés, végtelenített lejátszás mesterséges intelligenciával",
+    "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "Mesterséges intelligencia végtelen lejátszás"
   },
   "WIZARD": {
     "LANGUAGE": "Nyelv",
@@ -653,7 +691,15 @@
     "CONGRATULATIONS": "Gratulálunk",
     "DEVICE_SUCCESSFULLY_CONFIGURED": "konfigurálva van és készen áll a lejátszásra",
     "PLEASE_DONATE": "Ha tetszik a Volumio, kérjük, fontoljad meg az adományozást. Ezzel megváltoztathatja ezt a projektet!",
-    "RUN_FIRST_CONFIG_WIZARD": "Az első konfigurációs varázsló futtatása"
+    "RUN_FIRST_CONFIG_WIZARD": "Az első konfigurációs varázsló futtatása",
+    "LOGIN": "Bejelentkezés",
+    "STREAMINGSERVICES": "Zenei források",
+    "SELECT_YOUR_TIMEZONE": "Válassza ki az időzónát",
+    "NO_NEED_DEVICE_CODE_MESSAGE": "Ha már megadta a készülék kódját, nem szükséges újra megadni.",
+    "SOFTWAREUPDATE": "Szoftverfrissítés",
+    "AUTOMATIC_SOFTWAREUPDATE": "Automatikus frissítések",
+    "AUTOMATIC_SOFTWAREUPDATE_DESC": "A készülék automatikusan frissül, amikor új firmware jelenik meg.",
+    "UPDATE_AVAILABLE": "Szoftverfrissítés elérhető"
   },
   "MULTIDEVICE": {
     "EDIT_GROUPS": "Csoportok szerkesztése",
@@ -663,7 +709,28 @@
     "NOW_PLAYING": "Lejátszás alatt",
     "PLAYBACK_ZONES": "Lejátszási zónák",
     "ZONES": "Zónák",
-    "AUDIO_OUTPUTS_AND_ZONES": "Audio kimenetek és zónák"
+    "AUDIO_OUTPUTS_AND_ZONES": "Audio kimenetek és zónák",
+    "ZONES_AND_OUTPUTS": "Zónák és kimenetek",
+    "GROUP_DEVICES": "Csoportos eszközök",
+    "THIS_DEVICE": "Ez a készülék",
+    "ACTIVE_GROUP": "Aktív csoport",
+    "REMOVE_ALL_DEVICES": "Távolítson el minden eszközt",
+    "AVAILABLE_DEVICES": "Elérhető eszközök",
+    "SYNCED_PLAYBACK_NOT_AVAILABLE": "Szinkronizált lejátszás nem elérhető",
+    "GROUP_LEADER": "Csoportvezető",
+    "REMOTE_CONTROL_DEVICES": "Távvezérlő eszközök",
+    "ACTIVE_DEVICES": "Aktív eszközök",
+    "CAST_DEVICES": "Öntött eszközök",
+    "LOCAL_PLAYBACK": "Játssz itt",
+    "CONTINUE_PLAYING": "Játssz itt",
+    "LOCAL_PLAYBACK_ENABLED": "A helyi lejátszás engedélyezve",
+    "INPUTS": "Bemenetek",
+    "PRESETS": "Előbeállítások",
+    "GROUPING": "Csoportosítás",
+    "CAST": "Cast",
+    "SWITCH_DEVICE": "Kapcsoló eszköz",
+    "NO_CAST_DEVICES": "Nem találtak öntött eszközöket",
+    "NO_GROUPABLE_DEVICES": "Nem találtak csoportosítható eszközöket"
   },
   "SIDEMENU": {
     "ANALOG_INPUT": "Analóg Bemenet",
@@ -685,7 +752,23 @@
     "INPUT_PLAYBACK": "Digitális és analóg bemenetek",
     "BLUETOOTH_INPUT": "Bluetooth audio lejátszás bemenet",
     "ALL_VIRTUOSO_FEATURES": "Minden Virtuoso funkciók",
-    "MUSIC_METADATA": "Zene és művészek kredit Felfedezése"
+    "MUSIC_METADATA": "Zene és művészek kredit Felfedezése",
+    "ALL_FREE_FEATURES": "Minden ingyenes funkció",
+    "MANIFEST_UI": "Manifest UI",
+    "MULTIROOM_PLAYBACK": "Többszobás lejátszás",
+    "FILES_PLAYBACK": "Minden fájltípus lejátszása",
+    "WEBRADIOS_DIRECTORY": "Integrált webrádiók címtárak",
+    "ALARM_AND_SLEEP_FUNCTION": "Ébresztő és alvás funkció",
+    "PLUGINS_STORE": "Plugins tároló",
+    "DLNA_UPNP_BROWSING": "DLNA UPNP böngészés",
+    "AIRPLAY_PLAYBACK": "Airplay lejátszás",
+    "UPNP_RENDERER_PLAYBACK": "UPNP Renderer lejátszás",
+    "CONTEMPORARY_UI": "Webes felhasználói felület",
+    "IOS_ANDROID_APP": "iOS és Android alkalmazások",
+    "NETWORK_STORAGE_SUPPORT": "Hálózati tároló böngészése",
+    "OVER_THE_AIR_UPDATES": "Over The Air frissítések",
+    "AI_SUPERSEARCH": "AI szöveges keresés",
+    "AI_INFINITY_PLAYBACK": "AI Infinity lejátszás"
   },
   "ALARM": {
     "CRATE_PLAYLIST_FIRST": "Az Ébresztő használatához először létre kell hoznia legalább egy lejátszási listát",
@@ -742,7 +825,10 @@
     "WEB_ALBUMART_ENABLE": "Webalbum képe",
     "WEB_ALBUMART_ENABLE_DOC": "Engedélyezi az albumborító letöltését az internetről, ha nem található az album mappájában",
     "WEB_ALBUMART_SIZE": "Internetes Albumborító mérete",
-    "WEB_ALBUMART_SIZE_DOC": "Válassza ki az internetről letöltendő albumborító méretét. A magasabb minőség hoszabb betöltési idővel jár."
+    "WEB_ALBUMART_SIZE_DOC": "Válassza ki az internetről letöltendő albumborító méretét. A magasabb minőség hoszabb betöltési idővel jár.",
+    "UI_CONFIG_SELECT_TIMEZONE": "Időzóna kiválasztása",
+    "UI_CONFIG_SELECT_TIMEZONE_DOC": "Válassza ki a rendszer időzónáját",
+    "USER_INTERFACE_MANIFEST": "Manifest"
   },
   "MAIN_MENU": {
     "ALARM": "Ébresztő",
@@ -920,7 +1006,13 @@
     "TURN_OFF_IN": "Kapcsolja be",
     "UPDATE_ALREADY_LATEST_VERSION": "Már a legújabb verziót használja",
     "UPDATE_FAILED": "Sikertelen Frissítés",
-    "VIDEO_OUT_OPTIONS": "Video kimeneti lehetőségek"
+    "VIDEO_OUT_OPTIONS": "Video kimeneti lehetőségek",
+    "AUTOMATIC_UPDATES": "Automatikus frissítések",
+    "AUTOMATIC_UPDATES_DOC": "Automatikus frissítések engedélyezése. Kérjük, győződjön meg arról, hogy az időzóna helyesen van-e beállítva.",
+    "AUTOMATIC_UPDATES_START_TIME": "Automatikus frissítési ablak kezdési időpontja",
+    "AUTOMATIC_UPDATES_START_TIME_DOC": "Automatikus frissítési ablak kezdési időpontja",
+    "AUTOMATIC_UPDATES_STOP_TIME": "Az automatikus frissítési ablak végének időpontja",
+    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Az automatikus frissítési ablak végének időpontja"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Legjobb rádiók",
@@ -1011,5 +1103,57 @@
     "SECTION_QOBUZ_ACCOUNT": "QUBUZ",
     "QOBUZ_CONNECT_DESC": "Hozzáférés a QOBUZ zenéihez a Volumio-ban.",
     "QOBUZ_LOGOUT_DESC": "Ez az eszköz csatlakozik a QOBUZ-hoz. A kijelentkezéshez kattintson a Kijelentkezés gombra."
+  },
+  "DEVICESETUP": {
+    "SETUP_NEW_DEVICE": "Új eszköz konfigurálása",
+    "INSTRUCTION_STEP_1": "Kapcsolja be a készüléket",
+    "INSTRUCTION_STEP_2": "Opcionálisan csatlakoztasson egy ethernet-kábelt",
+    "INSTRUCTION_STEP_3": "Várjon 5 percet, amíg a készülék elindul",
+    "INSTRUCTION_STEP_4": "Csatlakozás a kívánt vezeték nélküli hálózathoz",
+    "CONNECTION_METHOD": "Hogyan szeretné csatlakoztatni készülékét a hálózatához?",
+    "CONNECTION_WIRELESS": "Vezeték nélküli",
+    "CONNECTION_WIRED": "Wired",
+    "DEVICE_ALREADY_SETUP": "A készülék már be van konfigurálva. Új eszköz keresése",
+    "LOOKING_FOR_WIRELESS_DEVICES": "Vezeték nélküli eszközök keresése",
+    "LOOKING_FOR_WIRED_DEVICES": "Vezetékes eszközök keresése",
+    "CONNECTED_TO_WIRELESS": "Csatlakoztatva",
+    "CONNECTING_TO_WIRELESS": "Csatlakozás a",
+    "DEVICE_CONNECTION_METHOD": "Hogyan szeretné csatlakoztatni a készüléket a hálózathoz?",
+    "OR_SELECT_WIRELESS_NETWORK": "Vagy válasszon ki egy vezeték nélküli hálózatot",
+    "SELECT_WIRELESS_NETWORK": "Vezeték nélküli hálózat kiválasztása",
+    "DEVICE_FOUND": "Eszköz található",
+    "SKIP_WIFI": "Csak vezetékes kapcsolat",
+    "ENTER_WIFI_PASSWORD": "Adja meg a jelszót a",
+    "CHECKING_UPDATES": "Frissítéseket keresek...",
+    "WAIT_FEW_MINUTES": "Ez néhány percet vehet igénybe",
+    "WAIT_5_MINUTES": "Ez akár 5 percet is igénybe vehet. Kérjük, várjon",
+    "WAIT_30_SECONDS": "Ez akár 30 másodpercig is eltarthat. Kérjük, várjon",
+    "REBOOTING_DEVICE": "A készülék újraindítása",
+    "UPDATING_DEVICE": "A készülék frissítése a legújabb szoftverre",
+    "DEVICE_UP_TO_DATE": "A készülék naprakész",
+    "GRANT_PERMISSIONS": "Ha a rendszer kéri, adja meg a csatlakozási engedélyeket.",
+    "DEFAULT_NETWORK": "Az Ön jelenlegi hálózata",
+    "OTHER_NETWORKS": "Vagy válasszon másik hálózatot",
+    "ERROR_NO_WIRELESS_DEVICE_FOUND": "Nem találtunk vezeték nélküli eszközt",
+    "ERROR_NO_WIRELESS_DEVICE_FOUND_SUB": "Győződjön meg róla, hogy a készülék be van kapcsolva, és próbáljon meg közelebb állni a készülékhez. Ha a probléma továbbra is fennáll, csatlakoztasson vezetékes internetkapcsolatot a készülékhez. Nyomja meg a \"Retry\" gombot az újbóli próbálkozáshoz, vagy a \"Manual setup\" gombot a kézi beállítás elindításához, vagy a \"Wired setup\" gombot a vezetékes beállítás elindításához.",
+    "ERROR_WIRELESS_DEVICE_CONNECTION": "Nem tudott csatlakozni a vezeték nélküli eszközhöz",
+    "ERROR_WIRELESS_DEVICE_CONNECTION_SUB": "Kérjük, próbálja meg újra, vagy próbálkozzon vezetékes kapcsolattal.",
+    "ERROR_NO_WIRED_DEVICES_FOUND": "Nem találtunk vezetékes eszközt",
+    "ERROR_NO_WIRED_DEVICES_FOUND_SUB": "Győződjön meg róla, hogy a készülék áramellátással és internetkapcsolattal rendelkezik.",
+    "ERROR_COULD_NOT_CONNECT_TO_WIFI": "Nem sikerült csatlakoztatni az eszközt a",
+    "ERROR_COULD_NOT_CONNECT_TO_WIFI_SUB": "Kérjük, ellenőrizze a vezeték nélküli hálózat jelszavát, vagy próbálkozzon vezetékes kapcsolattal.",
+    "ERROR_COULD_NOT_UPDATE": "A készüléket nem lehetett frissíteni",
+    "ERROR_COULD_NOT_UPDATE_SUB": "Kérjük, frissítse készülékét a felhasználói felületről",
+    "MANUAL_WIFI_SELECTION": "Kézi beállítás",
+    "WIRED_SETUP": "Vezetékes beállítás",
+    "MANUAL_SETUP": "Kézi vezeték nélküli beállítás",
+    "MANUAL_SETUP_SUB": "Nyomja meg a \"Hálózat kézi kiválasztása\" gombot a wifi lista megnyitásához. Keressen egy \"Volumio-XXXXX\" nevű eszközt, és csatlakozzon hozzá (jelszó nélkül). Ha ez megtörtént, menjen vissza az alkalmazásba, és nyomja meg a \"Folytatás\" gombot.",
+    "SELECT_NETWORK": "Hálózat kiválasztása"
+  },
+  "DEVICELIST": {
+    "SETUP_NEW_DEVICE": "Új eszköz konfigurálása",
+    "SELECT_A_DEVICE": "Válasszon ki egy eszközt",
+    "SEARCHING_DEVICES": "Eszközök keresése",
+    "BACK_BUTTON": "Nyomja meg kétszer a vissza gombot egy másik eszköz kiválasztásához"
   }
 }

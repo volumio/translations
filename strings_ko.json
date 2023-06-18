@@ -144,7 +144,23 @@
     "CONNECT": "연결",
     "PLEASE_WAIT": "잠시 기다리세요",
     "SEARCH_RESULTS_TITLE": "검색 결과 수",
-    "SEARCH_RESULTS_DESC": "원하는 검색 결과 수"
+    "SEARCH_RESULTS_DESC": "원하는 검색 결과 수",
+    "REMOVE": "제거",
+    "DSP": "DSP",
+    "DISABLE": "비활성화",
+    "ACCEPT": "동의",
+    "DECLINE": "거절",
+    "ACCEPT_OR_SHUTDOWN": "서비스 약관에 동의하거나 시스템을 종료하세요.",
+    "RELATED": "관련",
+    "INSTANT_PLAY": "운이 좋은 것 같아요",
+    "SUPER_SEARCH": "슈퍼 검색",
+    "SUPER_SEARCH_EXAMPLE": "예: 여성 목소리가 포함된 부드러운 재즈 음악",
+    "ARTIST_NOT_FOUND_IN_YOUR_LIBRARY": "라이브러리에서 아티스트를 찾을 수 없습니다.",
+    "ALBUM_NOT_FOUND_IN_YOUR_LIBRARY": "라이브러리에서 앨범을 찾을 수 없음",
+    "RETRY": "다시 시도",
+    "EXIT": "종료",
+    "OPEN_DEVICE": "디바이스로 이동",
+    "PROGRESS": "진행 상황"
   },
   "BROWSER": {
     "PLAY": "재생",
@@ -180,7 +196,13 @@
     "ARTIST_STORY_NOT_FOUND_FOR": "아티스트 스토리를 찾을 수 없음",
     "SAFE_REMOVE": "미디어 안전 제거",
     "ALBUM_CREDITS": "앨범 크레딧",
-    "CREDITS_NOT_FOUND": "크레딧 찾을 수 없음"
+    "CREDITS_NOT_FOUND": "크레딧 찾을 수 없음",
+    "RELATED": "다음 항목도 참고하세요.",
+    "RELATED_ALBUMS": "관련 앨범",
+    "RELATED_ARTISTS": "관련 아티스트",
+    "SUPER_SEARCH": "볼류미오 슈퍼서치 베타",
+    "SUPER_SEARCH_INFO": "SuperSearch는 친구나 레코드 가게 점원에게 물어보는 것과 같은 방식으로 Volumio에 음악 추천을 요청할 수 있는 검색 모드입니다. <br />듣고 싶은 트랙의 종류에 대해 채팅과 같은 질문을 입력하기만 하면 Volumio가 라이브러리에서 해당 트랙을 검색해 줍니다. <br /><br /> 몇 가지 질문의 예입니다: <ul><li>여성 보컬이 있는 부드러운 재즈</li><li>이탈리아 인디 록 </li><li>드럼과 신디사이저가 있는 뉴 웨이브</li></ul><br /><br />귀하의 언어로 질문하거나 영어로 질문할 수 있습니다. 영어가 더 정확한 결과를 제공하는 경향이 있습니다.<br /> <br />자동 재생을 활성화하면 검색이 완료되면 일치하는 트랙이 재생됩니다<br /> <br />주석: <br /> <br />수퍼검색을 최대한 활용하려면 TIDAL, QOBUZ 또는 Spotify와 같은 스트리밍 서비스가 하나 이상 연결되어 있어야 합니다</li><li>위와 같은 서비스가 없는 경우 로컬 라이브러리가 최소 1000개 이상의 트랙으로 구성되어 있는 것이 좋습니다</li></ul>",
+    "SUPER_SEARCH_WAIT": "잠시만요, 이 검색에는 최대 20초가 소요됩니다..."
   },
   "MY_MUSIC": {
     "UPDATE": "업데이트",
@@ -237,7 +259,10 @@
     "UNINSTALLING_PLUGIN": "플러그인 제거 중",
     "UNPACKING_PLUGIN": "플러그인 푸는 중",
     "UPDATING_PLUGIN": "플러그인 업데이트중",
-    "UPDATING_PLUGIN_FILES": "플러그인 파일 업데이트 중"
+    "UPDATING_PLUGIN_FILES": "플러그인 파일 업데이트 중",
+    "CHECKING_DEPENDENCIES": "플러그인이 이 버전의 Volumio에 적합한지 확인합니다.",
+    "PLUGIN_LOGIN_MESSAGE": "플러그인 스토어에 액세스하려면 <a href=\"/myvolumio/signup\">MyVolumio에 로그인</a>해야 합니다.",
+    "PLUGIN_LOGIN": "로그인하세요"
   },
   "UPDATER": {
     "DOWNLOAD_SPEED": "다운로드 속도",
@@ -256,7 +281,8 @@
     "SUCCESSFULLY_UPDATED_TO_VERSION": "다음 버전으로 업데이트 완료",
     "SYSTEM_RESTART_IN": "다음 시간 후 자동 재시작합니다 : ",
     "SYSTEM_RESTART_REQUIRED": "장치를 재시작하세요",
-    "UPDATE": "업데이트"
+    "UPDATE": "업데이트",
+    "UPDATE_AVAILABLE": "소프트웨어 업데이트를 사용할 수 있습니다."
   },
   "TRACK_MANAGER": {
     "PLAYING": "재생중",
@@ -274,7 +300,8 @@
     "CLEAR_QUEUE": "재생 목록 초기화",
     "REPEAT_SINGLE": "한 곡 반복",
     "REPEAT_OFF": "반복 끔",
-    "REPEAT_ALL": "모두 반복"
+    "REPEAT_ALL": "모두 반복",
+    "INFINITY_PLAY": "무한 놀이"
   },
   "NETWORKFS": {
     "NO_DRIVES_FOUND": "네트웍 드라이버가 발견되지 않았습니다",
@@ -402,7 +429,28 @@
     "NOW_PLAYING": "재생중",
     "PLAYBACK_ZONES": "플레이백 존",
     "ZONES": "존",
-    "AUDIO_OUTPUTS_AND_ZONES": "오디오 출력과 존"
+    "AUDIO_OUTPUTS_AND_ZONES": "오디오 출력과 존",
+    "ZONES_AND_OUTPUTS": "구역 및 출력",
+    "GROUP_DEVICES": "그룹 장치",
+    "THIS_DEVICE": "이 장치",
+    "ACTIVE_GROUP": "활성 그룹",
+    "REMOVE_ALL_DEVICES": "모든 장치 제거",
+    "AVAILABLE_DEVICES": "사용 가능한 장치",
+    "SYNCED_PLAYBACK_NOT_AVAILABLE": "동기화된 재생을 사용할 수 없습니다.",
+    "GROUP_LEADER": "그룹 리더",
+    "REMOTE_CONTROL_DEVICES": "원격 제어 장치",
+    "ACTIVE_DEVICES": "활성 장치",
+    "CAST_DEVICES": "캐스트 장치",
+    "LOCAL_PLAYBACK": "여기에서 플레이",
+    "CONTINUE_PLAYING": "여기에서 플레이",
+    "LOCAL_PLAYBACK_ENABLED": "로컬 재생이 활성화됨",
+    "INPUTS": "입력",
+    "PRESETS": "사전 설정",
+    "GROUPING": "그룹화",
+    "CAST": "캐스트",
+    "SWITCH_DEVICE": "장치 전환",
+    "NO_CAST_DEVICES": "캐스트 장치를 찾을 수 없습니다.",
+    "NO_GROUPABLE_DEVICES": "그룹화할 수 있는 장치를 찾을 수 없습니다."
   },
   "WIZARD": {
     "LANGUAGE": "언어",
@@ -444,7 +492,15 @@
     "CONGRATULATIONS": "축하합니다",
     "DEVICE_SUCCESSFULLY_CONFIGURED": "장치가 잘 설정되고 플레이 준비가 완료되었습니다",
     "PLEASE_DONATE": "볼류미오가 쓸모 있으면 기부금을 생각해보세요. 당신의 기부금은 이 프로젝트를 유지시킵니다!",
-    "RUN_FIRST_CONFIG_WIZARD": "초기 설정 마법사 실행"
+    "RUN_FIRST_CONFIG_WIZARD": "초기 설정 마법사 실행",
+    "LOGIN": "로그인",
+    "STREAMINGSERVICES": "음악 소스",
+    "SELECT_YOUR_TIMEZONE": "시간대 선택",
+    "NO_NEED_DEVICE_CODE_MESSAGE": "이미 디바이스 코드를 입력한 경우 다시 입력할 필요가 없습니다.",
+    "SOFTWAREUPDATE": "소프트웨어 업데이트",
+    "AUTOMATIC_SOFTWAREUPDATE": "자동 업데이트",
+    "AUTOMATIC_SOFTWAREUPDATE_DESC": "새 펌웨어가 출시되면 장치가 자동으로 업데이트됩니다.",
+    "UPDATE_AVAILABLE": "소프트웨어 업데이트를 사용할 수 있습니다."
   },
   "SIDEMENU": {
     "ANALOG_INPUT": "아날로그 입력",
@@ -681,7 +737,18 @@
     "MYVOLUMIO_NOT_ENABLED_ON_DEVICE": "이 장치에서 MyVolumio가 켜 있지 않습니다",
     "PLAN_REQUIRED": "요금제에 가입해야 이 기능을 사용할 수 있습니다",
     "UPGRADE_YOUR_PLAN_NOW": "요금제를 상향 조정하세요",
-    "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio는 TIDAL, QOBUZ 및 High Res Audio를 비롯해서 여러 추가의 플러그인을 포함합니다. 그 플러그인을 완전히 액세스하려면 MyVolumio 플랜에 가입하면 됩니다. http://www.myvolumio.org에서 무료 시험을 해보세요!"
+    "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio는 TIDAL, QOBUZ 및 High Res Audio를 비롯해서 여러 추가의 플러그인을 포함합니다. 그 플러그인을 완전히 액세스하려면 MyVolumio 플랜에 가입하면 됩니다. http://www.myvolumio.org에서 무료 시험을 해보세요!",
+    "NO_THANKS_NOT_INTERESTED": "아니요, 관심 없습니다",
+    "GO_PREMIUM": "프리미엄으로 이동",
+    "SAVE": "저장",
+    "MANIFEST_UI_ACCESS": "매니페스트 UI 액세스",
+    "MANIFEST_UI_ACCESS_DESCRIPTION": "이 UI를 사용하려면 볼루미오 프리미엄 플랜이 필요합니다. 확인을 눌러 myVolumio에 로그인하거나 등록합니다. 이 UI를 종료하려면 취소를 누르세요.",
+    "CONGRATULATIONS": "축하합니다",
+    "ACCESS_TO_FEATURES": "이제 모든 볼류미오 프리미엄 서비스를 이용할 수 있습니다. 프리미엄 경험을 즐기세요.",
+    "MYVOLUMIO_WIZARD_NO_INTERNET": "현재 인터넷에 연결되어 있지 않으므로 나중에 MyVolumio에 로그인하여 최상의 Volumio 경험을 얻으십시오.",
+    "MODAL_SUPERSEARCH_PREMIUM_TITLE": "슈퍼서치 텍스트 검색",
+    "MODAL_SUPERSEARCH_PREMIUM_TEXT": "인공 지능으로 구동되는 텍스트 검색, 무한 재생",
+    "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "인공 지능 무한 재생"
   },
   "MYVOLUMIO_PLANS": {
     "LATEST_NEWS": "MyVolumio 뉴스 피드를 수신합니다",
@@ -699,7 +766,23 @@
     "ALL_VIRTUOSO_FEATURES": "Virtuoso 모든 기능",
     "REMOTE_CONNECTION_1_DEVICE": "1개의 장치에 원격 연결",
     "REMOTE_CONNECTION_6_DEVICES": "최대 6개의 장치까지 원격 연결",
-    "MUSIC_METADATA": "음악과 아티스트 크레딧 확인"
+    "MUSIC_METADATA": "음악과 아티스트 크레딧 확인",
+    "ALL_FREE_FEATURES": "모든 무료 기능",
+    "MANIFEST_UI": "매니페스트 UI",
+    "MULTIROOM_PLAYBACK": "멀티룸 재생",
+    "FILES_PLAYBACK": "모든 파일 형식 재생",
+    "WEBRADIOS_DIRECTORY": "통합 웹라디오 디렉토리",
+    "ALARM_AND_SLEEP_FUNCTION": "알람 및 절전 기능",
+    "PLUGINS_STORE": "플러그인 스토어",
+    "DLNA_UPNP_BROWSING": "DLNA UPnP 브라우징",
+    "AIRPLAY_PLAYBACK": "에어플레이 재생",
+    "UPNP_RENDERER_PLAYBACK": "UPNP 렌더러 재생",
+    "CONTEMPORARY_UI": "웹 사용자 인터페이스",
+    "IOS_ANDROID_APP": "iOS 및 Android 앱",
+    "NETWORK_STORAGE_SUPPORT": "네트워크 스토리지 브라우징",
+    "OVER_THE_AIR_UPDATES": "무선 업데이트",
+    "AI_SUPERSEARCH": "AI 텍스트 검색",
+    "AI_INFINITY_PLAYBACK": "AI 무한 재생"
   },
   "APPEARANCE": {
     "ALBUMARTIST": "앨범 목록",
@@ -742,7 +825,10 @@
     "WEB_ALBUMART_ENABLE": "인터넷 앨범아트",
     "WEB_ALBUMART_ENABLE_DOC": "폴더내에 이미지가 없는 경우 인터넷에서 앨범아트를 다운로드 받습니다",
     "WEB_ALBUMART_SIZE": "인터넷 앨범아트 크기",
-    "WEB_ALBUMART_SIZE_DOC": "인터넷을 통해서 다운로드 받을 앨범아트 크기: 고화질 일 수록 로딩 시간이 길고, 저화질일 수록 로딩 시간이 향상됩니다."
+    "WEB_ALBUMART_SIZE_DOC": "인터넷을 통해서 다운로드 받을 앨범아트 크기: 고화질 일 수록 로딩 시간이 길고, 저화질일 수록 로딩 시간이 향상됩니다.",
+    "UI_CONFIG_SELECT_TIMEZONE": "표준 시간대 선택",
+    "UI_CONFIG_SELECT_TIMEZONE_DOC": "시스템의 표준 시간대 선택",
+    "USER_INTERFACE_MANIFEST": "매니페스트"
   },
   "MAIN_MENU": {
     "ALARM": "알람",
@@ -920,7 +1006,13 @@
     "TURN_OFF_IN": "종료까지 남은 시간",
     "UPDATE_ALREADY_LATEST_VERSION": "최신 버전입니다",
     "UPDATE_FAILED": "업데이트 실패",
-    "VIDEO_OUT_OPTIONS": "비디오 출력 옵션"
+    "VIDEO_OUT_OPTIONS": "비디오 출력 옵션",
+    "AUTOMATIC_UPDATES": "자동 업데이트",
+    "AUTOMATIC_UPDATES_DOC": "자동 업데이트를 활성화합니다. 표준 시간대가 올바르게 설정되어 있는지 확인하세요.",
+    "AUTOMATIC_UPDATES_START_TIME": "자동 업데이트 창 시작 시간",
+    "AUTOMATIC_UPDATES_START_TIME_DOC": "자동 업데이트 창 시작 시간",
+    "AUTOMATIC_UPDATES_STOP_TIME": "자동 업데이트 창 종료 시간",
+    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "자동 업데이트 창 종료 시간"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "베스트 라디오",
@@ -1011,5 +1103,57 @@
     "QOBUZ_LOGOUT_DESC": "이 장치는 QOBUZ에 연결되어 있습니다. 로그아웃 버튼을 클릭하면 연결을 끊습니다.",
     "QOBUZ_FREE_TRIAL": "무료 체험",
     "QOBUZ_FREE_TRIAL_DESC": "1개월 간 QOBUZ 하이파이를 무료로 체험하세요(19,99 유로 가치)"
+  },
+  "DEVICESETUP": {
+    "SETUP_NEW_DEVICE": "새 장치 구성",
+    "INSTRUCTION_STEP_1": "디바이스 전원 켜기",
+    "INSTRUCTION_STEP_2": "선택적으로 이더넷 케이블 연결",
+    "INSTRUCTION_STEP_3": "장치가 시작될 때까지 5분간 기다립니다.",
+    "INSTRUCTION_STEP_4": "원하는 무선 네트워크에 연결",
+    "CONNECTION_METHOD": "디바이스를 네트워크에 어떻게 연결하시겠습니까?",
+    "CONNECTION_WIRELESS": "무선",
+    "CONNECTION_WIRED": "유선",
+    "DEVICE_ALREADY_SETUP": "장치가 이미 구성되어 있습니다. 새 디바이스 찾기",
+    "LOOKING_FOR_WIRELESS_DEVICES": "무선 장치 찾기",
+    "LOOKING_FOR_WIRED_DEVICES": "유선 장치 찾기",
+    "CONNECTED_TO_WIRELESS": "연결 대상",
+    "CONNECTING_TO_WIRELESS": "연결 대상",
+    "DEVICE_CONNECTION_METHOD": "디바이스를 네트워크에 어떻게 연결하고 싶으신가요?",
+    "OR_SELECT_WIRELESS_NETWORK": "또는 무선 네트워크를 선택합니다.",
+    "SELECT_WIRELESS_NETWORK": "무선 네트워크 선택",
+    "DEVICE_FOUND": "장치 발견",
+    "SKIP_WIFI": "유선 연결만 가능",
+    "ENTER_WIFI_PASSWORD": "다음에 대한 비밀번호를 입력합니다.",
+    "CHECKING_UPDATES": "업데이트 확인 중...",
+    "WAIT_FEW_MINUTES": "몇 분 정도 걸릴 수 있습니다.",
+    "WAIT_5_MINUTES": "최대 5분이 소요될 수 있습니다. 잠시만 기다려주세요.",
+    "WAIT_30_SECONDS": "최대 30초가 소요될 수 있습니다. 잠시만 기다려주세요.",
+    "REBOOTING_DEVICE": "장치 다시 시작",
+    "UPDATING_DEVICE": "최신 소프트웨어로 디바이스 업데이트",
+    "DEVICE_UP_TO_DATE": "장치가 최신 상태입니다.",
+    "GRANT_PERMISSIONS": "메시지가 표시되면 연결 권한을 부여하세요.",
+    "DEFAULT_NETWORK": "현재 네트워크",
+    "OTHER_NETWORKS": "또는 다른 네트워크를 선택하세요.",
+    "ERROR_NO_WIRELESS_DEVICE_FOUND": "무선 장치를 찾을 수 없습니다.",
+    "ERROR_NO_WIRELESS_DEVICE_FOUND_SUB": "디바이스의 전원이 켜져 있는지 확인하고 디바이스에 더 가까이 서 보세요. 문제가 지속되면 장치에 유선 인터넷을 연결하세요. 다시 시도하려면 '다시 시도'를, 수동 설정을 시작하려면 '수동 설정'을, 유선 설정을 시작하려면 '유선 설정'을 누릅니다.",
+    "ERROR_WIRELESS_DEVICE_CONNECTION": "무선 장치에 연결할 수 없습니다.",
+    "ERROR_WIRELESS_DEVICE_CONNECTION_SUB": "다시 시도하거나 유선으로 연결해 보세요.",
+    "ERROR_NO_WIRED_DEVICES_FOUND": "유선 장치를 찾을 수 없음",
+    "ERROR_NO_WIRED_DEVICES_FOUND_SUB": "기기에 전원이 켜져 있고 인터넷에 연결되어 있는지 확인하세요.",
+    "ERROR_COULD_NOT_CONNECT_TO_WIFI": "장치를 다음에 연결할 수 없습니다.",
+    "ERROR_COULD_NOT_CONNECT_TO_WIFI_SUB": "무선 네트워크에 입력한 비밀번호를 확인하거나 유선 연결을 시도해 보세요.",
+    "ERROR_COULD_NOT_UPDATE": "장치를 업데이트할 수 없습니다.",
+    "ERROR_COULD_NOT_UPDATE_SUB": "사용자 인터페이스에서 디바이스를 업데이트하세요.",
+    "MANUAL_WIFI_SELECTION": "수동 설정",
+    "WIRED_SETUP": "유선 설정",
+    "MANUAL_SETUP": "수동 무선 설정",
+    "MANUAL_SETUP_SUB": "\"수동으로 네트워크 선택\"을 눌러 와이파이 목록을 엽니다. \"Volumio-XXXXX\"라는 이름의 장치를 찾아서 연결하세요(비밀번호 없음). 연결이 완료되면 앱으로 돌아가서 \"계속\"을 누릅니다.",
+    "SELECT_NETWORK": "네트워크 선택"
+  },
+  "DEVICELIST": {
+    "SETUP_NEW_DEVICE": "새 장치 구성",
+    "SELECT_A_DEVICE": "장치 선택",
+    "SEARCHING_DEVICES": "디바이스 찾기",
+    "BACK_BUTTON": "뒤로 키를 두 번 눌러 다른 장치를 선택합니다."
   }
 }
