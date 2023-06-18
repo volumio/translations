@@ -308,7 +308,7 @@
     "ALIAS": "Alias",
     "ALIAS_DOC": "Name für die Darstellung in Volumio",
     "NAS_IP_ADDRESS": "IP-Adresse",
-    "NAS_IP_ADDRESS_DOC": "IP-Addresse des Netzwerklaufwerks",
+    "NAS_IP_ADDRESS_DOC": "IP-Adresse des Netzwerklaufwerks",
     "NAS_PATH": "Pfad auf dem Netzwerklaufwerk",
     "NAS_PATH_DOC": "Netzwerk-Freigabename oder Unterordner",
     "SHARE_TYPE": "Protokoll",
