@@ -185,7 +185,17 @@
     "CONNECT": "Verbinden",
     "SEARCH_RESULTS_DESC": "Gewenst aantal zoek resultaten",
     "SEARCH_RESULTS_TITLE": "Aantal zoek resultaten",
-    "PLEASE_WAIT": "Even geduld a.u.b."
+    "PLEASE_WAIT": "Even geduld a.u.b.",
+    "DSP": "DSP",
+    "ACCEPT": "Accepteer",
+    "DECLINE": "Daling",
+    "ACCEPT_OR_SHUTDOWN": "Accepteer de servicevoorwaarden of sluit uw systeem af",
+    "RELATED": "Gerelateerd",
+    "INSTANT_PLAY": "Ik voel me gelukkig",
+    "SUPER_SEARCH": "Super zoeken",
+    "SUPER_SEARCH_EXAMPLE": "Voorbeeld: smooth jazz met vrouwenstemmen",
+    "ARTIST_NOT_FOUND_IN_YOUR_LIBRARY": "Kunstenaar niet gevonden in je bibliotheek",
+    "ALBUM_NOT_FOUND_IN_YOUR_LIBRARY": "Album niet gevonden in uw bibliotheek"
   },
   "DEVICELIST": {
     "SETUP_NEW_DEVICE": "Apparaat toevoegen",
@@ -238,7 +248,13 @@
     "SKIP_BACKWARDS": "Selecteer Vorige",
     "SKIP_FORWARD": "Volgende",
     "ARTIST_STORY": "Artiest informatie",
-    "ARTIST_STORY_NOT_FOUND_FOR": "Geen artiesten info gevonden voor"
+    "ARTIST_STORY_NOT_FOUND_FOR": "Geen artiesten info gevonden voor",
+    "RELATED": "Dit vind je misschien ook leuk",
+    "RELATED_ALBUMS": "Verwante albums",
+    "RELATED_ARTISTS": "Verwante artiesten",
+    "SUPER_SEARCH": "Volumio SuperSearch BETA",
+    "SUPER_SEARCH_INFO": "SuperSearch is een zoekmodus waarmee je Volumio om muzieksuggesties kunt vragen, net zoals je dat aan een vriend of platenwinkelmedewerker zou vragen. <br /><br />Typ gewoon een chat-achtige vraag over het soort nummers dat je wilt horen en Volumio haalt de bijbehorende nummers voor je op uit je bibliotheek. <br /><br /> Enkele voorbeelden van zoekopdrachten: <br /><br /> <ul><li>Smooth Jazz met vrouwenstemmen</li><li>Italiaanse indierock </li><li>New wave met drums en synths</li></ul><br /><br />Je kunt de vraag stellen in je eigen taal of in het Engels. Engels geeft meestal nauwkeurigere resultaten.<br /> <br />Als u Automatisch afspelen inschakelt, worden de overeenkomende nummers afgespeeld zodra de zoekopdracht is voltooid<br /> <br />Noten: <br /><br /><ul><li>Om het beste uit SuperSearch te halen, moet u ten minste één streamingdienst hebben aangesloten, zoals TIDAL, QOBUZ of Spotify</li><li>Als u geen van de bovenstaande diensten hebt, wordt aanbevolen dat uw lokale bibliotheek uit ten minste 1000 tracks bestaat</li></ul>.",
+    "SUPER_SEARCH_WAIT": "Even geduld, deze zoekopdracht kan 20 seconden duren..."
   },
   "MY_MUSIC": {
     "UPDATE": "Update",
@@ -295,7 +311,10 @@
     "UNINSTALLING_PLUGIN": "De-installeren van Plug-in",
     "UNPACKING_PLUGIN": "Uitpakken van Plug-in",
     "UPDATING_PLUGIN": "Plug-in bijwerken",
-    "UPDATING_PLUGIN_FILES": "Plug-in bestanden updaten"
+    "UPDATING_PLUGIN_FILES": "Plug-in bestanden updaten",
+    "CHECKING_DEPENDENCIES": "Controleren of de plugin geschikt is voor deze versie van Volumio",
+    "PLUGIN_LOGIN_MESSAGE": "Om toegang te krijgen tot de plugins store moet je <a href=\"/myvolumio/signup\">inloggen bij MyVolumio</a>",
+    "PLUGIN_LOGIN": "Inloggen"
   },
   "UPDATER": {
     "DOWNLOAD_SPEED": "Terug naar plug-ins",
@@ -314,7 +333,8 @@
     "SUCCESSFULLY_UPDATED_TO_VERSION": "Succesvol bijgewerkt naar versie",
     "SYSTEM_RESTART_IN": "Uw apparaat wordt opnieuw opgestart over ",
     "SYSTEM_RESTART_REQUIRED": "Start uw apparaat opnieuw op",
-    "UPDATE": "Update"
+    "UPDATE": "Update",
+    "UPDATE_AVAILABLE": "Er is een software-update beschikbaar"
   },
   "TRACK_MANAGER": {
     "PLAYING": "Speelt",
@@ -332,7 +352,8 @@
     "CLEAR_QUEUE": "Wachtrij leegmaken",
     "REPEAT_ALL": "Repeat alles",
     "REPEAT_OFF": "Repeat uit",
-    "REPEAT_SINGLE": "Herhaal nummer"
+    "REPEAT_SINGLE": "Herhaal nummer",
+    "INFINITY_PLAY": "Oneindigheid spelen"
   },
   "NETWORKFS": {
     "NO_DRIVES_FOUND": "Geen netwerkschijven gevonden",
@@ -474,7 +495,10 @@
     "CONGRATULATIONS": "Gefeliciteerd!",
     "DEVICE_SUCCESSFULLY_CONFIGURED": "is geconfigureerd en is klaar om muziek af te spelen",
     "PLEASE_DONATE": "Indien u Volumio gebruikt, wilt u dan een donatie in overweging nemen? U kunt het verschil maken voor dit project!",
-    "RUN_FIRST_CONFIG_WIZARD": "Voer de eerste configuratie-wizard uit."
+    "RUN_FIRST_CONFIG_WIZARD": "Voer de eerste configuratie-wizard uit.",
+    "LOGIN": "Inloggen",
+    "STREAMINGSERVICES": "Muziekbronnen",
+    "SOFTWAREUPDATE": "Software-update"
   },
   "SLEEP": {
     "POWER_OFF": "Uitzetten",
@@ -527,7 +551,8 @@
     "CAST": "Cast",
     "SWITCH_DEVICE": "Ander apparaat",
     "NO_CAST_DEVICES": "Geen cast apparaten gevonden",
-    "NO_GROUPABLE_DEVICES": "Geen groepeerbare apparaten gevonden"
+    "NO_GROUPABLE_DEVICES": "Geen groepeerbare apparaten gevonden",
+    "GROUP_LEADER": "Groepsleider"
   },
   "SIDEMENU": {
     "ANALOG_INPUT": "Analoge ingang",
@@ -772,7 +797,11 @@
     "MYVOLUMIO_NOT_ENABLED_ON_DEVICE": "MyVolumio niet ingeschakeld op dit apparaat",
     "PLAN_REQUIRED": "Plan benodigd",
     "UPGRADE_YOUR_PLAN_NOW": "Upgrade je plan nu",
-    "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio heeft ondersteuning voor streamingdiensten zoals TIDAL, QOBUZ en High Res Audio, evenals vele extra plug-ins. Om volledige toegang toe te krijgen, heeft u een MyVolumio-abonnement nodig. Bezoek myvolumio.org voor een gratis proefperiode!"
+    "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio heeft ondersteuning voor streamingdiensten zoals TIDAL, QOBUZ en High Res Audio, evenals vele extra plug-ins. Om volledige toegang toe te krijgen, heeft u een MyVolumio-abonnement nodig. Bezoek myvolumio.org voor een gratis proefperiode!",
+    "MYVOLUMIO_WIZARD_NO_INTERNET": "Je hebt momenteel geen internetverbinding, log dan later in op MyVolumio voor de beste Volumio-ervaring.",
+    "MODAL_SUPERSEARCH_PREMIUM_TITLE": "Supersearch tekstueel zoeken",
+    "MODAL_SUPERSEARCH_PREMIUM_TEXT": "Tekstueel zoeken, oneindig afspelen met kunstmatige intelligentie",
+    "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "Kunstmatige intelligentie oneindig afspelen"
   },
   "MYVOLUMIO_PLANS": {
     "LATEST_NEWS": "Ontvang onze MyVolumio Nieuws Feed",
@@ -804,7 +833,9 @@
     "CONTEMPORARY_UI": "Web User Interface",
     "IOS_ANDROID_APP": "iOS en Android Apps",
     "NETWORK_STORAGE_SUPPORT": "Bladeren in NAS opslag",
-    "OVER_THE_AIR_UPDATES": "Over The Air Updates"
+    "OVER_THE_AIR_UPDATES": "Over The Air Updates",
+    "AI_SUPERSEARCH": "AI-tekstueel zoeken",
+    "AI_INFINITY_PLAYBACK": "AI oneindige weergave"
   },
   "APPEARANCE": {
     "ALBUMARTIST": "Albumartiest",
@@ -847,7 +878,10 @@
     "WEB_ALBUMART_ENABLE": "Web albumillustraties",
     "WEB_ALBUMART_ENABLE_DOC": "Schakel het ophalen van albumillustraties vanaf internet in als er geen afbeelding is gevonden in de bestandsmap",
     "WEB_ALBUMART_SIZE": "Web albumillustraties grootte",
-    "WEB_ALBUMART_SIZE_DOC": "Kies de grootte van albumillustraties gedownload van internet: hogere kwaliteit vereist langere laadtijden. Lagere waarden kunnen de laadtijden verbeteren."
+    "WEB_ALBUMART_SIZE_DOC": "Kies de grootte van albumillustraties gedownload van internet: hogere kwaliteit vereist langere laadtijden. Lagere waarden kunnen de laadtijden verbeteren.",
+    "UI_CONFIG_SELECT_TIMEZONE": "Selecteer tijdzone",
+    "UI_CONFIG_SELECT_TIMEZONE_DOC": "Selecteer de tijdzone van uw systeem",
+    "USER_INTERFACE_MANIFEST": "Manifest"
   },
   "MAIN_MENU": {
     "ALARM": "Wekker",
@@ -1025,7 +1059,13 @@
     "TURN_OFF_IN": "Uitzetten in",
     "UPDATE_ALREADY_LATEST_VERSION": "U gebruikt al de nieuwste versie van Volumio.",
     "UPDATE_FAILED": "Update failed",
-    "VIDEO_OUT_OPTIONS": "Video-uitgang opties"
+    "VIDEO_OUT_OPTIONS": "Video-uitgang opties",
+    "AUTOMATIC_UPDATES": "Automatische updates",
+    "AUTOMATIC_UPDATES_DOC": "Automatische updates inschakelen. Controleer of je tijdzone correct is ingesteld.",
+    "AUTOMATIC_UPDATES_START_TIME": "Starttijd automatisch updatevenster",
+    "AUTOMATIC_UPDATES_START_TIME_DOC": "Starttijd automatisch updatevenster",
+    "AUTOMATIC_UPDATES_STOP_TIME": "Eindtijd automatisch updatevenster",
+    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Eindtijd automatisch updatevenster"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Beste radiostations",
