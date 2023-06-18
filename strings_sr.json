@@ -1,4 +1,7 @@
 {
+  "UI_SETTINGS": {
+    "UPLOAD_BACKGROUND": ""
+  },
   "ALARM": {
     "ALARM_CLOCK_TITLE": "Alarm",
     "SLEEP_MODE_IN": "za",
@@ -25,8 +28,5 @@
     "ALBUMARTIST": "Izvođač",
     "ALBUMART_CACHE_CLEAR_ERROR": "Greška prilikom brisanja keša. Pokušaj ponovo za par minuta.",
     "ALBUMART_RESET_CACHE_DOC": "Sistem kešira Albumart da bi poboljšao performanse. Ovo onemogućava nove Albumarte da budu prikazani. Resetuj keš da vidiš novododate Albumarte."
-  },
-  "UI_SETTINGS": {
-    "UPLOAD_BACKGROUND": ""
   }
 }
