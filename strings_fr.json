@@ -549,7 +549,7 @@
     "PRESETS": "Préréglages",
     "GROUPING": "Regroupement",
     "CAST": "Cast",
-    "SWITCH_DEVICE": "Dispositif de commutation",
+    "SWITCH_DEVICE": "Contrôler d'autres dispositifs",
     "NO_CAST_DEVICES": "Aucun dispositif Cast n'a été trouvé",
     "NO_GROUPABLE_DEVICES": "Aucun dispositif groupable n'a été trouvé"
   },
