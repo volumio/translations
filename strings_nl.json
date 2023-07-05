@@ -1065,7 +1065,10 @@
     "AUTOMATIC_UPDATES_START_TIME": "Starttijd automatisch updatevenster",
     "AUTOMATIC_UPDATES_START_TIME_DOC": "Starttijd automatisch updatevenster",
     "AUTOMATIC_UPDATES_STOP_TIME": "Eindtijd automatisch updatevenster",
-    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Eindtijd automatisch updatevenster"
+    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Eindtijd automatisch updatevenster",
+    "HDMI_ARC_SETTINGS": "HDMI eARC/ARC instellingen",
+    "HDMI_ARC_AUTOSWITCH": "HDMI eARC/ARC Auto Switch",
+    "HDMI_ARC_AUTOSWITCH_DOC": "Als deze optie is ingeschakeld, schakelt het systeem automatisch over naar de HDMI eARC/ARC ingang wanneer de tv wordt ingeschakeld. Indien uitgeschakeld, blijft het systeem afspelen op de laatst geselecteerde ingang."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Beste radiostations",

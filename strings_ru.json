@@ -1012,7 +1012,10 @@
     "AUTOMATIC_UPDATES_START_TIME": "Время начала окна автоматического обновления",
     "AUTOMATIC_UPDATES_START_TIME_DOC": "Время начала окна автоматического обновления",
     "AUTOMATIC_UPDATES_STOP_TIME": "Время окончания окна автоматического обновления",
-    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Время окончания окна автоматического обновления"
+    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Время окончания окна автоматического обновления",
+    "HDMI_ARC_SETTINGS": "Настройки HDMI eARC/ARC",
+    "HDMI_ARC_AUTOSWITCH": "HDMI eARC/ARC Автопереключение",
+    "HDMI_ARC_AUTOSWITCH_DOC": "Если включено, при включении телевизора система автоматически переключится на вход HDMI eARC/ARC. Если отключено, система будет продолжать воспроизведение на последнем выбранном входе."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Лучшие радиостанции",

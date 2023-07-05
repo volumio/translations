@@ -1013,7 +1013,10 @@
     "AUTOMATIC_UPDATES_START_TIME": "自动更新窗口开始时间",
     "AUTOMATIC_UPDATES_START_TIME_DOC": "自动更新窗口开始时间",
     "AUTOMATIC_UPDATES_STOP_TIME": "自动更新窗口结束时间",
-    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "自动更新窗口结束时间"
+    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "自动更新窗口结束时间",
+    "HDMI_ARC_SETTINGS": "HDMI eARC/ARC设置",
+    "HDMI_ARC_AUTOSWITCH": "HDMI eARC/ARC自动切换",
+    "HDMI_ARC_AUTOSWITCH_DOC": "如果启用，当电视被打开时，系统将自动切换到HDMI eARC/ARC输入。如果禁用，系统将保持在最后选定的输入上播放。"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "最佳收音机",

@@ -893,7 +893,10 @@
     "AUTOMATIC_UPDATES_START_TIME": "Automaattisen päivitysikkunan alkamisaika",
     "AUTOMATIC_UPDATES_START_TIME_DOC": "Automaattisen päivitysikkunan alkamisaika",
     "AUTOMATIC_UPDATES_STOP_TIME": "Automaattisen päivitysikkunan päättymisaika",
-    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Automaattisen päivitysikkunan päättymisaika"
+    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Automaattisen päivitysikkunan päättymisaika",
+    "HDMI_ARC_SETTINGS": "HDMI eARC/ARC-asetukset",
+    "HDMI_ARC_AUTOSWITCH": "HDMI eARC/ARC Auto Switch",
+    "HDMI_ARC_AUTOSWITCH_DOC": "Jos tämä on käytössä, kun televisio kytketään päälle, järjestelmä vaihtaa automaattisesti HDMI eARC/ARC -tuloon. Jos se on poistettu käytöstä, järjestelmä jatkaa toistoa viimeksi valitulla tulolla."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Parhaat radiot",

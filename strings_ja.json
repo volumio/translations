@@ -927,7 +927,10 @@
     "AUTOMATIC_UPDATES_START_TIME": "自動更新ウィンドウの開始時間",
     "AUTOMATIC_UPDATES_START_TIME_DOC": "自動更新ウィンドウの開始時間",
     "AUTOMATIC_UPDATES_STOP_TIME": "自動更新ウィンドウの終了時間",
-    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "自動更新ウィンドウの終了時間"
+    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "自動更新ウィンドウの終了時間",
+    "HDMI_ARC_SETTINGS": "HDMI eARC/ARC設定",
+    "HDMI_ARC_AUTOSWITCH": "HDMI eARC/ARC オートスイッチ",
+    "HDMI_ARC_AUTOSWITCH_DOC": "有効の場合、テレビをオンにすると、システムは自動的にHDMI eARC/ARC入力に切り替わります。無効の場合、システムは最後に選択した入力で再生し続けます。"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "ベストラジオ",

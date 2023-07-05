@@ -1013,7 +1013,10 @@
     "AUTOMATIC_UPDATES_START_TIME": "Starttid för automatiskt uppdateringsfönster",
     "AUTOMATIC_UPDATES_START_TIME_DOC": "Starttid för automatiskt uppdateringsfönster",
     "AUTOMATIC_UPDATES_STOP_TIME": "Automatisk uppdatering sluttid för fönster",
-    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Automatisk uppdatering sluttid för fönster"
+    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Automatisk uppdatering sluttid för fönster",
+    "HDMI_ARC_SETTINGS": "HDMI eARC/ARC-inställningar",
+    "HDMI_ARC_AUTOSWITCH": "HDMI eARC/ARC automatisk omkoppling",
+    "HDMI_ARC_AUTOSWITCH_DOC": "Om den är aktiverad kommer systemet automatiskt att växla till HDMI eARC/ARC-ingången när TV:n slås på. Om den är avaktiverad fortsätter systemet att spela på den senast valda ingången."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Bäst radio",

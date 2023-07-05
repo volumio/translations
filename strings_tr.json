@@ -1013,7 +1013,10 @@
     "AUTOMATIC_UPDATES_START_TIME": "Otomatik güncelleme penceresi başlangıç zamanı",
     "AUTOMATIC_UPDATES_START_TIME_DOC": "Otomatik güncelleme penceresi başlangıç zamanı",
     "AUTOMATIC_UPDATES_STOP_TIME": "Otomatik güncelleme penceresi bitiş zamanı",
-    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Otomatik güncelleme penceresi bitiş zamanı"
+    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Otomatik güncelleme penceresi bitiş zamanı",
+    "HDMI_ARC_SETTINGS": "HDMI eARC/ARC Ayarları",
+    "HDMI_ARC_AUTOSWITCH": "HDMI eARC/ARC Otomatik Geçiş",
+    "HDMI_ARC_AUTOSWITCH_DOC": "Etkinleştirilirse, TV açıldığında sistem otomatik olarak HDMI eARC/ARC girişine geçer. Devre dışı bırakılırsa, sistem son seçilen girişte oynatmaya devam eder."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "En iyi Radyolar",

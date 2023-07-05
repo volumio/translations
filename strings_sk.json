@@ -1013,7 +1013,10 @@
     "AUTOMATIC_UPDATES_START_TIME": "Čas spustenia okna automatickej aktualizácie",
     "AUTOMATIC_UPDATES_START_TIME_DOC": "Čas spustenia okna automatickej aktualizácie",
     "AUTOMATIC_UPDATES_STOP_TIME": "Čas ukončenia okna automatickej aktualizácie",
-    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Čas ukončenia okna automatickej aktualizácie"
+    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Čas ukončenia okna automatickej aktualizácie",
+    "HDMI_ARC_SETTINGS": "Nastavenia HDMI eARC/ARC",
+    "HDMI_ARC_AUTOSWITCH": "Automatický prepínač HDMI eARC/ARC",
+    "HDMI_ARC_AUTOSWITCH_DOC": "Ak je táto funkcia povolená, po zapnutí televízora sa systém automaticky prepne na vstup HDMI eARC/ARC. Ak je vypnuté, systém bude pokračovať v prehrávaní na poslednom zvolenom vstupe."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najlepšie rádia",

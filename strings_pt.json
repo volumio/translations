@@ -893,7 +893,10 @@
     "AUTOMATIC_UPDATES_START_TIME": "Hora de início da janela de atualização automática",
     "AUTOMATIC_UPDATES_START_TIME_DOC": "Hora de início da janela de atualização automática",
     "AUTOMATIC_UPDATES_STOP_TIME": "Hora de fim da janela de atualização automática",
-    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Hora de fim da janela de atualização automática"
+    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Hora de fim da janela de atualização automática",
+    "HDMI_ARC_SETTINGS": "Definições HDMI eARC/ARC",
+    "HDMI_ARC_AUTOSWITCH": "Comutação automática HDMI eARC/ARC",
+    "HDMI_ARC_AUTOSWITCH_DOC": "Se estiver ativado, quando o televisor for ligado, o sistema muda automaticamente para a entrada HDMI eARC/ARC. Se estiver desactivada, o sistema continuará a reproduzir na última entrada selecionada."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Melhores rádios",

@@ -884,7 +884,10 @@
     "AUTOMATIC_UPDATES_START_TIME": "Starttidspunkt for automatisk opdateringsvindue",
     "AUTOMATIC_UPDATES_START_TIME_DOC": "Starttidspunkt for automatisk opdateringsvindue",
     "AUTOMATIC_UPDATES_STOP_TIME": "Sluttidspunkt for automatisk opdateringsvindue",
-    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Sluttidspunkt for automatisk opdateringsvindue"
+    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Sluttidspunkt for automatisk opdateringsvindue",
+    "HDMI_ARC_SETTINGS": "HDMI eARC/ARC-indstillinger",
+    "HDMI_ARC_AUTOSWITCH": "HDMI eARC/ARC automatisk skift",
+    "HDMI_ARC_AUTOSWITCH_DOC": "Hvis den er aktiveret, skifter systemet automatisk til HDMI eARC/ARC-indgangen, når tv'et tændes. Hvis deaktiveret, fortsætter systemet med at afspille på den sidst valgte indgang."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "De bedste radioer",

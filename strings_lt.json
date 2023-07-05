@@ -971,7 +971,10 @@
     "AUTOMATIC_UPDATES_START_TIME": "Automatinio atnaujinimo lango pradžios laikas",
     "AUTOMATIC_UPDATES_START_TIME_DOC": "Automatinio atnaujinimo lango pradžios laikas",
     "AUTOMATIC_UPDATES_STOP_TIME": "Automatinio atnaujinimo lango pabaigos laikas",
-    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Automatinio atnaujinimo lango pabaigos laikas"
+    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Automatinio atnaujinimo lango pabaigos laikas",
+    "HDMI_ARC_SETTINGS": "HDMI eARC/ARC nustatymai",
+    "HDMI_ARC_AUTOSWITCH": "HDMI eARC/ARC automatinis perjungimas",
+    "HDMI_ARC_AUTOSWITCH_DOC": "Jei ši funkcija įjungta, įjungus televizorių, sistema automatiškai persijungs į HDMI eARC/ARC įvestį. Jei funkcija išjungta, sistema ir toliau gros per paskutinę pasirinktą įvestį."
   },
   "MAIN_MENU": {
     "ALARM": "Žadintuvas",

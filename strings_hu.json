@@ -1012,7 +1012,10 @@
     "AUTOMATIC_UPDATES_START_TIME": "Automatikus frissítési ablak kezdési időpontja",
     "AUTOMATIC_UPDATES_START_TIME_DOC": "Automatikus frissítési ablak kezdési időpontja",
     "AUTOMATIC_UPDATES_STOP_TIME": "Az automatikus frissítési ablak végének időpontja",
-    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Az automatikus frissítési ablak végének időpontja"
+    "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Az automatikus frissítési ablak végének időpontja",
+    "HDMI_ARC_SETTINGS": "HDMI eARC/ARC beállítások",
+    "HDMI_ARC_AUTOSWITCH": "HDMI eARC/ARC automatikus váltás",
+    "HDMI_ARC_AUTOSWITCH_DOC": "Ha engedélyezve van, a TV bekapcsolásakor a rendszer automatikusan átvált a HDMI eARC/ARC bemenetre. Ha letiltja, a rendszer továbbra is az utoljára kiválasztott bemeneten játszik."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Legjobb rádiók",
