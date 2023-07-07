@@ -302,7 +302,7 @@
     "SAVE_QUEUE_AS_PLAYLIST": "Sauver la queue comme Playlist",
     "CONSUME_PLAYLIST": "Écouter et effacer",
     "CLEAR_QUEUE": "Effacer la queue",
-    "INFINITY_PLAY": "Jeu de l'infini"
+    "INFINITY_PLAY": "Lecture infinie"
   },
   "NETWORKFS": {
     "NO_DRIVES_FOUND": "Pas de disque réseau trouvé",
