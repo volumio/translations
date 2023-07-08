@@ -195,7 +195,11 @@
     "SUPER_SEARCH": "Super zoeken",
     "SUPER_SEARCH_EXAMPLE": "Voorbeeld: smooth jazz met vrouwenstemmen",
     "ARTIST_NOT_FOUND_IN_YOUR_LIBRARY": "Kunstenaar niet gevonden in je bibliotheek",
-    "ALBUM_NOT_FOUND_IN_YOUR_LIBRARY": "Album niet gevonden in uw bibliotheek"
+    "ALBUM_NOT_FOUND_IN_YOUR_LIBRARY": "Album niet gevonden in uw bibliotheek",
+    "MINUTE": "Minuut",
+    "MINUTES": "Notulen",
+    "HOUR": "Uur",
+    "HOURS": "Uren"
   },
   "DEVICELIST": {
     "SETUP_NEW_DEVICE": "Apparaat toevoegen",
@@ -1068,7 +1072,16 @@
     "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Eindtijd automatisch updatevenster",
     "HDMI_ARC_SETTINGS": "HDMI eARC/ARC instellingen",
     "HDMI_ARC_AUTOSWITCH": "HDMI eARC/ARC Auto Switch",
-    "HDMI_ARC_AUTOSWITCH_DOC": "Als deze optie is ingeschakeld, schakelt het systeem automatisch over naar de HDMI eARC/ARC ingang wanneer de tv wordt ingeschakeld. Indien uitgeschakeld, blijft het systeem afspelen op de laatst geselecteerde ingang."
+    "HDMI_ARC_AUTOSWITCH_DOC": "Als deze optie is ingeschakeld, schakelt het systeem automatisch over naar de HDMI eARC/ARC ingang wanneer de tv wordt ingeschakeld. Indien uitgeschakeld, blijft het systeem afspelen op de laatst geselecteerde ingang.",
+    "HARDWARE_SETTINGS": "Hardware-instellingen",
+    "LED_BRIGHTNESS": "LED-helderheid",
+    "LED_BRIGHTNESS_DOC": "De helderheid van de LED op het voorpaneel instellen",
+    "AUTO_STANDBY": "Automatische stand-by",
+    "AUTO_STANDBY_DOC": "De functie Auto stand-by in- of uitschakelen. Als deze functie is ingeschakeld, wordt het systeem automatisch uitgeschakeld na een periode van inactiviteit.",
+    "STANDBY_TIMEOUT": "Time-out stand-by",
+    "STANDBY_TIMEOUT_DOC": "Stel de tijd in waarna het systeem automatisch in stand-bymodus gaat.",
+    "AUTO_POWER_ON": "Automatisch inschakelen",
+    "AUTO_POWER_ON_DOC": "De functie Automatisch inschakelen in- of uitschakelen. Als deze functie is ingeschakeld, wordt het systeem automatisch ingeschakeld wanneer de stroom wordt ingeschakeld of na een stroomstoring."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Beste radiostations",

@@ -162,7 +162,11 @@
     "RETRY": "Zkuste to znovu",
     "EXIT": "Exit",
     "OPEN_DEVICE": "Přejít na zařízení",
-    "PROGRESS": "Progress"
+    "PROGRESS": "Progress",
+    "MINUTE": "Minutka",
+    "MINUTES": "Zápis",
+    "HOUR": "Hodina",
+    "HOURS": "Hodiny"
   },
   "BROWSER": {
     "PLAY": "Přehrát",
@@ -1017,7 +1021,16 @@
     "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Čas ukončení okna automatické aktualizace",
     "HDMI_ARC_SETTINGS": "Nastavení HDMI eARC/ARC",
     "HDMI_ARC_AUTOSWITCH": "Automatický přepínač HDMI eARC/ARC",
-    "HDMI_ARC_AUTOSWITCH_DOC": "Pokud je tato funkce povolena, systém se po zapnutí televizoru automaticky přepne na vstup HDMI eARC/ARC. Pokud je zakázáno, systém bude pokračovat v přehrávání na posledním vybraném vstupu."
+    "HDMI_ARC_AUTOSWITCH_DOC": "Pokud je tato funkce povolena, systém se po zapnutí televizoru automaticky přepne na vstup HDMI eARC/ARC. Pokud je zakázáno, systém bude pokračovat v přehrávání na posledním vybraném vstupu.",
+    "HARDWARE_SETTINGS": "Nastavení hardwaru",
+    "LED_BRIGHTNESS": "Jas LED",
+    "LED_BRIGHTNESS_DOC": "Nastavení jasu diody LED na předním panelu",
+    "AUTO_STANDBY": "Automatický pohotovostní režim",
+    "AUTO_STANDBY_DOC": "Povolení nebo zakázání funkce automatického pohotovostního režimu. Pokud je tato funkce povolena, systém se po určité době nečinnosti automaticky vypne.",
+    "STANDBY_TIMEOUT": "Časový limit pohotovostního režimu",
+    "STANDBY_TIMEOUT_DOC": "Nastavení doby, po které systém automaticky přejde do pohotovostního režimu.",
+    "AUTO_POWER_ON": "Automatické zapnutí",
+    "AUTO_POWER_ON_DOC": "Povolení nebo zakázání funkce automatického zapnutí. Pokud je tato funkce povolena, systém se automaticky zapne po připojení napájení nebo po výpadku napájení."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Nejlepší rádia",

@@ -160,7 +160,11 @@
     "RETRY": "Spróbuj ponownie",
     "EXIT": "Wyjście",
     "OPEN_DEVICE": "Przejdź do urządzenia",
-    "PROGRESS": "Postęp"
+    "PROGRESS": "Postęp",
+    "MINUTE": "Minuta",
+    "MINUTES": "Protokół",
+    "HOUR": "Godzina",
+    "HOURS": "Godziny"
   },
   "BROWSER": {
     "PLAY": "Odtwarzaj",
@@ -1015,7 +1019,16 @@
     "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Czas zakończenia okna automatycznej aktualizacji",
     "HDMI_ARC_SETTINGS": "Ustawienia HDMI eARC/ARC",
     "HDMI_ARC_AUTOSWITCH": "Automatyczny przełącznik HDMI eARC/ARC",
-    "HDMI_ARC_AUTOSWITCH_DOC": "Jeśli opcja ta jest włączona, po włączeniu telewizora system automatycznie przełączy się na wejście HDMI eARC/ARC. Jeśli opcja ta jest wyłączona, system będzie kontynuował odtwarzanie na ostatnio wybranym wejściu."
+    "HDMI_ARC_AUTOSWITCH_DOC": "Jeśli opcja ta jest włączona, po włączeniu telewizora system automatycznie przełączy się na wejście HDMI eARC/ARC. Jeśli opcja ta jest wyłączona, system będzie kontynuował odtwarzanie na ostatnio wybranym wejściu.",
+    "HARDWARE_SETTINGS": "Ustawienia sprzętu",
+    "LED_BRIGHTNESS": "Jasność LED",
+    "LED_BRIGHTNESS_DOC": "Ustawienie jasności diody LED na panelu przednim",
+    "AUTO_STANDBY": "Automatyczny tryb gotowości",
+    "AUTO_STANDBY_DOC": "Włączenie lub wyłączenie funkcji Auto Standby. Po jej włączeniu system automatycznie wyłączy się po okresie bezczynności",
+    "STANDBY_TIMEOUT": "Limit czasu w trybie gotowości",
+    "STANDBY_TIMEOUT_DOC": "Ustaw czas, po którym system automatycznie przejdzie w tryb czuwania.",
+    "AUTO_POWER_ON": "Automatyczne włączanie",
+    "AUTO_POWER_ON_DOC": "Włączenie lub wyłączenie funkcji automatycznego włączania. Po jej włączeniu system włączy się automatycznie po podłączeniu zasilania lub po awarii zasilania"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najlepsze stacje radiowe",

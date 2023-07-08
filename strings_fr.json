@@ -161,7 +161,11 @@
     "RETRY": "Réessayer",
     "EXIT": "Sortie",
     "OPEN_DEVICE": "Aller à l'appareil",
-    "PROGRESS": "Progrès"
+    "PROGRESS": "Progrès",
+    "MINUTE": "minute",
+    "MINUTES": "Procès-verbal",
+    "HOUR": "Heure",
+    "HOURS": "Heures"
   },
   "BROWSER": {
     "PLAY": "Lecture",
@@ -1018,7 +1022,16 @@
     "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Heure de fin de la fenêtre de mise à jour automatique",
     "HDMI_ARC_SETTINGS": "Réglages HDMI eARC/ARC",
     "HDMI_ARC_AUTOSWITCH": "Commutation automatique HDMI eARC/ARC",
-    "HDMI_ARC_AUTOSWITCH_DOC": "Si cette option est activée, le système bascule automatiquement sur l'entrée HDMI eARC/ARC à la mise sous tension du téléviseur. S'il est désactivé, le système continue la lecture sur la dernière entrée sélectionnée."
+    "HDMI_ARC_AUTOSWITCH_DOC": "Si cette option est activée, le système bascule automatiquement sur l'entrée HDMI eARC/ARC à la mise sous tension du téléviseur. S'il est désactivé, le système continue la lecture sur la dernière entrée sélectionnée.",
+    "HARDWARE_SETTINGS": "Paramètres du matériel",
+    "LED_BRIGHTNESS": "Luminosité des LED",
+    "LED_BRIGHTNESS_DOC": "Régler la luminosité de la LED sur le panneau avant",
+    "AUTO_STANDBY": "Veille automatique",
+    "AUTO_STANDBY_DOC": "Permet d'activer ou de désactiver la fonction de mise en veille automatique. Lorsqu'elle est activée, le système s'éteint automatiquement après une période d'inactivité.",
+    "STANDBY_TIMEOUT": "Délai d'attente",
+    "STANDBY_TIMEOUT_DOC": "Définir le délai après lequel le système passe automatiquement en mode veille",
+    "AUTO_POWER_ON": "Mise sous tension automatique",
+    "AUTO_POWER_ON_DOC": "Active ou désactive la fonction de mise sous tension automatique. Lorsqu'elle est activée, le système s'allume automatiquement lors de la mise sous tension ou après une panne de courant."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Meilleures Radios",

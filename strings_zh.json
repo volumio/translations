@@ -160,7 +160,11 @@
     "EXIT": "退出",
     "OPEN_DEVICE": "转到设备",
     "PROGRESS": "进展",
-    "SEARCH_RESULTS_DESC": "希望得到的搜索结果的数量"
+    "SEARCH_RESULTS_DESC": "希望得到的搜索结果的数量",
+    "MINUTE": "分钟",
+    "MINUTES": "会议记录",
+    "HOUR": "一小时",
+    "HOURS": "小时"
   },
   "BROWSER": {
     "PLAY": "播放",
@@ -1016,7 +1020,16 @@
     "AUTOMATIC_UPDATES_STOP_TIME_DOC": "自动更新窗口结束时间",
     "HDMI_ARC_SETTINGS": "HDMI eARC/ARC设置",
     "HDMI_ARC_AUTOSWITCH": "HDMI eARC/ARC自动切换",
-    "HDMI_ARC_AUTOSWITCH_DOC": "如果启用，当电视被打开时，系统将自动切换到HDMI eARC/ARC输入。如果禁用，系统将保持在最后选定的输入上播放。"
+    "HDMI_ARC_AUTOSWITCH_DOC": "如果启用，当电视被打开时，系统将自动切换到HDMI eARC/ARC输入。如果禁用，系统将保持在最后选定的输入上播放。",
+    "HARDWARE_SETTINGS": "硬件设置",
+    "LED_BRIGHTNESS": "LED亮度",
+    "LED_BRIGHTNESS_DOC": "设置前面板上LED的亮度",
+    "AUTO_STANDBY": "自动待机",
+    "AUTO_STANDBY_DOC": "启用或停用自动待机功能。启用后，系统将在一段时间的不活动后自动关闭。",
+    "STANDBY_TIMEOUT": "待机超时",
+    "STANDBY_TIMEOUT_DOC": "设置时间后，系统将自动进入待机模式",
+    "AUTO_POWER_ON": "自动开机",
+    "AUTO_POWER_ON_DOC": "启用或停用自动开机功能。启用后，系统将在通电时或断电后自动开机。"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "最佳收音机",

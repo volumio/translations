@@ -160,7 +160,11 @@
     "EXIT": "Çıkış",
     "OPEN_DEVICE": "Cihaza git",
     "PROGRESS": "İlerleme",
-    "SEARCH_RESULTS_DESC": "İstenen Arama sonucu sayısı"
+    "SEARCH_RESULTS_DESC": "İstenen Arama sonucu sayısı",
+    "MINUTE": "Dakika",
+    "MINUTES": "Dakika",
+    "HOUR": "Saat",
+    "HOURS": "Saatler"
   },
   "BROWSER": {
     "PLAY": "Oynat",
@@ -1016,7 +1020,16 @@
     "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Otomatik güncelleme penceresi bitiş zamanı",
     "HDMI_ARC_SETTINGS": "HDMI eARC/ARC Ayarları",
     "HDMI_ARC_AUTOSWITCH": "HDMI eARC/ARC Otomatik Geçiş",
-    "HDMI_ARC_AUTOSWITCH_DOC": "Etkinleştirilirse, TV açıldığında sistem otomatik olarak HDMI eARC/ARC girişine geçer. Devre dışı bırakılırsa, sistem son seçilen girişte oynatmaya devam eder."
+    "HDMI_ARC_AUTOSWITCH_DOC": "Etkinleştirilirse, TV açıldığında sistem otomatik olarak HDMI eARC/ARC girişine geçer. Devre dışı bırakılırsa, sistem son seçilen girişte oynatmaya devam eder.",
+    "HARDWARE_SETTINGS": "Donanım Ayarları",
+    "LED_BRIGHTNESS": "LED Parlaklığı",
+    "LED_BRIGHTNESS_DOC": "Ön paneldeki LED'in parlaklığını ayarlayın",
+    "AUTO_STANDBY": "Otomatik Bekleme",
+    "AUTO_STANDBY_DOC": "Otomatik Bekleme özelliğini etkinleştirin veya devre dışı bırakın. Etkinleştirildiğinde, sistem belirli bir süre kullanılmadığında otomatik olarak kapanır",
+    "STANDBY_TIMEOUT": "Bekleme zaman aşımı",
+    "STANDBY_TIMEOUT_DOC": "Sistemin otomatik olarak bekleme moduna geçeceği süreyi ayarlayın",
+    "AUTO_POWER_ON": "Otomatik Güç Açma",
+    "AUTO_POWER_ON_DOC": "Otomatik Güç Açma özelliğini etkinleştirin veya devre dışı bırakın. Etkinleştirildiğinde, güç uygulandığında veya bir güç kesintisinden sonra sistem otomatik olarak açılır"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "En iyi Radyolar",

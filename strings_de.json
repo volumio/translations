@@ -160,7 +160,11 @@
     "RETRY": "Erneut versuchen",
     "EXIT": "Ausfahrt",
     "OPEN_DEVICE": "Zum Gerät gehen",
-    "PROGRESS": "Fortschritt"
+    "PROGRESS": "Fortschritt",
+    "MINUTE": "Minute",
+    "MINUTES": "Protokoll",
+    "HOUR": "Stunde",
+    "HOURS": "Stunden"
   },
   "BROWSER": {
     "PLAY": "Wiedergeben",
@@ -1015,7 +1019,16 @@
     "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Endzeit des automatischen Aktualisierungsfensters",
     "HDMI_ARC_SETTINGS": "HDMI eARC/ARC-Einstellungen",
     "HDMI_ARC_AUTOSWITCH": "HDMI eARC/ARC Auto-Umschaltung",
-    "HDMI_ARC_AUTOSWITCH_DOC": "Wenn diese Option aktiviert ist, schaltet das System beim Einschalten des Fernsehers automatisch auf den HDMI eARC/ARC-Eingang um. Wenn diese Option deaktiviert ist, spielt das System weiterhin auf dem zuletzt gewählten Eingang."
+    "HDMI_ARC_AUTOSWITCH_DOC": "Wenn diese Option aktiviert ist, schaltet das System beim Einschalten des Fernsehers automatisch auf den HDMI eARC/ARC-Eingang um. Wenn diese Option deaktiviert ist, spielt das System weiterhin auf dem zuletzt gewählten Eingang.",
+    "HARDWARE_SETTINGS": "Hardware-Einstellungen",
+    "LED_BRIGHTNESS": "LED-Helligkeit",
+    "LED_BRIGHTNESS_DOC": "Einstellen der Helligkeit der LED an der Frontplatte",
+    "AUTO_STANDBY": "Auto-Standby",
+    "AUTO_STANDBY_DOC": "Aktivieren oder deaktivieren Sie die automatische Standby-Funktion. Wenn diese Funktion aktiviert ist, schaltet sich das System nach einer gewissen Zeit der Inaktivität automatisch aus.",
+    "STANDBY_TIMEOUT": "Standby-Timeout",
+    "STANDBY_TIMEOUT_DOC": "Stellen Sie die Zeit ein, nach der das System automatisch in den Standby-Modus wechselt",
+    "AUTO_POWER_ON": "Automatisches Einschalten",
+    "AUTO_POWER_ON_DOC": "Aktivieren oder deaktivieren Sie die Funktion \"Automatisches Einschalten\". Wenn diese Funktion aktiviert ist, schaltet sich das System automatisch ein, wenn der Strom eingeschaltet wird oder nach einem Stromausfall"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Die besten Sender",

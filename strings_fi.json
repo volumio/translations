@@ -160,7 +160,11 @@
     "EXIT": "Poistu",
     "OPEN_DEVICE": "Siirry laitteeseen",
     "PROGRESS": "Progress",
-    "SEARCH_RESULTS_DESC": "Haluttu hakutulosten määrä"
+    "SEARCH_RESULTS_DESC": "Haluttu hakutulosten määrä",
+    "MINUTE": "Minuutti",
+    "MINUTES": "Pöytäkirja",
+    "HOUR": "Tunti",
+    "HOURS": "Tunnit"
   },
   "BROWSER": {
     "PLAY": "Soita",
@@ -896,7 +900,16 @@
     "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Automaattisen päivitysikkunan päättymisaika",
     "HDMI_ARC_SETTINGS": "HDMI eARC/ARC-asetukset",
     "HDMI_ARC_AUTOSWITCH": "HDMI eARC/ARC Auto Switch",
-    "HDMI_ARC_AUTOSWITCH_DOC": "Jos tämä on käytössä, kun televisio kytketään päälle, järjestelmä vaihtaa automaattisesti HDMI eARC/ARC -tuloon. Jos se on poistettu käytöstä, järjestelmä jatkaa toistoa viimeksi valitulla tulolla."
+    "HDMI_ARC_AUTOSWITCH_DOC": "Jos tämä on käytössä, kun televisio kytketään päälle, järjestelmä vaihtaa automaattisesti HDMI eARC/ARC -tuloon. Jos se on poistettu käytöstä, järjestelmä jatkaa toistoa viimeksi valitulla tulolla.",
+    "HARDWARE_SETTINGS": "Laitteiston asetukset",
+    "LED_BRIGHTNESS": "LED kirkkaus",
+    "LED_BRIGHTNESS_DOC": "Aseta etupaneelin LED-valon kirkkaus.",
+    "AUTO_STANDBY": "Automaattinen valmiustila",
+    "AUTO_STANDBY_DOC": "Ota Auto Standby -toiminto käyttöön tai poista se käytöstä. Kun toiminto on käytössä, järjestelmä sammuu automaattisesti, kun se on ollut jonkin aikaa käyttämättömänä.",
+    "STANDBY_TIMEOUT": "Valmiustilan aikakatkaisu",
+    "STANDBY_TIMEOUT_DOC": "Aseta aika, jonka jälkeen järjestelmä siirtyy automaattisesti valmiustilaan.",
+    "AUTO_POWER_ON": "Automaattinen virran kytkentä",
+    "AUTO_POWER_ON_DOC": "Ota automaattinen virran kytkentä käyttöön tai poista se käytöstä. Kun se on käytössä, järjestelmä kytkeytyy automaattisesti päälle, kun virtaa kytketään tai sähkökatkoksen jälkeen."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Parhaat radiot",

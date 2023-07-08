@@ -432,7 +432,11 @@
     "RETRY": "Pabandykite dar kartą",
     "EXIT": "Išeiti",
     "OPEN_DEVICE": "Eiti į įrenginį",
-    "PROGRESS": "Pažanga"
+    "PROGRESS": "Pažanga",
+    "MINUTE": "Minutė",
+    "MINUTES": "Protokolas",
+    "HOUR": "Valanda",
+    "HOURS": "Valandos"
   },
   "MY_MUSIC": {
     "UPDATE": "Atnaujinti",
@@ -974,7 +978,16 @@
     "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Automatinio atnaujinimo lango pabaigos laikas",
     "HDMI_ARC_SETTINGS": "HDMI eARC/ARC nustatymai",
     "HDMI_ARC_AUTOSWITCH": "HDMI eARC/ARC automatinis perjungimas",
-    "HDMI_ARC_AUTOSWITCH_DOC": "Jei ši funkcija įjungta, įjungus televizorių, sistema automatiškai persijungs į HDMI eARC/ARC įvestį. Jei funkcija išjungta, sistema ir toliau gros per paskutinę pasirinktą įvestį."
+    "HDMI_ARC_AUTOSWITCH_DOC": "Jei ši funkcija įjungta, įjungus televizorių, sistema automatiškai persijungs į HDMI eARC/ARC įvestį. Jei funkcija išjungta, sistema ir toliau gros per paskutinę pasirinktą įvestį.",
+    "HARDWARE_SETTINGS": "Techninės įrangos nustatymai",
+    "LED_BRIGHTNESS": "LED ryškumas",
+    "LED_BRIGHTNESS_DOC": "Nustatykite priekiniame skydelyje esančio šviesos diodo ryškumą",
+    "AUTO_STANDBY": "Automatinis budėjimo režimas",
+    "AUTO_STANDBY_DOC": "Įjunkite arba išjunkite automatinio budėjimo režimo funkciją. Kai ši funkcija įjungta, sistema automatiškai išsijungs po tam tikro neveikimo laikotarpio.",
+    "STANDBY_TIMEOUT": "Budėjimo režimo laikas",
+    "STANDBY_TIMEOUT_DOC": "Nustatykite laiką, po kurio sistema automatiškai pereis į budėjimo režimą",
+    "AUTO_POWER_ON": "Automatinis įjungimas",
+    "AUTO_POWER_ON_DOC": "Įjunkite arba išjunkite automatinio įjungimo funkciją. Kai ši funkcija įjungta, sistema automatiškai įsijungs, kai bus įjungtas maitinimas arba nutrūkus maitinimui."
   },
   "MAIN_MENU": {
     "ALARM": "Žadintuvas",

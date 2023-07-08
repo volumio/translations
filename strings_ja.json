@@ -160,7 +160,11 @@
     "EXIT": "退出",
     "OPEN_DEVICE": "デバイスへ移動",
     "PROGRESS": "進捗状況",
-    "SEARCH_RESULTS_DESC": "希望する検索結果数"
+    "SEARCH_RESULTS_DESC": "希望する検索結果数",
+    "MINUTE": "分",
+    "MINUTES": "議事録",
+    "HOUR": "時間",
+    "HOURS": "時間"
   },
   "BROWSER": {
     "PLAY": "再生",
@@ -930,7 +934,16 @@
     "AUTOMATIC_UPDATES_STOP_TIME_DOC": "自動更新ウィンドウの終了時間",
     "HDMI_ARC_SETTINGS": "HDMI eARC/ARC設定",
     "HDMI_ARC_AUTOSWITCH": "HDMI eARC/ARC オートスイッチ",
-    "HDMI_ARC_AUTOSWITCH_DOC": "有効の場合、テレビをオンにすると、システムは自動的にHDMI eARC/ARC入力に切り替わります。無効の場合、システムは最後に選択した入力で再生し続けます。"
+    "HDMI_ARC_AUTOSWITCH_DOC": "有効の場合、テレビをオンにすると、システムは自動的にHDMI eARC/ARC入力に切り替わります。無効の場合、システムは最後に選択した入力で再生し続けます。",
+    "HARDWARE_SETTINGS": "ハードウェア設定",
+    "LED_BRIGHTNESS": "LEDの明るさ",
+    "LED_BRIGHTNESS_DOC": "フロントパネルのLEDの明るさを設定する",
+    "AUTO_STANDBY": "オートスタンバイ",
+    "AUTO_STANDBY_DOC": "オートスタンバイ機能を有効または無効にします。有効にすると、一定時間操作しないと自動的に電源が切れます。",
+    "STANDBY_TIMEOUT": "スタンバイ・タイムアウト",
+    "STANDBY_TIMEOUT_DOC": "システムが自動的にスタンバイモードに移行するまでの時間を設定します。",
+    "AUTO_POWER_ON": "オートパワーオン",
+    "AUTO_POWER_ON_DOC": "オートパワーオン機能を有効または無効にします。有効にすると、電源投入時または停電後に自動的に電源がオンになります。"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "ベストラジオ",

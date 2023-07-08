@@ -160,7 +160,11 @@
     "RETRY": "Inténtalo de nuevo",
     "EXIT": "Salida",
     "OPEN_DEVICE": "Ir al dispositivo",
-    "PROGRESS": "Progreso"
+    "PROGRESS": "Progreso",
+    "MINUTE": "Minuto",
+    "MINUTES": "Actas",
+    "HOUR": "Hora",
+    "HOURS": "Horas"
   },
   "BROWSER": {
     "PLAY": "Reproducir",
@@ -1015,7 +1019,16 @@
     "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Hora de finalización de la ventana de actualización automática",
     "HDMI_ARC_SETTINGS": "Ajustes HDMI eARC/ARC",
     "HDMI_ARC_AUTOSWITCH": "Conmutación automática HDMI eARC/ARC",
-    "HDMI_ARC_AUTOSWITCH_DOC": "Si está activada, al encender el televisor, el sistema cambiará automáticamente a la entrada HDMI eARC/ARC. Si está desactivada, el sistema seguirá reproduciendo en la última entrada seleccionada."
+    "HDMI_ARC_AUTOSWITCH_DOC": "Si está activada, al encender el televisor, el sistema cambiará automáticamente a la entrada HDMI eARC/ARC. Si está desactivada, el sistema seguirá reproduciendo en la última entrada seleccionada.",
+    "HARDWARE_SETTINGS": "Ajustes de hardware",
+    "LED_BRIGHTNESS": "Brillo de los LED",
+    "LED_BRIGHTNESS_DOC": "Ajuste el brillo del LED en el panel frontal",
+    "AUTO_STANDBY": "Espera automática",
+    "AUTO_STANDBY_DOC": "Activa o desactiva la función Auto Standby. Si está activada, el sistema se apagará automáticamente tras un periodo de inactividad.",
+    "STANDBY_TIMEOUT": "Tiempo de espera",
+    "STANDBY_TIMEOUT_DOC": "Ajuste el tiempo tras el cual el sistema pasará automáticamente al modo de espera",
+    "AUTO_POWER_ON": "Encendido automático",
+    "AUTO_POWER_ON_DOC": "Active o desactive la función de encendido automático. Cuando está activada, el sistema se enciende automáticamente cuando se aplica la alimentación o después de un fallo de alimentación."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Mejores radios",

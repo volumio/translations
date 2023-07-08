@@ -160,7 +160,11 @@
     "EXIT": "Sair",
     "OPEN_DEVICE": "Ir para o dispositivo",
     "PROGRESS": "Progresso",
-    "SEARCH_RESULTS_DESC": "Número pretendido de resultados de pesquisa"
+    "SEARCH_RESULTS_DESC": "Número pretendido de resultados de pesquisa",
+    "MINUTE": "Minuto",
+    "MINUTES": "Minutos",
+    "HOUR": "Hora",
+    "HOURS": "Horas"
   },
   "BROWSER": {
     "PLAY": "Reproduzir",
@@ -896,7 +900,16 @@
     "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Hora de fim da janela de atualização automática",
     "HDMI_ARC_SETTINGS": "Definições HDMI eARC/ARC",
     "HDMI_ARC_AUTOSWITCH": "Comutação automática HDMI eARC/ARC",
-    "HDMI_ARC_AUTOSWITCH_DOC": "Se estiver ativado, quando o televisor for ligado, o sistema muda automaticamente para a entrada HDMI eARC/ARC. Se estiver desactivada, o sistema continuará a reproduzir na última entrada selecionada."
+    "HDMI_ARC_AUTOSWITCH_DOC": "Se estiver ativado, quando o televisor for ligado, o sistema muda automaticamente para a entrada HDMI eARC/ARC. Se estiver desactivada, o sistema continuará a reproduzir na última entrada selecionada.",
+    "HARDWARE_SETTINGS": "Definições de hardware",
+    "LED_BRIGHTNESS": "Brilho do LED",
+    "LED_BRIGHTNESS_DOC": "Definir a luminosidade do LED no painel frontal",
+    "AUTO_STANDBY": "Espera automática",
+    "AUTO_STANDBY_DOC": "Ativar ou desativar a função Auto Standby. Quando activada, o sistema desliga-se automaticamente após um período de inatividade",
+    "STANDBY_TIMEOUT": "Tempo limite de espera",
+    "STANDBY_TIMEOUT_DOC": "Definir o tempo após o qual o sistema entrará automaticamente no modo de espera",
+    "AUTO_POWER_ON": "Ligação automática",
+    "AUTO_POWER_ON_DOC": "Ativar ou desativar a função de ligação automática. Quando activada, o sistema liga-se automaticamente quando a alimentação é aplicada ou após uma falha de energia"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Melhores rádios",

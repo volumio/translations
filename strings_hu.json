@@ -160,7 +160,11 @@
     "RETRY": "Próbálja újra",
     "EXIT": "Kilépés",
     "OPEN_DEVICE": "Menj az eszközhöz",
-    "PROGRESS": "Progress"
+    "PROGRESS": "Progress",
+    "MINUTE": "Perc",
+    "MINUTES": "Jegyzőkönyv",
+    "HOUR": "Óra",
+    "HOURS": "Órák"
   },
   "BROWSER": {
     "PLAY": "Lejátszás",
@@ -1015,7 +1019,16 @@
     "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Az automatikus frissítési ablak végének időpontja",
     "HDMI_ARC_SETTINGS": "HDMI eARC/ARC beállítások",
     "HDMI_ARC_AUTOSWITCH": "HDMI eARC/ARC automatikus váltás",
-    "HDMI_ARC_AUTOSWITCH_DOC": "Ha engedélyezve van, a TV bekapcsolásakor a rendszer automatikusan átvált a HDMI eARC/ARC bemenetre. Ha letiltja, a rendszer továbbra is az utoljára kiválasztott bemeneten játszik."
+    "HDMI_ARC_AUTOSWITCH_DOC": "Ha engedélyezve van, a TV bekapcsolásakor a rendszer automatikusan átvált a HDMI eARC/ARC bemenetre. Ha letiltja, a rendszer továbbra is az utoljára kiválasztott bemeneten játszik.",
+    "HARDWARE_SETTINGS": "Hardver beállítások",
+    "LED_BRIGHTNESS": "LED fényerő",
+    "LED_BRIGHTNESS_DOC": "A LED fényerejének beállítása az előlapon",
+    "AUTO_STANDBY": "Automatikus készenlét",
+    "AUTO_STANDBY_DOC": "Az automatikus készenléti funkció engedélyezése vagy letiltása. Ha engedélyezve van, a rendszer automatikusan kikapcsol egy bizonyos inaktív időszak után.",
+    "STANDBY_TIMEOUT": "Készenléti időkorlát",
+    "STANDBY_TIMEOUT_DOC": "Állítsa be azt az időt, amely után a rendszer automatikusan készenléti üzemmódba lép.",
+    "AUTO_POWER_ON": "Automatikus bekapcsolás",
+    "AUTO_POWER_ON_DOC": "Az automatikus bekapcsolás funkció engedélyezése vagy letiltása. Ha engedélyezve van, a rendszer automatikusan bekapcsol, amikor bekapcsol a tápellátás, vagy áramkimaradás után."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Legjobb rádiók",

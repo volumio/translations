@@ -160,7 +160,11 @@
     "SEARCH_RESULTS_TITLE": "Numero di risultati della ricerca",
     "ARTIST_NOT_FOUND_IN_YOUR_LIBRARY": "Artista non trovato nella tua libreria",
     "ALBUM_NOT_FOUND_IN_YOUR_LIBRARY": "Album non trovato nella libreria",
-    "SEARCH_RESULTS_DESC": "Numero desiderato di risultati della ricerca"
+    "SEARCH_RESULTS_DESC": "Numero desiderato di risultati della ricerca",
+    "MINUTE": "Minuto",
+    "MINUTES": "Verbale",
+    "HOUR": "Ora",
+    "HOURS": "Orario"
   },
   "BROWSER": {
     "PLAY": "Riproduci",
@@ -1021,7 +1025,16 @@
     "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Ora di fine della finestra di aggiornamento automatico",
     "HDMI_ARC_SETTINGS": "Impostazioni HDMI eARC/ARC",
     "HDMI_ARC_AUTOSWITCH": "Commutazione automatica HDMI eARC/ARC",
-    "HDMI_ARC_AUTOSWITCH_DOC": "Se abilitato, all'accensione del televisore il sistema passa automaticamente all'ingresso HDMI eARC/ARC. Se è disattivato, il sistema continuerà a riprodurre sull'ultimo ingresso selezionato."
+    "HDMI_ARC_AUTOSWITCH_DOC": "Se abilitato, all'accensione del televisore il sistema passa automaticamente all'ingresso HDMI eARC/ARC. Se è disattivato, il sistema continuerà a riprodurre sull'ultimo ingresso selezionato.",
+    "HARDWARE_SETTINGS": "Impostazioni hardware",
+    "LED_BRIGHTNESS": "Luminosità del LED",
+    "LED_BRIGHTNESS_DOC": "Impostazione della luminosità del LED sul pannello frontale",
+    "AUTO_STANDBY": "Auto Standby",
+    "AUTO_STANDBY_DOC": "Abilitare o disabilitare la funzione di standby automatico. Se abilitata, il sistema si spegne automaticamente dopo un periodo di inattività.",
+    "STANDBY_TIMEOUT": "Timeout di standby",
+    "STANDBY_TIMEOUT_DOC": "Impostare il tempo dopo il quale il sistema passa automaticamente in modalità standby.",
+    "AUTO_POWER_ON": "Accensione automatica",
+    "AUTO_POWER_ON_DOC": "Abilitare o disabilitare la funzione di accensione automatica. Quando è abilitata, il sistema si accende automaticamente quando viene alimentato o dopo un'interruzione di corrente."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Le Radio Migliori",

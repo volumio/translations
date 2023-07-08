@@ -160,7 +160,11 @@
     "EXIT": "Utgång",
     "OPEN_DEVICE": "Gå till enhet",
     "PROGRESS": "Framsteg",
-    "SEARCH_RESULTS_DESC": "Önskat antal sökresultat"
+    "SEARCH_RESULTS_DESC": "Önskat antal sökresultat",
+    "MINUTE": "Minut",
+    "MINUTES": "Protokoll",
+    "HOUR": "Timme",
+    "HOURS": "Timmar"
   },
   "BROWSER": {
     "PLAY": "Spela",
@@ -1016,7 +1020,16 @@
     "AUTOMATIC_UPDATES_STOP_TIME_DOC": "Automatisk uppdatering sluttid för fönster",
     "HDMI_ARC_SETTINGS": "HDMI eARC/ARC-inställningar",
     "HDMI_ARC_AUTOSWITCH": "HDMI eARC/ARC automatisk omkoppling",
-    "HDMI_ARC_AUTOSWITCH_DOC": "Om den är aktiverad kommer systemet automatiskt att växla till HDMI eARC/ARC-ingången när TV:n slås på. Om den är avaktiverad fortsätter systemet att spela på den senast valda ingången."
+    "HDMI_ARC_AUTOSWITCH_DOC": "Om den är aktiverad kommer systemet automatiskt att växla till HDMI eARC/ARC-ingången när TV:n slås på. Om den är avaktiverad fortsätter systemet att spela på den senast valda ingången.",
+    "HARDWARE_SETTINGS": "Inställningar för maskinvara",
+    "LED_BRIGHTNESS": "Ljusstyrka för LED",
+    "LED_BRIGHTNESS_DOC": "Ställ in ljusstyrkan för lysdioden på frontpanelen",
+    "AUTO_STANDBY": "Auto Standby",
+    "AUTO_STANDBY_DOC": "Aktivera eller inaktivera funktionen Auto Standby. När funktionen är aktiverad stängs systemet automatiskt av efter en tids inaktivitet",
+    "STANDBY_TIMEOUT": "Timeout för standby",
+    "STANDBY_TIMEOUT_DOC": "Ställ in den tid efter vilken systemet automatiskt ska gå till standby-läge",
+    "AUTO_POWER_ON": "Automatisk påslagning",
+    "AUTO_POWER_ON_DOC": "Aktivera eller inaktivera funktionen Auto Power On. När funktionen är aktiverad slås systemet automatiskt på när strömmen slås på eller efter ett strömavbrott"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Bäst radio",

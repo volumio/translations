@@ -160,7 +160,11 @@
     "RETRY": "다시 시도",
     "EXIT": "종료",
     "OPEN_DEVICE": "디바이스로 이동",
-    "PROGRESS": "진행 상황"
+    "PROGRESS": "진행 상황",
+    "MINUTE": "분",
+    "MINUTES": "분",
+    "HOUR": "시간",
+    "HOURS": "시간"
   },
   "BROWSER": {
     "PLAY": "재생",
@@ -1015,7 +1019,16 @@
     "AUTOMATIC_UPDATES_STOP_TIME_DOC": "자동 업데이트 창 종료 시간",
     "HDMI_ARC_SETTINGS": "HDMI eARC/ARC 설정",
     "HDMI_ARC_AUTOSWITCH": "HDMI eARC/ARC 자동 스위치",
-    "HDMI_ARC_AUTOSWITCH_DOC": "이 기능을 활성화하면 TV를 켜면 시스템이 HDMI eARC/ARC 입력으로 자동 전환됩니다. 비활성화하면 시스템은 마지막으로 선택한 입력으로 계속 재생합니다."
+    "HDMI_ARC_AUTOSWITCH_DOC": "이 기능을 활성화하면 TV를 켜면 시스템이 HDMI eARC/ARC 입력으로 자동 전환됩니다. 비활성화하면 시스템은 마지막으로 선택한 입력으로 계속 재생합니다.",
+    "HARDWARE_SETTINGS": "하드웨어 설정",
+    "LED_BRIGHTNESS": "LED 밝기",
+    "LED_BRIGHTNESS_DOC": "전면 패널에서 LED 밝기 설정하기",
+    "AUTO_STANDBY": "자동 대기",
+    "AUTO_STANDBY_DOC": "자동 대기 기능을 활성화 또는 비활성화합니다. 활성화하면 일정 시간 동안 사용하지 않으면 시스템이 자동으로 꺼집니다.",
+    "STANDBY_TIMEOUT": "대기 시간 초과",
+    "STANDBY_TIMEOUT_DOC": "시스템이 자동으로 대기 모드로 전환되는 시간을 설정합니다.",
+    "AUTO_POWER_ON": "자동 전원 켜기",
+    "AUTO_POWER_ON_DOC": "자동 전원 켜기 기능을 활성화 또는 비활성화합니다. 활성화하면 전원이 인가되거나 정전이 발생한 후 시스템이 자동으로 켜집니다."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "베스트 라디오",
