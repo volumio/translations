@@ -1034,7 +1034,9 @@
     "STANDBY_TIMEOUT": "Timeout di standby",
     "STANDBY_TIMEOUT_DOC": "Impostare il tempo dopo il quale il sistema passa automaticamente in modalità standby.",
     "AUTO_POWER_ON": "Accensione automatica",
-    "AUTO_POWER_ON_DOC": "Abilitare o disabilitare la funzione di accensione automatica. Quando è abilitata, il sistema si accende automaticamente quando viene alimentato o dopo un'interruzione di corrente."
+    "AUTO_POWER_ON_DOC": "Abilitare o disabilitare la funzione di accensione automatica. Quando è abilitata, il sistema si accende automaticamente quando viene alimentato o dopo un'interruzione di corrente.",
+    "DISPLAY_BRIGHTNESS": "Luminosità del display",
+    "DISPLAY_BRIGHTNESS_DOC": "Impostare la luminosità del display"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Le Radio Migliori",

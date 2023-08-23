@@ -1028,7 +1028,9 @@
     "STANDBY_TIMEOUT": "대기 시간 초과",
     "STANDBY_TIMEOUT_DOC": "시스템이 자동으로 대기 모드로 전환되는 시간을 설정합니다.",
     "AUTO_POWER_ON": "자동 전원 켜기",
-    "AUTO_POWER_ON_DOC": "자동 전원 켜기 기능을 활성화 또는 비활성화합니다. 활성화하면 전원이 인가되거나 정전이 발생한 후 시스템이 자동으로 켜집니다."
+    "AUTO_POWER_ON_DOC": "자동 전원 켜기 기능을 활성화 또는 비활성화합니다. 활성화하면 전원이 인가되거나 정전이 발생한 후 시스템이 자동으로 켜집니다.",
+    "DISPLAY_BRIGHTNESS": "디스플레이 밝기",
+    "DISPLAY_BRIGHTNESS_DOC": "디스플레이 밝기 설정"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "베스트 라디오",

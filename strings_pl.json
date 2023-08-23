@@ -1028,7 +1028,9 @@
     "STANDBY_TIMEOUT": "Limit czasu w trybie gotowości",
     "STANDBY_TIMEOUT_DOC": "Ustaw czas, po którym system automatycznie przejdzie w tryb czuwania.",
     "AUTO_POWER_ON": "Automatyczne włączanie",
-    "AUTO_POWER_ON_DOC": "Włączenie lub wyłączenie funkcji automatycznego włączania. Po jej włączeniu system włączy się automatycznie po podłączeniu zasilania lub po awarii zasilania"
+    "AUTO_POWER_ON_DOC": "Włączenie lub wyłączenie funkcji automatycznego włączania. Po jej włączeniu system włączy się automatycznie po podłączeniu zasilania lub po awarii zasilania",
+    "DISPLAY_BRIGHTNESS": "Jasność wyświetlacza",
+    "DISPLAY_BRIGHTNESS_DOC": "Ustawianie jasności wyświetlacza"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najlepsze stacje radiowe",

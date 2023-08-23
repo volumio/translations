@@ -1029,7 +1029,9 @@
     "STANDBY_TIMEOUT": "Bekleme zaman aşımı",
     "STANDBY_TIMEOUT_DOC": "Sistemin otomatik olarak bekleme moduna geçeceği süreyi ayarlayın",
     "AUTO_POWER_ON": "Otomatik Güç Açma",
-    "AUTO_POWER_ON_DOC": "Otomatik Güç Açma özelliğini etkinleştirin veya devre dışı bırakın. Etkinleştirildiğinde, güç uygulandığında veya bir güç kesintisinden sonra sistem otomatik olarak açılır"
+    "AUTO_POWER_ON_DOC": "Otomatik Güç Açma özelliğini etkinleştirin veya devre dışı bırakın. Etkinleştirildiğinde, güç uygulandığında veya bir güç kesintisinden sonra sistem otomatik olarak açılır",
+    "DISPLAY_BRIGHTNESS": "Ekran Parlaklığı",
+    "DISPLAY_BRIGHTNESS_DOC": "Ekran parlaklığını ayarlama"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "En iyi Radyolar",

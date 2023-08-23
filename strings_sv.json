@@ -1029,7 +1029,9 @@
     "STANDBY_TIMEOUT": "Timeout för standby",
     "STANDBY_TIMEOUT_DOC": "Ställ in den tid efter vilken systemet automatiskt ska gå till standby-läge",
     "AUTO_POWER_ON": "Automatisk påslagning",
-    "AUTO_POWER_ON_DOC": "Aktivera eller inaktivera funktionen Auto Power On. När funktionen är aktiverad slås systemet automatiskt på när strömmen slås på eller efter ett strömavbrott"
+    "AUTO_POWER_ON_DOC": "Aktivera eller inaktivera funktionen Auto Power On. När funktionen är aktiverad slås systemet automatiskt på när strömmen slås på eller efter ett strömavbrott",
+    "DISPLAY_BRIGHTNESS": "Displayens ljusstyrka",
+    "DISPLAY_BRIGHTNESS_DOC": "Ställ in ljusstyrkan på displayen"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Bäst radio",

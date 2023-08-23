@@ -900,7 +900,9 @@
     "STANDBY_TIMEOUT": "Timeout for standby",
     "STANDBY_TIMEOUT_DOC": "Indstil den tid, hvorefter systemet automatisk skal gå i standbytilstand.",
     "AUTO_POWER_ON": "Automatisk tænding",
-    "AUTO_POWER_ON_DOC": "Aktivér eller deaktivér funktionen Auto Power On. Når den er aktiveret, vil systemet automatisk tænde, når der sættes strøm til, eller efter et strømsvigt."
+    "AUTO_POWER_ON_DOC": "Aktivér eller deaktivér funktionen Auto Power On. Når den er aktiveret, vil systemet automatisk tænde, når der sættes strøm til, eller efter et strømsvigt.",
+    "DISPLAY_BRIGHTNESS": "Skærmens lysstyrke",
+    "DISPLAY_BRIGHTNESS_DOC": "Indstil lysstyrken på displayet"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "De bedste radioer",

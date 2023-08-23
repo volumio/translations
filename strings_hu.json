@@ -1028,7 +1028,9 @@
     "STANDBY_TIMEOUT": "Készenléti időkorlát",
     "STANDBY_TIMEOUT_DOC": "Állítsa be azt az időt, amely után a rendszer automatikusan készenléti üzemmódba lép.",
     "AUTO_POWER_ON": "Automatikus bekapcsolás",
-    "AUTO_POWER_ON_DOC": "Az automatikus bekapcsolás funkció engedélyezése vagy letiltása. Ha engedélyezve van, a rendszer automatikusan bekapcsol, amikor bekapcsol a tápellátás, vagy áramkimaradás után."
+    "AUTO_POWER_ON_DOC": "Az automatikus bekapcsolás funkció engedélyezése vagy letiltása. Ha engedélyezve van, a rendszer automatikusan bekapcsol, amikor bekapcsol a tápellátás, vagy áramkimaradás után.",
+    "DISPLAY_BRIGHTNESS": "Kijelző fényerő",
+    "DISPLAY_BRIGHTNESS_DOC": "A kijelző fényerejének beállítása"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Legjobb rádiók",

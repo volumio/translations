@@ -1029,7 +1029,9 @@
     "STANDBY_TIMEOUT": "Časový limit pohotovostného režimu",
     "STANDBY_TIMEOUT_DOC": "Nastavenie času, po ktorom systém automaticky prejde do pohotovostného režimu",
     "AUTO_POWER_ON": "Automatické zapnutie",
-    "AUTO_POWER_ON_DOC": "Povolenie alebo zakázanie funkcie automatického zapnutia. Ak je táto funkcia povolená, systém sa automaticky zapne po pripojení napájania alebo po výpadku napájania."
+    "AUTO_POWER_ON_DOC": "Povolenie alebo zakázanie funkcie automatického zapnutia. Ak je táto funkcia povolená, systém sa automaticky zapne po pripojení napájania alebo po výpadku napájania.",
+    "DISPLAY_BRIGHTNESS": "Jas displeja",
+    "DISPLAY_BRIGHTNESS_DOC": "Nastavenie jasu displeja"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najlepšie rádia",

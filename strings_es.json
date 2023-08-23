@@ -1028,7 +1028,9 @@
     "STANDBY_TIMEOUT": "Tiempo de espera",
     "STANDBY_TIMEOUT_DOC": "Ajuste el tiempo tras el cual el sistema pasará automáticamente al modo de espera",
     "AUTO_POWER_ON": "Encendido automático",
-    "AUTO_POWER_ON_DOC": "Active o desactive la función de encendido automático. Cuando está activada, el sistema se enciende automáticamente cuando se aplica la alimentación o después de un fallo de alimentación."
+    "AUTO_POWER_ON_DOC": "Active o desactive la función de encendido automático. Cuando está activada, el sistema se enciende automáticamente cuando se aplica la alimentación o después de un fallo de alimentación.",
+    "DISPLAY_BRIGHTNESS": "Brillo de la pantalla",
+    "DISPLAY_BRIGHTNESS_DOC": "Ajustar el brillo de la pantalla"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Mejores radios",

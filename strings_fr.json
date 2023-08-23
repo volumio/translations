@@ -1031,7 +1031,9 @@
     "STANDBY_TIMEOUT": "Délai d'attente",
     "STANDBY_TIMEOUT_DOC": "Définir le délai après lequel le système passe automatiquement en mode veille",
     "AUTO_POWER_ON": "Mise sous tension automatique",
-    "AUTO_POWER_ON_DOC": "Active ou désactive la fonction de mise sous tension automatique. Lorsqu'elle est activée, le système s'allume automatiquement lors de la mise sous tension ou après une panne de courant."
+    "AUTO_POWER_ON_DOC": "Active ou désactive la fonction de mise sous tension automatique. Lorsqu'elle est activée, le système s'allume automatiquement lors de la mise sous tension ou après une panne de courant.",
+    "DISPLAY_BRIGHTNESS": "Luminosité de l'écran",
+    "DISPLAY_BRIGHTNESS_DOC": "Régler la luminosité de l'écran"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Meilleures Radios",

@@ -909,7 +909,9 @@
     "STANDBY_TIMEOUT": "Valmiustilan aikakatkaisu",
     "STANDBY_TIMEOUT_DOC": "Aseta aika, jonka jälkeen järjestelmä siirtyy automaattisesti valmiustilaan.",
     "AUTO_POWER_ON": "Automaattinen virran kytkentä",
-    "AUTO_POWER_ON_DOC": "Ota automaattinen virran kytkentä käyttöön tai poista se käytöstä. Kun se on käytössä, järjestelmä kytkeytyy automaattisesti päälle, kun virtaa kytketään tai sähkökatkoksen jälkeen."
+    "AUTO_POWER_ON_DOC": "Ota automaattinen virran kytkentä käyttöön tai poista se käytöstä. Kun se on käytössä, järjestelmä kytkeytyy automaattisesti päälle, kun virtaa kytketään tai sähkökatkoksen jälkeen.",
+    "DISPLAY_BRIGHTNESS": "Näytön kirkkaus",
+    "DISPLAY_BRIGHTNESS_DOC": "Näytön kirkkauden asettaminen"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Parhaat radiot",

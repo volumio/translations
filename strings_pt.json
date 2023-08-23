@@ -909,7 +909,9 @@
     "STANDBY_TIMEOUT": "Tempo limite de espera",
     "STANDBY_TIMEOUT_DOC": "Definir o tempo após o qual o sistema entrará automaticamente no modo de espera",
     "AUTO_POWER_ON": "Ligação automática",
-    "AUTO_POWER_ON_DOC": "Ativar ou desativar a função de ligação automática. Quando activada, o sistema liga-se automaticamente quando a alimentação é aplicada ou após uma falha de energia"
+    "AUTO_POWER_ON_DOC": "Ativar ou desativar a função de ligação automática. Quando activada, o sistema liga-se automaticamente quando a alimentação é aplicada ou após uma falha de energia",
+    "DISPLAY_BRIGHTNESS": "Brilho do ecrã",
+    "DISPLAY_BRIGHTNESS_DOC": "Definir a luminosidade do ecrã"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Melhores rádios",

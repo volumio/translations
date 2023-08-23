@@ -943,7 +943,9 @@
     "STANDBY_TIMEOUT": "スタンバイ・タイムアウト",
     "STANDBY_TIMEOUT_DOC": "システムが自動的にスタンバイモードに移行するまでの時間を設定します。",
     "AUTO_POWER_ON": "オートパワーオン",
-    "AUTO_POWER_ON_DOC": "オートパワーオン機能を有効または無効にします。有効にすると、電源投入時または停電後に自動的に電源がオンになります。"
+    "AUTO_POWER_ON_DOC": "オートパワーオン機能を有効または無効にします。有効にすると、電源投入時または停電後に自動的に電源がオンになります。",
+    "DISPLAY_BRIGHTNESS": "ディスプレイの明るさ",
+    "DISPLAY_BRIGHTNESS_DOC": "ディスプレイの明るさを設定する"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "ベストラジオ",

@@ -1029,7 +1029,9 @@
     "STANDBY_TIMEOUT": "待机超时",
     "STANDBY_TIMEOUT_DOC": "设置时间后，系统将自动进入待机模式",
     "AUTO_POWER_ON": "自动开机",
-    "AUTO_POWER_ON_DOC": "启用或停用自动开机功能。启用后，系统将在通电时或断电后自动开机。"
+    "AUTO_POWER_ON_DOC": "启用或停用自动开机功能。启用后，系统将在通电时或断电后自动开机。",
+    "DISPLAY_BRIGHTNESS": "显示屏亮度",
+    "DISPLAY_BRIGHTNESS_DOC": "设置显示屏亮度"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "最佳收音机",

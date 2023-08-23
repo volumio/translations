@@ -1081,7 +1081,9 @@
     "STANDBY_TIMEOUT": "Time-out stand-by",
     "STANDBY_TIMEOUT_DOC": "Stel de tijd in waarna het systeem automatisch in stand-bymodus gaat.",
     "AUTO_POWER_ON": "Automatisch inschakelen",
-    "AUTO_POWER_ON_DOC": "De functie Automatisch inschakelen in- of uitschakelen. Als deze functie is ingeschakeld, wordt het systeem automatisch ingeschakeld wanneer de stroom wordt ingeschakeld of na een stroomstoring."
+    "AUTO_POWER_ON_DOC": "De functie Automatisch inschakelen in- of uitschakelen. Als deze functie is ingeschakeld, wordt het systeem automatisch ingeschakeld wanneer de stroom wordt ingeschakeld of na een stroomstoring.",
+    "DISPLAY_BRIGHTNESS": "Helderheid display",
+    "DISPLAY_BRIGHTNESS_DOC": "De helderheid van het scherm instellen"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Beste radiostations",
