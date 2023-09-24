@@ -832,7 +832,8 @@
     "WEB_ALBUMART_SIZE_DOC": "Válassza ki az internetről letöltendő albumborító méretét. A magasabb minőség hoszabb betöltési idővel jár.",
     "UI_CONFIG_SELECT_TIMEZONE": "Időzóna kiválasztása",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "Válassza ki a rendszer időzónáját",
-    "USER_INTERFACE_MANIFEST": "Manifest"
+    "USER_INTERFACE_MANIFEST": "Manifest",
+    "SUPERSEARCH_INFINITY_SERVICES": "SuperSearch és Infinity Playback Enabled szolgáltatások"
   },
   "MAIN_MENU": {
     "ALARM": "Ébresztő",

@@ -833,7 +833,8 @@
     "WEB_ALBUMART_SIZE_DOC": "Voľba veľkosti obrázku obálky sťahovaného z internetu",
     "UI_CONFIG_SELECT_TIMEZONE": "Vyberte časové pásmo",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "Vyberte časové pásmo vášho systému",
-    "USER_INTERFACE_MANIFEST": "Manifest"
+    "USER_INTERFACE_MANIFEST": "Manifest",
+    "SUPERSEARCH_INFINITY_SERVICES": "Služby SuperSearch a Infinity Playback Enabled"
   },
   "MAIN_MENU": {
     "ALARM": "Budík",

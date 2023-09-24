@@ -832,7 +832,8 @@
     "WEB_ALBUMART_SIZE_DOC": "Wybierz rozmiar okładki pobieranej z sieci. Wyższa jakość wymaga dłższego czasu na pobranie pliku. Niższe wartości mogą poprawić czas ładowania kosztem jakości.",
     "UI_CONFIG_SELECT_TIMEZONE": "Wybierz strefę czasową",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "Wybierz strefę czasową systemu",
-    "USER_INTERFACE_MANIFEST": "Manifest"
+    "USER_INTERFACE_MANIFEST": "Manifest",
+    "SUPERSEARCH_INFINITY_SERVICES": "Usługi SuperSearch i Infinity Playback Enabled"
   },
   "MAIN_MENU": {
     "ALARM": "Budzik",

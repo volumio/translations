@@ -833,7 +833,8 @@
     "WEB_ALBUMART_SIZE_DOC": "Välj storlek för skivomslag som laddas ner från webben: högre kvalitet kräver längre inläsningstid. Lägre värden kan förbättra inläsningstiden.",
     "UI_CONFIG_SELECT_TIMEZONE": "Välj tidszon",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "Välj tidszon för ditt system",
-    "USER_INTERFACE_MANIFEST": "Manifest"
+    "USER_INTERFACE_MANIFEST": "Manifest",
+    "SUPERSEARCH_INFINITY_SERVICES": "Tjänster med SuperSearch och Infinity Playback"
   },
   "MAIN_MENU": {
     "ALARM": "Alarm",

@@ -832,7 +832,8 @@
     "WEB_ALBUMART_SIZE_DOC": "Selecciona el tamaño de la carátula del álbum descargada de la web: una mayor calidad requiere tiempos de carga más largos. Los valores más bajos pueden mejorar los tiempos de carga.",
     "UI_CONFIG_SELECT_TIMEZONE": "Seleccione la zona horaria",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "Seleccione la zona horaria de su sistema",
-    "USER_INTERFACE_MANIFEST": "Manifiesto"
+    "USER_INTERFACE_MANIFEST": "Manifiesto",
+    "SUPERSEARCH_INFINITY_SERVICES": "Servicios SuperSearch e Infinity Playback Enabled"
   },
   "MAIN_MENU": {
     "ALARM": "Alarma",

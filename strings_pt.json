@@ -469,7 +469,8 @@
     "WEB_ALBUMART_SIZE_DOC": "Escolha o tamanho da arte do álbum descarregada da Web: uma qualidade superior requer tempos de carregamento mais longos. Valores mais baixos podem melhorar os tempos de carregamento.",
     "UI_CONFIG_SELECT_TIMEZONE": "Selecionar fuso horário",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "Seleccione o fuso horário do seu sistema",
-    "USER_INTERFACE_MANIFEST": "Manifesto"
+    "USER_INTERFACE_MANIFEST": "Manifesto",
+    "SUPERSEARCH_INFINITY_SERVICES": "Serviços habilitados para SuperSearch e Infinity Playback"
   },
   "MAIN_MENU": {
     "ALARM": "Despertador",

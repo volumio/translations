@@ -554,7 +554,8 @@
     "WEB_ALBUMART_ENABLE": "Web albumo menas",
     "WEB_ALBUMART_ENABLE_DOC": "Įgalinti albumo paveikslėlio paiešką iš interneto, jei failų aplanke nerandama jokio paveikslėlio.",
     "WEB_ALBUMART_SIZE": "Interneto albumo menas Dydis",
-    "WEB_ALBUMART_SIZE_DOC": "Pasirinkite iš žiniatinklio atsisiųsto albumo meno dydį: dėl aukštesnės kokybės reikia ilgesnio įkėlimo laiko. Mažesnės vertės gali pagerinti įkėlimo laiką."
+    "WEB_ALBUMART_SIZE_DOC": "Pasirinkite iš žiniatinklio atsisiųsto albumo meno dydį: dėl aukštesnės kokybės reikia ilgesnio įkėlimo laiko. Mažesnės vertės gali pagerinti įkėlimo laiką.",
+    "SUPERSEARCH_INFINITY_SERVICES": "\"SuperSearch\" ir \"Infinity Playback\" įgalintos paslaugos"
   },
   "MYVOLUMIO": {
     "ENABLE_YOUR_DEVICE_TO_USE_THIS_FUNCTIONALITY": "Norėdami naudotis šia funkcija ,savo įrenginyje, įrenginių sąraše įjunkite „MyVolumio“",

@@ -832,7 +832,8 @@
     "WEB_ALBUMART_SIZE_DOC": "인터넷을 통해서 다운로드 받을 앨범아트 크기: 고화질 일 수록 로딩 시간이 길고, 저화질일 수록 로딩 시간이 향상됩니다.",
     "UI_CONFIG_SELECT_TIMEZONE": "표준 시간대 선택",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "시스템의 표준 시간대 선택",
-    "USER_INTERFACE_MANIFEST": "매니페스트"
+    "USER_INTERFACE_MANIFEST": "매니페스트",
+    "SUPERSEARCH_INFINITY_SERVICES": "슈퍼서치 및 무한 재생 지원 서비스"
   },
   "MAIN_MENU": {
     "ALARM": "알람",

@@ -832,7 +832,8 @@
     "WEB_ALBUMART_SIZE_DOC": "Выберите размер обложки альбома, загружаемой из Интернета: более высокое качество требует более длительного времени загрузки. Более низкие значения могут улучшить время загрузки.",
     "UI_CONFIG_SELECT_TIMEZONE": "Выберите часовой пояс",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "Выберите часовой пояс вашей системы",
-    "USER_INTERFACE_MANIFEST": "Манифест"
+    "USER_INTERFACE_MANIFEST": "Манифест",
+    "SUPERSEARCH_INFINITY_SERVICES": "Службы с поддержкой SuperSearch и Infinity Playback"
   },
   "MAIN_MENU": {
     "ALARM": "Будильник",

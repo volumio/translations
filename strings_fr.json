@@ -835,7 +835,8 @@
     "WEB_ALBUMART_SIZE_DOC": "Choix de la taille de l'image pour la pochette. Si trop lent, utiliser une taille plus réduite.",
     "UI_CONFIG_SELECT_TIMEZONE": "Sélectionner le fuseau horaire",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "Sélectionnez le fuseau horaire de votre système",
-    "USER_INTERFACE_MANIFEST": "Manifest"
+    "USER_INTERFACE_MANIFEST": "Manifest",
+    "SUPERSEARCH_INFINITY_SERVICES": "Services SuperSearch et Infinity Playback"
   },
   "MAIN_MENU": {
     "ALARM": "Alarme",

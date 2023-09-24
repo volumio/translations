@@ -833,7 +833,8 @@
     "WEB_ALBUMART_SIZE_DOC": "Web'den indirilen Albüm resmi boyutunu seçin: daha yüksek kalite daha uzun süreleri gerektirir. Düşük değerler yükleme sürelerini iyileştirebilir.",
     "UI_CONFIG_SELECT_TIMEZONE": "Saat Dilimini Seçin",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "Sisteminizin Saat Dilimini Seçin",
-    "USER_INTERFACE_MANIFEST": "Manifesto"
+    "USER_INTERFACE_MANIFEST": "Manifesto",
+    "SUPERSEARCH_INFINITY_SERVICES": "SuperSearch ve Infinity Playback Özellikli Hizmetler"
   },
   "MAIN_MENU": {
     "ALARM": "Uyandırma/Alarm",

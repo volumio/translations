@@ -885,7 +885,8 @@
     "WEB_ALBUMART_SIZE_DOC": "Kies de grootte van albumillustraties gedownload van internet: hogere kwaliteit vereist langere laadtijden. Lagere waarden kunnen de laadtijden verbeteren.",
     "UI_CONFIG_SELECT_TIMEZONE": "Selecteer tijdzone",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "Selecteer de tijdzone van uw systeem",
-    "USER_INTERFACE_MANIFEST": "Manifest"
+    "USER_INTERFACE_MANIFEST": "Manifest",
+    "SUPERSEARCH_INFINITY_SERVICES": "Services met SuperSearch en Infinity-weergave"
   },
   "MAIN_MENU": {
     "ALARM": "Wekker",

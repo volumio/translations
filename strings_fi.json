@@ -469,7 +469,8 @@
     "WEB_ALBUMART_SIZE_DOC": "Valitse verkosta ladattavan albumitaiteen koko: korkeampi laatu vaatii pidempiä latausaikoja. Pienemmät arvot voivat parantaa latausaikoja.",
     "UI_CONFIG_SELECT_TIMEZONE": "Valitse aikavyöhyke",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "Valitse järjestelmäsi aikavyöhyke",
-    "USER_INTERFACE_MANIFEST": "Manifest"
+    "USER_INTERFACE_MANIFEST": "Manifest",
+    "SUPERSEARCH_INFINITY_SERVICES": "SuperSearch- ja Infinity Playback -palveluiden käyttöönotto"
   },
   "MAIN_MENU": {
     "ALARM": "Herätys",

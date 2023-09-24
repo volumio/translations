@@ -460,7 +460,8 @@
     "WEB_ALBUMART_SIZE_DOC": "Vælg størrelsen på Album art, der downloades fra nettet: Højere kvalitet kræver længere indlæsningstid. Lavere værdier kan forbedre indlæsningstiden.",
     "UI_CONFIG_SELECT_TIMEZONE": "Vælg tidszone",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "Vælg tidszone for dit system",
-    "USER_INTERFACE_MANIFEST": "Manifest"
+    "USER_INTERFACE_MANIFEST": "Manifest",
+    "SUPERSEARCH_INFINITY_SERVICES": "SuperSearch og Infinity Playback-aktiverede tjenester"
   },
   "MAIN_MENU": {
     "ALARM": "Alarm",

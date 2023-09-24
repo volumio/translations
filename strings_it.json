@@ -838,7 +838,8 @@
     "WEB_ALBUMART_SIZE_DOC": "Imposta la dimensione delle copertine scaricate: maggiore la qualità, maggiore il tempo di caricamento. Se la navigazione appare lenta, diminuire la qualità",
     "UI_CONFIG_SELECT_TIMEZONE": "Selezionare il fuso orario",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "Selezionare il fuso orario del sistema",
-    "USER_INTERFACE_MANIFEST": "Manifest"
+    "USER_INTERFACE_MANIFEST": "Manifest",
+    "SUPERSEARCH_INFINITY_SERVICES": "Servizi abilitati a SuperSearch e Infinity Playback"
   },
   "MAIN_MENU": {
     "ALARM": "Sveglie",

@@ -832,7 +832,8 @@
     "WEB_ALBUMART_SIZE_DOC": "Größe der Albencover auswählen. Je größer die Qualität, desto länger die Downloadzeit. Sollten sich die Ladezeiten verlängern, sollte diese Einstellung auf eine niedrigere Stufe gesetzt werden.",
     "UI_CONFIG_SELECT_TIMEZONE": "Zeitzone auswählen",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "Wählen Sie die Zeitzone für Ihr System",
-    "USER_INTERFACE_MANIFEST": "Manifest"
+    "USER_INTERFACE_MANIFEST": "Manifest",
+    "SUPERSEARCH_INFINITY_SERVICES": "SuperSearch und Infinity Playback Enabled Services"
   },
   "MAIN_MENU": {
     "ALARM": "Wecker",

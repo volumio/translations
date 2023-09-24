@@ -833,7 +833,8 @@
     "WEB_ALBUMART_SIZE_DOC": "选择从网络获取专辑图像的大小：高品质的图像需要更多下载时间，反之低品质则花费时间少",
     "UI_CONFIG_SELECT_TIMEZONE": "选择时区",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "选择你的系统的时区",
-    "USER_INTERFACE_MANIFEST": "表现形式"
+    "USER_INTERFACE_MANIFEST": "表现形式",
+    "SUPERSEARCH_INFINITY_SERVICES": "超级搜索和支持无限播放的服务"
   },
   "MAIN_MENU": {
     "ALARM": "闹钟",
