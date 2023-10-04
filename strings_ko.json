@@ -1031,7 +1031,10 @@
     "AUTO_POWER_ON": "자동 전원 켜기",
     "AUTO_POWER_ON_DOC": "자동 전원 켜기 기능을 활성화 또는 비활성화합니다. 활성화하면 전원이 인가되거나 정전이 발생한 후 시스템이 자동으로 켜집니다.",
     "DISPLAY_BRIGHTNESS": "디스플레이 밝기",
-    "DISPLAY_BRIGHTNESS_DOC": "디스플레이 밝기 설정"
+    "DISPLAY_BRIGHTNESS_DOC": "디스플레이 밝기 설정",
+    "HDMI_I2S_MODE": "HDMI I2S 모드",
+    "HDMI_I2S_MODE_PROTOCOL": "HDMI I2S 모드 프로토콜",
+    "HDMI_I2S_MODE_DOC": "HDMI I2S 프로토콜을 설정합니다. 이 설정은 일부 I2S DAC에서만 사용할 수 있으며, 무엇을 선택해야 할지 잘 모르겠다면 DAC 설명서 또는 제조업체에 문의하세요."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "베스트 라디오",

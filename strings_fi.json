@@ -912,7 +912,10 @@
     "AUTO_POWER_ON": "Automaattinen virran kytkentä",
     "AUTO_POWER_ON_DOC": "Ota automaattinen virran kytkentä käyttöön tai poista se käytöstä. Kun se on käytössä, järjestelmä kytkeytyy automaattisesti päälle, kun virtaa kytketään tai sähkökatkoksen jälkeen.",
     "DISPLAY_BRIGHTNESS": "Näytön kirkkaus",
-    "DISPLAY_BRIGHTNESS_DOC": "Näytön kirkkauden asettaminen"
+    "DISPLAY_BRIGHTNESS_DOC": "Näytön kirkkauden asettaminen",
+    "HDMI_I2S_MODE": "HDMI I2S-tila",
+    "HDMI_I2S_MODE_PROTOCOL": "HDMI I2S-tilan protokolla",
+    "HDMI_I2S_MODE_DOC": "Aseta HDMI I2S -protokolla. Tämä asetus on käytettävissä vain joissakin I2S DAC:issa, jos olet epävarma siitä, mitä valita, kysy DAC:n käyttöoppaasta tai sen valmistajalta."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Parhaat radiot",

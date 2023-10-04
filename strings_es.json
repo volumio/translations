@@ -1031,7 +1031,10 @@
     "AUTO_POWER_ON": "Encendido automático",
     "AUTO_POWER_ON_DOC": "Active o desactive la función de encendido automático. Cuando está activada, el sistema se enciende automáticamente cuando se aplica la alimentación o después de un fallo de alimentación.",
     "DISPLAY_BRIGHTNESS": "Brillo de la pantalla",
-    "DISPLAY_BRIGHTNESS_DOC": "Ajustar el brillo de la pantalla"
+    "DISPLAY_BRIGHTNESS_DOC": "Ajustar el brillo de la pantalla",
+    "HDMI_I2S_MODE": "HDMI Modo I2S",
+    "HDMI_I2S_MODE_PROTOCOL": "Protocolo HDMI Modo I2S",
+    "HDMI_I2S_MODE_DOC": "Ajuste el Protocolo HDMI I2S. Este ajuste sólo está disponible para algunos DAC I2S, en caso de duda consulte el manual de su DAC o a su fabricante."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Mejores radios",

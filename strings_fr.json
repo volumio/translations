@@ -1034,7 +1034,10 @@
     "AUTO_POWER_ON": "Mise sous tension automatique",
     "AUTO_POWER_ON_DOC": "Active ou désactive la fonction de mise sous tension automatique. Lorsqu'elle est activée, le système s'allume automatiquement lors de la mise sous tension ou après une panne de courant.",
     "DISPLAY_BRIGHTNESS": "Luminosité de l'écran",
-    "DISPLAY_BRIGHTNESS_DOC": "Régler la luminosité de l'écran"
+    "DISPLAY_BRIGHTNESS_DOC": "Régler la luminosité de l'écran",
+    "HDMI_I2S_MODE": "Mode HDMI I2S",
+    "HDMI_I2S_MODE_PROTOCOL": "HDMI I2S Mode Protocol",
+    "HDMI_I2S_MODE_DOC": "Réglez le protocole HDMI I2S. Ce paramètre n'est disponible que pour certains DAC I2S. En cas de doute, consultez le manuel de votre DAC ou son fabricant."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Meilleures Radios",

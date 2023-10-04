@@ -912,7 +912,10 @@
     "AUTO_POWER_ON": "Ligação automática",
     "AUTO_POWER_ON_DOC": "Ativar ou desativar a função de ligação automática. Quando activada, o sistema liga-se automaticamente quando a alimentação é aplicada ou após uma falha de energia",
     "DISPLAY_BRIGHTNESS": "Brilho do ecrã",
-    "DISPLAY_BRIGHTNESS_DOC": "Definir a luminosidade do ecrã"
+    "DISPLAY_BRIGHTNESS_DOC": "Definir a luminosidade do ecrã",
+    "HDMI_I2S_MODE": "Modo I2S HDMI",
+    "HDMI_I2S_MODE_PROTOCOL": "Protocolo do modo I2S HDMI",
+    "HDMI_I2S_MODE_DOC": "Definir o protocolo HDMI I2S. Esta definição só está disponível para alguns DACs I2S. Em caso de dúvida sobre o que escolher, consulte o manual do DAC ou o seu fabricante"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Melhores rádios",

@@ -1033,7 +1033,10 @@
     "AUTO_POWER_ON": "Automatické zapnutí",
     "AUTO_POWER_ON_DOC": "Povolení nebo zakázání funkce automatického zapnutí. Pokud je tato funkce povolena, systém se automaticky zapne po připojení napájení nebo po výpadku napájení.",
     "DISPLAY_BRIGHTNESS": "Jas displeje",
-    "DISPLAY_BRIGHTNESS_DOC": "Nastavení jasu displeje"
+    "DISPLAY_BRIGHTNESS_DOC": "Nastavení jasu displeje",
+    "HDMI_I2S_MODE": "Režim HDMI I2S",
+    "HDMI_I2S_MODE_PROTOCOL": "Protokol režimu HDMI I2S",
+    "HDMI_I2S_MODE_DOC": "Nastavte protokol HDMI I2S. Toto nastavení je k dispozici pouze pro některé převodníky I2S, pokud máte pochybnosti, jaký zvolit, podívejte se do příručky k převodníku nebo k jeho výrobci."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Nejlepší rádia",

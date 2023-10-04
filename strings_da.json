@@ -903,7 +903,10 @@
     "AUTO_POWER_ON": "Automatisk tænding",
     "AUTO_POWER_ON_DOC": "Aktivér eller deaktivér funktionen Auto Power On. Når den er aktiveret, vil systemet automatisk tænde, når der sættes strøm til, eller efter et strømsvigt.",
     "DISPLAY_BRIGHTNESS": "Skærmens lysstyrke",
-    "DISPLAY_BRIGHTNESS_DOC": "Indstil lysstyrken på displayet"
+    "DISPLAY_BRIGHTNESS_DOC": "Indstil lysstyrken på displayet",
+    "HDMI_I2S_MODE": "HDMI I2S-tilstand",
+    "HDMI_I2S_MODE_PROTOCOL": "HDMI I2S-tilstandsprotokol",
+    "HDMI_I2S_MODE_DOC": "Indstil HDMI I2S-protokollen. Denne indstilling er kun tilgængelig for nogle I2S-DAC'er. Hvis du er i tvivl om, hvad du skal vælge, kan du konsultere din DAC's manual eller producenten."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "De bedste radioer",

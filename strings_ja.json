@@ -946,7 +946,10 @@
     "AUTO_POWER_ON": "オートパワーオン",
     "AUTO_POWER_ON_DOC": "オートパワーオン機能を有効または無効にします。有効にすると、電源投入時または停電後に自動的に電源がオンになります。",
     "DISPLAY_BRIGHTNESS": "ディスプレイの明るさ",
-    "DISPLAY_BRIGHTNESS_DOC": "ディスプレイの明るさを設定する"
+    "DISPLAY_BRIGHTNESS_DOC": "ディスプレイの明るさを設定する",
+    "HDMI_I2S_MODE": "HDMI I2Sモード",
+    "HDMI_I2S_MODE_PROTOCOL": "HDMI I2Sモード・プロトコル",
+    "HDMI_I2S_MODE_DOC": "HDMI I2S プロトコルを設定します。この設定は、一部のI2S DACでのみ有効です。何を選択するか迷った場合は、DACのマニュアルまたは製造元にお問い合わせください。"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "ベストラジオ",

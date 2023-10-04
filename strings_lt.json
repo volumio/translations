@@ -990,7 +990,10 @@
     "AUTO_POWER_ON": "Automatinis įjungimas",
     "AUTO_POWER_ON_DOC": "Įjunkite arba išjunkite automatinio įjungimo funkciją. Kai ši funkcija įjungta, sistema automatiškai įsijungs, kai bus įjungtas maitinimas arba nutrūkus maitinimui.",
     "DISPLAY_BRIGHTNESS": "Ekrano ryškumas",
-    "DISPLAY_BRIGHTNESS_DOC": "Nustatykite ekrano ryškumą"
+    "DISPLAY_BRIGHTNESS_DOC": "Nustatykite ekrano ryškumą",
+    "HDMI_I2S_MODE": "HDMI I2S režimas",
+    "HDMI_I2S_MODE_PROTOCOL": "HDMI I2S režimo protokolas",
+    "HDMI_I2S_MODE_DOC": "Nustatykite HDMI I2S protokolą. Šis nustatymas galimas tik kai kuriems I2S DAC, jei abejojate, ką pasirinkti, pasitarkite su DAC vadovu arba jo gamintoju."
   },
   "MAIN_MENU": {
     "ALARM": "Žadintuvas",

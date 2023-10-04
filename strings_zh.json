@@ -1032,7 +1032,10 @@
     "AUTO_POWER_ON": "自动开机",
     "AUTO_POWER_ON_DOC": "启用或停用自动开机功能。启用后，系统将在通电时或断电后自动开机。",
     "DISPLAY_BRIGHTNESS": "显示屏亮度",
-    "DISPLAY_BRIGHTNESS_DOC": "设置显示屏亮度"
+    "DISPLAY_BRIGHTNESS_DOC": "设置显示屏亮度",
+    "HDMI_I2S_MODE": "HDMI I2S 模式",
+    "HDMI_I2S_MODE_PROTOCOL": "HDMI I2S 模式协议",
+    "HDMI_I2S_MODE_DOC": "设置 HDMI I2S 协议。此设置仅适用于某些 I2S DAC，如果对选择何种协议有疑问，请查阅 DAC 手册或其制造商的说明"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "最佳收音机",

@@ -1032,7 +1032,10 @@
     "AUTO_POWER_ON": "Otomatik Güç Açma",
     "AUTO_POWER_ON_DOC": "Otomatik Güç Açma özelliğini etkinleştirin veya devre dışı bırakın. Etkinleştirildiğinde, güç uygulandığında veya bir güç kesintisinden sonra sistem otomatik olarak açılır",
     "DISPLAY_BRIGHTNESS": "Ekran Parlaklığı",
-    "DISPLAY_BRIGHTNESS_DOC": "Ekran parlaklığını ayarlama"
+    "DISPLAY_BRIGHTNESS_DOC": "Ekran parlaklığını ayarlama",
+    "HDMI_I2S_MODE": "HDMI I2S Modu",
+    "HDMI_I2S_MODE_PROTOCOL": "HDMI I2S Modu Protokolü",
+    "HDMI_I2S_MODE_DOC": "HDMI I2S Protokolünü ayarlayın. Bu ayar yalnızca bazı I2S DAC'lar için kullanılabilir, hangisini seçeceğiniz konusunda şüpheniz varsa DAC'ınızın kılavuzuna veya üreticisine danışın"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "En iyi Radyolar",

@@ -1031,7 +1031,10 @@
     "AUTO_POWER_ON": "Automatisches Einschalten",
     "AUTO_POWER_ON_DOC": "Aktivieren oder deaktivieren Sie die Funktion \"Automatisches Einschalten\". Wenn diese Funktion aktiviert ist, schaltet sich das System automatisch ein, wenn der Strom eingeschaltet wird oder nach einem Stromausfall",
     "DISPLAY_BRIGHTNESS": "Display-Helligkeit",
-    "DISPLAY_BRIGHTNESS_DOC": "Einstellen der Helligkeit des Displays"
+    "DISPLAY_BRIGHTNESS_DOC": "Einstellen der Helligkeit des Displays",
+    "HDMI_I2S_MODE": "HDMI I2S Mode",
+    "HDMI_I2S_MODE_PROTOCOL": "HDMI I2S Mode Protocol",
+    "HDMI_I2S_MODE_DOC": "Stellen Sie das HDMI I2S-Protokoll ein. Diese Einstellung ist nur für einige I2S-DACs verfügbar. Im Zweifelsfall konsultieren Sie das Handbuch Ihres DACs oder dessen Hersteller."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Die besten Sender",

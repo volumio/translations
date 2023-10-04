@@ -1031,7 +1031,10 @@
     "AUTO_POWER_ON": "Automatyczne włączanie",
     "AUTO_POWER_ON_DOC": "Włączenie lub wyłączenie funkcji automatycznego włączania. Po jej włączeniu system włączy się automatycznie po podłączeniu zasilania lub po awarii zasilania",
     "DISPLAY_BRIGHTNESS": "Jasność wyświetlacza",
-    "DISPLAY_BRIGHTNESS_DOC": "Ustawianie jasności wyświetlacza"
+    "DISPLAY_BRIGHTNESS_DOC": "Ustawianie jasności wyświetlacza",
+    "HDMI_I2S_MODE": "Tryb HDMI I2S",
+    "HDMI_I2S_MODE_PROTOCOL": "Protokół trybu HDMI I2S",
+    "HDMI_I2S_MODE_DOC": "Ustaw protokół HDMI I2S. To ustawienie jest dostępne tylko dla niektórych przetworników cyfrowo-analogowych I2S, w razie wątpliwości co do wyboru należy skonsultować się z instrukcją obsługi przetwornika cyfrowo-analogowego lub jego producentem."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najlepsze stacje radiowe",

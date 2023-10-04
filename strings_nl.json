@@ -1084,7 +1084,10 @@
     "AUTO_POWER_ON": "Automatisch inschakelen",
     "AUTO_POWER_ON_DOC": "De functie Automatisch inschakelen in- of uitschakelen. Als deze functie is ingeschakeld, wordt het systeem automatisch ingeschakeld wanneer de stroom wordt ingeschakeld of na een stroomstoring.",
     "DISPLAY_BRIGHTNESS": "Helderheid display",
-    "DISPLAY_BRIGHTNESS_DOC": "De helderheid van het scherm instellen"
+    "DISPLAY_BRIGHTNESS_DOC": "De helderheid van het scherm instellen",
+    "HDMI_I2S_MODE": "HDMI I2S modus",
+    "HDMI_I2S_MODE_PROTOCOL": "HDMI I2S mode protocol",
+    "HDMI_I2S_MODE_DOC": "Stel het HDMI I2S-protocol in. Deze instelling is alleen beschikbaar voor sommige I2S DAC's. Raadpleeg de handleiding van je DAC of de fabrikant als je twijfelt over wat je moet kiezen."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Beste radiostations",

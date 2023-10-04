@@ -1032,7 +1032,10 @@
     "AUTO_POWER_ON": "Automatisk påslagning",
     "AUTO_POWER_ON_DOC": "Aktivera eller inaktivera funktionen Auto Power On. När funktionen är aktiverad slås systemet automatiskt på när strömmen slås på eller efter ett strömavbrott",
     "DISPLAY_BRIGHTNESS": "Displayens ljusstyrka",
-    "DISPLAY_BRIGHTNESS_DOC": "Ställ in ljusstyrkan på displayen"
+    "DISPLAY_BRIGHTNESS_DOC": "Ställ in ljusstyrkan på displayen",
+    "HDMI_I2S_MODE": "HDMI I2S-läge",
+    "HDMI_I2S_MODE_PROTOCOL": "Protokoll för HDMI I2S-läge",
+    "HDMI_I2S_MODE_DOC": "Ställ in HDMI I2S-protokoll. Denna inställning är endast tillgänglig för vissa I2S DACs, om du är osäker på vad du ska välja, kontakta din DACs manual eller dess tillverkare"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Bäst radio",
