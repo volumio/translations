@@ -306,7 +306,7 @@
     "SAVE_QUEUE_AS_PLAYLIST": "Sauver la queue comme Playlist",
     "CONSUME_PLAYLIST": "Écouter et effacer",
     "CLEAR_QUEUE": "Effacer la queue",
-    "INFINITY_PLAY": "Jeu de l'infini"
+    "INFINITY_PLAY": "Lecture infinie"
   },
   "NETWORKFS": {
     "NO_DRIVES_FOUND": "Pas de disque réseau trouvé",
@@ -492,19 +492,19 @@
     "ACTIVE_GROUP": "Groupe actif",
     "REMOVE_ALL_DEVICES": "Supprimer tous les appareils",
     "AVAILABLE_DEVICES": "Appareils disponibles",
-    "GROUP_LEADER": "Chef de groupe",
+    "GROUP_LEADER": "Appareil maître",
     "REMOTE_CONTROL_DEVICES": "Dispositifs de commande à distance",
     "ACTIVE_DEVICES": "Dispositifs actifs",
-    "CAST_DEVICES": "Dispositifs Cast",
+    "CAST_DEVICES": "Dispositifs pour caster",
     "LOCAL_PLAYBACK": "Jouer ici",
     "CONTINUE_PLAYING": "Jouer ici",
     "LOCAL_PLAYBACK_ENABLED": "La lecture locale est activée",
     "INPUTS": "Entrées",
     "PRESETS": "Préréglages",
     "GROUPING": "Regroupement",
-    "CAST": "Cast",
+    "CAST": "Caster",
     "SWITCH_DEVICE": "Contrôler d'autres dispositifs",
-    "NO_CAST_DEVICES": "Aucun dispositif Cast n'a été trouvé",
+    "NO_CAST_DEVICES": "Aucun dispositif pour caster n'a été trouvé",
     "NO_GROUPABLE_DEVICES": "Aucun dispositif groupable n'a été trouvé"
   },
   "SIDEMENU": {
@@ -755,7 +755,7 @@
     "MYVOLUMIO_WIZARD_NO_INTERNET": "Vous n'êtes pas connecté à Internet pour le moment, veuillez vous connecter à MyVolumio par la suite pour bénéficier de la meilleure expérience Volumio.",
     "MODAL_SUPERSEARCH_PREMIUM_TITLE": "Recherche textuelle Supersearch",
     "MODAL_SUPERSEARCH_PREMIUM_TEXT": "Recherche textuelle, lecture à l'infini grâce à l'intelligence artificielle",
-    "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "Intelligence Artificielle Lecture de l'infini"
+    "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "Intelligence Artificielle, Lecture de l'infini"
   },
   "MYVOLUMIO_PLANS": {
     "LATEST_NEWS": "Recevez notre Fil d'actualités MyVolumio",
@@ -787,9 +787,9 @@
     "CONTEMPORARY_UI": "Interface utilisateur web",
     "IOS_ANDROID_APP": "Applications iOS et Android",
     "NETWORK_STORAGE_SUPPORT": "Stockage en réseau Navigation",
-    "OVER_THE_AIR_UPDATES": "Mises à jour par voie hertzienne",
-    "AI_SUPERSEARCH": "Recherche textuelle en IA",
-    "AI_INFINITY_PLAYBACK": "AI Infinity Playback"
+    "OVER_THE_AIR_UPDATES": "Mises à jour",
+    "AI_SUPERSEARCH": "Recherche textuelle grâce à l'IA",
+    "AI_INFINITY_PLAYBACK": "Lecture infinie grâce à l'IA"
   },
   "APPEARANCE": {
     "ALBUMARTIST": "Albumartist",
