@@ -1057,6 +1057,7 @@
     "MENU_DATEADDED": "Дата добавления",
     "MENU_RELEASEDATE": "Дата выхода",
     "MENU_ARTIST": "Исполнитель",
+    "MENU_CREATEDDATE": "Дата создания",
     "TIDAL_ARTISTS": "Исполнители TIDAL",
     "TIDAL_ALBUMS": "Альбомы TIDAL",
     "TIDAL_TRACKS": "Треки TIDAL",
