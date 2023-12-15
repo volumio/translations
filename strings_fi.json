@@ -728,7 +728,8 @@
     "MODAL_SUPERSEARCH_PREMIUM_TITLE": "Supersearch-tekstihaku",
     "MODAL_SUPERSEARCH_PREMIUM_TEXT": "Tekstihaku, ääretön toisto tekoälyn avulla",
     "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "Tekoälyn ääretön toisto",
-    "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio sisältää tuen suoratoistopalveluille, kuten TIDAL, QOBUZ ja High Res Audio, sekä monia muita liitännäisiä. Saadaksesi täyden käyttöoikeuden niihin sinun on tilattava MyVolumio-suunnitelma. Mene osoitteeseen www.myvolumio.org ja aloita ilmainen kokeilu!"
+    "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio sisältää tuen suoratoistopalveluille, kuten TIDAL, QOBUZ ja High Res Audio, sekä monia muita liitännäisiä. Saadaksesi täyden käyttöoikeuden niihin sinun on tilattava MyVolumio-suunnitelma. Mene osoitteeseen www.myvolumio.org ja aloita ilmainen kokeilu!",
+    "PREMIUM_DEVICE": "Premium-laite"
   },
   "PLAYBACK_OPTIONS": {
     "ADVANCED_AUDIO_TWEAKS": "Advanced Audio Tweaks",
@@ -1068,7 +1069,8 @@
     "RECOMMENDED": "Suositeltu",
     "LOCAL": "Paikallinen (ei sovelleta kaikilla alueilla)",
     "EXCLUSIVE": "Yksinomainen",
-    "TOP_20": "Top 20"
+    "TOP_20": "Top 20",
+    "MENU_CREATEDDATE": "Luotu päivämäärä"
   },
   "VOLUMIO_CLOUD_QOBUZ": {
     "MY_MUSIC": "Musiikkini",

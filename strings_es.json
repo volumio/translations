@@ -752,7 +752,8 @@
     "MYVOLUMIO_WIZARD_NO_INTERNET": "No estás conectado a Internet en este momento, por favor inicia sesión en MiVolumio después para obtener la mejor experiencia Volumio.",
     "MODAL_SUPERSEARCH_PREMIUM_TITLE": "Superbúsqueda textual",
     "MODAL_SUPERSEARCH_PREMIUM_TEXT": "Búsqueda textual, reproducción infinita gracias a la Inteligencia Artificial",
-    "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "Inteligencia artificial reproducción infinita"
+    "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "Inteligencia artificial reproducción infinita",
+    "PREMIUM_DEVICE": "Dispositivo Premium"
   },
   "MYVOLUMIO_PLANS": {
     "LATEST_NEWS": "Recibe nuestras Noticias de MyVolumio",
@@ -1069,7 +1070,8 @@
     "LOCAL": "Regional (no se aplica a todas las regiones)",
     "EXCLUSIVE": "Exclusivo",
     "TOP_20": "Top 20",
-    "MENU_DATEADDED": "Fecha en que se añadió"
+    "MENU_DATEADDED": "Fecha en que se añadió",
+    "MENU_CREATEDDATE": "Fecha de creación"
   },
   "PLUGIN_TIDAL": {
     "SAVE_QUALITY_SUCCESS": "Configuración de calidad guardada correctamente",

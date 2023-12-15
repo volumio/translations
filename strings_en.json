@@ -804,7 +804,8 @@
     "MYVOLUMIO_NOT_ENABLED_ON_DEVICE": "MyVolumio is not enabled on this device",
     "PLAN_REQUIRED": "is required to use this functionality",
     "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio includes support for streaming services such as TIDAL, QOBUZ and  High Res Audio, as well as many additional plugins. In order to gain full access to them, you will need to subscribe a MyVolumio plan. Go to www.myvolumio.org to start a free trial!",
-    "UPGRADE_YOUR_PLAN_NOW": "Upgrade your plan now"
+    "UPGRADE_YOUR_PLAN_NOW": "Upgrade your plan now",
+    "PREMIUM_DEVICE": "Premium Device"
   },
   "MYVOLUMIO_PLANS": {
     "LATEST_NEWS": "Receive our MyVolumio News Feed",
@@ -1109,7 +1110,6 @@
     "MENU_DATEADDED": "Date added",
     "MENU_RELEASEDATE": "Release date",
     "MENU_ARTIST": "Artist",
-    "MENU_CREATEDDATE": "Created date",
     "TIDAL_ARTISTS": "TIDAL Artists",
     "TIDAL_ALBUMS": "TIDAL Albums",
     "TIDAL_TRACKS": "TIDAL Tracks",
@@ -1122,7 +1122,8 @@
     "RECOMMENDED": "Recommended",
     "LOCAL": "Local (not applicable all regions)",
     "EXCLUSIVE": "Exclusive",
-    "TOP_20": "Top 20"
+    "TOP_20": "Top 20",
+    "MENU_CREATEDDATE": "Created date"
   },
   "VOLUMIO_CLOUD_QOBUZ": {
     "MY_MUSIC": "My Music",

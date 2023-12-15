@@ -799,7 +799,8 @@
     "MYVOLUMIO_NOT_ENABLED_ON_DEVICE": "Šiame prietaise \"MyVolumio\" neįjungta",
     "PLAN_REQUIRED": "norint naudoti šią funkciją, reikia",
     "PLEASE_ENABLE_MY_VOLUMIO": "\"MyVolumio\" palaiko srautinio perdavimo paslaugas, tokias kaip TIDAL, QOBUZ ir \"High Res Audio\", taip pat daugybę papildomų papildinių. Norėdami gauti visišką prieigą prie jų, turite užsisakyti \"MyVolumio\" planą. Eikite į www.myvolumio.org ir pradėkite nemokamą bandomąją versiją!",
-    "UPGRADE_YOUR_PLAN_NOW": "Atnaujinkite savo planą dabar"
+    "UPGRADE_YOUR_PLAN_NOW": "Atnaujinkite savo planą dabar",
+    "PREMIUM_DEVICE": "\"Premium\" įrenginys"
   },
   "PLAYBACK_OPTIONS": {
     "SETTING_ERROR": "Klaida",
@@ -1069,7 +1070,8 @@
     "RECOMMENDED": "Rekomenduojama",
     "LOCAL": "Vietinis (taikomas ne visuose regionuose)",
     "EXCLUSIVE": "Išskirtinis",
-    "TOP_20": "Top 20"
+    "TOP_20": "Top 20",
+    "MENU_CREATEDDATE": "Sukūrimo data"
   },
   "VOLUMIO_CLOUD_QOBUZ": {
     "MY_MUSIC": "Mano muzika",

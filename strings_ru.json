@@ -752,7 +752,8 @@
     "MODAL_SUPERSEARCH_PREMIUM_TITLE": "Текстовый Суперпоиск",
     "MODAL_SUPERSEARCH_PREMIUM_TEXT": "Текстовый поиск, бесконечное воспроизведение с использованием ИИ",
     "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "Бесконечное воспроизведение с использованием ИИ",
-    "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio включает поддержку таких потоковых сервисов, как TIDAL, QOBUZ и High Res Audio, а также множество дополнительных плагинов. Чтобы получить к ним полный доступ, вам необходимо подписаться на тарифный план MyVolumio. Перейдите на сайт www.myvolumio.org, чтобы начать бесплатную пробную версию!"
+    "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio включает поддержку таких потоковых сервисов, как TIDAL, QOBUZ и High Res Audio, а также множество дополнительных плагинов. Чтобы получить к ним полный доступ, вам необходимо подписаться на тарифный план MyVolumio. Перейдите на сайт www.myvolumio.org, чтобы начать бесплатную пробную версию!",
+    "PREMIUM_DEVICE": "Устройство премиум-класса"
   },
   "MYVOLUMIO_PLANS": {
     "LATEST_NEWS": "Подписаться на нашу колонку новостей MyVolumio",
@@ -1057,7 +1058,6 @@
     "MENU_DATEADDED": "Дата добавления",
     "MENU_RELEASEDATE": "Дата выхода",
     "MENU_ARTIST": "Исполнитель",
-    "MENU_CREATEDDATE": "Дата создания",
     "TIDAL_ARTISTS": "Исполнители TIDAL",
     "TIDAL_ALBUMS": "Альбомы TIDAL",
     "TIDAL_TRACKS": "Треки TIDAL",
@@ -1070,7 +1070,8 @@
     "RECOMMENDED": "Рекомендации",
     "LOCAL": "Местные (применяется не во всех регионах)",
     "EXCLUSIVE": "Эксклюзивные",
-    "TOP_20": "Топ-20"
+    "TOP_20": "Топ-20",
+    "MENU_CREATEDDATE": "Дата создания"
   },
   "VOLUMIO_CLOUD_QOBUZ": {
     "MY_MUSIC": "Моя музыка",

@@ -752,7 +752,8 @@
     "MYVOLUMIO_WIZARD_NO_INTERNET": "Sie sind im Moment nicht mit dem Internet verbunden. Bitte melden Sie sich anschließend bei MyVolumio an, um Volumio optimal nutzen zu können.",
     "MODAL_SUPERSEARCH_PREMIUM_TITLE": "Supersuche Textsuche",
     "MODAL_SUPERSEARCH_PREMIUM_TEXT": "Textsuche, unendliche Wiedergabe durch künstliche Intelligenz",
-    "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "Künstliche Intelligenz - unendliche Wiedergabe"
+    "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "Künstliche Intelligenz - unendliche Wiedergabe",
+    "PREMIUM_DEVICE": "Premium-Gerät"
   },
   "MYVOLUMIO_PLANS": {
     "LATEST_NEWS": "Erhalte den MyVolumio Newsfeed",
@@ -1069,7 +1070,8 @@
     "MENU_DATEADDED": "Zuletzt hinzugefügt",
     "RECOMMENDED": "Empfohlen",
     "MIXES": "Mixes & Radio",
-    "TIDAL_ARTISTS": "TIDAL Interpreten"
+    "TIDAL_ARTISTS": "TIDAL Interpreten",
+    "MENU_CREATEDDATE": "Erstellungsdatum"
   },
   "VOLUMIO_CLOUD_QOBUZ": {
     "MY_MUSIC": "Meine Musik",

@@ -653,7 +653,8 @@
     "MYVOLUMIO_WIZARD_NO_INTERNET": "Jelenleg nincs internetkapcsolata, kérjük, jelentkezzen be a MyVolumio rendszerbe, hogy a legjobb Volumio-élményt élvezhesse.",
     "MODAL_SUPERSEARCH_PREMIUM_TITLE": "Szuperkeresés szöveges keresés",
     "MODAL_SUPERSEARCH_PREMIUM_TEXT": "Szöveges keresés, végtelenített lejátszás mesterséges intelligenciával",
-    "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "Mesterséges intelligencia végtelen lejátszás"
+    "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "Mesterséges intelligencia végtelen lejátszás",
+    "PREMIUM_DEVICE": "Prémium készülék"
   },
   "WIZARD": {
     "LANGUAGE": "Nyelv",
@@ -1080,7 +1081,8 @@
     "GENRES_AND_MOODS": "Műfajok és Hangulat",
     "RECOMMENDED": "Javasolt",
     "EXCLUSIVE": "Kizárólagos",
-    "LOCAL": "Helyi (nem érhető el minden régióban)"
+    "LOCAL": "Helyi (nem érhető el minden régióban)",
+    "MENU_CREATEDDATE": "Létrehozás dátuma"
   },
   "VOLUMIO_CLOUD_QOBUZ": {
     "MY_PLAYLISTS": "Lejátszási Listáim",

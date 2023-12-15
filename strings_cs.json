@@ -754,7 +754,8 @@
     "MODAL_SUPERSEARCH_PREMIUM_TITLE": "Textové vyhledávání Supersearch",
     "MODAL_SUPERSEARCH_PREMIUM_TEXT": "Textové vyhledávání, nekonečné přehrávání pomocí umělé inteligence",
     "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "Nekonečné přehrávání umělé inteligence",
-    "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio podporuje streamovací služby, jako jsou TIDAL, QOBUZ a High Res Audio, a mnoho dalších pluginů. Abyste k nim získali plný přístup, musíte si předplatit tarif MyVolumio. Přejděte na stránku www.myvolumio.org a spusťte bezplatnou zkušební verzi!"
+    "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio podporuje streamovací služby, jako jsou TIDAL, QOBUZ a High Res Audio, a mnoho dalších pluginů. Abyste k nim získali plný přístup, musíte si předplatit tarif MyVolumio. Přejděte na stránku www.myvolumio.org a spusťte bezplatnou zkušební verzi!",
+    "PREMIUM_DEVICE": "Prémiové zařízení"
   },
   "MYVOLUMIO_PLANS": {
     "LATEST_NEWS": "Dostávejte novinky MyVolumio News Feed",
@@ -1071,7 +1072,8 @@
     "RECOMMENDED": "Doporučené stránky",
     "LOCAL": "Místní (neplatí pro všechny regiony)",
     "EXCLUSIVE": "Exkluzivní",
-    "TOP_20": "Top 20"
+    "TOP_20": "Top 20",
+    "MENU_CREATEDDATE": "Datum vytvoření"
   },
   "VOLUMIO_CLOUD_QOBUZ": {
     "MY_MUSIC": "Moje hudba",

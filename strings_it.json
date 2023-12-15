@@ -755,7 +755,8 @@
     "RECOVER_PASSWORD_SENT_MESSAGE": "Abbiamo appena inviato alla vostra mail le istruzioni su come reimpostare la vostra password.",
     "GO_TO_LOGIN": "Fatto? Vai al login",
     "MYVOLUMIO_WIZARD_NO_INTERNET": "Non sei connesso a Internet al momento, accedi a MyVolumio in seguito per ottenere la migliore esperienza Volumio.",
-    "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio include il supporto per servizi di streaming come TIDAL, QOBUZ e High Res Audio, oltre a numerosi plugin aggiuntivi. Per potervi accedere completamente, è necessario sottoscrivere un piano MyVolumio. Andate su www.myvolumio.org per iniziare una prova gratuita!"
+    "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio include il supporto per servizi di streaming come TIDAL, QOBUZ e High Res Audio, oltre a numerosi plugin aggiuntivi. Per potervi accedere completamente, è necessario sottoscrivere un piano MyVolumio. Andate su www.myvolumio.org per iniziare una prova gratuita!",
+    "PREMIUM_DEVICE": "Dispositivo Premium"
   },
   "MYVOLUMIO_PLANS": {
     "LATEST_NEWS": "Ricevi tutte le ultime notizie su MyVolumio",
@@ -1127,7 +1128,8 @@
     "RECOMMENDED": "Consigliato",
     "LOCAL": "Locale (non applicabile a tutte le regioni)",
     "EXCLUSIVE": "Esclusivo",
-    "TOP_20": "Top 20"
+    "TOP_20": "Top 20",
+    "MENU_CREATEDDATE": "Data di creazione"
   },
   "VOLUMIO_CLOUD_QOBUZ": {
     "MY_MUSIC": "La mia musica",

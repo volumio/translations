@@ -753,7 +753,8 @@
     "MODAL_SUPERSEARCH_PREMIUM_TITLE": "Supersearch textuell sökning",
     "MODAL_SUPERSEARCH_PREMIUM_TEXT": "Textsökning, oändlig uppspelning som drivs av artificiell intelligens",
     "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "Artificiell intelligens oändlighet uppspelning",
-    "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio har stöd för streamingtjänster som TIDAL, QOBUZ och High Res Audio, samt många ytterligare plugins. För att få full tillgång till dem måste du prenumerera på en MyVolumio-plan. Gå till www.myvolumio.org för att starta en kostnadsfri provperiod!"
+    "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio har stöd för streamingtjänster som TIDAL, QOBUZ och High Res Audio, samt många ytterligare plugins. För att få full tillgång till dem måste du prenumerera på en MyVolumio-plan. Gå till www.myvolumio.org för att starta en kostnadsfri provperiod!",
+    "PREMIUM_DEVICE": "Premium-enhet"
   },
   "MYVOLUMIO_PLANS": {
     "LATEST_NEWS": "Ta emot vår MyVolumio-nyhetsfeed",
@@ -1070,7 +1071,8 @@
     "RECOMMENDED": "Rekommenderade",
     "LOCAL": "Lokal (gäller inte alla regioner)",
     "EXCLUSIVE": "Exklusiv",
-    "TOP_20": "Topp 20"
+    "TOP_20": "Topp 20",
+    "MENU_CREATEDDATE": "Skapat datum"
   },
   "VOLUMIO_CLOUD_QOBUZ": {
     "MY_MUSIC": "Min musik",

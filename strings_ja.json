@@ -762,7 +762,8 @@
     "MODAL_SUPERSEARCH_PREMIUM_TITLE": "スーパーサーチ テキスト検索",
     "MODAL_SUPERSEARCH_PREMIUM_TEXT": "人工知能によるテキスト検索、無限再生。",
     "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "人工知能無限大再生",
-    "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumioは、TIDAL、QOBUZ、High Res Audioなどのストリーミングサービスに対応し、さらに多くのプラグインを搭載しています。これらをフルに利用するためには、MyVolumioのプランに加入する必要があります。www.myvolumio.org にアクセスし、無料トライアルを開始してください！"
+    "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumioは、TIDAL、QOBUZ、High Res Audioなどのストリーミングサービスに対応し、さらに多くのプラグインを搭載しています。これらをフルに利用するためには、MyVolumioのプランに加入する必要があります。www.myvolumio.org にアクセスし、無料トライアルを開始してください！",
+    "PREMIUM_DEVICE": "プレミアム・デバイス"
   },
   "PLAYBACK_OPTIONS": {
     "ADVANCED_AUDIO_TWEAKS": "Advanced Audio Tweaks",
@@ -1068,7 +1069,8 @@
     "RECOMMENDED": "おすすめ",
     "LOCAL": "ローカル（全地域に適用されるわけではありません）",
     "EXCLUSIVE": "排他的な",
-    "TOP_20": "トップ20"
+    "TOP_20": "トップ20",
+    "MENU_CREATEDDATE": "作成日"
   },
   "VOLUMIO_CLOUD_QOBUZ": {
     "MY_MUSIC": "私の音楽",

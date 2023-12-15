@@ -805,7 +805,8 @@
     "MYVOLUMIO_WIZARD_NO_INTERNET": "Je hebt momenteel geen internetverbinding, log dan later in op MyVolumio voor de beste Volumio-ervaring.",
     "MODAL_SUPERSEARCH_PREMIUM_TITLE": "Supersearch tekstueel zoeken",
     "MODAL_SUPERSEARCH_PREMIUM_TEXT": "Tekstueel zoeken, oneindig afspelen met kunstmatige intelligentie",
-    "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "Kunstmatige intelligentie oneindig afspelen"
+    "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "Kunstmatige intelligentie oneindig afspelen",
+    "PREMIUM_DEVICE": "Premium apparaat"
   },
   "MYVOLUMIO_PLANS": {
     "LATEST_NEWS": "Ontvang onze MyVolumio Nieuws Feed",
@@ -1122,7 +1123,8 @@
     "RECOMMENDED": "Aanbevolen",
     "LOCAL": "Lokaal (niet van toepassing op alle regio's)",
     "EXCLUSIVE": "Exclusief",
-    "TOP_20": "Top 20"
+    "TOP_20": "Top 20",
+    "MENU_CREATEDDATE": "Datum aangemaakt"
   },
   "VOLUMIO_CLOUD_QOBUZ": {
     "SELECTED_BY_THE_MEDIA": "Geselecteerd door de Media",

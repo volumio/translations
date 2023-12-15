@@ -719,7 +719,8 @@
     "MODAL_SUPERSEARCH_PREMIUM_TITLE": "Supersearch tekstuel søgning",
     "MODAL_SUPERSEARCH_PREMIUM_TEXT": "Tekstsøgning, uendelig afspilning drevet af kunstig intelligens",
     "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "Kunstig intelligens uendelig afspilning",
-    "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio omfatter understøttelse af streamingtjenester som TIDAL, QOBUZ og High Res Audio samt mange ekstra plugins. For at få fuld adgang til dem skal du abonnere på et MyVolumio-abonnement. Gå til www.myvolumio.org for at starte en gratis prøveperiode!"
+    "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio omfatter understøttelse af streamingtjenester som TIDAL, QOBUZ og High Res Audio samt mange ekstra plugins. For at få fuld adgang til dem skal du abonnere på et MyVolumio-abonnement. Gå til www.myvolumio.org for at starte en gratis prøveperiode!",
+    "PREMIUM_DEVICE": "Premium-enhed"
   },
   "PLAYBACK_OPTIONS": {
     "ADVANCED_AUDIO_TWEAKS": "Avancerede lydjusteringer",
@@ -1068,7 +1069,8 @@
     "RECOMMENDED": "Anbefalet",
     "LOCAL": "Lokal (gælder ikke alle regioner)",
     "EXCLUSIVE": "Eksklusivt",
-    "TOP_20": "Top 20"
+    "TOP_20": "Top 20",
+    "MENU_CREATEDDATE": "Oprettet dato"
   },
   "VOLUMIO_CLOUD_QOBUZ": {
     "MY_MUSIC": "Min musik",

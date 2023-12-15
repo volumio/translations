@@ -786,7 +786,8 @@
     "MYVOLUMIO_WIZARD_NO_INTERNET": "W tej chwili nie masz połączenia z Internetem, zaloguj się do MyVolumio, aby uzyskać najlepsze wrażenia z korzystania z Volumio.",
     "MODAL_SUPERSEARCH_PREMIUM_TITLE": "Wyszukiwanie tekstowe Supersearch",
     "MODAL_SUPERSEARCH_PREMIUM_TEXT": "Wyszukiwanie tekstowe, odtwarzanie w nieskończoność obsługiwane przez sztuczną inteligencję",
-    "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "Odtwarzanie sztucznej inteligencji w nieskończoność"
+    "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "Odtwarzanie sztucznej inteligencji w nieskończoność",
+    "PREMIUM_DEVICE": "Urządzenie Premium"
   },
   "APPEARANCE": {
     "ALBUMARTIST": "Album - artysta",
@@ -1069,7 +1070,8 @@
     "RECOMMENDED": "Polecane",
     "TOP_20": "Top 20",
     "LOCAL": "Lokalne (nie dotyczy wszystkich regionów)",
-    "EXCLUSIVE": "Ekskluzywny"
+    "EXCLUSIVE": "Ekskluzywny",
+    "MENU_CREATEDDATE": "Data utworzenia"
   },
   "VOLUMIO_CLOUD_QOBUZ": {
     "QOBUZ_ARTISTS": "QOBUZ Wykonawcy",

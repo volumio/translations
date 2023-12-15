@@ -752,7 +752,8 @@
     "MYVOLUMIO_WIZARD_NO_INTERNET": "현재 인터넷에 연결되어 있지 않으므로 나중에 MyVolumio에 로그인하여 최상의 Volumio 경험을 얻으십시오.",
     "MODAL_SUPERSEARCH_PREMIUM_TITLE": "슈퍼서치 텍스트 검색",
     "MODAL_SUPERSEARCH_PREMIUM_TEXT": "인공 지능으로 구동되는 텍스트 검색, 무한 재생",
-    "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "인공 지능 무한 재생"
+    "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "인공 지능 무한 재생",
+    "PREMIUM_DEVICE": "프리미엄 디바이스"
   },
   "MYVOLUMIO_PLANS": {
     "LATEST_NEWS": "MyVolumio 뉴스 피드를 수신합니다",
@@ -1069,7 +1070,8 @@
     "GENRES_AND_MOODS": "장르와 분위기",
     "RECOMMENDED": "추천",
     "EXCLUSIVE": "독점",
-    "TOP_20": "탑 20"
+    "TOP_20": "탑 20",
+    "MENU_CREATEDDATE": "생성된 날짜"
   },
   "VOLUMIO_CLOUD_QOBUZ": {
     "MY_ALBUMS": "내 앨범",

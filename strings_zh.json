@@ -753,7 +753,8 @@
     "MODAL_SUPERSEARCH_PREMIUM_TITLE": "超级搜索文本搜索",
     "MODAL_SUPERSEARCH_PREMIUM_TEXT": "文本搜索，由人工智能驱动的无限播放",
     "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "人工智能无限回放",
-    "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio包括对TIDAL、QOBUZ和High Res Audio等流媒体服务的支持，以及许多其他插件。为了获得完全的使用权，你需要订阅一个MyVolumio计划。请到www.myvolumio.org，开始免费试用!"
+    "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio包括对TIDAL、QOBUZ和High Res Audio等流媒体服务的支持，以及许多其他插件。为了获得完全的使用权，你需要订阅一个MyVolumio计划。请到www.myvolumio.org，开始免费试用!",
+    "PREMIUM_DEVICE": "高级设备"
   },
   "MYVOLUMIO_PLANS": {
     "LATEST_NEWS": "接收我们的 MyVolumio 新闻订阅",
@@ -1070,7 +1071,8 @@
     "RECOMMENDED": "建议",
     "LOCAL": "当地（不是所有地区都适用）",
     "EXCLUSIVE": "独家",
-    "TOP_20": "前20名"
+    "TOP_20": "前20名",
+    "MENU_CREATEDDATE": "创建日期"
   },
   "VOLUMIO_CLOUD_QOBUZ": {
     "MY_MUSIC": "我的音乐",

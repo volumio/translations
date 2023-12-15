@@ -728,7 +728,8 @@
     "MODAL_SUPERSEARCH_PREMIUM_TITLE": "Pesquisa textual Supersearch",
     "MODAL_SUPERSEARCH_PREMIUM_TEXT": "Pesquisa textual, reprodução infinita com recurso a Inteligência Artificial",
     "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "Inteligência artificial reprodução do infinito",
-    "PLEASE_ENABLE_MY_VOLUMIO": "O MyVolumio inclui suporte para serviços de streaming como o TIDAL, QOBUZ e High Res Audio, bem como muitos plugins adicionais. Para ter acesso total a eles, é necessário subscrever um plano MyVolumio. Aceda a www.myvolumio.org para iniciar uma avaliação gratuita!"
+    "PLEASE_ENABLE_MY_VOLUMIO": "O MyVolumio inclui suporte para serviços de streaming como o TIDAL, QOBUZ e High Res Audio, bem como muitos plugins adicionais. Para ter acesso total a eles, é necessário subscrever um plano MyVolumio. Aceda a www.myvolumio.org para iniciar uma avaliação gratuita!",
+    "PREMIUM_DEVICE": "Dispositivo Premium"
   },
   "PLAYBACK_OPTIONS": {
     "ADVANCED_AUDIO_TWEAKS": "Ajustes avançados de áudio",
@@ -1068,7 +1069,8 @@
     "RECOMMENDED": "Recomendado",
     "LOCAL": "Local (não aplicável a todas as regiões)",
     "EXCLUSIVE": "Exclusivo",
-    "TOP_20": "Top 20"
+    "TOP_20": "Top 20",
+    "MENU_CREATEDDATE": "Data de criação"
   },
   "VOLUMIO_CLOUD_QOBUZ": {
     "MY_MUSIC": "A minha música",

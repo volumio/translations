@@ -753,7 +753,8 @@
     "MODAL_SUPERSEARCH_PREMIUM_TITLE": "Supersearch metinsel arama",
     "MODAL_SUPERSEARCH_PREMIUM_TEXT": "Yapay Zeka ile desteklenen metinsel arama, sonsuz oynatma",
     "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "Yapay Zeka sonsuzluk oynatma",
-    "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio, TIDAL, QOBUZ ve High Res Audio gibi akış hizmetlerinin yanı sıra birçok ek eklenti için destek içerir. Bunlara tam erişim elde etmek için bir MyVolumio planına abone olmanız gerekecektir. Ücretsiz denemeye başlamak için www.myvolumio.org adresine gidin!"
+    "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio, TIDAL, QOBUZ ve High Res Audio gibi akış hizmetlerinin yanı sıra birçok ek eklenti için destek içerir. Bunlara tam erişim elde etmek için bir MyVolumio planına abone olmanız gerekecektir. Ücretsiz denemeye başlamak için www.myvolumio.org adresine gidin!",
+    "PREMIUM_DEVICE": "Premium Cihaz"
   },
   "MYVOLUMIO_PLANS": {
     "LATEST_NEWS": "MyVolumio Haberler yayınımızı alın",
@@ -1070,7 +1071,8 @@
     "RECOMMENDED": "Tavsiye edilir",
     "LOCAL": "Yerel (tüm bölgeler için geçerli değildir)",
     "EXCLUSIVE": "Özel",
-    "TOP_20": "İlk 20"
+    "TOP_20": "İlk 20",
+    "MENU_CREATEDDATE": "Oluşturulma tarihi"
   },
   "VOLUMIO_CLOUD_QOBUZ": {
     "MY_MUSIC": "Benim Müziğim",
