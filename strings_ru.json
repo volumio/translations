@@ -561,7 +561,7 @@
     "RESEND_VERIFICATION_EMAIL": "Не получили письмо с подтверждением? Повторно отправить письмо с подтверждением",
     "VERIFICATION_DONE_NOW_REMYVOLUMIO": "Я уже подтвердил свой акаунт, позвольте мне войти сейчас!",
     "PLEASE_VERIFY_EMAIL_TITLE": "",
-    "PLEASE_VERIFY_EMAIL_DESC": "ЧТобы использовать MyVolumio в полной мере, пожалуйста, нажмите на ссылку подтверждения, которую мы отправили на ваш адрес электронной почты",
+    "PLEASE_VERIFY_EMAIL_DESC": "Чтобы использовать MyVolumio в полной мере, пожалуйста, нажмите на ссылку подтверждения, которую мы отправили на ваш адрес электронной почты",
     "USER_EMAIL_NOT_VERIFIED": "Ваша электронная почта не подтверждена",
     "ERROR_CHANGE_PLAN_NO_PREVIOUS_PLAN_FOUND": "Ошибка, у вас еще нет оплаченного тарифного плана",
     "ERROR_CHANGE_PLAN_NO_PLAN_SELECTED": "Пожалуйста выберите тарифный план",
@@ -1090,7 +1090,11 @@
     "SELECTED_BY_THE_MEDIA": "Выбранные СМИ",
     "NEW_RELEASES": "Новые релизы",
     "FEATURED_LAST_CREATED": "Недавнее",
-    "FEATURED_EDITOR_PICKS": "Выбор редакции"
+    "FEATURED_EDITOR_PICKS": "Выбор редакции",
+    "SORT_AZ": "A-Z",
+    "SORT_DATEADDED": "Дата добавления",
+    "SORT_ARTIST": "Исполнитель",
+    "SORT_ALBUM": "Альбом"
   },
   "PLUGIN_CDCONTROLLER": {
     "INTERNAL_MEMORY": "Внутренняя память",
