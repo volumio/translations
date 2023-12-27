@@ -1090,7 +1090,11 @@
     "SELECTED_BY_THE_MEDIA": "Выбранные СМИ",
     "NEW_RELEASES": "Новые релизы",
     "FEATURED_LAST_CREATED": "Недавнее",
-    "FEATURED_EDITOR_PICKS": "Выбор редакции"
+    "FEATURED_EDITOR_PICKS": "Выбор редакции",
+    "SORT_AZ": "A-Z",
+    "SORT_DATEADDED": "Дата добавления",
+    "SORT_ARTIST": "Исполнитель",
+    "SORT_ALBUM": "Альбом"
   },
   "PLUGIN_CDCONTROLLER": {
     "INTERNAL_MEMORY": "Внутренняя память",
