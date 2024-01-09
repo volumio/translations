@@ -205,7 +205,8 @@
     "SETUP_NEW_DEVICE": "Apparaat toevoegen",
     "SELECT_A_DEVICE": "Selecteer een apparaat",
     "SEARCHING_DEVICES": "Op zoek naar apparaten",
-    "BACK_BUTTON": "Druk 2x om een ander apparaat te selecteren"
+    "BACK_BUTTON": "Druk 2x om een ander apparaat te selecteren",
+    "NO_DEVICE_FOUND_SETTINGS": "Als er geen apparaat wordt gevonden, controleer dan de privacyrechten van het lokale netwerk door hier te klikken"
   },
   "UI_SETTINGS": {
     "THEME_SETTINGS": "Thema instellingen",
@@ -1088,7 +1089,9 @@
     "DISPLAY_BRIGHTNESS_DOC": "De helderheid van het scherm instellen",
     "HDMI_I2S_MODE": "HDMI I2S modus",
     "HDMI_I2S_MODE_PROTOCOL": "HDMI I2S mode protocol",
-    "HDMI_I2S_MODE_DOC": "Stel het HDMI I2S-protocol in. Deze instelling is alleen beschikbaar voor sommige I2S DAC's. Raadpleeg de handleiding van je DAC of de fabrikant als je twijfelt over wat je moet kiezen."
+    "HDMI_I2S_MODE_DOC": "Stel het HDMI I2S-protocol in. Deze instelling is alleen beschikbaar voor sommige I2S DAC's. Raadpleeg de handleiding van je DAC of de fabrikant als je twijfelt over wat je moet kiezen.",
+    "SHOW_MOUSE_POINTER_DOC": "De muisaanwijzer op het scherm tonen of verbergen",
+    "SHOW_MOUSE_POINTER": "Muisaanwijzer tonen"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Beste radiostations",

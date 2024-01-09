@@ -1035,7 +1035,9 @@
     "DISPLAY_BRIGHTNESS_DOC": "A kijelző fényerejének beállítása",
     "HDMI_I2S_MODE": "HDMI I2S mód",
     "HDMI_I2S_MODE_PROTOCOL": "HDMI I2S módú protokoll",
-    "HDMI_I2S_MODE_DOC": "A HDMI I2S protokoll beállítása. Ez a beállítás csak néhány I2S DAC esetében érhető el, ha kétségei vannak, hogy mit válasszon, forduljon a DAC kézikönyvéhez vagy a gyártójához."
+    "HDMI_I2S_MODE_DOC": "A HDMI I2S protokoll beállítása. Ez a beállítás csak néhány I2S DAC esetében érhető el, ha kétségei vannak, hogy mit válasszon, forduljon a DAC kézikönyvéhez vagy a gyártójához.",
+    "SHOW_MOUSE_POINTER_DOC": "Az egérmutató megjelenítése vagy elrejtése a képernyőn",
+    "SHOW_MOUSE_POINTER": "Egérmutató megjelenítése"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Legjobb rádiók",
@@ -1178,6 +1180,7 @@
     "SETUP_NEW_DEVICE": "Új eszköz konfigurálása",
     "SELECT_A_DEVICE": "Válasszon ki egy eszközt",
     "SEARCHING_DEVICES": "Eszközök keresése",
-    "BACK_BUTTON": "Nyomja meg kétszer a vissza gombot egy másik eszköz kiválasztásához"
+    "BACK_BUTTON": "Nyomja meg kétszer a vissza gombot egy másik eszköz kiválasztásához",
+    "NO_DEVICE_FOUND_SETTINGS": "Ha nem talál eszközt, kérjük, ellenőrizze a Helyi hálózati adatvédelmi engedélyeket az itt található gomb megnyomásával."
   }
 }

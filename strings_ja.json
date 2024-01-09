@@ -950,7 +950,9 @@
     "DISPLAY_BRIGHTNESS_DOC": "ディスプレイの明るさを設定する",
     "HDMI_I2S_MODE": "HDMI I2Sモード",
     "HDMI_I2S_MODE_PROTOCOL": "HDMI I2Sモード・プロトコル",
-    "HDMI_I2S_MODE_DOC": "HDMI I2S プロトコルを設定します。この設定は、一部のI2S DACでのみ有効です。何を選択するか迷った場合は、DACのマニュアルまたは製造元にお問い合わせください。"
+    "HDMI_I2S_MODE_DOC": "HDMI I2S プロトコルを設定します。この設定は、一部のI2S DACでのみ有効です。何を選択するか迷った場合は、DACのマニュアルまたは製造元にお問い合わせください。",
+    "SHOW_MOUSE_POINTER_DOC": "画面上にマウスポインタを表示または非表示にする",
+    "SHOW_MOUSE_POINTER": "マウスポインタの表示"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "ベストラジオ",
@@ -1177,6 +1179,7 @@
     "SETUP_NEW_DEVICE": "新しいデバイスを設定する",
     "SELECT_A_DEVICE": "デバイスを選択する",
     "SEARCHING_DEVICES": "デバイスを探す",
-    "BACK_BUTTON": "2回押して戻ることで、別のデバイスを選択することができます"
+    "BACK_BUTTON": "2回押して戻ることで、別のデバイスを選択することができます",
+    "NO_DEVICE_FOUND_SETTINGS": "デバイスが見つからない場合は、ここを押してローカル・ネットワーク・プライバシーの許可を確認してください。"
   }
 }

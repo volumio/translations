@@ -1041,7 +1041,9 @@
     "DISPLAY_BRIGHTNESS_DOC": "Impostare la luminosità del display",
     "HDMI_I2S_MODE": "Modalità HDMI I2S",
     "HDMI_I2S_MODE_PROTOCOL": "Protocollo modalità HDMI I2S",
-    "HDMI_I2S_MODE_DOC": "Impostare il protocollo HDMI I2S. Questa impostazione è disponibile solo per alcuni DAC I2S; in caso di dubbi sulla scelta, consultare il manuale del DAC o il suo produttore."
+    "HDMI_I2S_MODE_DOC": "Impostare il protocollo HDMI I2S. Questa impostazione è disponibile solo per alcuni DAC I2S; in caso di dubbi sulla scelta, consultare il manuale del DAC o il suo produttore.",
+    "SHOW_MOUSE_POINTER_DOC": "Mostrare o nascondere il puntatore del mouse sullo schermo",
+    "SHOW_MOUSE_POINTER": "Mostra puntatore del mouse"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Le Radio Migliori",
@@ -1107,7 +1109,8 @@
     "SETUP_NEW_DEVICE": "Configurare un nuovo dispositivo",
     "SELECT_A_DEVICE": "Selezionare un dispositivo",
     "SEARCHING_DEVICES": "Alla ricerca di dispositivi",
-    "BACK_BUTTON": "Premere due volte indietro per selezionare un altro dispositivo"
+    "BACK_BUTTON": "Premere due volte indietro per selezionare un altro dispositivo",
+    "NO_DEVICE_FOUND_SETTINGS": "Se non viene trovato alcun dispositivo, controllare le autorizzazioni della Local Network Privacy premendo qui"
   },
   "VOLUMIO_CLOUD_TIDAL": {
     "MENU_TIDAL": "TIDAL",

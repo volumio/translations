@@ -994,7 +994,9 @@
     "DISPLAY_BRIGHTNESS_DOC": "Nustatykite ekrano ryškumą",
     "HDMI_I2S_MODE": "HDMI I2S režimas",
     "HDMI_I2S_MODE_PROTOCOL": "HDMI I2S režimo protokolas",
-    "HDMI_I2S_MODE_DOC": "Nustatykite HDMI I2S protokolą. Šis nustatymas galimas tik kai kuriems I2S DAC, jei abejojate, ką pasirinkti, pasitarkite su DAC vadovu arba jo gamintoju."
+    "HDMI_I2S_MODE_DOC": "Nustatykite HDMI I2S protokolą. Šis nustatymas galimas tik kai kuriems I2S DAC, jei abejojate, ką pasirinkti, pasitarkite su DAC vadovu arba jo gamintoju.",
+    "SHOW_MOUSE_POINTER_DOC": "Rodyti arba slėpti pelės žymeklį ekrane",
+    "SHOW_MOUSE_POINTER": "Rodyti pelės rodyklę"
   },
   "MAIN_MENU": {
     "ALARM": "Žadintuvas",
@@ -1178,6 +1180,7 @@
     "SETUP_NEW_DEVICE": "Naujo prietaiso konfigūravimas",
     "SELECT_A_DEVICE": "Pasirinkite įrenginį",
     "SEARCHING_DEVICES": "Ieškote prietaisų",
-    "BACK_BUTTON": "Du kartus paspauskite atgal, kad pasirinktumėte kitą prietaisą"
+    "BACK_BUTTON": "Du kartus paspauskite atgal, kad pasirinktumėte kitą prietaisą",
+    "NO_DEVICE_FOUND_SETTINGS": "Jei įrenginys nerastas, patikrinkite vietinio tinklo privatumo leidimus paspausdami čia"
   }
 }

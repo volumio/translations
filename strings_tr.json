@@ -1036,7 +1036,9 @@
     "DISPLAY_BRIGHTNESS_DOC": "Ekran parlaklığını ayarlama",
     "HDMI_I2S_MODE": "HDMI I2S Modu",
     "HDMI_I2S_MODE_PROTOCOL": "HDMI I2S Modu Protokolü",
-    "HDMI_I2S_MODE_DOC": "HDMI I2S Protokolünü ayarlayın. Bu ayar yalnızca bazı I2S DAC'lar için kullanılabilir, hangisini seçeceğiniz konusunda şüpheniz varsa DAC'ınızın kılavuzuna veya üreticisine danışın"
+    "HDMI_I2S_MODE_DOC": "HDMI I2S Protokolünü ayarlayın. Bu ayar yalnızca bazı I2S DAC'lar için kullanılabilir, hangisini seçeceğiniz konusunda şüpheniz varsa DAC'ınızın kılavuzuna veya üreticisine danışın",
+    "SHOW_MOUSE_POINTER_DOC": "Ekranda fare işaretçisini gösterme veya gizleme",
+    "SHOW_MOUSE_POINTER": "Fare İşaretçisini Göster"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "En iyi Radyolar",
@@ -1179,6 +1181,7 @@
     "SETUP_NEW_DEVICE": "Yeni bir cihaz yapılandırma",
     "SELECT_A_DEVICE": "Bir cihaz seçin",
     "SEARCHING_DEVICES": "Cihaz aranıyor",
-    "BACK_BUTTON": "Farklı bir cihaz seçmek için iki kez geri tuşuna basın"
+    "BACK_BUTTON": "Farklı bir cihaz seçmek için iki kez geri tuşuna basın",
+    "NO_DEVICE_FOUND_SETTINGS": "Hiçbir cihaz bulunamazsa lütfen buraya basarak Yerel Ağ Gizliliği izinlerini kontrol edin"
   }
 }

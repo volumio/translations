@@ -1035,7 +1035,9 @@
     "DISPLAY_BRIGHTNESS_DOC": "Ajustar el brillo de la pantalla",
     "HDMI_I2S_MODE": "HDMI Modo I2S",
     "HDMI_I2S_MODE_PROTOCOL": "Protocolo HDMI Modo I2S",
-    "HDMI_I2S_MODE_DOC": "Ajuste el Protocolo HDMI I2S. Este ajuste sólo está disponible para algunos DAC I2S, en caso de duda consulte el manual de su DAC o a su fabricante."
+    "HDMI_I2S_MODE_DOC": "Ajuste el Protocolo HDMI I2S. Este ajuste sólo está disponible para algunos DAC I2S, en caso de duda consulte el manual de su DAC o a su fabricante.",
+    "SHOW_MOUSE_POINTER_DOC": "Mostrar u ocultar el puntero del ratón en la pantalla",
+    "SHOW_MOUSE_POINTER": "Mostrar puntero del ratón"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Mejores radios",
@@ -1178,6 +1180,7 @@
     "SETUP_NEW_DEVICE": "Configurar un nuevo dispositivo",
     "SELECT_A_DEVICE": "Seleccione un dispositivo",
     "SEARCHING_DEVICES": "Búsqueda de dispositivos",
-    "BACK_BUTTON": "Pulsa atrás dos veces para seleccionar otro dispositivo"
+    "BACK_BUTTON": "Pulsa atrás dos veces para seleccionar otro dispositivo",
+    "NO_DEVICE_FOUND_SETTINGS": "Si no se encuentra ningún dispositivo, compruebe los permisos de privacidad de la red local pulsando aquí"
   }
 }

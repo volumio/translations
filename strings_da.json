@@ -907,7 +907,9 @@
     "DISPLAY_BRIGHTNESS_DOC": "Indstil lysstyrken på displayet",
     "HDMI_I2S_MODE": "HDMI I2S-tilstand",
     "HDMI_I2S_MODE_PROTOCOL": "HDMI I2S-tilstandsprotokol",
-    "HDMI_I2S_MODE_DOC": "Indstil HDMI I2S-protokollen. Denne indstilling er kun tilgængelig for nogle I2S-DAC'er. Hvis du er i tvivl om, hvad du skal vælge, kan du konsultere din DAC's manual eller producenten."
+    "HDMI_I2S_MODE_DOC": "Indstil HDMI I2S-protokollen. Denne indstilling er kun tilgængelig for nogle I2S-DAC'er. Hvis du er i tvivl om, hvad du skal vælge, kan du konsultere din DAC's manual eller producenten.",
+    "SHOW_MOUSE_POINTER_DOC": "Vis eller skjul musemarkøren på skærmen",
+    "SHOW_MOUSE_POINTER": "Vis musemarkøren"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "De bedste radioer",
@@ -1177,6 +1179,7 @@
     "SETUP_NEW_DEVICE": "Konfigurer en ny enhed",
     "SELECT_A_DEVICE": "Vælg en enhed",
     "SEARCHING_DEVICES": "På udkig efter enheder",
-    "BACK_BUTTON": "Tryk to gange på tilbage for at vælge en anden enhed"
+    "BACK_BUTTON": "Tryk to gange på tilbage for at vælge en anden enhed",
+    "NO_DEVICE_FOUND_SETTINGS": "Hvis der ikke findes nogen enhed, skal du kontrollere Local Network Privacy-tilladelser ved at trykke her"
   }
 }
