@@ -1091,7 +1091,11 @@
     "SELECTED_BY_THE_MEDIA": "Selecionado pelos meios de comunicação social",
     "NEW_RELEASES": "Novos lançamentos",
     "FEATURED_LAST_CREATED": "Última criação",
-    "FEATURED_EDITOR_PICKS": "Escolhas do editor"
+    "FEATURED_EDITOR_PICKS": "Escolhas do editor",
+    "SORT_AZ": "A-Z",
+    "SORT_DATEADDED": "Data de adição",
+    "SORT_ARTIST": "Artista",
+    "SORT_ALBUM": "Álbum"
   },
   "PLUGIN_CDCONTROLLER": {
     "INTERNAL_MEMORY": "Memória interna",

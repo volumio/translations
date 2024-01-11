@@ -1092,7 +1092,11 @@
     "SELECTED_BY_THE_MEDIA": "Žiniasklaida atrinko",
     "NEW_RELEASES": "Nauji leidiniai",
     "FEATURED_LAST_CREATED": "Paskutinis sukurtas",
-    "FEATURED_EDITOR_PICKS": "Redaktoriaus pasirinkimai"
+    "FEATURED_EDITOR_PICKS": "Redaktoriaus pasirinkimai",
+    "SORT_AZ": "A-Z",
+    "SORT_DATEADDED": "Pridėjimo data",
+    "SORT_ARTIST": "Menininkas",
+    "SORT_ALBUM": "Albumas"
   },
   "PLUGIN_CDCONTROLLER": {
     "INTERNAL_MEMORY": "Vidinė atmintis",

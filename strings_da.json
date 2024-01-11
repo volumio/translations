@@ -1091,7 +1091,11 @@
     "SELECTED_BY_THE_MEDIA": "Udvalgt af medierne",
     "NEW_RELEASES": "Nye udgivelser",
     "FEATURED_LAST_CREATED": "Sidst oprettet",
-    "FEATURED_EDITOR_PICKS": "Redaktørens valg"
+    "FEATURED_EDITOR_PICKS": "Redaktørens valg",
+    "SORT_AZ": "A-Z",
+    "SORT_DATEADDED": "Dato tilføjet",
+    "SORT_ARTIST": "Kunstner",
+    "SORT_ALBUM": "Album"
   },
   "PLUGIN_CDCONTROLLER": {
     "INTERNAL_MEMORY": "Intern hukommelse",

@@ -1093,7 +1093,11 @@
     "SELECTED_BY_THE_MEDIA": "Utvalda av media",
     "NEW_RELEASES": "Nya utgåvor",
     "FEATURED_LAST_CREATED": "Senast skapad",
-    "FEATURED_EDITOR_PICKS": "Redaktörens val"
+    "FEATURED_EDITOR_PICKS": "Redaktörens val",
+    "SORT_AZ": "A-Ö",
+    "SORT_DATEADDED": "Datum tillagt",
+    "SORT_ARTIST": "Konstnär",
+    "SORT_ALBUM": "Album"
   },
   "PLUGIN_CDCONTROLLER": {
     "INTERNAL_MEMORY": "Internt minne",

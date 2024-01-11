@@ -1093,7 +1093,11 @@
     "SELECTED_BY_THE_MEDIA": "Vybrané médiami",
     "NEW_RELEASES": "Nové vydania",
     "FEATURED_LAST_CREATED": "Naposledy vytvorené",
-    "FEATURED_EDITOR_PICKS": "Výbery redaktorov"
+    "FEATURED_EDITOR_PICKS": "Výbery redaktorov",
+    "SORT_AZ": "A-Z",
+    "SORT_DATEADDED": "Dátum pridania",
+    "SORT_ARTIST": "Umelec",
+    "SORT_ALBUM": "Album"
   },
   "PLUGIN_CDCONTROLLER": {
     "INTERNAL_MEMORY": "Interná pamäť",

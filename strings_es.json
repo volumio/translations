@@ -1103,7 +1103,11 @@
     "NEW_RELEASES": "Nuevos lanzamientos",
     "SELECTED_BY_THE_MEDIA": "Seleccionado por los medios",
     "FEATURED_LAST_CREATED": "Última creación",
-    "FEATURED_EDITOR_PICKS": "Selección del editor"
+    "FEATURED_EDITOR_PICKS": "Selección del editor",
+    "SORT_AZ": "A-Z",
+    "SORT_DATEADDED": "Fecha añadida",
+    "SORT_ARTIST": "Artista",
+    "SORT_ALBUM": "Álbum"
   },
   "PLUGIN_CDCONTROLLER": {
     "UNKNOWN_ARTIST": "Artista desconocido",

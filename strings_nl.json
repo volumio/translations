@@ -1146,7 +1146,11 @@
     "QOBUZ_PLAYLISTS": "QOBUZ Afspeellijsten",
     "DISCOVER": "Ontdek",
     "FEATURED_EDITOR_PICKS": "Redactie keuzes",
-    "PRESS_AWARDS": "Pers Awards"
+    "PRESS_AWARDS": "Pers Awards",
+    "SORT_AZ": "A-Z",
+    "SORT_DATEADDED": "Datum toegevoegd",
+    "SORT_ARTIST": "Kunstenaar",
+    "SORT_ALBUM": "Album"
   },
   "PLUGIN_CDCONTROLLER": {
     "RIP_IN_PROGRESS_MESSAGE": "Deze CD wordt op dit moment gekopieerd en kan niet benaderd worden tot de kopieer actie gereed is",

@@ -1103,7 +1103,11 @@
     "MY_ARTISTS": "Előadóim",
     "NEW_RELEASES": "Új Kiadványok",
     "FEATURED_LAST_CREATED": "Utoljára Létrehozva",
-    "FEATURED_EDITOR_PICKS": "Szerkesztő Válogatása"
+    "FEATURED_EDITOR_PICKS": "Szerkesztő Válogatása",
+    "SORT_AZ": "A-Z",
+    "SORT_DATEADDED": "Hozzáadás dátuma",
+    "SORT_ARTIST": "Művész",
+    "SORT_ALBUM": "Album"
   },
   "PLUGIN_CDCONTROLLER": {
     "RIP_IN_PROGRESS_MESSAGE": "Jelenleg a CD másolása van folyamatban, amíg a másolás be nem fejeződik a lemez nem érhető el",

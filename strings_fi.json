@@ -1091,7 +1091,11 @@
     "SELECTED_BY_THE_MEDIA": "Median valitsema",
     "NEW_RELEASES": "Uudet julkaisut",
     "FEATURED_LAST_CREATED": "Viimeksi luotu",
-    "FEATURED_EDITOR_PICKS": "Toimittajan valinnat"
+    "FEATURED_EDITOR_PICKS": "Toimittajan valinnat",
+    "SORT_AZ": "A-Z",
+    "SORT_DATEADDED": "Lisätty päivämäärä",
+    "SORT_ARTIST": "Taiteilija",
+    "SORT_ALBUM": "Albumi"
   },
   "PLUGIN_CDCONTROLLER": {
     "INTERNAL_MEMORY": "Sisäinen muisti",

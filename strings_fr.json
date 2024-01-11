@@ -1095,7 +1095,11 @@
     "NEW_RELEASES": "Nouvelles sorties",
     "FEATURED_LAST_CREATED": "Dernières créations",
     "FEATURED_EDITOR_PICKS": "Choix éditeur",
-    "QOBUZ_ARTISTS": "Artistes QOBUZ"
+    "QOBUZ_ARTISTS": "Artistes QOBUZ",
+    "SORT_AZ": "A-Z",
+    "SORT_DATEADDED": "Date d'ajout",
+    "SORT_ARTIST": "Artiste",
+    "SORT_ALBUM": "Album"
   },
   "PLUGIN_CDCONTROLLER": {
     "INTERNAL_MEMORY": "Mémoire interne",

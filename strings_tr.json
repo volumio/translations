@@ -1093,7 +1093,11 @@
     "SELECTED_BY_THE_MEDIA": "Medya Tarafından Seçildi",
     "NEW_RELEASES": "Yeni sürümler",
     "FEATURED_LAST_CREATED": "Son oluşturulan",
-    "FEATURED_EDITOR_PICKS": "Editör seçimleri"
+    "FEATURED_EDITOR_PICKS": "Editör seçimleri",
+    "SORT_AZ": "A-Z",
+    "SORT_DATEADDED": "Tarih eklendi",
+    "SORT_ARTIST": "Sanatçı",
+    "SORT_ALBUM": "Albüm"
   },
   "PLUGIN_CDCONTROLLER": {
     "INTERNAL_MEMORY": "Dahili Bellek",

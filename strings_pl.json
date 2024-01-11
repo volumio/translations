@@ -1092,7 +1092,11 @@
     "SELECTED_BY_QOBUZ": "Wybrane przez QOBUZ",
     "NEW_RELEASES": "Nowości",
     "FEATURED_LAST_CREATED": "Ostatnio utworzony",
-    "FEATURED_EDITOR_PICKS": "Wybór redaktorów"
+    "FEATURED_EDITOR_PICKS": "Wybór redaktorów",
+    "SORT_AZ": "A-Z",
+    "SORT_DATEADDED": "Data dodania",
+    "SORT_ARTIST": "Artysta",
+    "SORT_ALBUM": "Album"
   },
   "PLUGIN_CDCONTROLLER": {
     "RIP_IN_PROGRESS_MESSAGE": "Ta płyta jest aktualnie kopiowana i nie może być odtwarzana do momentu zakończenia operacji",

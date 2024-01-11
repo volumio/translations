@@ -1093,7 +1093,11 @@
     "SELECTED_BY_THE_MEDIA": "由媒体选择",
     "NEW_RELEASES": "新版本",
     "FEATURED_LAST_CREATED": "最后创建",
-    "FEATURED_EDITOR_PICKS": "编辑精选"
+    "FEATURED_EDITOR_PICKS": "编辑精选",
+    "SORT_AZ": "A-Z",
+    "SORT_DATEADDED": "添加日期",
+    "SORT_ARTIST": "艺术家",
+    "SORT_ALBUM": "相册"
   },
   "PLUGIN_CDCONTROLLER": {
     "INTERNAL_MEMORY": "内部存储器",

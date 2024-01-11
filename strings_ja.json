@@ -1091,7 +1091,11 @@
     "SELECTED_BY_THE_MEDIA": "メディアから選ばれる",
     "NEW_RELEASES": "新着情報",
     "FEATURED_LAST_CREATED": "最終作成",
-    "FEATURED_EDITOR_PICKS": "編集部が選ぶ"
+    "FEATURED_EDITOR_PICKS": "編集部が選ぶ",
+    "SORT_AZ": "A-Z",
+    "SORT_DATEADDED": "追加日",
+    "SORT_ARTIST": "アーティスト",
+    "SORT_ALBUM": "アルバム"
   },
   "PLUGIN_CDCONTROLLER": {
     "INTERNAL_MEMORY": "内蔵メモリー",

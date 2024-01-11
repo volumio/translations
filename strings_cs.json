@@ -1094,7 +1094,11 @@
     "SELECTED_BY_THE_MEDIA": "Vybráno médii",
     "NEW_RELEASES": "Nové verze",
     "FEATURED_LAST_CREATED": "Naposledy vytvořený",
-    "FEATURED_EDITOR_PICKS": "Výběr redakce"
+    "FEATURED_EDITOR_PICKS": "Výběr redakce",
+    "SORT_AZ": "A-Z",
+    "SORT_DATEADDED": "Datum přidání",
+    "SORT_ARTIST": "Umělec",
+    "SORT_ALBUM": "Album"
   },
   "PLUGIN_CDCONTROLLER": {
     "INTERNAL_MEMORY": "Interní paměť",

@@ -1092,7 +1092,11 @@
     "MY_MUSIC": "내 음악",
     "MY_PLAYLISTS": "내 플레이리스트",
     "MY_ARTISTS": "내 아티스트",
-    "QOBUZ_ARTISTS": "QOBUZ 아티스트"
+    "QOBUZ_ARTISTS": "QOBUZ 아티스트",
+    "SORT_AZ": "A-Z",
+    "SORT_DATEADDED": "추가된 날짜",
+    "SORT_ARTIST": "아티스트",
+    "SORT_ALBUM": "앨범"
   },
   "PLUGIN_CDCONTROLLER": {
     "INTERNAL_MEMORY": "내장 메모리",
