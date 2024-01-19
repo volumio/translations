@@ -199,7 +199,8 @@
     "MINUTE": "Minuut",
     "MINUTES": "Notulen",
     "HOUR": "Uur",
-    "HOURS": "Uren"
+    "HOURS": "Uren",
+    "SORT_BY": "Sorteren op:"
   },
   "DEVICELIST": {
     "SETUP_NEW_DEVICE": "Apparaat toevoegen",

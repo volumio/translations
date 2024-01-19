@@ -164,7 +164,8 @@
     "MINUTE": "분",
     "MINUTES": "분",
     "HOUR": "시간",
-    "HOURS": "시간"
+    "HOURS": "시간",
+    "SORT_BY": "정렬 기준:"
   },
   "BROWSER": {
     "PLAY": "재생",

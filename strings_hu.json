@@ -164,7 +164,8 @@
     "MINUTE": "Perc",
     "MINUTES": "Jegyzőkönyv",
     "HOUR": "Óra",
-    "HOURS": "Órák"
+    "HOURS": "Órák",
+    "SORT_BY": "Rendezés:"
   },
   "BROWSER": {
     "PLAY": "Lejátszás",

@@ -164,7 +164,8 @@
     "MINUTE": "Minuta",
     "MINUTES": "Protokół",
     "HOUR": "Godzina",
-    "HOURS": "Godziny"
+    "HOURS": "Godziny",
+    "SORT_BY": "Sortuj według:"
   },
   "BROWSER": {
     "PLAY": "Odtwarzaj",

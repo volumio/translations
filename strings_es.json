@@ -164,7 +164,8 @@
     "MINUTE": "Minuto",
     "MINUTES": "Actas",
     "HOUR": "Hora",
-    "HOURS": "Horas"
+    "HOURS": "Horas",
+    "SORT_BY": "Ordenar por:"
   },
   "BROWSER": {
     "PLAY": "Reproducir",

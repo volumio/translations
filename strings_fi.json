@@ -164,7 +164,8 @@
     "MINUTE": "Minuutti",
     "MINUTES": "Pöytäkirja",
     "HOUR": "Tunti",
-    "HOURS": "Tunnit"
+    "HOURS": "Tunnit",
+    "SORT_BY": "Lajittelu:"
   },
   "BROWSER": {
     "PLAY": "Soita",

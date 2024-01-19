@@ -199,7 +199,8 @@
     "MINUTE": "Minute",
     "MINUTES": "Minutes",
     "HOUR": "Hour",
-    "HOURS": "Hours"
+    "HOURS": "Hours",
+    "SORT_BY": "Sort by:"
   },
   "DEVICELIST": {
     "SETUP_NEW_DEVICE": "Configure a new device",

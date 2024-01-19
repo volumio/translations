@@ -164,7 +164,8 @@
     "MINUTE": "Minut",
     "MINUTES": "Minutter",
     "HOUR": "Time",
-    "HOURS": "Timer"
+    "HOURS": "Timer",
+    "SORT_BY": "Sorter efter:"
   },
   "BROWSER": {
     "PLAY": "Afspil",

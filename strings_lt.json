@@ -436,7 +436,8 @@
     "MINUTE": "Minutė",
     "MINUTES": "Protokolas",
     "HOUR": "Valanda",
-    "HOURS": "Valandos"
+    "HOURS": "Valandos",
+    "SORT_BY": "Rūšiuoti pagal:"
   },
   "MY_MUSIC": {
     "UPDATE": "Atnaujinti",

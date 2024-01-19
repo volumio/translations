@@ -166,7 +166,8 @@
     "MINUTE": "Minutka",
     "MINUTES": "Zápis",
     "HOUR": "Hodina",
-    "HOURS": "Hodiny"
+    "HOURS": "Hodiny",
+    "SORT_BY": "Seřadit podle:"
   },
   "BROWSER": {
     "PLAY": "Přehrát",

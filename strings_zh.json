@@ -164,7 +164,8 @@
     "MINUTE": "分钟",
     "MINUTES": "会议记录",
     "HOUR": "一小时",
-    "HOURS": "小时"
+    "HOURS": "小时",
+    "SORT_BY": "排序方式"
   },
   "BROWSER": {
     "PLAY": "播放",

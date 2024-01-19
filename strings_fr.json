@@ -165,7 +165,8 @@
     "MINUTE": "minute",
     "MINUTES": "minutes",
     "HOUR": "Heure",
-    "HOURS": "Heures"
+    "HOURS": "Heures",
+    "SORT_BY": "Trier par :"
   },
   "BROWSER": {
     "PLAY": "Lecture",

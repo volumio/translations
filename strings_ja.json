@@ -164,7 +164,8 @@
     "MINUTE": "分",
     "MINUTES": "議事録",
     "HOUR": "時間",
-    "HOURS": "時間"
+    "HOURS": "時間",
+    "SORT_BY": "並べ替え"
   },
   "BROWSER": {
     "PLAY": "再生",

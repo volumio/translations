@@ -164,7 +164,8 @@
     "MINUTE": "Dakika",
     "MINUTES": "Dakika",
     "HOUR": "Saat",
-    "HOURS": "Saatler"
+    "HOURS": "Saatler",
+    "SORT_BY": "Sırala:"
   },
   "BROWSER": {
     "PLAY": "Oynat",
