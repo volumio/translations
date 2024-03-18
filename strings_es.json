@@ -165,7 +165,9 @@
     "MINUTES": "Actas",
     "HOUR": "Hora",
     "HOURS": "Horas",
-    "SORT_BY": "Ordenar por:"
+    "SORT_BY": "Ordenar por:",
+    "LOGIN_OAUTH": "Escanee el código QR con su teléfono e inicie sesión en su cuenta para autorizar el acceso al servicio.",
+    "LOGIN_OAUTH_NOT_POSSIBLE": "El inicio de sesión no es posible en este dispositivo. Utilice la aplicación Volumio para acceder y autorizar el servicio."
   },
   "BROWSER": {
     "PLAY": "Reproducir",

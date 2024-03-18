@@ -165,7 +165,9 @@
     "MINUTES": "会议记录",
     "HOUR": "一小时",
     "HOURS": "小时",
-    "SORT_BY": "排序方式"
+    "SORT_BY": "排序方式",
+    "LOGIN_OAUTH": "用手机扫描 QR 码并登录您的账户，授权使用服务",
+    "LOGIN_OAUTH_NOT_POSSIBLE": "此设备无法登录。请使用 Volumio 应用程序访问和授权服务"
   },
   "BROWSER": {
     "PLAY": "播放",

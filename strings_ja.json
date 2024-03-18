@@ -165,7 +165,9 @@
     "MINUTES": "議事録",
     "HOUR": "時間",
     "HOURS": "時間",
-    "SORT_BY": "並べ替え"
+    "SORT_BY": "並べ替え",
+    "LOGIN_OAUTH": "QRコードを携帯電話で読み取り、アカウントにログインしてサービスへのアクセスを許可する。",
+    "LOGIN_OAUTH_NOT_POSSIBLE": "このデバイスではログインできません。Volumioアプリをご利用ください。"
   },
   "BROWSER": {
     "PLAY": "再生",

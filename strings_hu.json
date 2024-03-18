@@ -165,7 +165,9 @@
     "MINUTES": "Jegyzőkönyv",
     "HOUR": "Óra",
     "HOURS": "Órák",
-    "SORT_BY": "Rendezés:"
+    "SORT_BY": "Rendezés:",
+    "LOGIN_OAUTH": "Szkennelje be a QR-kódot telefonjával, és jelentkezzen be fiókjába a szolgáltatáshoz való hozzáférés engedélyezéséhez.",
+    "LOGIN_OAUTH_NOT_POSSIBLE": "A bejelentkezés nem lehetséges ezen az eszközön. Kérjük, használja a Volumio App-ot a szolgáltatás eléréséhez és engedélyezéséhez."
   },
   "BROWSER": {
     "PLAY": "Lejátszás",

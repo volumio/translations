@@ -165,7 +165,9 @@
     "MINUTES": "Protokoll",
     "HOUR": "Timme",
     "HOURS": "Timmar",
-    "SORT_BY": "Sortera efter:"
+    "SORT_BY": "Sortera efter:",
+    "LOGIN_OAUTH": "Skanna QR-koden med din telefon och logga in på ditt konto för att godkänna åtkomst till tjänsten",
+    "LOGIN_OAUTH_NOT_POSSIBLE": "Inloggning är inte möjlig på denna enhet. Använd Volumio-appen för att komma åt och auktorisera tjänsten"
   },
   "BROWSER": {
     "PLAY": "Spela",

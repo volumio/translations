@@ -165,7 +165,9 @@
     "MINUTES": "Zápisnica",
     "HOUR": "Hodina",
     "HOURS": "Hodiny",
-    "SORT_BY": "Zoradiť podľa:"
+    "SORT_BY": "Zoradiť podľa:",
+    "LOGIN_OAUTH": "Naskenujte kód QR pomocou telefónu a prihláste sa do svojho konta, aby ste autorizovali prístup k službe.",
+    "LOGIN_OAUTH_NOT_POSSIBLE": "Prihlásenie nie je na tomto zariadení možné. Na prístup a autorizáciu služby použite aplikáciu Volumio"
   },
   "BROWSER": {
     "PLAY": "Prehrať",

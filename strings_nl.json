@@ -200,7 +200,9 @@
     "MINUTES": "Notulen",
     "HOUR": "Uur",
     "HOURS": "Uren",
-    "SORT_BY": "Sorteren op:"
+    "SORT_BY": "Sorteren op:",
+    "LOGIN_OAUTH": "Scan de QR-code met je telefoon en log in op je account om toegang tot de service te autoriseren",
+    "LOGIN_OAUTH_NOT_POSSIBLE": "Inloggen is niet mogelijk op dit apparaat. Gebruik de Volumio App om toegang te krijgen tot de service en autorisatie te verkrijgen."
   },
   "DEVICELIST": {
     "SETUP_NEW_DEVICE": "Apparaat toevoegen",

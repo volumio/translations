@@ -165,7 +165,9 @@
     "MINUTES": "Pöytäkirja",
     "HOUR": "Tunti",
     "HOURS": "Tunnit",
-    "SORT_BY": "Lajittelu:"
+    "SORT_BY": "Lajittelu:",
+    "LOGIN_OAUTH": "Skannaa QR-koodi puhelimellasi ja kirjaudu sisään tilillesi, jotta saat luvan käyttää palvelua.",
+    "LOGIN_OAUTH_NOT_POSSIBLE": "Kirjautuminen ei ole mahdollista tällä laitteella. Käytä Volumio-sovellusta palvelun käyttämiseen ja valtuuttamiseen."
   },
   "BROWSER": {
     "PLAY": "Soita",

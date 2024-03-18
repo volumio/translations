@@ -165,7 +165,9 @@
     "MINUTES": "Minutter",
     "HOUR": "Time",
     "HOURS": "Timer",
-    "SORT_BY": "Sorter efter:"
+    "SORT_BY": "Sorter efter:",
+    "LOGIN_OAUTH": "Scan QR-koden med din telefon, og log ind på din konto for at godkende adgang til tjenesten.",
+    "LOGIN_OAUTH_NOT_POSSIBLE": "Login er ikke muligt på denne enhed. Brug venligst Volumio-appen til at få adgang til og godkende tjenesten."
   },
   "BROWSER": {
     "PLAY": "Afspil",
