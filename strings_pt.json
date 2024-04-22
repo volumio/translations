@@ -167,7 +167,8 @@
     "HOURS": "Horas",
     "SORT_BY": "Ordenar por:",
     "LOGIN_OAUTH": "Digitalize o código QR com o seu telemóvel e inicie sessão na sua conta para autorizar o acesso ao serviço",
-    "LOGIN_OAUTH_NOT_POSSIBLE": "O login não é possível neste dispositivo. Utilize a aplicação Volumio para aceder e autorizar o serviço"
+    "LOGIN_OAUTH_NOT_POSSIBLE": "O login não é possível neste dispositivo. Utilize a aplicação Volumio para aceder e autorizar o serviço",
+    "STANDBY": "Em espera"
   },
   "BROWSER": {
     "PLAY": "Reproduzir",
@@ -1098,7 +1099,21 @@
     "SORT_AZ": "A-Z",
     "SORT_DATEADDED": "Data de adição",
     "SORT_ARTIST": "Artista",
-    "SORT_ALBUM": "Álbum"
+    "SORT_ALBUM": "Álbum",
+    "FILTER_GENRES_NAME": "Géneros",
+    "FILTER_GENRES_POP_ROCK": "Pop/Rock",
+    "FILTER_GENRES_JAZZ": "Jazz",
+    "FILTER_GENRES_CLASSICAL": "Clássico",
+    "FILTER_GENRES_ELECTRONIC": "Eletrónico",
+    "FILTER_GENRES_SOUL_FUNK_R&B": "Soul/Funk/R&B",
+    "FILTER_GENRES_METAL": "Metal",
+    "FILTER_GENRES_HIP_HOP_RAP": "Hip-Hop/Rap",
+    "FILTER_GENRES_BLUES_COUNTRY_FOLK": "Blues/Country/Folk",
+    "FILTER_GENRES_SOUNDTRACKS": "Trilhas sonoras",
+    "FILTER_GENRES_WORLD": "Mundo",
+    "FILTER_GENRES_REGGAE": "Reggae",
+    "FILTER_GENRES_LATIN": "Latina",
+    "FILTER_GENRES_ITALIAN_MUSIC": "Música italiana"
   },
   "PLUGIN_CDCONTROLLER": {
     "INTERNAL_MEMORY": "Memória interna",

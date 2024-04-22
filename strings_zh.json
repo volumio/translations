@@ -167,7 +167,8 @@
     "HOURS": "小时",
     "SORT_BY": "排序方式",
     "LOGIN_OAUTH": "用手机扫描 QR 码并登录您的账户，授权使用服务",
-    "LOGIN_OAUTH_NOT_POSSIBLE": "此设备无法登录。请使用 Volumio 应用程序访问和授权服务"
+    "LOGIN_OAUTH_NOT_POSSIBLE": "此设备无法登录。请使用 Volumio 应用程序访问和授权服务",
+    "STANDBY": "备用"
   },
   "BROWSER": {
     "PLAY": "播放",
@@ -1100,7 +1101,21 @@
     "SORT_AZ": "A-Z",
     "SORT_DATEADDED": "添加日期",
     "SORT_ARTIST": "艺术家",
-    "SORT_ALBUM": "相册"
+    "SORT_ALBUM": "相册",
+    "FILTER_GENRES_NAME": "流派",
+    "FILTER_GENRES_POP_ROCK": "流行/摇滚",
+    "FILTER_GENRES_JAZZ": "爵士乐",
+    "FILTER_GENRES_CLASSICAL": "古典",
+    "FILTER_GENRES_ELECTRONIC": "电子设备",
+    "FILTER_GENRES_SOUL_FUNK_R&B": "灵魂乐/放克/R&B",
+    "FILTER_GENRES_METAL": "金属",
+    "FILTER_GENRES_HIP_HOP_RAP": "嘻哈/说唱",
+    "FILTER_GENRES_BLUES_COUNTRY_FOLK": "蓝调/乡村/民谣",
+    "FILTER_GENRES_SOUNDTRACKS": "原声带",
+    "FILTER_GENRES_WORLD": "世界",
+    "FILTER_GENRES_REGGAE": "雷鬼音乐",
+    "FILTER_GENRES_LATIN": "拉丁语",
+    "FILTER_GENRES_ITALIAN_MUSIC": "意大利音乐"
   },
   "PLUGIN_CDCONTROLLER": {
     "INTERNAL_MEMORY": "内部存储器",

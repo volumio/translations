@@ -167,7 +167,8 @@
     "HOURS": "Órák",
     "SORT_BY": "Rendezés:",
     "LOGIN_OAUTH": "Szkennelje be a QR-kódot telefonjával, és jelentkezzen be fiókjába a szolgáltatáshoz való hozzáférés engedélyezéséhez.",
-    "LOGIN_OAUTH_NOT_POSSIBLE": "A bejelentkezés nem lehetséges ezen az eszközön. Kérjük, használja a Volumio App-ot a szolgáltatás eléréséhez és engedélyezéséhez."
+    "LOGIN_OAUTH_NOT_POSSIBLE": "A bejelentkezés nem lehetséges ezen az eszközön. Kérjük, használja a Volumio App-ot a szolgáltatás eléréséhez és engedélyezéséhez.",
+    "STANDBY": "Készenléti állapot"
   },
   "BROWSER": {
     "PLAY": "Lejátszás",
@@ -1110,7 +1111,21 @@
     "SORT_AZ": "A-Z",
     "SORT_DATEADDED": "Hozzáadás dátuma",
     "SORT_ARTIST": "Művész",
-    "SORT_ALBUM": "Album"
+    "SORT_ALBUM": "Album",
+    "FILTER_GENRES_NAME": "Műfajok",
+    "FILTER_GENRES_POP_ROCK": "Pop/Rock",
+    "FILTER_GENRES_JAZZ": "Jazz",
+    "FILTER_GENRES_CLASSICAL": "Klasszikus",
+    "FILTER_GENRES_ELECTRONIC": "Elektronikus",
+    "FILTER_GENRES_SOUL_FUNK_R&B": "Soul/Funk/R&B",
+    "FILTER_GENRES_METAL": "Fém",
+    "FILTER_GENRES_HIP_HOP_RAP": "Hip-Hop/Rap",
+    "FILTER_GENRES_BLUES_COUNTRY_FOLK": "Blues/Country/Folk",
+    "FILTER_GENRES_SOUNDTRACKS": "Soundtracks",
+    "FILTER_GENRES_WORLD": "Világ",
+    "FILTER_GENRES_REGGAE": "Reggae",
+    "FILTER_GENRES_LATIN": "Latin",
+    "FILTER_GENRES_ITALIAN_MUSIC": "Olasz zene"
   },
   "PLUGIN_CDCONTROLLER": {
     "RIP_IN_PROGRESS_MESSAGE": "Jelenleg a CD másolása van folyamatban, amíg a másolás be nem fejeződik a lemez nem érhető el",

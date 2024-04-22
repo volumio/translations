@@ -439,7 +439,8 @@
     "HOURS": "Valandos",
     "SORT_BY": "Rūšiuoti pagal:",
     "LOGIN_OAUTH": "nuskaitykite QR kodą telefonu ir prisijunkite prie savo paskyros, kad patvirtintumėte prieigą prie paslaugos.",
-    "LOGIN_OAUTH_NOT_POSSIBLE": "Prisijungti šiuo įrenginiu neįmanoma. Naudokite \"Volumio\" programėlę, kad galėtumėte prisijungti prie paslaugos ir ją autorizuoti."
+    "LOGIN_OAUTH_NOT_POSSIBLE": "Prisijungti šiuo įrenginiu neįmanoma. Naudokite \"Volumio\" programėlę, kad galėtumėte prisijungti prie paslaugos ir ją autorizuoti.",
+    "STANDBY": "Budėjimo režimas"
   },
   "MY_MUSIC": {
     "UPDATE": "Atnaujinti",
@@ -1099,7 +1100,21 @@
     "SORT_AZ": "A-Z",
     "SORT_DATEADDED": "Pridėjimo data",
     "SORT_ARTIST": "Menininkas",
-    "SORT_ALBUM": "Albumas"
+    "SORT_ALBUM": "Albumas",
+    "FILTER_GENRES_NAME": "Žanrai",
+    "FILTER_GENRES_POP_ROCK": "Pop/rokas",
+    "FILTER_GENRES_JAZZ": "Džiazas",
+    "FILTER_GENRES_CLASSICAL": "Klasikinis",
+    "FILTER_GENRES_ELECTRONIC": "Elektroninis",
+    "FILTER_GENRES_SOUL_FUNK_R&B": "Soul/Funk/R&B",
+    "FILTER_GENRES_METAL": "Metalas",
+    "FILTER_GENRES_HIP_HOP_RAP": "Hip-hopas / repas",
+    "FILTER_GENRES_BLUES_COUNTRY_FOLK": "Bliuzas / kantri / folk",
+    "FILTER_GENRES_SOUNDTRACKS": "Garso takeliai",
+    "FILTER_GENRES_WORLD": "Pasaulis",
+    "FILTER_GENRES_REGGAE": "Reggae",
+    "FILTER_GENRES_LATIN": "Lotynų kalba",
+    "FILTER_GENRES_ITALIAN_MUSIC": "Italų muzika"
   },
   "PLUGIN_CDCONTROLLER": {
     "INTERNAL_MEMORY": "Vidinė atmintis",

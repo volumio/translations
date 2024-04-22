@@ -167,7 +167,8 @@
     "HOURS": "시간",
     "SORT_BY": "정렬 기준:",
     "LOGIN_OAUTH": "휴대폰으로 QR 코드를 스캔하고 계정에 로그인하여 서비스 액세스를 승인합니다.",
-    "LOGIN_OAUTH_NOT_POSSIBLE": "이 기기에서는 로그인할 수 없습니다. 서비스에 액세스하고 권한을 부여하려면 Volumio 앱을 사용하세요."
+    "LOGIN_OAUTH_NOT_POSSIBLE": "이 기기에서는 로그인할 수 없습니다. 서비스에 액세스하고 권한을 부여하려면 Volumio 앱을 사용하세요.",
+    "STANDBY": "대기"
   },
   "BROWSER": {
     "PLAY": "재생",
@@ -1099,7 +1100,21 @@
     "SORT_AZ": "A-Z",
     "SORT_DATEADDED": "추가된 날짜",
     "SORT_ARTIST": "아티스트",
-    "SORT_ALBUM": "앨범"
+    "SORT_ALBUM": "앨범",
+    "FILTER_GENRES_NAME": "장르",
+    "FILTER_GENRES_POP_ROCK": "팝/록",
+    "FILTER_GENRES_JAZZ": "Jazz",
+    "FILTER_GENRES_CLASSICAL": "클래식",
+    "FILTER_GENRES_ELECTRONIC": "전자",
+    "FILTER_GENRES_SOUL_FUNK_R&B": "소울/펑크/R&B",
+    "FILTER_GENRES_METAL": "금속",
+    "FILTER_GENRES_HIP_HOP_RAP": "힙합/랩",
+    "FILTER_GENRES_BLUES_COUNTRY_FOLK": "블루스/컨트리/포크",
+    "FILTER_GENRES_SOUNDTRACKS": "사운드트랙",
+    "FILTER_GENRES_WORLD": "세계",
+    "FILTER_GENRES_REGGAE": "레게",
+    "FILTER_GENRES_LATIN": "라틴어",
+    "FILTER_GENRES_ITALIAN_MUSIC": "이탈리아 음악"
   },
   "PLUGIN_CDCONTROLLER": {
     "INTERNAL_MEMORY": "내장 메모리",

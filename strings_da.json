@@ -167,7 +167,8 @@
     "HOURS": "Timer",
     "SORT_BY": "Sorter efter:",
     "LOGIN_OAUTH": "Scan QR-koden med din telefon, og log ind på din konto for at godkende adgang til tjenesten.",
-    "LOGIN_OAUTH_NOT_POSSIBLE": "Login er ikke muligt på denne enhed. Brug venligst Volumio-appen til at få adgang til og godkende tjenesten."
+    "LOGIN_OAUTH_NOT_POSSIBLE": "Login er ikke muligt på denne enhed. Brug venligst Volumio-appen til at få adgang til og godkende tjenesten.",
+    "STANDBY": "Standby"
   },
   "BROWSER": {
     "PLAY": "Afspil",
@@ -1098,7 +1099,21 @@
     "SORT_AZ": "A-Z",
     "SORT_DATEADDED": "Dato tilføjet",
     "SORT_ARTIST": "Kunstner",
-    "SORT_ALBUM": "Album"
+    "SORT_ALBUM": "Album",
+    "FILTER_GENRES_NAME": "Genrer",
+    "FILTER_GENRES_POP_ROCK": "Pop/Rock",
+    "FILTER_GENRES_JAZZ": "Jazz",
+    "FILTER_GENRES_CLASSICAL": "Klassisk",
+    "FILTER_GENRES_ELECTRONIC": "Elektronisk",
+    "FILTER_GENRES_SOUL_FUNK_R&B": "Soul/Funk/R&B",
+    "FILTER_GENRES_METAL": "Metal",
+    "FILTER_GENRES_HIP_HOP_RAP": "Hip-Hop/Rap",
+    "FILTER_GENRES_BLUES_COUNTRY_FOLK": "Blues/Country/Folk",
+    "FILTER_GENRES_SOUNDTRACKS": "Lydspor",
+    "FILTER_GENRES_WORLD": "Verden",
+    "FILTER_GENRES_REGGAE": "Reggae",
+    "FILTER_GENRES_LATIN": "Latin",
+    "FILTER_GENRES_ITALIAN_MUSIC": "Italiensk musik"
   },
   "PLUGIN_CDCONTROLLER": {
     "INTERNAL_MEMORY": "Intern hukommelse",

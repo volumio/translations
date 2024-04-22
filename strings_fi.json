@@ -167,7 +167,8 @@
     "HOURS": "Tunnit",
     "SORT_BY": "Lajittelu:",
     "LOGIN_OAUTH": "Skannaa QR-koodi puhelimellasi ja kirjaudu sisään tilillesi, jotta saat luvan käyttää palvelua.",
-    "LOGIN_OAUTH_NOT_POSSIBLE": "Kirjautuminen ei ole mahdollista tällä laitteella. Käytä Volumio-sovellusta palvelun käyttämiseen ja valtuuttamiseen."
+    "LOGIN_OAUTH_NOT_POSSIBLE": "Kirjautuminen ei ole mahdollista tällä laitteella. Käytä Volumio-sovellusta palvelun käyttämiseen ja valtuuttamiseen.",
+    "STANDBY": "Valmiustila"
   },
   "BROWSER": {
     "PLAY": "Soita",
@@ -1098,7 +1099,21 @@
     "SORT_AZ": "A-Z",
     "SORT_DATEADDED": "Lisätty päivämäärä",
     "SORT_ARTIST": "Taiteilija",
-    "SORT_ALBUM": "Albumi"
+    "SORT_ALBUM": "Albumi",
+    "FILTER_GENRES_NAME": "Genres",
+    "FILTER_GENRES_POP_ROCK": "Pop/Rock",
+    "FILTER_GENRES_JAZZ": "Jazz",
+    "FILTER_GENRES_CLASSICAL": "Klassinen",
+    "FILTER_GENRES_ELECTRONIC": "Sähköinen",
+    "FILTER_GENRES_SOUL_FUNK_R&B": "Soul/Funk/R&B",
+    "FILTER_GENRES_METAL": "Metalli",
+    "FILTER_GENRES_HIP_HOP_RAP": "Hip-Hop/Rap",
+    "FILTER_GENRES_BLUES_COUNTRY_FOLK": "Blues/Country/Folk",
+    "FILTER_GENRES_SOUNDTRACKS": "Soundtrackit",
+    "FILTER_GENRES_WORLD": "Maailma",
+    "FILTER_GENRES_REGGAE": "Reggae",
+    "FILTER_GENRES_LATIN": "Latinankielinen",
+    "FILTER_GENRES_ITALIAN_MUSIC": "Italialainen musiikki"
   },
   "PLUGIN_CDCONTROLLER": {
     "INTERNAL_MEMORY": "Sisäinen muisti",

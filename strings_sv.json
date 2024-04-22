@@ -167,7 +167,8 @@
     "HOURS": "Timmar",
     "SORT_BY": "Sortera efter:",
     "LOGIN_OAUTH": "Skanna QR-koden med din telefon och logga in på ditt konto för att godkänna åtkomst till tjänsten",
-    "LOGIN_OAUTH_NOT_POSSIBLE": "Inloggning är inte möjlig på denna enhet. Använd Volumio-appen för att komma åt och auktorisera tjänsten"
+    "LOGIN_OAUTH_NOT_POSSIBLE": "Inloggning är inte möjlig på denna enhet. Använd Volumio-appen för att komma åt och auktorisera tjänsten",
+    "STANDBY": "Standby"
   },
   "BROWSER": {
     "PLAY": "Spela",
@@ -1100,7 +1101,21 @@
     "SORT_AZ": "A-Ö",
     "SORT_DATEADDED": "Datum tillagt",
     "SORT_ARTIST": "Konstnär",
-    "SORT_ALBUM": "Album"
+    "SORT_ALBUM": "Album",
+    "FILTER_GENRES_NAME": "Genrer",
+    "FILTER_GENRES_POP_ROCK": "Pop/Rock",
+    "FILTER_GENRES_JAZZ": "Jazz",
+    "FILTER_GENRES_CLASSICAL": "Klassisk",
+    "FILTER_GENRES_ELECTRONIC": "Elektronisk",
+    "FILTER_GENRES_SOUL_FUNK_R&B": "Soul/Funk/R&B",
+    "FILTER_GENRES_METAL": "Metall",
+    "FILTER_GENRES_HIP_HOP_RAP": "Hip-Hop/Rap",
+    "FILTER_GENRES_BLUES_COUNTRY_FOLK": "Blues/Country/Folk",
+    "FILTER_GENRES_SOUNDTRACKS": "Ljudspår",
+    "FILTER_GENRES_WORLD": "Världen",
+    "FILTER_GENRES_REGGAE": "Reggae",
+    "FILTER_GENRES_LATIN": "Latin",
+    "FILTER_GENRES_ITALIAN_MUSIC": "Italiensk musik"
   },
   "PLUGIN_CDCONTROLLER": {
     "INTERNAL_MEMORY": "Internt minne",

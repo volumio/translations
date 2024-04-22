@@ -167,7 +167,8 @@
     "HOURS": "時間",
     "SORT_BY": "並べ替え",
     "LOGIN_OAUTH": "QRコードを携帯電話で読み取り、アカウントにログインしてサービスへのアクセスを許可する。",
-    "LOGIN_OAUTH_NOT_POSSIBLE": "このデバイスではログインできません。Volumioアプリをご利用ください。"
+    "LOGIN_OAUTH_NOT_POSSIBLE": "このデバイスではログインできません。Volumioアプリをご利用ください。",
+    "STANDBY": "スタンバイ"
   },
   "BROWSER": {
     "PLAY": "再生",
@@ -1098,7 +1099,21 @@
     "SORT_AZ": "A-Z",
     "SORT_DATEADDED": "追加日",
     "SORT_ARTIST": "アーティスト",
-    "SORT_ALBUM": "アルバム"
+    "SORT_ALBUM": "アルバム",
+    "FILTER_GENRES_NAME": "ジャンル",
+    "FILTER_GENRES_POP_ROCK": "ポップ/ロック",
+    "FILTER_GENRES_JAZZ": "ジャズ",
+    "FILTER_GENRES_CLASSICAL": "クラシック",
+    "FILTER_GENRES_ELECTRONIC": "エレクトロニック",
+    "FILTER_GENRES_SOUL_FUNK_R&B": "ソウル/ファンク/R&B",
+    "FILTER_GENRES_METAL": "メタル",
+    "FILTER_GENRES_HIP_HOP_RAP": "ヒップホップ/ラップ",
+    "FILTER_GENRES_BLUES_COUNTRY_FOLK": "ブルース/カントリー/フォーク",
+    "FILTER_GENRES_SOUNDTRACKS": "サウンドトラック",
+    "FILTER_GENRES_WORLD": "世界",
+    "FILTER_GENRES_REGGAE": "レゲエ",
+    "FILTER_GENRES_LATIN": "ラテン語",
+    "FILTER_GENRES_ITALIAN_MUSIC": "イタリア音楽"
   },
   "PLUGIN_CDCONTROLLER": {
     "INTERNAL_MEMORY": "内蔵メモリー",

@@ -167,7 +167,8 @@
     "HOURS": "Hodiny",
     "SORT_BY": "Zoradiť podľa:",
     "LOGIN_OAUTH": "Naskenujte kód QR pomocou telefónu a prihláste sa do svojho konta, aby ste autorizovali prístup k službe.",
-    "LOGIN_OAUTH_NOT_POSSIBLE": "Prihlásenie nie je na tomto zariadení možné. Na prístup a autorizáciu služby použite aplikáciu Volumio"
+    "LOGIN_OAUTH_NOT_POSSIBLE": "Prihlásenie nie je na tomto zariadení možné. Na prístup a autorizáciu služby použite aplikáciu Volumio",
+    "STANDBY": "Pohotovostný režim"
   },
   "BROWSER": {
     "PLAY": "Prehrať",
@@ -1100,7 +1101,21 @@
     "SORT_AZ": "A-Z",
     "SORT_DATEADDED": "Dátum pridania",
     "SORT_ARTIST": "Umelec",
-    "SORT_ALBUM": "Album"
+    "SORT_ALBUM": "Album",
+    "FILTER_GENRES_NAME": "Žánre",
+    "FILTER_GENRES_POP_ROCK": "Pop/rock",
+    "FILTER_GENRES_JAZZ": "Jazz",
+    "FILTER_GENRES_CLASSICAL": "Klasické",
+    "FILTER_GENRES_ELECTRONIC": "Elektronická stránka",
+    "FILTER_GENRES_SOUL_FUNK_R&B": "Soul/Funk/R&B",
+    "FILTER_GENRES_METAL": "Kov",
+    "FILTER_GENRES_HIP_HOP_RAP": "Hip-Hop/Rap",
+    "FILTER_GENRES_BLUES_COUNTRY_FOLK": "Blues/Country/Folk",
+    "FILTER_GENRES_SOUNDTRACKS": "Soundtracky",
+    "FILTER_GENRES_WORLD": "Svet",
+    "FILTER_GENRES_REGGAE": "Reggae",
+    "FILTER_GENRES_LATIN": "Latinčina",
+    "FILTER_GENRES_ITALIAN_MUSIC": "Talianska hudba"
   },
   "PLUGIN_CDCONTROLLER": {
     "INTERNAL_MEMORY": "Interná pamäť",
