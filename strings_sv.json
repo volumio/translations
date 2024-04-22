@@ -1044,7 +1044,8 @@
     "SHOW_MOUSE_POINTER_DOC": "Visa eller dölja muspekaren på skärmen",
     "SHOW_MOUSE_POINTER": "Visa muspekare",
     "DAC_FILTER": "DAC-filter",
-    "DAC_FILTER_DOC": "Välj DAC-filter, som undertrycker oönskad information från signalen och formar den till specifika vågformer"
+    "DAC_FILTER_DOC": "Välj DAC-filter, som undertrycker oönskad information från signalen och formar den till specifika vågformer",
+    "ADVANCED_AUDIO_SETTINGS": "Avancerade ljudinställningar"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Bäst radio",

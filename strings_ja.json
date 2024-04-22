@@ -958,7 +958,8 @@
     "SHOW_MOUSE_POINTER_DOC": "画面上にマウスポインタを表示または非表示にする",
     "SHOW_MOUSE_POINTER": "マウスポインタの表示",
     "DAC_FILTER": "DACフィルター",
-    "DAC_FILTER_DOC": "信号から不要な情報を抑制し、特定の波形に整形するDACフィルターを選択する。"
+    "DAC_FILTER_DOC": "信号から不要な情報を抑制し、特定の波形に整形するDACフィルターを選択する。",
+    "ADVANCED_AUDIO_SETTINGS": "高度なオーディオ設定"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "ベストラジオ",

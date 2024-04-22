@@ -1043,7 +1043,8 @@
     "SHOW_MOUSE_POINTER_DOC": "화면에서 마우스 포인터 표시 또는 숨기기",
     "SHOW_MOUSE_POINTER": "마우스 포인터 표시",
     "DAC_FILTER": "DAC 필터",
-    "DAC_FILTER_DOC": "신호에서 원치 않는 정보를 억제하고 특정 파형으로 변형하는 DAC 필터를 선택합니다."
+    "DAC_FILTER_DOC": "신호에서 원치 않는 정보를 억제하고 특정 파형으로 변형하는 DAC 필터를 선택합니다.",
+    "ADVANCED_AUDIO_SETTINGS": "고급 오디오 설정"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "베스트 라디오",

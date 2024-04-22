@@ -915,7 +915,8 @@
     "SHOW_MOUSE_POINTER_DOC": "Vis eller skjul musemarkøren på skærmen",
     "SHOW_MOUSE_POINTER": "Vis musemarkøren",
     "DAC_FILTER": "DAC-filter",
-    "DAC_FILTER_DOC": "Vælg DAC-filteret, som undertrykker uønsket information fra signalet og former det til specifikke bølgeformer."
+    "DAC_FILTER_DOC": "Vælg DAC-filteret, som undertrykker uønsket information fra signalet og former det til specifikke bølgeformer.",
+    "ADVANCED_AUDIO_SETTINGS": "Avancerede lydindstillinger"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "De bedste radioer",

@@ -1043,7 +1043,8 @@
     "SHOW_MOUSE_POINTER_DOC": "Wyświetlanie lub ukrywanie wskaźnika myszy na ekranie",
     "SHOW_MOUSE_POINTER": "Pokaż wskaźnik myszy",
     "DAC_FILTER": "Filtr DAC",
-    "DAC_FILTER_DOC": "Wybierz filtr DAC, który eliminuje niepożądane informacje z sygnału i kształtuje go do określonych przebiegów."
+    "DAC_FILTER_DOC": "Wybierz filtr DAC, który eliminuje niepożądane informacje z sygnału i kształtuje go do określonych przebiegów.",
+    "ADVANCED_AUDIO_SETTINGS": "Zaawansowane ustawienia audio"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najlepsze stacje radiowe",

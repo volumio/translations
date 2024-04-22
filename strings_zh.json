@@ -1044,7 +1044,8 @@
     "SHOW_MOUSE_POINTER_DOC": "在屏幕上显示或隐藏鼠标指针",
     "SHOW_MOUSE_POINTER": "显示鼠标指针",
     "DAC_FILTER": "DAC 滤波器",
-    "DAC_FILTER_DOC": "选择 DAC 滤波器，它可以抑制信号中不需要的信息，并将其塑造成特定的波形"
+    "DAC_FILTER_DOC": "选择 DAC 滤波器，它可以抑制信号中不需要的信息，并将其塑造成特定的波形",
+    "ADVANCED_AUDIO_SETTINGS": "高级音频设置"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "最佳收音机",

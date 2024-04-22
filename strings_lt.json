@@ -1002,7 +1002,8 @@
     "SHOW_MOUSE_POINTER_DOC": "Rodyti arba slėpti pelės žymeklį ekrane",
     "SHOW_MOUSE_POINTER": "Rodyti pelės rodyklę",
     "DAC_FILTER": "DAC filtras",
-    "DAC_FILTER_DOC": "Pasirinkite DAC filtrą, kuris slopina nepageidaujamą informaciją signale ir formuoja jį pagal tam tikras bangų formas."
+    "DAC_FILTER_DOC": "Pasirinkite DAC filtrą, kuris slopina nepageidaujamą informaciją signale ir formuoja jį pagal tam tikras bangų formas.",
+    "ADVANCED_AUDIO_SETTINGS": "Išplėstiniai garso nustatymai"
   },
   "MAIN_MENU": {
     "ALARM": "Žadintuvas",

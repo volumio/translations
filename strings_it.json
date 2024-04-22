@@ -1049,7 +1049,8 @@
     "SHOW_MOUSE_POINTER_DOC": "Mostrare o nascondere il puntatore del mouse sullo schermo",
     "SHOW_MOUSE_POINTER": "Mostra puntatore del mouse",
     "DAC_FILTER": "Filtro DAC",
-    "DAC_FILTER_DOC": "Selezionare il filtro DAC, che sopprime le informazioni indesiderate dal segnale e lo modella su forme d'onda specifiche."
+    "DAC_FILTER_DOC": "Selezionare il filtro DAC, che sopprime le informazioni indesiderate dal segnale e lo modella su forme d'onda specifiche.",
+    "ADVANCED_AUDIO_SETTINGS": "Impostazioni audio avanzate"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Le Radio Migliori",

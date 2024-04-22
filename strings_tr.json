@@ -1044,7 +1044,8 @@
     "SHOW_MOUSE_POINTER_DOC": "Ekranda fare işaretçisini gösterme veya gizleme",
     "SHOW_MOUSE_POINTER": "Fare İşaretçisini Göster",
     "DAC_FILTER": "DAC Filtresi",
-    "DAC_FILTER_DOC": "Sinyalden istenmeyen bilgileri bastıran ve belirli dalga biçimlerine göre şekillendiren DAC Filtresini seçin"
+    "DAC_FILTER_DOC": "Sinyalden istenmeyen bilgileri bastıran ve belirli dalga biçimlerine göre şekillendiren DAC Filtresini seçin",
+    "ADVANCED_AUDIO_SETTINGS": "Gelişmiş Ses Ayarları"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "En iyi Radyolar",

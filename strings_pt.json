@@ -924,7 +924,8 @@
     "SHOW_MOUSE_POINTER_DOC": "Mostrar ou ocultar o ponteiro do rato no ecrã",
     "SHOW_MOUSE_POINTER": "Mostrar ponteiro do rato",
     "DAC_FILTER": "Filtro DAC",
-    "DAC_FILTER_DOC": "Selecionar o filtro DAC, que suprime informações indesejadas do sinal e o molda a formas de onda específicas"
+    "DAC_FILTER_DOC": "Selecionar o filtro DAC, que suprime informações indesejadas do sinal e o molda a formas de onda específicas",
+    "ADVANCED_AUDIO_SETTINGS": "Definições de áudio avançadas"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Melhores rádios",

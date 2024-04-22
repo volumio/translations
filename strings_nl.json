@@ -1097,7 +1097,8 @@
     "SHOW_MOUSE_POINTER_DOC": "De muisaanwijzer op het scherm tonen of verbergen",
     "SHOW_MOUSE_POINTER": "Muisaanwijzer tonen",
     "DAC_FILTER": "DAC-filter",
-    "DAC_FILTER_DOC": "Selecteer het DAC-filter, dat ongewenste informatie uit het signaal onderdrukt en het naar specifieke golfvormen vormt."
+    "DAC_FILTER_DOC": "Selecteer het DAC-filter, dat ongewenste informatie uit het signaal onderdrukt en het naar specifieke golfvormen vormt.",
+    "ADVANCED_AUDIO_SETTINGS": "Geavanceerde audio-instellingen"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Beste radiostations",

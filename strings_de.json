@@ -1043,7 +1043,8 @@
     "SHOW_MOUSE_POINTER_DOC": "Den Mauszeiger auf dem Bildschirm ein- oder ausblenden",
     "SHOW_MOUSE_POINTER": "Mauszeiger anzeigen",
     "DAC_FILTER": "DAC Filter",
-    "DAC_FILTER_DOC": "Wählen Sie den DAC-Filter, der unerwünschte Informationen aus dem Signal unterdrückt und es in bestimmte Wellenformen bringt."
+    "DAC_FILTER_DOC": "Wählen Sie den DAC-Filter, der unerwünschte Informationen aus dem Signal unterdrückt und es in bestimmte Wellenformen bringt.",
+    "ADVANCED_AUDIO_SETTINGS": "Erweiterte Audioeinstellungen"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Die besten Sender",

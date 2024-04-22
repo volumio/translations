@@ -1044,7 +1044,8 @@
     "SHOW_MOUSE_POINTER_DOC": "Zobrazenie alebo skrytie ukazovateľa myši na obrazovke",
     "SHOW_MOUSE_POINTER": "Zobraziť ukazovateľ myši",
     "DAC_FILTER": "Filter DAC",
-    "DAC_FILTER_DOC": "Vyberte filter DAC, ktorý potláča nežiaduce informácie zo signálu a tvaruje ho do špecifických priebehov."
+    "DAC_FILTER_DOC": "Vyberte filter DAC, ktorý potláča nežiaduce informácie zo signálu a tvaruje ho do špecifických priebehov.",
+    "ADVANCED_AUDIO_SETTINGS": "Rozšírené nastavenia zvuku"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najlepšie rádia",

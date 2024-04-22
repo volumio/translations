@@ -1043,7 +1043,8 @@
     "SHOW_MOUSE_POINTER_DOC": "Az egérmutató megjelenítése vagy elrejtése a képernyőn",
     "SHOW_MOUSE_POINTER": "Egérmutató megjelenítése",
     "DAC_FILTER": "DAC szűrő",
-    "DAC_FILTER_DOC": "Válassza ki a DAC szűrőt, amely elnyomja a nem kívánt információkat a jelből, és meghatározott hullámformákhoz alakítja azt."
+    "DAC_FILTER_DOC": "Válassza ki a DAC szűrőt, amely elnyomja a nem kívánt információkat a jelből, és meghatározott hullámformákhoz alakítja azt.",
+    "ADVANCED_AUDIO_SETTINGS": "Speciális hangbeállítások"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Legjobb rádiók",
