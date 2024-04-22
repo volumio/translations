@@ -1000,7 +1000,9 @@
     "HDMI_I2S_MODE_PROTOCOL": "HDMI I2S režimo protokolas",
     "HDMI_I2S_MODE_DOC": "Nustatykite HDMI I2S protokolą. Šis nustatymas galimas tik kai kuriems I2S DAC, jei abejojate, ką pasirinkti, pasitarkite su DAC vadovu arba jo gamintoju.",
     "SHOW_MOUSE_POINTER_DOC": "Rodyti arba slėpti pelės žymeklį ekrane",
-    "SHOW_MOUSE_POINTER": "Rodyti pelės rodyklę"
+    "SHOW_MOUSE_POINTER": "Rodyti pelės rodyklę",
+    "DAC_FILTER": "DAC filtras",
+    "DAC_FILTER_DOC": "Pasirinkite DAC filtrą, kuris slopina nepageidaujamą informaciją signale ir formuoja jį pagal tam tikras bangų formas."
   },
   "MAIN_MENU": {
     "ALARM": "Žadintuvas",

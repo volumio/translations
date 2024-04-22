@@ -1042,7 +1042,9 @@
     "HDMI_I2S_MODE_PROTOCOL": "HDMI I2S 模式协议",
     "HDMI_I2S_MODE_DOC": "设置 HDMI I2S 协议。此设置仅适用于某些 I2S DAC，如果对选择何种协议有疑问，请查阅 DAC 手册或其制造商的说明",
     "SHOW_MOUSE_POINTER_DOC": "在屏幕上显示或隐藏鼠标指针",
-    "SHOW_MOUSE_POINTER": "显示鼠标指针"
+    "SHOW_MOUSE_POINTER": "显示鼠标指针",
+    "DAC_FILTER": "DAC 滤波器",
+    "DAC_FILTER_DOC": "选择 DAC 滤波器，它可以抑制信号中不需要的信息，并将其塑造成特定的波形"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "最佳收音机",

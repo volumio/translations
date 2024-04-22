@@ -1042,7 +1042,9 @@
     "HDMI_I2S_MODE_PROTOCOL": "HDMI I2S Modu Protokolü",
     "HDMI_I2S_MODE_DOC": "HDMI I2S Protokolünü ayarlayın. Bu ayar yalnızca bazı I2S DAC'lar için kullanılabilir, hangisini seçeceğiniz konusunda şüpheniz varsa DAC'ınızın kılavuzuna veya üreticisine danışın",
     "SHOW_MOUSE_POINTER_DOC": "Ekranda fare işaretçisini gösterme veya gizleme",
-    "SHOW_MOUSE_POINTER": "Fare İşaretçisini Göster"
+    "SHOW_MOUSE_POINTER": "Fare İşaretçisini Göster",
+    "DAC_FILTER": "DAC Filtresi",
+    "DAC_FILTER_DOC": "Sinyalden istenmeyen bilgileri bastıran ve belirli dalga biçimlerine göre şekillendiren DAC Filtresini seçin"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "En iyi Radyolar",

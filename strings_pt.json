@@ -922,7 +922,9 @@
     "HDMI_I2S_MODE_PROTOCOL": "Protocolo do modo I2S HDMI",
     "HDMI_I2S_MODE_DOC": "Definir o protocolo HDMI I2S. Esta definição só está disponível para alguns DACs I2S. Em caso de dúvida sobre o que escolher, consulte o manual do DAC ou o seu fabricante",
     "SHOW_MOUSE_POINTER_DOC": "Mostrar ou ocultar o ponteiro do rato no ecrã",
-    "SHOW_MOUSE_POINTER": "Mostrar ponteiro do rato"
+    "SHOW_MOUSE_POINTER": "Mostrar ponteiro do rato",
+    "DAC_FILTER": "Filtro DAC",
+    "DAC_FILTER_DOC": "Selecionar o filtro DAC, que suprime informações indesejadas do sinal e o molda a formas de onda específicas"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Melhores rádios",

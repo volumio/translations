@@ -1042,7 +1042,9 @@
     "HDMI_I2S_MODE_PROTOCOL": "Protokoll för HDMI I2S-läge",
     "HDMI_I2S_MODE_DOC": "Ställ in HDMI I2S-protokoll. Denna inställning är endast tillgänglig för vissa I2S DACs, om du är osäker på vad du ska välja, kontakta din DACs manual eller dess tillverkare",
     "SHOW_MOUSE_POINTER_DOC": "Visa eller dölja muspekaren på skärmen",
-    "SHOW_MOUSE_POINTER": "Visa muspekare"
+    "SHOW_MOUSE_POINTER": "Visa muspekare",
+    "DAC_FILTER": "DAC-filter",
+    "DAC_FILTER_DOC": "Välj DAC-filter, som undertrycker oönskad information från signalen och formar den till specifika vågformer"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Bäst radio",

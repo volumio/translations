@@ -922,7 +922,9 @@
     "HDMI_I2S_MODE_PROTOCOL": "HDMI I2S-tilan protokolla",
     "HDMI_I2S_MODE_DOC": "Aseta HDMI I2S -protokolla. Tämä asetus on käytettävissä vain joissakin I2S DAC:issa, jos olet epävarma siitä, mitä valita, kysy DAC:n käyttöoppaasta tai sen valmistajalta.",
     "SHOW_MOUSE_POINTER_DOC": "Näyttää tai piilottaa hiiren osoittimen näytöllä.",
-    "SHOW_MOUSE_POINTER": "Näytä hiiren osoitin"
+    "SHOW_MOUSE_POINTER": "Näytä hiiren osoitin",
+    "DAC_FILTER": "DAC-suodatin",
+    "DAC_FILTER_DOC": "Valitse DAC-suodatin, joka vaimentaa signaalista ei-toivotut tiedot ja muokkaa sen tiettyihin aaltomuotoihin."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Parhaat radiot",

@@ -1041,7 +1041,9 @@
     "HDMI_I2S_MODE_PROTOCOL": "HDMI I2S 모드 프로토콜",
     "HDMI_I2S_MODE_DOC": "HDMI I2S 프로토콜을 설정합니다. 이 설정은 일부 I2S DAC에서만 사용할 수 있으며, 무엇을 선택해야 할지 잘 모르겠다면 DAC 설명서 또는 제조업체에 문의하세요.",
     "SHOW_MOUSE_POINTER_DOC": "화면에서 마우스 포인터 표시 또는 숨기기",
-    "SHOW_MOUSE_POINTER": "마우스 포인터 표시"
+    "SHOW_MOUSE_POINTER": "마우스 포인터 표시",
+    "DAC_FILTER": "DAC 필터",
+    "DAC_FILTER_DOC": "신호에서 원치 않는 정보를 억제하고 특정 파형으로 변형하는 DAC 필터를 선택합니다."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "베스트 라디오",

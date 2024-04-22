@@ -1042,7 +1042,9 @@
     "HDMI_I2S_MODE_PROTOCOL": "Protokol režimu HDMI I2S",
     "HDMI_I2S_MODE_DOC": "Nastavenie protokolu HDMI I2S. Toto nastavenie je k dispozícii len pre niektoré prevodníky I2S, ak máte pochybnosti o tom, aký zvoliť, obráťte sa na príručku k prevodníku alebo na jeho výrobcu.",
     "SHOW_MOUSE_POINTER_DOC": "Zobrazenie alebo skrytie ukazovateľa myši na obrazovke",
-    "SHOW_MOUSE_POINTER": "Zobraziť ukazovateľ myši"
+    "SHOW_MOUSE_POINTER": "Zobraziť ukazovateľ myši",
+    "DAC_FILTER": "Filter DAC",
+    "DAC_FILTER_DOC": "Vyberte filter DAC, ktorý potláča nežiaduce informácie zo signálu a tvaruje ho do špecifických priebehov."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najlepšie rádia",

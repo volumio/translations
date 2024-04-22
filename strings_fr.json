@@ -1044,7 +1044,9 @@
     "HDMI_I2S_MODE_PROTOCOL": "HDMI I2S Mode Protocol",
     "HDMI_I2S_MODE_DOC": "Réglez le protocole HDMI I2S. Ce paramètre n'est disponible que pour certains DAC I2S. En cas de doute, consultez le manuel de votre DAC ou son fabricant.",
     "SHOW_MOUSE_POINTER_DOC": "Afficher ou masquer le pointeur de la souris sur l'écran",
-    "SHOW_MOUSE_POINTER": "Afficher le pointeur de la souris"
+    "SHOW_MOUSE_POINTER": "Afficher le pointeur de la souris",
+    "DAC_FILTER": "Filtre DAC",
+    "DAC_FILTER_DOC": "Sélectionnez le filtre DAC, qui supprime les informations indésirables du signal et lui donne une forme d'onde spécifique."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Meilleures Radios",
