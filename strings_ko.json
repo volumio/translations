@@ -168,7 +168,8 @@
     "SORT_BY": "정렬 기준:",
     "LOGIN_OAUTH": "휴대폰으로 QR 코드를 스캔하고 계정에 로그인하여 서비스 액세스를 승인합니다.",
     "LOGIN_OAUTH_NOT_POSSIBLE": "이 기기에서는 로그인할 수 없습니다. 서비스에 액세스하고 권한을 부여하려면 Volumio 앱을 사용하세요.",
-    "STANDBY": "대기"
+    "STANDBY": "대기",
+    "FILTER_ALL": "모두"
   },
   "BROWSER": {
     "PLAY": "재생",

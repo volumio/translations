@@ -168,7 +168,8 @@
     "SORT_BY": "Sırala:",
     "LOGIN_OAUTH": "QR Kodunu telefonunuzla tarayın ve hizmete erişim yetkisi vermek için hesabınıza giriş yapın",
     "LOGIN_OAUTH_NOT_POSSIBLE": "Bu cihazda oturum açmak mümkün değil. Hizmete erişmek ve yetkilendirmek için lütfen Volumio Uygulamasını kullanın",
-    "STANDBY": "Bekleme"
+    "STANDBY": "Bekleme",
+    "FILTER_ALL": "Tümü"
   },
   "BROWSER": {
     "PLAY": "Oynat",

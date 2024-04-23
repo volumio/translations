@@ -168,7 +168,8 @@
     "SORT_BY": "Sortuj według:",
     "LOGIN_OAUTH": "Zeskanuj kod QR za pomocą telefonu i zaloguj się na swoje konto, aby autoryzować dostęp do usługi.",
     "LOGIN_OAUTH_NOT_POSSIBLE": "Logowanie nie jest możliwe na tym urządzeniu. Użyj aplikacji Volumio, aby uzyskać dostęp i autoryzować usługę",
-    "STANDBY": "Tryb gotowości"
+    "STANDBY": "Tryb gotowości",
+    "FILTER_ALL": "Wszystkie"
   },
   "BROWSER": {
     "PLAY": "Odtwarzaj",

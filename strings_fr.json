@@ -169,7 +169,8 @@
     "SORT_BY": "Trier par :",
     "LOGIN_OAUTH": "Scannez le code QR avec votre téléphone et connectez-vous à votre compte pour autoriser l'accès au service.",
     "LOGIN_OAUTH_NOT_POSSIBLE": "La connexion n'est pas possible sur cet appareil. Veuillez utiliser l'application Volumio pour accéder au service et l'autoriser.",
-    "STANDBY": "En attente"
+    "STANDBY": "En attente",
+    "FILTER_ALL": "Tous"
   },
   "BROWSER": {
     "PLAY": "Lecture",

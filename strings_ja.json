@@ -168,7 +168,8 @@
     "SORT_BY": "並べ替え",
     "LOGIN_OAUTH": "QRコードを携帯電話で読み取り、アカウントにログインしてサービスへのアクセスを許可する。",
     "LOGIN_OAUTH_NOT_POSSIBLE": "このデバイスではログインできません。Volumioアプリをご利用ください。",
-    "STANDBY": "スタンバイ"
+    "STANDBY": "スタンバイ",
+    "FILTER_ALL": "すべて"
   },
   "BROWSER": {
     "PLAY": "再生",

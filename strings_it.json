@@ -168,7 +168,8 @@
     "SORT_BY": "Ordina per:",
     "LOGIN_OAUTH": "Scansionare il codice QR con il telefono e accedere al proprio account per autorizzare l'accesso al servizio.",
     "LOGIN_OAUTH_NOT_POSSIBLE": "Il login non è possibile su questo dispositivo. Utilizzare l'App Volumio per accedere e autorizzare il servizio.",
-    "STANDBY": "Standby"
+    "STANDBY": "Standby",
+    "FILTER_ALL": "Tutti"
   },
   "BROWSER": {
     "PLAY": "Riproduci",

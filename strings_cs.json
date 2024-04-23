@@ -170,7 +170,8 @@
     "SORT_BY": "Seřadit podle:",
     "LOGIN_OAUTH": "Naskenujte kód QR pomocí telefonu a přihlaste se ke svému účtu, abyste autorizovali přístup ke službě.",
     "LOGIN_OAUTH_NOT_POSSIBLE": "Přihlášení není na tomto zařízení možné. Pro přístup ke službě a její autorizaci použijte aplikaci Volumio.",
-    "STANDBY": "Pohotovostní režim"
+    "STANDBY": "Pohotovostní režim",
+    "FILTER_ALL": "Všechny"
   },
   "BROWSER": {
     "PLAY": "Přehrát",

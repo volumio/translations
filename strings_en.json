@@ -203,7 +203,8 @@
     "SORT_BY": "Sort by:",
     "LOGIN_OAUTH": "Scan the QR Code with your phone and login into your account to authorize access to the service",
     "LOGIN_OAUTH_NOT_POSSIBLE": "Login is not possible on this device. Please use the Volumio App to access and authorize the service",
-    "STANDBY": "Standby"
+    "STANDBY": "Standby",
+    "FILTER_ALL": "All"
   },
   "DEVICELIST": {
     "SETUP_NEW_DEVICE": "Configure a new device",

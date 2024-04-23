@@ -168,7 +168,8 @@
     "SORT_BY": "Sortieren nach:",
     "LOGIN_OAUTH": "Scannen Sie den QR-Code mit Ihrem Telefon und loggen Sie sich in Ihr Konto ein, um den Zugriff auf den Dienst zu autorisieren.",
     "LOGIN_OAUTH_NOT_POSSIBLE": "Die Anmeldung ist auf diesem Gerät nicht möglich. Bitte verwenden Sie die Volumio App, um auf den Dienst zuzugreifen und ihn zu autorisieren",
-    "STANDBY": "Bereitschaft"
+    "STANDBY": "Bereitschaft",
+    "FILTER_ALL": "Alle"
   },
   "BROWSER": {
     "PLAY": "Wiedergeben",

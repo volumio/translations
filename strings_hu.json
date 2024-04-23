@@ -168,7 +168,8 @@
     "SORT_BY": "Rendezés:",
     "LOGIN_OAUTH": "Szkennelje be a QR-kódot telefonjával, és jelentkezzen be fiókjába a szolgáltatáshoz való hozzáférés engedélyezéséhez.",
     "LOGIN_OAUTH_NOT_POSSIBLE": "A bejelentkezés nem lehetséges ezen az eszközön. Kérjük, használja a Volumio App-ot a szolgáltatás eléréséhez és engedélyezéséhez.",
-    "STANDBY": "Készenléti állapot"
+    "STANDBY": "Készenléti állapot",
+    "FILTER_ALL": "Minden"
   },
   "BROWSER": {
     "PLAY": "Lejátszás",

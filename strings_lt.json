@@ -440,7 +440,8 @@
     "SORT_BY": "Rūšiuoti pagal:",
     "LOGIN_OAUTH": "nuskaitykite QR kodą telefonu ir prisijunkite prie savo paskyros, kad patvirtintumėte prieigą prie paslaugos.",
     "LOGIN_OAUTH_NOT_POSSIBLE": "Prisijungti šiuo įrenginiu neįmanoma. Naudokite \"Volumio\" programėlę, kad galėtumėte prisijungti prie paslaugos ir ją autorizuoti.",
-    "STANDBY": "Budėjimo režimas"
+    "STANDBY": "Budėjimo režimas",
+    "FILTER_ALL": "Visi"
   },
   "MY_MUSIC": {
     "UPDATE": "Atnaujinti",

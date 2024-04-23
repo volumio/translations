@@ -168,7 +168,8 @@
     "SORT_BY": "排序方式",
     "LOGIN_OAUTH": "用手机扫描 QR 码并登录您的账户，授权使用服务",
     "LOGIN_OAUTH_NOT_POSSIBLE": "此设备无法登录。请使用 Volumio 应用程序访问和授权服务",
-    "STANDBY": "备用"
+    "STANDBY": "备用",
+    "FILTER_ALL": "全部"
   },
   "BROWSER": {
     "PLAY": "播放",

@@ -203,7 +203,8 @@
     "SORT_BY": "Sorteren op:",
     "LOGIN_OAUTH": "Scan de QR-code met je telefoon en log in op je account om toegang tot de service te autoriseren",
     "LOGIN_OAUTH_NOT_POSSIBLE": "Inloggen is niet mogelijk op dit apparaat. Gebruik de Volumio App om toegang te krijgen tot de service en autorisatie te verkrijgen.",
-    "STANDBY": "Stand-by"
+    "STANDBY": "Stand-by",
+    "FILTER_ALL": "Alle"
   },
   "DEVICELIST": {
     "SETUP_NEW_DEVICE": "Apparaat toevoegen",
