@@ -917,7 +917,9 @@
     "SHOW_MOUSE_POINTER": "Vis musemarkøren",
     "DAC_FILTER": "DAC-filter",
     "DAC_FILTER_DOC": "Vælg DAC-filteret, som undertrykker uønsket information fra signalet og former det til specifikke bølgeformer.",
-    "ADVANCED_AUDIO_SETTINGS": "Avancerede lydindstillinger"
+    "ADVANCED_AUDIO_SETTINGS": "Avancerede lydindstillinger",
+    "POWER_OVERLOAD_PROTECTION_TITLE": "Overbelastning",
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Reduktion af effekt"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "De bedste radioer",
@@ -1207,5 +1209,34 @@
     "SEARCHING_DEVICES": "På udkig efter enheder",
     "BACK_BUTTON": "Tryk to gange på tilbage for at vælge en anden enhed",
     "NO_DEVICE_FOUND_SETTINGS": "Hvis der ikke findes nogen enhed, skal du kontrollere Local Network Privacy-tilladelser ved at trykke her"
+  },
+  "ONBOARDING": {
+    "FOLLOW_GUIDE": "Denne hurtige onboarding vil guide dig gennem det væsentlige og få dig i gang på ingen tid.",
+    "RED_KNOB": "Kontrolknap",
+    "FUNCTION_KNOB": "Drej knappen for at ændre lydstyrken. <br> For at lukke ned skal du trykke og holde i 5 sekunder",
+    "MENU": "Menu Indstillinger",
+    "FUNCTION_MENU": "Med knappen kan du styre dine systemindstillinger, herunder musik, afspilningsmuligheder, opdateringer og plugins.",
+    "MUSIC_CATALOGUE": "Mit musikkatalog",
+    "FUNCTION_MUSIC_CATALOGUE": "Søg i dit musikbibliotek, f.eks. filer, streamingtjenester, afspilningslister, favoritter og radiostationer",
+    "PLAYLIST": "Afspilningskø",
+    "FUNCTION_PLAYLIST": "Administrer din afspilningskø",
+    "PLAYER": "Spillerens kontrol",
+    "FUNCTION_PLAYER": "Afspil, pause, spring over, gentag, bland og uendelig afspilning",
+    "OUTPUT_MENU": "Udgangs- og lydkontrolhub",
+    "FUNCTION_OUTPUT_MENU": "Administrer volumen, multirum, gruppering og casting",
+    "ADD_TO_FAVORITES": "Tilføj til favoritter",
+    "FUNCTION_ADD_TO_FAVORITES": "Føj den aktuelle sang til favoritter",
+    "ADD_TO_PLAYLIST": "Tilføj til afspilningsliste",
+    "FUNCTION_ADD_TO_PLAYLIST": "Føj den aktuelle sang til afspilningslisten",
+    "FUNCTION_INFINITY_PLAY": "Når den er aktiveret, vil AI Dj holde musikken i gang ved at tilføje sange til din kø.",
+    "TRACK_INFO": "Info om spor",
+    "FUNCTION_TRACK_INFO": "Udforsk kunstneres og albums historier, credits og naviger til kunstner- og albumside",
+    "CONGRATULATIONS": "Tillykke med det!",
+    "FUNCTION_FINISH": "Du har gennemført onboardingen.<br> For mere information, besøg <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a>.",
+    "CONNECTION_DEVICE": "Opret forbindelse til dit Wifi eller Ethernet",
+    "SETTINGS_SYSTEM": "System for generelle indstillinger",
+    "PLUGINS": "Tilføj musikstreaming-platform",
+    "OTHER_SETTINGS": "Alarm / Dvaletilstand / Info / Butik",
+    "STANDBY_RESTART": "Standby og genstart af enhed"
   }
 }

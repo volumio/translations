@@ -926,7 +926,9 @@
     "SHOW_MOUSE_POINTER": "Näytä hiiren osoitin",
     "DAC_FILTER": "DAC-suodatin",
     "DAC_FILTER_DOC": "Valitse DAC-suodatin, joka vaimentaa signaalista ei-toivotut tiedot ja muokkaa sen tiettyihin aaltomuotoihin.",
-    "ADVANCED_AUDIO_SETTINGS": "Äänen lisäasetukset"
+    "ADVANCED_AUDIO_SETTINGS": "Äänen lisäasetukset",
+    "POWER_OVERLOAD_PROTECTION_TITLE": "Ylikuormitus",
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Tehon vähentäminen"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Parhaat radiot",
@@ -1207,5 +1209,34 @@
     "SEARCHING_DEVICES": "Etsitään laitteita",
     "BACK_BUTTON": "Valitse toinen laite painamalla kahdesti takaisin",
     "NO_DEVICE_FOUND_SETTINGS": "Jos laitetta ei löydy, tarkista lähiverkon yksityisyydensuojan käyttöoikeudet painamalla tästä."
+  },
+  "ONBOARDING": {
+    "FOLLOW_GUIDE": "Tämä nopea perehdytys opastaa sinut olennaisiin asioihin ja saat sinut alkuun hetkessä.",
+    "RED_KNOB": "Säätönuppi",
+    "FUNCTION_KNOB": "Äänenvoimakkuuden muuttaminen kääntämällä nuppia. <br>Kytke laite pois päältä painamalla ja pitämällä painettuna 5 sekuntia.",
+    "MENU": "Asetukset-valikko",
+    "FUNCTION_MENU": "Painikkeella voit hallita järjestelmäasetuksia, kuten musiikkia, toistovaihtoehtoja, päivityksiä ja lisäosia.",
+    "MUSIC_CATALOGUE": "Oma musiikkiluettelo",
+    "FUNCTION_MUSIC_CATALOGUE": "Etsi musiikkikirjastostasi, kuten tiedostoista, suoratoistopalveluista, soittolistoista, suosikeista ja radioasemista.",
+    "PLAYLIST": "Toistojono",
+    "FUNCTION_PLAYLIST": "Hallitse toistojonoa",
+    "PLAYER": "Pelaajan ohjaimet",
+    "FUNCTION_PLAYER": "Toisto, tauko, hyppääminen, toisto, sekoittaminen ja ääretön toisto.",
+    "OUTPUT_MENU": "Lähtö ja äänenohjauskeskus",
+    "FUNCTION_OUTPUT_MENU": "Äänenvoimakkuuden, monihuoneen, ryhmittelyn ja valinnan hallinta",
+    "ADD_TO_FAVORITES": "Lisää suosikkeihin",
+    "FUNCTION_ADD_TO_FAVORITES": "Lisää nykyinen kappale suosikkeihin",
+    "ADD_TO_PLAYLIST": "Lisää soittolistaan",
+    "FUNCTION_ADD_TO_PLAYLIST": "Lisää nykyinen kappale soittolistaan",
+    "FUNCTION_INFINITY_PLAY": "Kun AI Dj on käytössä, se pitää musiikin käynnissä lisäämällä kappaleita jonoon.",
+    "TRACK_INFO": "Ratatiedot",
+    "FUNCTION_TRACK_INFO": "Tutustu artistien ja albumien tarinoihin, krediitteihin ja navigoi artistin ja albumin sivulle.",
+    "CONGRATULATIONS": "Onnittelut!",
+    "FUNCTION_FINISH": "Olet onnistuneesti suorittanut aloitusprosessin.<br> Lisätietoja saat osoitteesta <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a>.",
+    "CONNECTION_DEVICE": "Yhdistä Wifiin tai Ethernetiin",
+    "SETTINGS_SYSTEM": "Yleiset asetukset järjestelmä",
+    "PLUGINS": "Lisää musiikin suoratoistoalusta",
+    "OTHER_SETTINGS": "Hälytys / Lepotila / Info / Kauppa",
+    "STANDBY_RESTART": "Laitteen valmiustila ja uudelleenkäynnistys"
   }
 }

@@ -1048,7 +1048,9 @@
     "SHOW_MOUSE_POINTER": "Afficher le pointeur de la souris",
     "DAC_FILTER": "Filtre DAC",
     "DAC_FILTER_DOC": "Sélectionnez le filtre DAC, qui supprime les informations indésirables du signal et lui donne une forme d'onde spécifique.",
-    "ADVANCED_AUDIO_SETTINGS": "Paramètres audio avancés"
+    "ADVANCED_AUDIO_SETTINGS": "Paramètres audio avancés",
+    "POWER_OVERLOAD_PROTECTION_TITLE": "Surcharge",
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Réduction de la puissance"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Meilleures Radios",
@@ -1215,5 +1217,34 @@
     "SEARCHING_DEVICES": "Recherche de dispositifs",
     "BACK_BUTTON": "Appuyez deux fois sur la touche retour pour sélectionner un autre appareil",
     "NO_DEVICE_FOUND_SETTINGS": "Si aucun appareil n'est trouvé, vérifiez les autorisations de confidentialité du réseau local en cliquant ici."
+  },
+  "ONBOARDING": {
+    "FOLLOW_GUIDE": "Cette formation rapide vous guidera à travers les éléments essentiels et vous permettra de démarrer en un rien de temps.",
+    "RED_KNOB": "Bouton de commande",
+    "FUNCTION_KNOB": "Tournez le bouton pour modifier le volume. <Pour éteindre l'appareil, appuyez sur la touche et maintenez-la enfoncée pendant 5 secondes.",
+    "MENU": "Menu Réglages",
+    "FUNCTION_MENU": "Ce bouton vous permet de gérer les paramètres de votre système, y compris la musique, les options de lecture, les mises à jour et les plugins.",
+    "MUSIC_CATALOGUE": "Mon catalogue musical",
+    "FUNCTION_MUSIC_CATALOGUE": "Recherchez dans votre bibliothèque musicale des fichiers, des services de streaming, des listes de lecture, des favoris et des stations de radio.",
+    "PLAYLIST": "File d'attente de lecture",
+    "FUNCTION_PLAYLIST": "Gérer votre file d'attente de lecture",
+    "PLAYER": "Contrôles du joueur",
+    "FUNCTION_PLAYER": "Lecture, pause, saut, répétition, lecture aléatoire et lecture à l'infini",
+    "OUTPUT_MENU": "Hub de sortie et de contrôle audio",
+    "FUNCTION_OUTPUT_MENU": "Gérer le volume, le multiroom, le regroupement et la distribution",
+    "ADD_TO_FAVORITES": "Ajouter aux favoris",
+    "FUNCTION_ADD_TO_FAVORITES": "Ajouter la chanson actuelle aux favoris",
+    "ADD_TO_PLAYLIST": "Ajouter à la liste de lecture",
+    "FUNCTION_ADD_TO_PLAYLIST": "Ajouter la chanson actuelle à la liste de lecture",
+    "FUNCTION_INFINITY_PLAY": "Lorsqu'elle est activée, la fonction AI Dj fait durer la musique en ajoutant des chansons à votre liste d'attente.",
+    "TRACK_INFO": "Info piste",
+    "FUNCTION_TRACK_INFO": "Explorez les histoires des artistes et des albums, les crédits et naviguez vers la page de l'artiste ou de l'album.",
+    "CONGRATULATIONS": "Félicitations !",
+    "FUNCTION_FINISH": "Pour plus d'informations, visitez <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a>",
+    "CONNECTION_DEVICE": "Se connecter à votre Wifi ou Ethernet",
+    "SETTINGS_SYSTEM": "Paramètres généraux du système",
+    "PLUGINS": "Ajouter une plateforme de streaming musical",
+    "OTHER_SETTINGS": "Alarme / Mode veille / Info / Boutique",
+    "STANDBY_RESTART": "Dispositif de mise en veille et de redémarrage"
   }
 }

@@ -1098,7 +1098,9 @@
     "SHOW_MOUSE_POINTER": "Show Mouse Pointer",
     "DAC_FILTER": "DAC Filter",
     "DAC_FILTER_DOC": "Select the DAC Filter, which suppress unwanted information from the signal and shape it to specific waveforms",
-    "ADVANCED_AUDIO_SETTINGS": "Advanced Audio Settings"
+    "ADVANCED_AUDIO_SETTINGS": "Advanced Audio Settings",
+    "POWER_OVERLOAD_PROTECTION_TITLE": "Overload",
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Power reduction"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Best Radios",
@@ -1209,5 +1211,34 @@
     "QOBUZ_LOGOUT_DESC": "This device is connected to QOBUZ. You can disconnect by clicking the Logout button.",
     "QOBUZ_FREE_TRIAL": "Free Trial",
     "QOBUZ_FREE_TRIAL_DESC": "Get 1 month free trial of QOBUZ HIFI (worth 19,99€)"
+  },
+  "ONBOARDING": {
+    "FOLLOW_GUIDE": "This quick onboarding will guide you through the essentials and get you started in no time",
+    "RED_KNOB": "Control Knob",
+    "FUNCTION_KNOB": "Rotate the knob to change the volume. <br>To shut down press and hold for 5 seconds",
+    "MENU": "Settings Menu",
+    "FUNCTION_MENU": "The button lets you manage your system settings, including music, playback options, updates and plugins",
+    "MUSIC_CATALOGUE": "My Music Catalogue",
+    "FUNCTION_MUSIC_CATALOGUE": "Search your music library such as files, streaming services, playlists, favorites and radio stations",
+    "PLAYLIST": "Playback Queue",
+    "FUNCTION_PLAYLIST": "Manage your playback queue",
+    "PLAYER": "Player Controls",
+    "FUNCTION_PLAYER": "Play, Pause, Skip, Repeat, Shuffle and Infinity playback",
+    "OUTPUT_MENU": "Output and Audio Control Hub",
+    "FUNCTION_OUTPUT_MENU": "Manage Volume, Multiroom, Grouping and Casting",
+    "ADD_TO_FAVORITES": "Add to Favorites ",
+    "FUNCTION_ADD_TO_FAVORITES": "Add current song to favorites ",
+    "ADD_TO_PLAYLIST": "Add to Playlist",
+    "FUNCTION_ADD_TO_PLAYLIST": "Add current song to playlist",
+    "FUNCTION_INFINITY_PLAY": "When enabled, AI Dj will keep the music going by adding songs to your queue",
+    "TRACK_INFO": "Track Info",
+    "FUNCTION_TRACK_INFO": "Explore artists and albums stories, credits and navigate to artist and album page",
+    "CONGRATULATIONS": "Congratulations!",
+    "FUNCTION_FINISH": "You've successfully completed the onboarding.<br> For more information, visit <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a>",
+    "CONNECTION_DEVICE": "Connect to your Wifi or Ethernet",
+    "SETTINGS_SYSTEM": "General settings system",
+    "PLUGINS": "Add music streaming platform",
+    "OTHER_SETTINGS": "Alarm / Sleep mode / Info / Shop",
+    "STANDBY_RESTART": "Standby and Restart Device"
   }
 }

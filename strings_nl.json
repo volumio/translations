@@ -1099,7 +1099,9 @@
     "SHOW_MOUSE_POINTER": "Muisaanwijzer tonen",
     "DAC_FILTER": "DAC-filter",
     "DAC_FILTER_DOC": "Selecteer het DAC-filter, dat ongewenste informatie uit het signaal onderdrukt en het naar specifieke golfvormen vormt.",
-    "ADVANCED_AUDIO_SETTINGS": "Geavanceerde audio-instellingen"
+    "ADVANCED_AUDIO_SETTINGS": "Geavanceerde audio-instellingen",
+    "POWER_OVERLOAD_PROTECTION_TITLE": "Overload",
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Vermogensvermindering"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Beste radiostations",
@@ -1209,5 +1211,34 @@
     "SECTION_QOBUZ_ACCOUNT": "QOBUZ",
     "QOBUZ_CONNECT_DESC": "Benader muziek uit de QOBUZ catalogus vanuit Volumio.",
     "QOBUZ_LOGOUT_DESC": "Dit apparaat is verbonden met QOBUZ. U kunt alleen de verbinding verbreken door op Afmelden te klikken."
+  },
+  "ONBOARDING": {
+    "FOLLOW_GUIDE": "Deze snelle handleiding leidt je door de belangrijkste zaken en zorgt ervoor dat je snel aan de slag kunt.",
+    "RED_KNOB": "Bedieningsknop",
+    "FUNCTION_KNOB": "Draai aan de knop om het volume te wijzigen. <br>Om uit te schakelen houdt u de knop 5 seconden ingedrukt.",
+    "MENU": "Menu Instellingen",
+    "FUNCTION_MENU": "Met de knop kun je je systeeminstellingen beheren, inclusief muziek, afspeelopties, updates en plugins.",
+    "MUSIC_CATALOGUE": "Mijn muziekcatalogus",
+    "FUNCTION_MUSIC_CATALOGUE": "Doorzoek je muziekbibliotheek zoals bestanden, streamingdiensten, afspeellijsten, favorieten en radiostations",
+    "PLAYLIST": "Afspeelwachtrij",
+    "FUNCTION_PLAYLIST": "Je afspeelwachtrij beheren",
+    "PLAYER": "Spelersbesturing",
+    "FUNCTION_PLAYER": "Afspelen, pauzeren, overslaan, herhalen, shuffle en oneindig afspelen",
+    "OUTPUT_MENU": "Uitgang en audiobedieningshub",
+    "FUNCTION_OUTPUT_MENU": "Volume, multiroom, groepering en casting beheren",
+    "ADD_TO_FAVORITES": "Toevoegen aan favorieten",
+    "FUNCTION_ADD_TO_FAVORITES": "Huidig nummer toevoegen aan favorieten",
+    "ADD_TO_PLAYLIST": "Toevoegen aan afspeellijst",
+    "FUNCTION_ADD_TO_PLAYLIST": "Huidig nummer toevoegen aan afspeellijst",
+    "FUNCTION_INFINITY_PLAY": "Als deze optie is ingeschakeld, houdt AI Dj de muziek aan de gang door nummers aan je wachtrij toe te voegen.",
+    "TRACK_INFO": "Spoorinformatie",
+    "FUNCTION_TRACK_INFO": "Ontdek de verhalen van artiesten en albums, credits en navigeer naar de artiesten- en albumpagina",
+    "CONGRATULATIONS": "Gefeliciteerd!",
+    "FUNCTION_FINISH": "<br> Ga voor meer informatie naar <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a>.",
+    "CONNECTION_DEVICE": "Maak verbinding met je Wifi of Ethernet",
+    "SETTINGS_SYSTEM": "Algemene instellingen systeem",
+    "PLUGINS": "Muziekstreamingplatform toevoegen",
+    "OTHER_SETTINGS": "Alarm / Sleep mode / Info / Shop",
+    "STANDBY_RESTART": "Apparaat stand-by en opnieuw opstarten"
   }
 }

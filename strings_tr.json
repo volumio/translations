@@ -1046,7 +1046,9 @@
     "SHOW_MOUSE_POINTER": "Fare İşaretçisini Göster",
     "DAC_FILTER": "DAC Filtresi",
     "DAC_FILTER_DOC": "Sinyalden istenmeyen bilgileri bastıran ve belirli dalga biçimlerine göre şekillendiren DAC Filtresini seçin",
-    "ADVANCED_AUDIO_SETTINGS": "Gelişmiş Ses Ayarları"
+    "ADVANCED_AUDIO_SETTINGS": "Gelişmiş Ses Ayarları",
+    "POWER_OVERLOAD_PROTECTION_TITLE": "Aşırı Yük",
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Güç azaltma"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "En iyi Radyolar",
@@ -1209,5 +1211,34 @@
     "SEARCHING_DEVICES": "Cihaz aranıyor",
     "BACK_BUTTON": "Farklı bir cihaz seçmek için iki kez geri tuşuna basın",
     "NO_DEVICE_FOUND_SETTINGS": "Hiçbir cihaz bulunamazsa lütfen buraya basarak Yerel Ağ Gizliliği izinlerini kontrol edin"
+  },
+  "ONBOARDING": {
+    "FOLLOW_GUIDE": "Bu hızlı işe alıştırma, temel konularda size rehberlik edecek ve kısa sürede başlamanızı sağlayacaktır",
+    "RED_KNOB": "Kontrol Düğmesi",
+    "FUNCTION_KNOB": "Ses seviyesini değiştirmek için düğmeyi döndürün. <br>Kapatmak için 5 saniye basılı tutun",
+    "MENU": "Ayarlar Menüsü",
+    "FUNCTION_MENU": "Düğme, müzik, oynatma seçenekleri, güncellemeler ve eklentiler dahil olmak üzere sistem ayarlarınızı yönetmenizi sağlar",
+    "MUSIC_CATALOGUE": "Müzik Kataloğum",
+    "FUNCTION_MUSIC_CATALOGUE": "Dosyalar, akış hizmetleri, çalma listeleri, favoriler ve radyo istasyonları gibi müzik kitaplığınızda arama yapın",
+    "PLAYLIST": "Oynatma Kuyruğu",
+    "FUNCTION_PLAYLIST": "Oynatma kuyruğunuzu yönetin",
+    "PLAYER": "Oyuncu Kontrolleri",
+    "FUNCTION_PLAYER": "Oynat, Duraklat, Atla, Tekrarla, Karıştır ve Sonsuz oynatma",
+    "OUTPUT_MENU": "Çıkış ve Ses Kontrol Merkezi",
+    "FUNCTION_OUTPUT_MENU": "Ses Düzeyi, Çoklu Oda, Gruplama ve Döküm Yönetme",
+    "ADD_TO_FAVORITES": "Favorilere Ekle",
+    "FUNCTION_ADD_TO_FAVORITES": "Geçerli şarkıyı favorilere ekle",
+    "ADD_TO_PLAYLIST": "Oynatma Listesine Ekle",
+    "FUNCTION_ADD_TO_PLAYLIST": "Geçerli şarkıyı çalma listesine ekle",
+    "FUNCTION_INFINITY_PLAY": "Etkinleştirildiğinde, AI Dj kuyruğunuza şarkılar ekleyerek müziğin devam etmesini sağlar",
+    "TRACK_INFO": "Parça Bilgisi",
+    "FUNCTION_TRACK_INFO": "Sanatçıların ve albümlerin hikayelerini, kredilerini keşfedin ve sanatçı ve albüm sayfasına gidin",
+    "CONGRATULATIONS": "Tebrikler!",
+    "FUNCTION_FINISH": "Alıştırma sürecini başarıyla tamamladınız.<br> Daha fazla bilgi için <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a> adresini ziyaret edin.",
+    "CONNECTION_DEVICE": "Wifi veya Ethernet'inize bağlanın",
+    "SETTINGS_SYSTEM": "Genel ayarlar sistemi",
+    "PLUGINS": "Müzik akış platformu ekleyin",
+    "OTHER_SETTINGS": "Alarm / Uyku modu / Bilgi / Mağaza",
+    "STANDBY_RESTART": "Bekleme ve Cihazı Yeniden Başlatma"
   }
 }

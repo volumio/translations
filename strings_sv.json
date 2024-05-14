@@ -1046,7 +1046,9 @@
     "SHOW_MOUSE_POINTER": "Visa muspekare",
     "DAC_FILTER": "DAC-filter",
     "DAC_FILTER_DOC": "Välj DAC-filter, som undertrycker oönskad information från signalen och formar den till specifika vågformer",
-    "ADVANCED_AUDIO_SETTINGS": "Avancerade ljudinställningar"
+    "ADVANCED_AUDIO_SETTINGS": "Avancerade ljudinställningar",
+    "POWER_OVERLOAD_PROTECTION_TITLE": "Överbelastning",
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Effektreduktion"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Bäst radio",
@@ -1209,5 +1211,34 @@
     "SEARCHING_DEVICES": "Letar efter enheter",
     "BACK_BUTTON": "Tryck tillbaka två gånger för att välja en annan enhet",
     "NO_DEVICE_FOUND_SETTINGS": "Om ingen enhet hittas, kontrollera behörigheterna för lokalt nätverk genom att trycka här"
+  },
+  "ONBOARDING": {
+    "FOLLOW_GUIDE": "Den här snabba introduktionen guidar dig genom det viktigaste och hjälper dig att komma igång på nolltid",
+    "RED_KNOB": "Kontrollratt",
+    "FUNCTION_KNOB": "Vrid på ratten för att ändra volymen. <br> För att stänga av tryck och håll i 5 sekunder",
+    "MENU": "Meny för inställningar",
+    "FUNCTION_MENU": "Med knappen kan du hantera dina systeminställningar, inklusive musik, uppspelningsalternativ, uppdateringar och plugins",
+    "MUSIC_CATALOGUE": "Min musikkatalog",
+    "FUNCTION_MUSIC_CATALOGUE": "Sök i ditt musikbibliotek, t.ex. filer, streamingtjänster, spellistor, favoriter och radiostationer",
+    "PLAYLIST": "Uppspelningskö",
+    "FUNCTION_PLAYLIST": "Hantera din uppspelningskö",
+    "PLAYER": "Spelarens kontroller",
+    "FUNCTION_PLAYER": "Spela, pausa, hoppa över, upprepa, blanda och oavbruten uppspelning",
+    "OUTPUT_MENU": "Utgångs- och ljudkontrollhub",
+    "FUNCTION_OUTPUT_MENU": "Hantera volym, multiroom, gruppering och casting",
+    "ADD_TO_FAVORITES": "Lägg till i favoriter",
+    "FUNCTION_ADD_TO_FAVORITES": "Lägg till aktuell låt bland favoriter",
+    "ADD_TO_PLAYLIST": "Lägg till i spellista",
+    "FUNCTION_ADD_TO_PLAYLIST": "Lägg till aktuell låt i spellistan",
+    "FUNCTION_INFINITY_PLAY": "När AI Dj är aktiverad fortsätter musiken att spelas genom att lägga till låtar i din kö",
+    "TRACK_INFO": "Info om spår",
+    "FUNCTION_TRACK_INFO": "Utforska artister och albums berättelser, krediter och navigera till artist- och albumsidan",
+    "CONGRATULATIONS": "Gratulerar!",
+    "FUNCTION_FINISH": "Du har slutfört introduktionen.<br> För mer information, besök <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a>",
+    "CONNECTION_DEVICE": "Anslut till ditt Wifi eller Ethernet",
+    "SETTINGS_SYSTEM": "Allmänna inställningar system",
+    "PLUGINS": "Lägg till plattform för musikstreaming",
+    "OTHER_SETTINGS": "Larm / Viloläge / Info / Butik",
+    "STANDBY_RESTART": "Standby- och omstartsenhet"
   }
 }

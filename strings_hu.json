@@ -1045,7 +1045,9 @@
     "SHOW_MOUSE_POINTER": "Egérmutató megjelenítése",
     "DAC_FILTER": "DAC szűrő",
     "DAC_FILTER_DOC": "Válassza ki a DAC szűrőt, amely elnyomja a nem kívánt információkat a jelből, és meghatározott hullámformákhoz alakítja azt.",
-    "ADVANCED_AUDIO_SETTINGS": "Speciális hangbeállítások"
+    "ADVANCED_AUDIO_SETTINGS": "Speciális hangbeállítások",
+    "POWER_OVERLOAD_PROTECTION_TITLE": "Túlterhelés",
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Teljesítménycsökkentés"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Legjobb rádiók",
@@ -1208,5 +1210,34 @@
     "SEARCHING_DEVICES": "Eszközök keresése",
     "BACK_BUTTON": "Nyomja meg kétszer a vissza gombot egy másik eszköz kiválasztásához",
     "NO_DEVICE_FOUND_SETTINGS": "Ha nem talál eszközt, kérjük, ellenőrizze a Helyi hálózati adatvédelmi engedélyeket az itt található gomb megnyomásával."
+  },
+  "ONBOARDING": {
+    "FOLLOW_GUIDE": "Ez a gyors bevezetés végigvezeti Önt az alapvető tudnivalókon, és pillanatok alatt el tudja kezdeni a munkát.",
+    "RED_KNOB": "Vezérlőgomb",
+    "FUNCTION_KNOB": "Forgassa el a gombot a hangerő megváltoztatásához. <br>Kikapcsoláshoz nyomja meg és tartsa lenyomva 5 másodpercig.",
+    "MENU": "Beállítások menü",
+    "FUNCTION_MENU": "A gomb segítségével kezelheti a rendszerbeállításokat, beleértve a zenét, a lejátszási opciókat, a frissítéseket és a bővítményeket.",
+    "MUSIC_CATALOGUE": "My Music katalógus",
+    "FUNCTION_MUSIC_CATALOGUE": "Keresés a zenei könyvtárban, például fájlokban, streaming szolgáltatásokban, lejátszási listákban, kedvencekben és rádióállomásokban.",
+    "PLAYLIST": "Lejátszási sor",
+    "FUNCTION_PLAYLIST": "A lejátszási sor kezelése",
+    "PLAYER": "Játékos vezérlők",
+    "FUNCTION_PLAYER": "Lejátszás, szünet, kihagyás, ismétlés, keverés és végtelenített lejátszás",
+    "OUTPUT_MENU": "Kimenet és hangvezérlő központ",
+    "FUNCTION_OUTPUT_MENU": "Hangerő, több helyiség, csoportosítás és casting kezelése",
+    "ADD_TO_FAVORITES": "Hozzáadás a kedvencekhez",
+    "FUNCTION_ADD_TO_FAVORITES": "Az aktuális dal hozzáadása a kedvencekhez",
+    "ADD_TO_PLAYLIST": "Hozzáadás a lejátszási listához",
+    "FUNCTION_ADD_TO_PLAYLIST": "Az aktuális dal hozzáadása a lejátszási listához",
+    "FUNCTION_INFINITY_PLAY": "Ha engedélyezve van, az AI Dj folytatja a zenét a dalok hozzáadásával a várólistához.",
+    "TRACK_INFO": "Track Info",
+    "FUNCTION_TRACK_INFO": "Fedezze fel a művészek és albumok történeteit, a krediteket, és navigáljon a művész és az album oldalára.",
+    "CONGRATULATIONS": "Gratulálunk!",
+    "FUNCTION_FINISH": "Sikeresen befejezte a beszállítást.<br> További információkért látogasson el a <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a> weboldalra.",
+    "CONNECTION_DEVICE": "Csatlakozás a Wifi vagy Ethernet hálózathoz",
+    "SETTINGS_SYSTEM": "Általános beállítások rendszere",
+    "PLUGINS": "Zenei streaming platform hozzáadása",
+    "OTHER_SETTINGS": "Riasztás / Alvó üzemmód / Info / Bolt",
+    "STANDBY_RESTART": "Készenléti állapot és újraindítás"
   }
 }

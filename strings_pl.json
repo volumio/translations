@@ -1045,7 +1045,9 @@
     "SHOW_MOUSE_POINTER": "Pokaż wskaźnik myszy",
     "DAC_FILTER": "Filtr DAC",
     "DAC_FILTER_DOC": "Wybierz filtr DAC, który eliminuje niepożądane informacje z sygnału i kształtuje go do określonych przebiegów.",
-    "ADVANCED_AUDIO_SETTINGS": "Zaawansowane ustawienia audio"
+    "ADVANCED_AUDIO_SETTINGS": "Zaawansowane ustawienia audio",
+    "POWER_OVERLOAD_PROTECTION_TITLE": "Przeciążenie",
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Redukcja mocy"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najlepsze stacje radiowe",
@@ -1208,5 +1210,34 @@
     "SEARCHING_DEVICES": "Poszukiwanie urządzeń",
     "BACK_BUTTON": "Naciśnij dwukrotnie przycisk Wstecz, aby wybrać inne urządzenie",
     "NO_DEVICE_FOUND_SETTINGS": "Jeśli żadne urządzenie nie zostanie znalezione, sprawdź uprawnienia do prywatności w sieci lokalnej, naciskając tutaj"
+  },
+  "ONBOARDING": {
+    "FOLLOW_GUIDE": "To szybkie wdrożenie przeprowadzi Cię przez najważniejsze elementy i pozwoli rozpocząć pracę w mgnieniu oka",
+    "RED_KNOB": "Pokrętło sterowania",
+    "FUNCTION_KNOB": "Obróć pokrętło, aby zmienić głośność. <br>Aby wyłączyć, naciśnij i przytrzymaj przez 5 sekund.",
+    "MENU": "Menu ustawień",
+    "FUNCTION_MENU": "Przycisk umożliwia zarządzanie ustawieniami systemu, w tym muzyką, opcjami odtwarzania, aktualizacjami i wtyczkami",
+    "MUSIC_CATALOGUE": "Mój katalog muzyczny",
+    "FUNCTION_MUSIC_CATALOGUE": "Przeszukiwanie biblioteki muzycznej, takiej jak pliki, usługi strumieniowe, listy odtwarzania, ulubione i stacje radiowe.",
+    "PLAYLIST": "Kolejka odtwarzania",
+    "FUNCTION_PLAYLIST": "Zarządzanie kolejką odtwarzania",
+    "PLAYER": "Elementy sterujące gracza",
+    "FUNCTION_PLAYER": "Odtwarzanie, pauza, pomijanie, powtarzanie, odtwarzanie losowe i odtwarzanie w nieskończoność",
+    "OUTPUT_MENU": "Wyjście i koncentrator sterowania audio",
+    "FUNCTION_OUTPUT_MENU": "Zarządzanie głośnością, multiroomem, grupowaniem i castingiem",
+    "ADD_TO_FAVORITES": "Dodaj do ulubionych",
+    "FUNCTION_ADD_TO_FAVORITES": "Dodawanie bieżącego utworu do ulubionych",
+    "ADD_TO_PLAYLIST": "Dodaj do listy odtwarzania",
+    "FUNCTION_ADD_TO_PLAYLIST": "Dodawanie bieżącego utworu do listy odtwarzania",
+    "FUNCTION_INFINITY_PLAY": "Po włączeniu, AI Dj będzie kontynuować odtwarzanie muzyki, dodając utwory do kolejki",
+    "TRACK_INFO": "Track Info",
+    "FUNCTION_TRACK_INFO": "Przeglądaj historie artystów i albumów, kredyty i przejdź do strony artysty i albumu",
+    "CONGRATULATIONS": "Gratulacje!",
+    "FUNCTION_FINISH": "Aby uzyskać więcej informacji, odwiedź <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a>.",
+    "CONNECTION_DEVICE": "Połączenie z siecią Wi-Fi lub Ethernet",
+    "SETTINGS_SYSTEM": "System ustawień ogólnych",
+    "PLUGINS": "Dodaj platformę strumieniowania muzyki",
+    "OTHER_SETTINGS": "Alarm / Tryb uśpienia / Informacje / Sklep",
+    "STANDBY_RESTART": "Tryb gotowości i restart urządzenia"
   }
 }

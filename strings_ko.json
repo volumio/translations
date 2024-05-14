@@ -1045,7 +1045,9 @@
     "SHOW_MOUSE_POINTER": "마우스 포인터 표시",
     "DAC_FILTER": "DAC 필터",
     "DAC_FILTER_DOC": "신호에서 원치 않는 정보를 억제하고 특정 파형으로 변형하는 DAC 필터를 선택합니다.",
-    "ADVANCED_AUDIO_SETTINGS": "고급 오디오 설정"
+    "ADVANCED_AUDIO_SETTINGS": "고급 오디오 설정",
+    "POWER_OVERLOAD_PROTECTION_TITLE": "과부하",
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "전력 절감"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "베스트 라디오",
@@ -1208,5 +1210,34 @@
     "SEARCHING_DEVICES": "디바이스 찾기",
     "BACK_BUTTON": "뒤로 키를 두 번 눌러 다른 장치를 선택합니다.",
     "NO_DEVICE_FOUND_SETTINGS": "장치를 찾을 수 없는 경우 여기를 눌러 로컬 네트워크 개인 정보 보호 권한을 확인하세요."
+  },
+  "ONBOARDING": {
+    "FOLLOW_GUIDE": "이 빠른 온보딩을 통해 필수 사항을 안내하고 빠르게 시작할 수 있습니다.",
+    "RED_KNOB": "컨트롤 노브",
+    "FUNCTION_KNOB": "노브를 돌려 볼륨을 변경합니다. <br> 종료하려면 5초간 길게 누릅니다.",
+    "MENU": "설정 메뉴",
+    "FUNCTION_MENU": "이 버튼으로 음악, 재생 옵션, 업데이트 및 플러그인을 포함한 시스템 설정을 관리할 수 있습니다.",
+    "MUSIC_CATALOGUE": "내 음악 카탈로그",
+    "FUNCTION_MUSIC_CATALOGUE": "파일, 스트리밍 서비스, 재생 목록, 즐겨찾기, 라디오 방송국 등의 음악 라이브러리를 검색하세요.",
+    "PLAYLIST": "재생 대기열",
+    "FUNCTION_PLAYLIST": "재생 대기열 관리",
+    "PLAYER": "플레이어 컨트롤",
+    "FUNCTION_PLAYER": "재생, 일시 중지, 건너뛰기, 반복, 셔플 및 무한 재생",
+    "OUTPUT_MENU": "출력 및 오디오 제어 허브",
+    "FUNCTION_OUTPUT_MENU": "볼륨, 멀티룸, 그룹화 및 캐스팅 관리",
+    "ADD_TO_FAVORITES": "즐겨찾기에 추가",
+    "FUNCTION_ADD_TO_FAVORITES": "즐겨찾기에 현재 노래 추가",
+    "ADD_TO_PLAYLIST": "재생 목록에 추가",
+    "FUNCTION_ADD_TO_PLAYLIST": "재생 목록에 현재 노래 추가",
+    "FUNCTION_INFINITY_PLAY": "활성화하면 AI Dj가 대기열에 노래를 추가하여 음악을 계속 재생합니다.",
+    "TRACK_INFO": "정보 추적",
+    "FUNCTION_TRACK_INFO": "아티스트 및 앨범 스토리, 크레딧을 탐색하고 아티스트 및 앨범 페이지로 이동합니다.",
+    "CONGRATULATIONS": "축하합니다!",
+    "FUNCTION_FINISH": "온보딩을 성공적으로 완료했습니다.<br> 자세한 내용은 <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a>에서 확인하세요.",
+    "CONNECTION_DEVICE": "와이파이 또는 이더넷에 연결",
+    "SETTINGS_SYSTEM": "일반 설정 시스템",
+    "PLUGINS": "음악 스트리밍 플랫폼 추가",
+    "OTHER_SETTINGS": "알람 / 절전 모드 / 정보 / 쇼핑",
+    "STANDBY_RESTART": "장치 대기 및 재시작"
   }
 }

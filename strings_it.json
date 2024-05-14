@@ -1051,7 +1051,9 @@
     "SHOW_MOUSE_POINTER": "Mostra puntatore del mouse",
     "DAC_FILTER": "Filtro DAC",
     "DAC_FILTER_DOC": "Selezionare il filtro DAC, che sopprime le informazioni indesiderate dal segnale e lo modella su forme d'onda specifiche.",
-    "ADVANCED_AUDIO_SETTINGS": "Impostazioni audio avanzate"
+    "ADVANCED_AUDIO_SETTINGS": "Impostazioni audio avanzate",
+    "POWER_OVERLOAD_PROTECTION_TITLE": "Sovraccarico",
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Riduzione della potenza"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Le Radio Migliori",
@@ -1214,5 +1216,34 @@
     "QOBUZ_LOGOUT_DESC": "Questo dispositivo è collegato a QOBUZ. È possibile disconnettersi facendo clic sul pulsante Logout.",
     "QOBUZ_FREE_TRIAL": "Prova gratuita",
     "QOBUZ_FREE_TRIAL_DESC": "Ottenete 1 mese di prova gratuita di QOBUZ HIFI (del valore di 19,99€)"
+  },
+  "ONBOARDING": {
+    "FOLLOW_GUIDE": "Questo rapido onboarding vi guiderà attraverso gli elementi essenziali e vi farà iniziare a lavorare in poco tempo.",
+    "RED_KNOB": "Manopola di controllo",
+    "FUNCTION_KNOB": "Ruotare la manopola per modificare il volume. <br>Per spegnere il dispositivo tenere premuto per 5 secondi.",
+    "MENU": "Menu Impostazioni",
+    "FUNCTION_MENU": "Il pulsante consente di gestire le impostazioni del sistema, compresi musica, opzioni di riproduzione, aggiornamenti e plugin.",
+    "MUSIC_CATALOGUE": "Il mio catalogo musicale",
+    "FUNCTION_MUSIC_CATALOGUE": "Cercate nella vostra libreria musicale, come file, servizi di streaming, playlist, preferiti e stazioni radio.",
+    "PLAYLIST": "Coda di riproduzione",
+    "FUNCTION_PLAYLIST": "Gestire la coda di riproduzione",
+    "PLAYER": "Controlli del giocatore",
+    "FUNCTION_PLAYER": "Riproduzione, pausa, salto, ripetizione, riproduzione casuale e infinita",
+    "OUTPUT_MENU": "Hub di uscita e controllo audio",
+    "FUNCTION_OUTPUT_MENU": "Gestione di volume, multiroom, raggruppamento e casting",
+    "ADD_TO_FAVORITES": "Aggiungi ai preferiti",
+    "FUNCTION_ADD_TO_FAVORITES": "Aggiungere il brano corrente ai preferiti",
+    "ADD_TO_PLAYLIST": "Aggiungi alla playlist",
+    "FUNCTION_ADD_TO_PLAYLIST": "Aggiungere il brano corrente alla playlist",
+    "FUNCTION_INFINITY_PLAY": "Quando è abilitato, AI Dj mantiene la musica aggiungendo brani alla coda.",
+    "TRACK_INFO": "Informazioni sulla traccia",
+    "FUNCTION_TRACK_INFO": "Esplora le storie degli artisti e degli album, i crediti e naviga verso la pagina dell'artista e dell'album.",
+    "CONGRATULATIONS": "Congratulazioni!",
+    "FUNCTION_FINISH": "Per ulteriori informazioni, visitare <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a>.",
+    "CONNECTION_DEVICE": "Connettersi alla rete Wifi o Ethernet",
+    "SETTINGS_SYSTEM": "Sistema di impostazioni generali",
+    "PLUGINS": "Aggiungere una piattaforma di streaming musicale",
+    "OTHER_SETTINGS": "Allarme / Modalità Sleep / Info / Negozio",
+    "STANDBY_RESTART": "Standby e riavvio del dispositivo"
   }
 }

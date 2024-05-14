@@ -1045,7 +1045,9 @@
     "SHOW_MOUSE_POINTER": "Mostrar puntero del ratón",
     "DAC_FILTER": "Filtro DAC",
     "DAC_FILTER_DOC": "Selecciona el filtro DAC, que suprime la información no deseada de la señal y le da forma según determinadas formas de onda.",
-    "ADVANCED_AUDIO_SETTINGS": "Ajustes avanzados de audio"
+    "ADVANCED_AUDIO_SETTINGS": "Ajustes avanzados de audio",
+    "POWER_OVERLOAD_PROTECTION_TITLE": "Sobrecarga",
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Reducción de potencia"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Mejores radios",
@@ -1208,5 +1210,34 @@
     "SEARCHING_DEVICES": "Búsqueda de dispositivos",
     "BACK_BUTTON": "Pulsa atrás dos veces para seleccionar otro dispositivo",
     "NO_DEVICE_FOUND_SETTINGS": "Si no se encuentra ningún dispositivo, compruebe los permisos de privacidad de la red local pulsando aquí"
+  },
+  "ONBOARDING": {
+    "FOLLOW_GUIDE": "Esta rápida introducción le guiará a través de los aspectos esenciales y le permitirá empezar a trabajar en un abrir y cerrar de ojos.",
+    "RED_KNOB": "Mando de control",
+    "FUNCTION_KNOB": "Gire el mando para cambiar el volumen. <br>Para apagar mantenga pulsado durante 5 segundos.",
+    "MENU": "Menú Ajustes",
+    "FUNCTION_MENU": "El botón te permite gestionar la configuración del sistema, incluida la música, las opciones de reproducción, las actualizaciones y los plugins.",
+    "MUSIC_CATALOGUE": "Mi catálogo de música",
+    "FUNCTION_MUSIC_CATALOGUE": "Busca en tu biblioteca de música archivos, servicios de streaming, listas de reproducción, favoritos y emisoras de radio.",
+    "PLAYLIST": "Cola de reproducción",
+    "FUNCTION_PLAYLIST": "Gestiona tu cola de reproducción",
+    "PLAYER": "Controles del jugador",
+    "FUNCTION_PLAYER": "Reproducción, pausa, salto, repetición, reproducción aleatoria e infinita",
+    "OUTPUT_MENU": "Hub de salida y control de audio",
+    "FUNCTION_OUTPUT_MENU": "Gestión de volumen, multisala, agrupación y reparto",
+    "ADD_TO_FAVORITES": "Añadir a favoritos",
+    "FUNCTION_ADD_TO_FAVORITES": "Añadir la canción actual a favoritos",
+    "ADD_TO_PLAYLIST": "Añadir a la lista de reproducción",
+    "FUNCTION_ADD_TO_PLAYLIST": "Añadir la canción actual a la lista de reproducción",
+    "FUNCTION_INFINITY_PLAY": "Cuando está activada, AI Dj mantiene la música añadiendo canciones a la cola.",
+    "TRACK_INFO": "Información",
+    "FUNCTION_TRACK_INFO": "Explorar historias de artistas y álbumes, créditos y navegar a la página del artista y del álbum",
+    "CONGRATULATIONS": "¡Felicidades!",
+    "FUNCTION_FINISH": "Ha completado correctamente el onboarding.<br> Para más información, visite <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a>.",
+    "CONNECTION_DEVICE": "Conéctate a tu Wifi o Ethernet",
+    "SETTINGS_SYSTEM": "Sistema de ajustes generales",
+    "PLUGINS": "Añadir plataforma de streaming de música",
+    "OTHER_SETTINGS": "Alarma / Reposo / Información / Tienda",
+    "STANDBY_RESTART": "Dispositivo de espera y reinicio"
   }
 }

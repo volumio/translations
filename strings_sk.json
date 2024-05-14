@@ -1046,7 +1046,9 @@
     "SHOW_MOUSE_POINTER": "Zobraziť ukazovateľ myši",
     "DAC_FILTER": "Filter DAC",
     "DAC_FILTER_DOC": "Vyberte filter DAC, ktorý potláča nežiaduce informácie zo signálu a tvaruje ho do špecifických priebehov.",
-    "ADVANCED_AUDIO_SETTINGS": "Rozšírené nastavenia zvuku"
+    "ADVANCED_AUDIO_SETTINGS": "Rozšírené nastavenia zvuku",
+    "POWER_OVERLOAD_PROTECTION_TITLE": "Preťaženie",
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Zníženie výkonu"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najlepšie rádia",
@@ -1209,5 +1211,34 @@
     "SEARCHING_DEVICES": "Hľadanie zariadení",
     "BACK_BUTTON": "Ak chcete vybrať iné zariadenie, dvakrát stlačte tlačidlo späť",
     "NO_DEVICE_FOUND_SETTINGS": "Ak sa nenájde žiadne zariadenie, skontrolujte povolenia na ochranu osobných údajov v miestnej sieti stlačením tu"
+  },
+  "ONBOARDING": {
+    "FOLLOW_GUIDE": "Tento rýchly úvodný kurz vás prevedie základnými informáciami a umožní vám začať pracovať v krátkom čase.",
+    "RED_KNOB": "Ovládací gombík",
+    "FUNCTION_KNOB": "Otáčaním gombíka zmeníte hlasitosť. <br>Na vypnutie stlačte a podržte na 5 sekúnd",
+    "MENU": "Ponuka nastavení",
+    "FUNCTION_MENU": "Tlačidlo umožňuje spravovať nastavenia systému vrátane hudby, možností prehrávania, aktualizácií a zásuvných modulov.",
+    "MUSIC_CATALOGUE": "Môj hudobný katalóg",
+    "FUNCTION_MUSIC_CATALOGUE": "Vyhľadávanie v hudobnej knižnici, napríklad v súboroch, streamovacích službách, zoznamoch skladieb, obľúbených položkách a rozhlasových staniciach",
+    "PLAYLIST": "Fronta prehrávania",
+    "FUNCTION_PLAYLIST": "Správa frontu prehrávania",
+    "PLAYER": "Ovládanie hráča",
+    "FUNCTION_PLAYER": "Prehrávanie, pozastavenie, preskočenie, opakovanie, náhodné prehrávanie a nekonečné prehrávanie",
+    "OUTPUT_MENU": "Výstup a rozbočovač ovládania zvuku",
+    "FUNCTION_OUTPUT_MENU": "Správa hlasitosti, viacerých miestností, zoskupovania a obsadzovania",
+    "ADD_TO_FAVORITES": "Pridať do obľúbených",
+    "FUNCTION_ADD_TO_FAVORITES": "Pridanie aktuálnej skladby do obľúbených",
+    "ADD_TO_PLAYLIST": "Pridať do zoznamu skladieb",
+    "FUNCTION_ADD_TO_PLAYLIST": "Pridanie aktuálnej skladby do zoznamu skladieb",
+    "FUNCTION_INFINITY_PLAY": "Keď je táto funkcia zapnutá, AI Dj bude pokračovať v prehrávaní hudby pridávaním skladieb do frontu.",
+    "TRACK_INFO": "Informácie o skladbe",
+    "FUNCTION_TRACK_INFO": "Preskúmajte príbehy umelcov a albumov, ich tituly a prejdite na stránku umelca a albumu",
+    "CONGRATULATIONS": "Gratulujeme!",
+    "FUNCTION_FINISH": "Úspešne ste dokončili onboarding.<br> Viac informácií nájdete na <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a>.",
+    "CONNECTION_DEVICE": "Pripojenie k sieti Wifi alebo Ethernet",
+    "SETTINGS_SYSTEM": "Systém všeobecných nastavení",
+    "PLUGINS": "Pridanie platformy na streamovanie hudby",
+    "OTHER_SETTINGS": "Budík / Režim spánku / Informácie / Obchod",
+    "STANDBY_RESTART": "Pohotovostný režim a reštart zariadenia"
   }
 }

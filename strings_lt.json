@@ -1004,7 +1004,9 @@
     "SHOW_MOUSE_POINTER": "Rodyti pelės rodyklę",
     "DAC_FILTER": "DAC filtras",
     "DAC_FILTER_DOC": "Pasirinkite DAC filtrą, kuris slopina nepageidaujamą informaciją signale ir formuoja jį pagal tam tikras bangų formas.",
-    "ADVANCED_AUDIO_SETTINGS": "Išplėstiniai garso nustatymai"
+    "ADVANCED_AUDIO_SETTINGS": "Išplėstiniai garso nustatymai",
+    "POWER_OVERLOAD_PROTECTION_TITLE": "Perkrova",
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Galios mažinimas"
   },
   "MAIN_MENU": {
     "ALARM": "Žadintuvas",
@@ -1208,5 +1210,34 @@
     "SEARCHING_DEVICES": "Ieškote prietaisų",
     "BACK_BUTTON": "Du kartus paspauskite atgal, kad pasirinktumėte kitą prietaisą",
     "NO_DEVICE_FOUND_SETTINGS": "Jei įrenginys nerastas, patikrinkite vietinio tinklo privatumo leidimus paspausdami čia"
+  },
+  "ONBOARDING": {
+    "FOLLOW_GUIDE": "Šis trumpas įvadinis instruktažas padės jums susipažinti su svarbiausiais dalykais ir greitai pradėti dirbti.",
+    "RED_KNOB": "Valdymo rankenėlė",
+    "FUNCTION_KNOB": "Pasukite rankenėlę, kad pakeistumėte garsumą. <br>Jei norite išjungti, paspauskite ir palaikykite 5 sekundes.",
+    "MENU": "Nustatymų meniu",
+    "FUNCTION_MENU": "Šiuo mygtuku galite tvarkyti sistemos nustatymus, įskaitant muziką, atkūrimo parinktis, atnaujinimus ir įskiepius.",
+    "MUSIC_CATALOGUE": "Mano muzikos katalogas",
+    "FUNCTION_MUSIC_CATALOGUE": "Ieškokite savo muzikos bibliotekos, pvz., failų, srautinių transliacijų paslaugų, grojaraščių, mėgstamiausių įrašų ir radijo stočių",
+    "PLAYLIST": "Atkūrimo eilė",
+    "FUNCTION_PLAYLIST": "Tvarkykite atkūrimo eilę",
+    "PLAYER": "Žaidėjo valdikliai",
+    "FUNCTION_PLAYER": "Atkūrimas, pristabdymas, praleidimas, kartojimas, atsitiktinis perklausymas ir begalinis atkūrimas",
+    "OUTPUT_MENU": "Išvesties ir garso valdymo koncentratorius",
+    "FUNCTION_OUTPUT_MENU": "Tvarkykite garsumą, \"Multiroom\", grupavimą ir \"Casting",
+    "ADD_TO_FAVORITES": "Pridėti prie mėgstamiausių",
+    "FUNCTION_ADD_TO_FAVORITES": "Dabartinės dainos įtraukimas į mėgstamiausias",
+    "ADD_TO_PLAYLIST": "Pridėti į grojaraštį",
+    "FUNCTION_ADD_TO_PLAYLIST": "Dabartinės dainos įtraukimas į grojaraštį",
+    "FUNCTION_INFINITY_PLAY": "Kai funkcija įjungta, \"AI Dj\" tęs muziką įtraukdamas dainas į jūsų eilę.",
+    "TRACK_INFO": "Trasos informacija",
+    "FUNCTION_TRACK_INFO": "Naršykite atlikėjų ir albumų istorijas, kreditus ir pereikite į atlikėjo ir albumo puslapį",
+    "CONGRATULATIONS": "Sveikiname!",
+    "FUNCTION_FINISH": "Sėkmingai užbaigėte įvadinę apmokymą.<br> Daugiau informacijos rasite <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a>.",
+    "CONNECTION_DEVICE": "Prisijunkite prie \"Wifi\" arba eterneto",
+    "SETTINGS_SYSTEM": "Bendrųjų nustatymų sistema",
+    "PLUGINS": "Pridėti muzikos transliavimo platformą",
+    "OTHER_SETTINGS": "Žadintuvas / Miego režimas / Informacija / Parduotuvė",
+    "STANDBY_RESTART": "Budėjimo režimas ir pakartotinis įrenginio paleidimas"
   }
 }

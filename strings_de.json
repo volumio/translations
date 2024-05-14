@@ -1045,7 +1045,9 @@
     "SHOW_MOUSE_POINTER": "Mauszeiger anzeigen",
     "DAC_FILTER": "DAC Filter",
     "DAC_FILTER_DOC": "Wählen Sie den DAC-Filter, der unerwünschte Informationen aus dem Signal unterdrückt und es in bestimmte Wellenformen bringt.",
-    "ADVANCED_AUDIO_SETTINGS": "Erweiterte Audioeinstellungen"
+    "ADVANCED_AUDIO_SETTINGS": "Erweiterte Audioeinstellungen",
+    "POWER_OVERLOAD_PROTECTION_TITLE": "Überlastung",
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Reduzierung der Leistung"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Die besten Sender",
@@ -1212,5 +1214,34 @@
     "SEARCHING_DEVICES": "Suche nach Geräten",
     "BACK_BUTTON": "Drücken Sie zweimal zurück, um ein anderes Gerät auszuwählen.",
     "NO_DEVICE_FOUND_SETTINGS": "Wenn kein Gerät gefunden wird, überprüfen Sie bitte die Berechtigungen für den Datenschutz im lokalen Netzwerk, indem Sie hier drücken"
+  },
+  "ONBOARDING": {
+    "FOLLOW_GUIDE": "Diese Kurzeinweisung führt Sie durch die wichtigsten Punkte und ermöglicht Ihnen einen raschen Einstieg",
+    "RED_KNOB": "Bedienknopf",
+    "FUNCTION_KNOB": "Drehen Sie den Drehknopf, um die Lautstärke zu ändern. <br>Zum Ausschalten drücken und 5 Sekunden lang halten",
+    "MENU": "Menü Einstellungen",
+    "FUNCTION_MENU": "Mit der Schaltfläche können Sie Ihre Systemeinstellungen verwalten, einschließlich Musik, Wiedergabeoptionen, Updates und Plugins.",
+    "MUSIC_CATALOGUE": "Mein Musikkatalog",
+    "FUNCTION_MUSIC_CATALOGUE": "Durchsuchen Sie Ihre Musikbibliothek wie Dateien, Streaming-Dienste, Wiedergabelisten, Favoriten und Radiosender",
+    "PLAYLIST": "Wiedergabewarteschlange",
+    "FUNCTION_PLAYLIST": "Verwalten Sie Ihre Wiedergabewarteschlange",
+    "PLAYER": "Spieler-Steuerungen",
+    "FUNCTION_PLAYER": "Wiedergabe, Pause, Überspringen, Wiederholen, Zufallswiedergabe und unendliche Wiedergabe",
+    "OUTPUT_MENU": "Ausgang und Audio Control Hub",
+    "FUNCTION_OUTPUT_MENU": "Verwalten von Lautstärke, Multiroom, Gruppierung und Casting",
+    "ADD_TO_FAVORITES": "Zu Favoriten hinzufügen",
+    "FUNCTION_ADD_TO_FAVORITES": "Aktuelles Lied zu den Favoriten hinzufügen",
+    "ADD_TO_PLAYLIST": "Zur Wiedergabeliste hinzufügen",
+    "FUNCTION_ADD_TO_PLAYLIST": "Aktuelles Lied zur Wiedergabeliste hinzufügen",
+    "FUNCTION_INFINITY_PLAY": "Wenn diese Funktion aktiviert ist, hält AI Dj die Musik am Laufen, indem er Songs zu deiner Warteschlange hinzufügt.",
+    "TRACK_INFO": "Infos zur Strecke",
+    "FUNCTION_TRACK_INFO": "Entdecken Sie die Geschichten von Künstlern und Alben, die Credits und navigieren Sie zur Künstler- und Albumseite",
+    "CONGRATULATIONS": "Herzlichen Glückwunsch!",
+    "FUNCTION_FINISH": "Sie haben das Onboarding erfolgreich abgeschlossen.<br> Weitere Informationen finden Sie unter <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a>",
+    "CONNECTION_DEVICE": "Verbindung zu Ihrem Wifi oder Ethernet",
+    "SETTINGS_SYSTEM": "Allgemeines Einstellungssystem",
+    "PLUGINS": "Musik-Streaming-Plattform hinzufügen",
+    "OTHER_SETTINGS": "Alarm / Schlafmodus / Info / Shop",
+    "STANDBY_RESTART": "Standby und Neustart des Geräts"
   }
 }

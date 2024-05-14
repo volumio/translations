@@ -960,7 +960,9 @@
     "SHOW_MOUSE_POINTER": "マウスポインタの表示",
     "DAC_FILTER": "DACフィルター",
     "DAC_FILTER_DOC": "信号から不要な情報を抑制し、特定の波形に整形するDACフィルターを選択する。",
-    "ADVANCED_AUDIO_SETTINGS": "高度なオーディオ設定"
+    "ADVANCED_AUDIO_SETTINGS": "高度なオーディオ設定",
+    "POWER_OVERLOAD_PROTECTION_TITLE": "オーバーロード",
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "電力削減"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "ベストラジオ",
@@ -1207,5 +1209,34 @@
     "SEARCHING_DEVICES": "デバイスを探す",
     "BACK_BUTTON": "2回押して戻ることで、別のデバイスを選択することができます",
     "NO_DEVICE_FOUND_SETTINGS": "デバイスが見つからない場合は、ここを押してローカル・ネットワーク・プライバシーの許可を確認してください。"
+  },
+  "ONBOARDING": {
+    "FOLLOW_GUIDE": "このクイック・オンボーディングは、必要なことをガイドし、すぐに始められるようにします。",
+    "RED_KNOB": "コントロールノブ",
+    "FUNCTION_KNOB": "ノブを回して音量を変更します。<br>シャットダウンするには、5秒間押し続けます。",
+    "MENU": "設定メニュー",
+    "FUNCTION_MENU": "このボタンで、音楽、再生オプション、アップデート、プラグインなどのシステム設定を管理できます。",
+    "MUSIC_CATALOGUE": "私の音楽カタログ",
+    "FUNCTION_MUSIC_CATALOGUE": "ファイル、ストリーミングサービス、プレイリスト、お気に入り、ラジオ局など、音楽ライブラリを検索する",
+    "PLAYLIST": "再生キュー",
+    "FUNCTION_PLAYLIST": "再生キューの管理",
+    "PLAYER": "選手コントロール",
+    "FUNCTION_PLAYER": "再生、一時停止、スキップ、リピート、シャッフル、インフィニティ再生",
+    "OUTPUT_MENU": "出力とオーディオ・コントロール・ハブ",
+    "FUNCTION_OUTPUT_MENU": "音量、マルチルーム、グルーピング、キャスティングの管理",
+    "ADD_TO_FAVORITES": "お気に入りに追加",
+    "FUNCTION_ADD_TO_FAVORITES": "現在の曲をお気に入りに追加",
+    "ADD_TO_PLAYLIST": "プレイリストに追加",
+    "FUNCTION_ADD_TO_PLAYLIST": "現在の曲をプレイリストに追加",
+    "FUNCTION_INFINITY_PLAY": "有効にすると、AI Djがキューに曲を追加して音楽を続けます。",
+    "TRACK_INFO": "トラック情報",
+    "FUNCTION_TRACK_INFO": "アーティストとアルバムのストーリー、クレジットを検索し、アーティストとアルバムのページに移動します。",
+    "CONGRATULATIONS": "おめでとう！",
+    "FUNCTION_FINISH": "<br>詳細については、<a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a> をご覧ください。",
+    "CONNECTION_DEVICE": "Wifiまたはイーサネットに接続",
+    "SETTINGS_SYSTEM": "一般設定システム",
+    "PLUGINS": "音楽ストリーミング・プラットフォームの追加",
+    "OTHER_SETTINGS": "アラーム／スリープモード／情報／ショップ",
+    "STANDBY_RESTART": "デバイスのスタンバイと再起動"
   }
 }
