@@ -169,7 +169,8 @@
     "LOGIN_OAUTH": "Scansionare il codice QR con il telefono e accedere al proprio account per autorizzare l'accesso al servizio.",
     "LOGIN_OAUTH_NOT_POSSIBLE": "Il login non è possibile su questo dispositivo. Utilizzare l'App Volumio per accedere e autorizzare il servizio.",
     "STANDBY": "Standby",
-    "FILTER_ALL": "Tutti"
+    "FILTER_ALL": "Tutti",
+    "PLAY_NEXT_TITLE": "Riproduzione successiva"
   },
   "BROWSER": {
     "PLAY": "Riproduci",
@@ -214,7 +215,8 @@
     "RELATED_ALBUMS": "Album correlati",
     "SUPER_SEARCH": "Volumio SuperSearch BETA",
     "SUPER_SEARCH_INFO": "SuperSearch è una modalità di ricerca che consente di chiedere a Volumio suggerimenti musicali come si farebbe con un amico o con il commesso di un negozio di dischi. <br /><br />Basta digitare una domanda simile a una chat sul tipo di brani che si desidera ascoltare e Volumio recupererà i brani corrispondenti dalla propria libreria. <br /><br /> Alcuni esempi di query: <br /><br /> <ul><li>Liscio Jazz con voci femminili</li><li>Indie rock italiano </li><li>New wave con batteria e synth</li></ul><br /><br /> Potete chiedere nella vostra lingua o in inglese. L'inglese tende a fornire risultati più accurati.<br /> <br />Abilitando l'Autoplay, una volta completata la ricerca, verranno riprodotti i brani corrispondenti<br /> <br />Note: <br /><br /><ul><li>Per ottenere il meglio da SuperSearch è necessario avere almeno un servizio di streaming collegato, come TIDAL, QOBUZ o Spotify</li><li>Se non si dispone di nessuno dei suddetti, si suggerisce che la propria libreria locale sia composta da almeno 1000 brani</li></ul>",
-    "SUPER_SEARCH_WAIT": "Si prega di attendere, questa ricerca richiederà fino a 20 secondi..."
+    "SUPER_SEARCH_WAIT": "Si prega di attendere, questa ricerca richiederà fino a 20 secondi...",
+    "PLAY_NEXT": "Riproduzione successiva"
   },
   "MY_MUSIC": {
     "UPDATE": "Aggiorna",

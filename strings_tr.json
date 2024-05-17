@@ -169,7 +169,8 @@
     "LOGIN_OAUTH": "QR Kodunu telefonunuzla tarayın ve hizmete erişim yetkisi vermek için hesabınıza giriş yapın",
     "LOGIN_OAUTH_NOT_POSSIBLE": "Bu cihazda oturum açmak mümkün değil. Hizmete erişmek ve yetkilendirmek için lütfen Volumio Uygulamasını kullanın",
     "STANDBY": "Bekleme",
-    "FILTER_ALL": "Tümü"
+    "FILTER_ALL": "Tümü",
+    "PLAY_NEXT_TITLE": "Sonraki oynat"
   },
   "BROWSER": {
     "PLAY": "Oynat",
@@ -211,7 +212,8 @@
     "RELATED_ARTISTS": "İlgili Sanatçılar",
     "SUPER_SEARCH": "Volumio SuperSearch BETA",
     "SUPER_SEARCH_INFO": "SuperSearch, Volumio'dan bir arkadaşınıza veya bir plak dükkanı görevlisine sorduğunuz gibi müzik önerileri istemenizi sağlayan bir arama modudur. <br /><br />Sadece dinlemek istediğiniz parçalarla ilgili sohbet benzeri bir soru yazın ve Volumio sizin için kütüphanenizden ilgili parçaları getirsin. <br /><br /> Bazı sorgu örnekleri: <br /><br /> <ul><li>Kadın sesleri ile yumuşak caz</li><li>İtalyan indie rock </li><li>Davul ve synth ile yeni dalga</li></ul><br /><br />Kendi dilinizde veya İngilizce olarak sorabilirsiniz. İngilizce daha doğru sonuçlar verme eğilimindedir.<br /> <br />Otomatik oynatmayı etkinleştirerek, arama tamamlandığında eşleşen parçalar çalınacaktır<br /> <br />Notlar: <br /><br /><ul><li>SuperSearch'ten en iyi şekilde yararlanmak için TIDAL, QOBUZ veya Spotify gibi en az bir akış hizmetinin bağlı olması gerekir</li><li>Yukarıdakilerden herhangi birine sahip değilseniz, yerel kitaplığınızın en az 1000 parçadan oluşması önerilir</li></ul>",
-    "SUPER_SEARCH_WAIT": "Lütfen bekleyin, bu arama 20 saniye kadar sürecektir..."
+    "SUPER_SEARCH_WAIT": "Lütfen bekleyin, bu arama 20 saniye kadar sürecektir...",
+    "PLAY_NEXT": "Sonraki oynat"
   },
   "MY_MUSIC": {
     "UPDATE": "Güncelle",

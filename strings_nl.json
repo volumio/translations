@@ -204,7 +204,8 @@
     "LOGIN_OAUTH": "Scan de QR-code met je telefoon en log in op je account om toegang tot de service te autoriseren",
     "LOGIN_OAUTH_NOT_POSSIBLE": "Inloggen is niet mogelijk op dit apparaat. Gebruik de Volumio App om toegang te krijgen tot de service en autorisatie te verkrijgen.",
     "STANDBY": "Stand-by",
-    "FILTER_ALL": "Alle"
+    "FILTER_ALL": "Alle",
+    "PLAY_NEXT_TITLE": "Volgende afspelen"
   },
   "DEVICELIST": {
     "SETUP_NEW_DEVICE": "Apparaat toevoegen",
@@ -264,7 +265,8 @@
     "RELATED_ARTISTS": "Verwante artiesten",
     "SUPER_SEARCH": "Volumio SuperSearch BETA",
     "SUPER_SEARCH_INFO": "SuperSearch is een zoekmodus waarmee je Volumio om muzieksuggesties kunt vragen, net zoals je dat aan een vriend of platenwinkelmedewerker zou vragen. <br /><br />Typ gewoon een chat-achtige vraag over het soort nummers dat je wilt horen en Volumio haalt de bijbehorende nummers voor je op uit je bibliotheek. <br /><br /> Enkele voorbeelden van zoekopdrachten: <br /><br /> <ul><li>Smooth Jazz met vrouwenstemmen</li><li>Italiaanse indierock </li><li>New wave met drums en synths</li></ul><br /><br />Je kunt de vraag stellen in je eigen taal of in het Engels. Engels geeft meestal nauwkeurigere resultaten.<br /> <br />Als u Automatisch afspelen inschakelt, worden de overeenkomende nummers afgespeeld zodra de zoekopdracht is voltooid<br /> <br />Noten: <br /><br /><ul><li>Om het beste uit SuperSearch te halen, moet u ten minste één streamingdienst hebben aangesloten, zoals TIDAL, QOBUZ of Spotify</li><li>Als u geen van de bovenstaande diensten hebt, wordt aanbevolen dat uw lokale bibliotheek uit ten minste 1000 tracks bestaat</li></ul>.",
-    "SUPER_SEARCH_WAIT": "Even geduld, deze zoekopdracht kan 20 seconden duren..."
+    "SUPER_SEARCH_WAIT": "Even geduld, deze zoekopdracht kan 20 seconden duren...",
+    "PLAY_NEXT": "Volgende afspelen"
   },
   "MY_MUSIC": {
     "UPDATE": "Update",

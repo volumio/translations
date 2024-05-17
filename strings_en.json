@@ -204,7 +204,8 @@
     "LOGIN_OAUTH": "Scan the QR Code with your phone and login into your account to authorize access to the service",
     "LOGIN_OAUTH_NOT_POSSIBLE": "Login is not possible on this device. Please use the Volumio App to access and authorize the service",
     "STANDBY": "Standby",
-    "FILTER_ALL": "All"
+    "FILTER_ALL": "All",
+    "PLAY_NEXT_TITLE": "Play next"
   },
   "DEVICELIST": {
     "SETUP_NEW_DEVICE": "Configure a new device",
@@ -264,7 +265,8 @@
     "RELATED_ARTISTS": "Related Artists",
     "SUPER_SEARCH": "Volumio SuperSearch BETA",
     "SUPER_SEARCH_INFO": "SuperSearch is a search mode which allows you to ask Volumio for music suggestions the same way you would ask a friend or a record shop clerk. <br /><br />Simply type a chat-like question on the kind of tracks you want to hear, and Volumio will retrieve the corresponding tracks for you from your library. <br /><br /> Some examples of queries: <br /><br /> <ul><li>Smooth Jazz with female voices</li><li>Italian indie rock </li><li>New wave with drums and synth</li></ul><br /><br />You can either ask in your language or in english. English tends to provide more accurate results.<br /> <br />By enabling Autoplay, once the search is completed, the matched tracks will be played<br /> <br />Notes: <br /><br /><ul><li>To get the best from SuperSearch you should have at least one streaming service connected, such as TIDAL, QOBUZ or Spotify</li><li>If you don't have any of the above, it's suggested that your local library consists of at least 1000 tracks</li></ul>",
-    "SUPER_SEARCH_WAIT": "Please wait, this search will take up to 20 seconds..."
+    "SUPER_SEARCH_WAIT": "Please wait, this search will take up to 20 seconds...",
+    "PLAY_NEXT": "Play next"
   },
   "MY_MUSIC": {
     "UPDATE": "Update",

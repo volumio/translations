@@ -169,7 +169,8 @@
     "LOGIN_OAUTH": "Scannen Sie den QR-Code mit Ihrem Telefon und loggen Sie sich in Ihr Konto ein, um den Zugriff auf den Dienst zu autorisieren.",
     "LOGIN_OAUTH_NOT_POSSIBLE": "Die Anmeldung ist auf diesem Gerät nicht möglich. Bitte verwenden Sie die Volumio App, um auf den Dienst zuzugreifen und ihn zu autorisieren",
     "STANDBY": "Bereitschaft",
-    "FILTER_ALL": "Alle"
+    "FILTER_ALL": "Alle",
+    "PLAY_NEXT_TITLE": "Weiter spielen"
   },
   "BROWSER": {
     "PLAY": "Wiedergeben",
@@ -211,7 +212,8 @@
     "RELATED_ARTISTS": "Verwandte Künstler",
     "SUPER_SEARCH": "Volumio SuperSearch BETA",
     "SUPER_SEARCH_INFO": "SuperSearch ist ein Suchmodus, mit dem Sie Volumio nach Musikvorschlägen fragen können, so wie Sie einen Freund oder einen Verkäufer im Plattenladen fragen würden. <br /><br />Geben Sie einfach eine Chat-ähnliche Frage zu der Art von Titeln ein, die Sie hören möchten, und Volumio wird die entsprechenden Titel für Sie aus Ihrer Bibliothek heraussuchen. <br /><br /> Einige Beispiele für Abfragen: <br /><br /> <ul><li>Smooth Jazz mit Frauenstimmen</li><li>Italienischer Indie-Rock </li><li>New Wave mit Schlagzeug und Synthesizer</li></ul><br /><br />Sie können entweder in Ihrer Sprache oder in Englisch fragen. Englisch liefert in der Regel genauere Ergebnisse.<br /> <br />Wenn Sie Autoplay aktivieren, werden die gefundenen Titel abgespielt, sobald die Suche abgeschlossen ist<br /> <br />Hinweise: <br /><br /><ul><li>Um das Beste aus SuperSearch herauszuholen, sollten Sie mindestens einen Streaming-Dienst wie TIDAL, QOBUZ oder Spotify angeschlossen haben</li><li>Wenn Sie keinen der oben genannten Dienste haben, wird empfohlen, dass Ihre lokale Bibliothek aus mindestens 1000 Tracks besteht</li></ul>",
-    "SUPER_SEARCH_WAIT": "Bitte warten Sie, diese Suche kann bis zu 20 Sekunden dauern..."
+    "SUPER_SEARCH_WAIT": "Bitte warten Sie, diese Suche kann bis zu 20 Sekunden dauern...",
+    "PLAY_NEXT": "Weiter spielen"
   },
   "MY_MUSIC": {
     "UPDATE": "Aktualisieren",

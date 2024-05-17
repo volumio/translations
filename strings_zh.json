@@ -169,7 +169,8 @@
     "LOGIN_OAUTH": "用手机扫描 QR 码并登录您的账户，授权使用服务",
     "LOGIN_OAUTH_NOT_POSSIBLE": "此设备无法登录。请使用 Volumio 应用程序访问和授权服务",
     "STANDBY": "备用",
-    "FILTER_ALL": "全部"
+    "FILTER_ALL": "全部",
+    "PLAY_NEXT_TITLE": "播放下一个"
   },
   "BROWSER": {
     "PLAY": "播放",
@@ -211,7 +212,8 @@
     "RELATED_ARTISTS": "相关艺术家",
     "SUPER_SEARCH": "Volumio SuperSearch BETA",
     "SUPER_SEARCH_INFO": "超级搜索是一种搜索模式，允许你向Volumio询问音乐建议，就像你向朋友或唱片店店员询问一样。<br /><br />只需输入一个类似聊天的问题，说明你想听的曲目种类，Volumio就会从你的资料库中为你检索出相应的曲目。<br /><br />一些查询的例子：<br /><br /> <ul><li>流畅的女声爵士乐</li><li>意大利独立摇滚乐</li><li>带有鼓声和合成器的新浪潮</li></ul><br /><br />你可以用你的语言或英语提问。英文往往能提供更准确的结果。<br /><br />通过启用自动播放，一旦搜索完成，匹配的曲目将被播放<br /><br />注：<br /><br /><ul><li>为了从超级搜索中获得最佳效果，你应该至少连接一个流媒体服务，如TIDAL、QOBUZ或Spotify</li><li>如果你没有上述任何服务，建议你的本地图书馆至少有1000首曲目</li></ul>。",
-    "SUPER_SEARCH_WAIT": "请等待，这次搜索将需要20秒的时间..."
+    "SUPER_SEARCH_WAIT": "请等待，这次搜索将需要20秒的时间...",
+    "PLAY_NEXT": "播放下一个"
   },
   "MY_MUSIC": {
     "UPDATE": "更新",

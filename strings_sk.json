@@ -169,7 +169,8 @@
     "LOGIN_OAUTH": "Naskenujte kód QR pomocou telefónu a prihláste sa do svojho konta, aby ste autorizovali prístup k službe.",
     "LOGIN_OAUTH_NOT_POSSIBLE": "Prihlásenie nie je na tomto zariadení možné. Na prístup a autorizáciu služby použite aplikáciu Volumio",
     "STANDBY": "Pohotovostný režim",
-    "FILTER_ALL": "Všetky"
+    "FILTER_ALL": "Všetky",
+    "PLAY_NEXT_TITLE": "Hrať ďalej"
   },
   "BROWSER": {
     "PLAY": "Prehrať",
@@ -211,7 +212,8 @@
     "RELATED_ARTISTS": "Súvisiaci umelci",
     "SUPER_SEARCH": "Volumio SuperSearch BETA",
     "SUPER_SEARCH_INFO": "SuperSearch je režim vyhľadávania, ktorý vám umožňuje požiadať Volumio o návrhy hudby rovnakým spôsobom, ako by ste požiadali priateľa alebo predavača v obchode s hudobnými nahrávkami. <br /><br /> Stačí zadať otázku podobnú chatu o type skladieb, ktoré chcete počuť, a Volumio pre vás vyhľadá zodpovedajúce skladby z vašej knižnice. <br /><br /> Niekoľko príkladov otázok: <br /><br /> <ul><li>Hladký jazz so ženskými hlasmi</li><li>Taliansky indie rock </li><li>New wave s bicími a syntetizátorom</li></ul><br /><br />Pýtať sa môžete buď vo svojom jazyku, alebo v angličtine. Angličtina zvyčajne poskytuje presnejšie výsledky.<br /> <br />Povolením funkcie Autoplay sa po dokončení vyhľadávania prehrajú zodpovedajúce skladby<br /> <br />Poznámky: <br /><br /><ul><li>Aby ste zo služby SuperSearch vyťažili čo najviac, mali by ste mať pripojenú aspoň jednu streamovaciu službu, napríklad TIDAL, QOBUZ alebo Spotify</li><li>Ak nemáte žiadnu z uvedených služieb, odporúčame, aby vaša miestna knižnica obsahovala aspoň 1000 skladieb</li></ul>",
-    "SUPER_SEARCH_WAIT": "Počkajte, prosím, toto vyhľadávanie bude trvať až 20 sekúnd..."
+    "SUPER_SEARCH_WAIT": "Počkajte, prosím, toto vyhľadávanie bude trvať až 20 sekúnd...",
+    "PLAY_NEXT": "Hrať ďalej"
   },
   "MY_MUSIC": {
     "UPDATE": "Aktualizovať zmeny",

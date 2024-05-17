@@ -39,7 +39,8 @@
     "RELATED_ARTISTS": "Susiję menininkai",
     "SUPER_SEARCH": "\"Volumio SuperSearch BETA",
     "SUPER_SEARCH_INFO": "\"SuperSearch\" - tai paieškos režimas, leidžiantis prašyti \"Volumio\" muzikos pasiūlymų taip pat, kaip prašytumėte draugo ar įrašų parduotuvės pardavėjo. <br /><br />Tereikia įvesti į pokalbį panašų klausimą apie tai, kokius kūrinius norite išgirsti, ir \"Volumio\" suras jums atitinkamus kūrinius iš jūsų bibliotekos. <br /><br /> Keletas užklausų pavyzdžių: <br /><br /> <ul><li>Glaudus džiazas su moteriškais balsais</li><li>Italijos indie rokas </li><li>New wave su būgnais ir sintezatoriumi</li></ul><br /><br /><br />Galite klausti savo kalba arba angliškai. Anglų kalba paprastai pateikia tikslesnius rezultatus.<br /> <br />Įjungus funkciją \"Autoplay\", baigus paiešką bus paleisti atitikę kūriniai<br /> <br />Pastabos: <br /><br /><ul><li>Tam, kad \"SuperSearch\" rezultatai būtų geriausi, turėtumėte turėti prijungtą bent vieną transliacijos paslaugą, pavyzdžiui, TIDAL, QOBUZ arba \"Spotify\"</li><li>Jeigu neturite nė vienos iš minėtų paslaugų, rekomenduojama, kad jūsų vietinę biblioteką sudarytų bent 1000 kūrinių</li></ul>.",
-    "SUPER_SEARCH_WAIT": "Palaukite, ši paieška užtruks iki 20 sekundžių..."
+    "SUPER_SEARCH_WAIT": "Palaukite, ši paieška užtruks iki 20 sekundžių...",
+    "PLAY_NEXT": "Žaisti toliau"
   },
   "PLUGINS": {
     "PLUGINS": "Įskiepiai",
@@ -441,7 +442,8 @@
     "LOGIN_OAUTH": "nuskaitykite QR kodą telefonu ir prisijunkite prie savo paskyros, kad patvirtintumėte prieigą prie paslaugos.",
     "LOGIN_OAUTH_NOT_POSSIBLE": "Prisijungti šiuo įrenginiu neįmanoma. Naudokite \"Volumio\" programėlę, kad galėtumėte prisijungti prie paslaugos ir ją autorizuoti.",
     "STANDBY": "Budėjimo režimas",
-    "FILTER_ALL": "Visi"
+    "FILTER_ALL": "Visi",
+    "PLAY_NEXT_TITLE": "Žaisti toliau"
   },
   "MY_MUSIC": {
     "UPDATE": "Atnaujinti",

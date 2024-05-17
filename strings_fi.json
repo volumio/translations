@@ -169,7 +169,8 @@
     "LOGIN_OAUTH": "Skannaa QR-koodi puhelimellasi ja kirjaudu sisään tilillesi, jotta saat luvan käyttää palvelua.",
     "LOGIN_OAUTH_NOT_POSSIBLE": "Kirjautuminen ei ole mahdollista tällä laitteella. Käytä Volumio-sovellusta palvelun käyttämiseen ja valtuuttamiseen.",
     "STANDBY": "Valmiustila",
-    "FILTER_ALL": "Kaikki"
+    "FILTER_ALL": "Kaikki",
+    "PLAY_NEXT_TITLE": "Toista seuraavaksi"
   },
   "BROWSER": {
     "PLAY": "Soita",
@@ -211,7 +212,8 @@
     "RELATED_ARTISTS": "Liittyvät taiteilijat",
     "SUPER_SEARCH": "Volumio SuperSearch BETA",
     "SUPER_SEARCH_INFO": "SuperSearch on hakutila, jonka avulla voit kysyä Volumion musiikkiehdotuksia samalla tavalla kuin kysyisit ystävältäsi tai levykaupan myyjältä. <br /><br />Kirjoita vain chat-tyyppinen kysymys siitä, millaisia kappaleita haluat kuulla, ja Volumio hakee sinulle vastaavat kappaleet kirjastostasi. <br /><br /> Joitakin esimerkkejä kyselyistä: <br /><br /> <ul><li>Smooth Jazz naisäänillä</li><li>Italialainen indie rock </li><li>New wave rummuilla ja syntetisaattorilla</li></ul><br /><br /><br />Voit kysyä joko omalla kielelläsi tai englanniksi. Englanti antaa yleensä tarkempia tuloksia.<br /> <br />Toiminnon Autoplay (Automaattinen toisto) ottamalla käyttöön, kun haku on suoritettu, vastaavat kappaleet soitetaan<br /> <br /> <br />Huomautuksia: <br /><br /><ul><li>Jotta saisit parhaan mahdollisen hyödyn SuperSearchistä, sinulla tulisi olla vähintään yksi suoratoistopalvelu kytkettynä, kuten TIDAL, QOBUZ tai Spotify</li><li>Jos sinulla ei ole mitään edellä mainituista, suositellaan, että paikalliskirjastossasi on vähintään 1000 kappaletta</li></ul>.",
-    "SUPER_SEARCH_WAIT": "Odota, tämä haku kestää enintään 20 sekuntia..."
+    "SUPER_SEARCH_WAIT": "Odota, tämä haku kestää enintään 20 sekuntia...",
+    "PLAY_NEXT": "Toista seuraavaksi"
   },
   "MY_MUSIC": {
     "UPDATE": "Päivitä",

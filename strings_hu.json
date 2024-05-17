@@ -169,7 +169,8 @@
     "LOGIN_OAUTH": "Szkennelje be a QR-kódot telefonjával, és jelentkezzen be fiókjába a szolgáltatáshoz való hozzáférés engedélyezéséhez.",
     "LOGIN_OAUTH_NOT_POSSIBLE": "A bejelentkezés nem lehetséges ezen az eszközön. Kérjük, használja a Volumio App-ot a szolgáltatás eléréséhez és engedélyezéséhez.",
     "STANDBY": "Készenléti állapot",
-    "FILTER_ALL": "Minden"
+    "FILTER_ALL": "Minden",
+    "PLAY_NEXT_TITLE": "Játsszon tovább"
   },
   "BROWSER": {
     "PLAY": "Lejátszás",
@@ -211,7 +212,8 @@
     "RELATED_ARTISTS": "Kapcsolódó művészek",
     "SUPER_SEARCH": "Volumio SuperSearch BETA",
     "SUPER_SEARCH_INFO": "A SuperSearch egy keresési mód, amely lehetővé teszi, hogy a Volumio-tól ugyanúgy kérjen zenei javaslatokat, mint ahogyan egy barátjától vagy egy lemezbolt eladójától kérdezné. <br /><br />Egyszerűen írj be egy csevegésszerű kérdést arra vonatkozóan, hogy milyen zeneszámokat szeretnél hallani, és a Volumio előkeresi neked a megfelelő zeneszámokat a könyvtáradból. <br /><br /> Néhány példa a lekérdezésekre: <br /><br /> <ul><li>Lágy jazz női hangokkal</li><li>Olasz indie rock </li><li>New wave dobokkal és szintetizátorral</li></ul><br /><br /><br />A kérdést vagy az Ön nyelvén, vagy angolul is megteheti. Az angol általában pontosabb eredményeket ad.<br /> <br />Az automatikus lejátszás engedélyezésével a keresés befejezése után a megfelelő zeneszámok lejátszásra kerülnek<br /> <br /> <br />Megjegyzések: <br /><br /><ul><li>Azért, hogy a lehető legtöbbet hozd ki a SuperSearchből, legalább egy streaming szolgáltatásnak csatlakoztatva kell lennie, mint például a TIDAL, QOBUZ vagy Spotify</li><li>Ha a fentiek közül egyik sem áll rendelkezésedre, akkor javasolt, hogy a helyi könyvtárad legalább 1000 zeneszámból álljon</li></ul>.",
-    "SUPER_SEARCH_WAIT": "Kérjük, várjon, a keresés legfeljebb 20 másodpercet vesz igénybe..."
+    "SUPER_SEARCH_WAIT": "Kérjük, várjon, a keresés legfeljebb 20 másodpercet vesz igénybe...",
+    "PLAY_NEXT": "Játsszon tovább"
   },
   "MY_MUSIC": {
     "UPDATE": "Frissítés",
