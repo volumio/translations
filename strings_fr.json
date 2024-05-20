@@ -1242,7 +1242,7 @@
     "TRACK_INFO": "Info piste",
     "FUNCTION_TRACK_INFO": "Explorez les histoires des artistes et des albums, les crédits et naviguez vers la page de l'artiste ou de l'album.",
     "CONGRATULATIONS": "Félicitations !",
-    "FUNCTION_FINISH": "Pour plus d'informations, visitez <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a>",
+    "FUNCTION_FINISH": "Pour plus d'informations, visitez help.volumio.com/help/",
     "CONNECTION_DEVICE": "Se connecter à votre Wifi ou Ethernet",
     "SETTINGS_SYSTEM": "Paramètres généraux du système",
     "PLUGINS": "Ajouter une plateforme de streaming musical",

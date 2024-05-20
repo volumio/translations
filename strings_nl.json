@@ -1236,7 +1236,7 @@
     "TRACK_INFO": "Spoorinformatie",
     "FUNCTION_TRACK_INFO": "Ontdek de verhalen van artiesten en albums, credits en navigeer naar de artiesten- en albumpagina",
     "CONGRATULATIONS": "Gefeliciteerd!",
-    "FUNCTION_FINISH": "<br> Ga voor meer informatie naar <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a>.",
+    "FUNCTION_FINISH": "<br> Ga voor meer informatie naar help.volumio.com/help/",
     "CONNECTION_DEVICE": "Maak verbinding met je Wifi of Ethernet",
     "SETTINGS_SYSTEM": "Algemene instellingen systeem",
     "PLUGINS": "Muziekstreamingplatform toevoegen",

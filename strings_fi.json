@@ -1234,7 +1234,7 @@
     "TRACK_INFO": "Ratatiedot",
     "FUNCTION_TRACK_INFO": "Tutustu artistien ja albumien tarinoihin, krediitteihin ja navigoi artistin ja albumin sivulle.",
     "CONGRATULATIONS": "Onnittelut!",
-    "FUNCTION_FINISH": "Olet onnistuneesti suorittanut aloitusprosessin.<br> Lisätietoja saat osoitteesta <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a>.",
+    "FUNCTION_FINISH": "Olet onnistuneesti suorittanut aloitusprosessin.<br> Lisätietoja saat osoitteesta help.volumio.com/help/",
     "CONNECTION_DEVICE": "Yhdistä Wifiin tai Ethernetiin",
     "SETTINGS_SYSTEM": "Yleiset asetukset järjestelmä",
     "PLUGINS": "Lisää musiikin suoratoistoalusta",

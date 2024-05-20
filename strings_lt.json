@@ -1235,7 +1235,7 @@
     "TRACK_INFO": "Trasos informacija",
     "FUNCTION_TRACK_INFO": "Naršykite atlikėjų ir albumų istorijas, kreditus ir pereikite į atlikėjo ir albumo puslapį",
     "CONGRATULATIONS": "Sveikiname!",
-    "FUNCTION_FINISH": "Sėkmingai užbaigėte įvadinę apmokymą.<br> Daugiau informacijos rasite <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a>.",
+    "FUNCTION_FINISH": "Sėkmingai užbaigėte įvadinę apmokymą.<br> Daugiau informacijos rasite help.volumio.com/help/",
     "CONNECTION_DEVICE": "Prisijunkite prie \"Wifi\" arba eterneto",
     "SETTINGS_SYSTEM": "Bendrųjų nustatymų sistema",
     "PLUGINS": "Pridėti muzikos transliavimo platformą",

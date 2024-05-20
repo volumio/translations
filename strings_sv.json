@@ -1236,7 +1236,7 @@
     "TRACK_INFO": "Info om spår",
     "FUNCTION_TRACK_INFO": "Utforska artister och albums berättelser, krediter och navigera till artist- och albumsidan",
     "CONGRATULATIONS": "Gratulerar!",
-    "FUNCTION_FINISH": "Du har slutfört introduktionen.<br> För mer information, besök <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a>",
+    "FUNCTION_FINISH": "Du har slutfört introduktionen.<br> För mer information, besök help.volumio.com/help/",
     "CONNECTION_DEVICE": "Anslut till ditt Wifi eller Ethernet",
     "SETTINGS_SYSTEM": "Allmänna inställningar system",
     "PLUGINS": "Lägg till plattform för musikstreaming",

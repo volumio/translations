@@ -1237,7 +1237,7 @@
     "TRACK_INFO": "Informace o skladbě",
     "FUNCTION_TRACK_INFO": "Prozkoumejte příběhy umělců a alb, tituly a přejděte na stránku umělce a alba.",
     "CONGRATULATIONS": "Gratulujeme!",
-    "FUNCTION_FINISH": "Úspěšně jste dokončili onboarding.<br> Další informace najdete na <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a>.",
+    "FUNCTION_FINISH": "Úspěšně jste dokončili onboarding.<br> Další informace najdete na help.volumio.com/help/",
     "CONNECTION_DEVICE": "Připojení k síti Wifi nebo Ethernet",
     "SETTINGS_SYSTEM": "Systém obecných nastavení",
     "PLUGINS": "Přidání platformy pro streamování hudby",

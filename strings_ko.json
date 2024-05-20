@@ -1235,7 +1235,7 @@
     "TRACK_INFO": "정보 추적",
     "FUNCTION_TRACK_INFO": "아티스트 및 앨범 스토리, 크레딧을 탐색하고 아티스트 및 앨범 페이지로 이동합니다.",
     "CONGRATULATIONS": "축하합니다!",
-    "FUNCTION_FINISH": "온보딩을 성공적으로 완료했습니다.<br> 자세한 내용은 <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a>에서 확인하세요.",
+    "FUNCTION_FINISH": "온보딩을 성공적으로 완료했습니다.<br> 자세한 내용은 help.volumio.com/help/ 에서 확인하세요.",
     "CONNECTION_DEVICE": "와이파이 또는 이더넷에 연결",
     "SETTINGS_SYSTEM": "일반 설정 시스템",
     "PLUGINS": "음악 스트리밍 플랫폼 추가",

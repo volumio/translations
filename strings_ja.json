@@ -1234,7 +1234,7 @@
     "TRACK_INFO": "トラック情報",
     "FUNCTION_TRACK_INFO": "アーティストとアルバムのストーリー、クレジットを検索し、アーティストとアルバムのページに移動します。",
     "CONGRATULATIONS": "おめでとう！",
-    "FUNCTION_FINISH": "<br>詳細については、<a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a> をご覧ください。",
+    "FUNCTION_FINISH": "<br>詳細については、help.volumio.com/help/ をご覧ください。",
     "CONNECTION_DEVICE": "Wifiまたはイーサネットに接続",
     "SETTINGS_SYSTEM": "一般設定システム",
     "PLUGINS": "音楽ストリーミング・プラットフォームの追加",

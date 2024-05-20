@@ -1235,7 +1235,7 @@
     "TRACK_INFO": "Track Info",
     "FUNCTION_TRACK_INFO": "Fedezze fel a művészek és albumok történeteit, a krediteket, és navigáljon a művész és az album oldalára.",
     "CONGRATULATIONS": "Gratulálunk!",
-    "FUNCTION_FINISH": "Sikeresen befejezte a beszállítást.<br> További információkért látogasson el a <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a> weboldalra.",
+    "FUNCTION_FINISH": "Sikeresen befejezte a beszállítást.<br> További információkért látogasson el a help.volumio.com/help/",
     "CONNECTION_DEVICE": "Csatlakozás a Wifi vagy Ethernet hálózathoz",
     "SETTINGS_SYSTEM": "Általános beállítások rendszere",
     "PLUGINS": "Zenei streaming platform hozzáadása",

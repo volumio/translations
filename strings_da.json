@@ -1234,7 +1234,7 @@
     "TRACK_INFO": "Info om spor",
     "FUNCTION_TRACK_INFO": "Udforsk kunstneres og albums historier, credits og naviger til kunstner- og albumside",
     "CONGRATULATIONS": "Tillykke med det!",
-    "FUNCTION_FINISH": "Du har gennemført onboardingen.<br> For mere information, besøg <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a>.",
+    "FUNCTION_FINISH": "Du har gennemført onboardingen.<br> For mere information besøg help.volumio.com/help/",
     "CONNECTION_DEVICE": "Opret forbindelse til dit Wifi eller Ethernet",
     "SETTINGS_SYSTEM": "System for generelle indstillinger",
     "PLUGINS": "Tilføj musikstreaming-platform",

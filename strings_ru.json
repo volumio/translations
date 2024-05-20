@@ -1236,7 +1236,7 @@
     "TRACK_INFO": "Информация о треке",
     "FUNCTION_TRACK_INFO": "Просмотрите истории артистов и альбомов, титры и перейдите на страницу исполнителя и альбома.",
     "CONGRATULATIONS": "Поздравляю!",
-    "FUNCTION_FINISH": "Вы успешно завершили процедуру регистрации.<br> Для получения дополнительной информации посетите <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a>.",
+    "FUNCTION_FINISH": "Вы успешно завершили процедуру регистрации.<br> Для получения дополнительной информации посетите help.volumio.com/help/",
     "CONNECTION_DEVICE": "Подключение к сети Wi-Fi или Ethernet",
     "SETTINGS_SYSTEM": "Общие настройки системы",
     "PLUGINS": "Добавьте платформу для потокового воспроизведения музыки",

@@ -1236,7 +1236,7 @@
     "TRACK_INFO": "轨道信息",
     "FUNCTION_TRACK_INFO": "探索艺术家和专辑的故事、功劳，并导航至艺术家和专辑页面",
     "CONGRATULATIONS": "祝贺你",
-    "FUNCTION_FINISH": "您已成功完成入职。<br> 如需了解更多信息，请访问<a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a>。",
+    "FUNCTION_FINISH": "您已成功完成入职。<br> 如需了解更多信息，请访问 help.volumio.com/help/",
     "CONNECTION_DEVICE": "连接至 Wifi 或以太网",
     "SETTINGS_SYSTEM": "常规设置系统",
     "PLUGINS": "添加音乐流媒体平台",

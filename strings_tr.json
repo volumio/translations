@@ -1236,7 +1236,7 @@
     "TRACK_INFO": "Parça Bilgisi",
     "FUNCTION_TRACK_INFO": "Sanatçıların ve albümlerin hikayelerini, kredilerini keşfedin ve sanatçı ve albüm sayfasına gidin",
     "CONGRATULATIONS": "Tebrikler!",
-    "FUNCTION_FINISH": "Alıştırma sürecini başarıyla tamamladınız.<br> Daha fazla bilgi için <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a> adresini ziyaret edin.",
+    "FUNCTION_FINISH": "Alıştırma sürecini başarıyla tamamladınız.<br> Daha fazla bilgi için help.volumio.com/help/ adresini ziyaret edin.",
     "CONNECTION_DEVICE": "Wifi veya Ethernet'inize bağlanın",
     "SETTINGS_SYSTEM": "Genel ayarlar sistemi",
     "PLUGINS": "Müzik akış platformu ekleyin",

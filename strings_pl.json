@@ -1235,7 +1235,7 @@
     "TRACK_INFO": "Track Info",
     "FUNCTION_TRACK_INFO": "Przeglądaj historie artystów i albumów, kredyty i przejdź do strony artysty i albumu",
     "CONGRATULATIONS": "Gratulacje!",
-    "FUNCTION_FINISH": "Aby uzyskać więcej informacji, odwiedź <a id='info-link' href='https://help.volumio.com/help/'><strong>https://help.volumio.com/help/</strong></a>.",
+    "FUNCTION_FINISH": "Aby uzyskać więcej informacji, odwiedź help.volumio.com/help/",
     "CONNECTION_DEVICE": "Połączenie z siecią Wi-Fi lub Ethernet",
     "SETTINGS_SYSTEM": "System ustawień ogólnych",
     "PLUGINS": "Dodaj platformę strumieniowania muzyki",
