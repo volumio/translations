@@ -525,7 +525,8 @@
     "SHUTDOWN": "シャットダウン",
     "SLEEP": "スリープ",
     "SOURCES": "情報源",
-    "SYSTEM": "システム"
+    "SYSTEM": "システム",
+    "MUSIC": "音楽"
   },
   "MYVOLUMIO": {
     "ENABLE_YOUR_DEVICE_TO_USE_THIS_FUNCTIONALITY": "この機能を利用するには、端末一覧からこの端末のMyVolumioを有効にしてください。",

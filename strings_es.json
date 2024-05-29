@@ -855,7 +855,8 @@
     "SHUTDOWN": "Apagar",
     "SLEEP": "Modo reposo",
     "SOURCES": "Fuentes",
-    "SYSTEM": "Sistema"
+    "SYSTEM": "Sistema",
+    "MUSIC": "Música"
   },
   "PLAYBACK_OPTIONS": {
     "ADVANCED_AUDIO_TWEAKS": "Ajustes de audio avanzados",

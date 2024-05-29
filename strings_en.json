@@ -908,7 +908,8 @@
     "SHUTDOWN": "Shutdown",
     "SLEEP": "Sleep",
     "SOURCES": "Sources",
-    "SYSTEM": "System"
+    "SYSTEM": "System",
+    "MUSIC": "Music"
   },
   "PLAYBACK_OPTIONS": {
     "ADVANCED_AUDIO_TWEAKS": "Advanced Audio Tweaks",

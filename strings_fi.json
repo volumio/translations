@@ -491,7 +491,8 @@
     "SHUTDOWN": "Sammuta",
     "SLEEP": "Torkku",
     "SOURCES": "Lähteet",
-    "SYSTEM": "Järjestelmä"
+    "SYSTEM": "Järjestelmä",
+    "MUSIC": "Musiikki"
   },
   "MYVOLUMIO": {
     "ENABLE_YOUR_DEVICE_TO_USE_THIS_FUNCTIONALITY": "Jotta voit käyttää tätä toimintoa, ota MyVolumio käyttöön tällä laitteella laiteluettelosta.",

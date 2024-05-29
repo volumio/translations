@@ -856,7 +856,8 @@
     "SHUTDOWN": "Vypnúť",
     "SLEEP": "Spánok",
     "SOURCES": "Hudobné zdroje",
-    "SYSTEM": "Systém"
+    "SYSTEM": "Systém",
+    "MUSIC": "Hudba"
   },
   "PLAYBACK_OPTIONS": {
     "ADVANCED_AUDIO_TWEAKS": "Pokročilé nastavenie zvuku",

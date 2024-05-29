@@ -855,7 +855,8 @@
     "SHUTDOWN": "Herunterfahren",
     "SLEEP": "Schlaffunktion",
     "SOURCES": "Quellen",
-    "SYSTEM": "System"
+    "SYSTEM": "System",
+    "MUSIC": "Musik"
   },
   "PLAYBACK_OPTIONS": {
     "ADVANCED_AUDIO_TWEAKS": "Erweiterte Audio-Optimierung",

@@ -856,7 +856,8 @@
     "SHUTDOWN": "关机",
     "SLEEP": "睡眠",
     "SOURCES": "资料来源",
-    "SYSTEM": "系统"
+    "SYSTEM": "系统",
+    "MUSIC": "音乐"
   },
   "PLAYBACK_OPTIONS": {
     "ADVANCED_AUDIO_TWEAKS": "高级音频调整",

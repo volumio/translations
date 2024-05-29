@@ -856,7 +856,8 @@
     "SHUTDOWN": "Stäng av",
     "SLEEP": "Viloläge",
     "SOURCES": "Källor",
-    "SYSTEM": "System"
+    "SYSTEM": "System",
+    "MUSIC": "Musik"
   },
   "PLAYBACK_OPTIONS": {
     "ADVANCED_AUDIO_TWEAKS": "Avancerade ljudjusteringar",

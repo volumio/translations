@@ -858,7 +858,8 @@
     "SHUTDOWN": "Arrêt",
     "SLEEP": "Sommeil",
     "SOURCES": "Sources",
-    "SYSTEM": "Système"
+    "SYSTEM": "Système",
+    "MUSIC": "Musique"
   },
   "PLAYBACK_OPTIONS": {
     "ADVANCED_AUDIO_TWEAKS": "Réglages audio avancés",

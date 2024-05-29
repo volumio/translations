@@ -491,7 +491,8 @@
     "SHUTDOWN": "Encerrar",
     "SLEEP": "Suspender",
     "SOURCES": "Fontes",
-    "SYSTEM": "Sistema"
+    "SYSTEM": "Sistema",
+    "MUSIC": "Música"
   },
   "MYVOLUMIO": {
     "ENABLE_YOUR_DEVICE_TO_USE_THIS_FUNCTIONALITY": "Para utilizar esta funcionalidade, active o MyVolumio neste dispositivo a partir da sua lista de dispositivos",

@@ -855,7 +855,8 @@
     "SHUTDOWN": "끄기",
     "SLEEP": "자동꺼짐",
     "SOURCES": "소스",
-    "SYSTEM": "시스템"
+    "SYSTEM": "시스템",
+    "MUSIC": "음악"
   },
   "PLAYBACK_OPTIONS": {
     "ADVANCED_AUDIO_TWEAKS": "고급 오디오 설정",

@@ -482,7 +482,8 @@
     "SHUTDOWN": "Sluk",
     "SLEEP": "Dvale",
     "SOURCES": "Kilder",
-    "SYSTEM": "System"
+    "SYSTEM": "System",
+    "MUSIC": "Musik"
   },
   "MYVOLUMIO": {
     "ENABLE_YOUR_DEVICE_TO_USE_THIS_FUNCTIONALITY": "For at bruge denne funktion skal du aktivere MyVolumio på denne enhed fra din enhedsliste.",

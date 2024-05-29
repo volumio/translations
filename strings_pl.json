@@ -855,7 +855,8 @@
     "SHUTDOWN": "Wyłącz",
     "SLEEP": "Tryb uśpienia",
     "SOURCES": "Źródła",
-    "SYSTEM": "System"
+    "SYSTEM": "System",
+    "MUSIC": "Muzyka"
   },
   "PLAYBACK_OPTIONS": {
     "ADVANCED_AUDIO_TWEAKS": "Zaawansowane korekcje dźwięku",

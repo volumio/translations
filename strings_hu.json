@@ -855,7 +855,8 @@
     "SHUTDOWN": "Kikapcsolás",
     "SLEEP": "Elalvás",
     "SOURCES": "Források",
-    "SYSTEM": "Rendszer"
+    "SYSTEM": "Rendszer",
+    "MUSIC": "Zene"
   },
   "PLAYBACK_OPTIONS": {
     "ADVANCED_AUDIO_TWEAKS": "Haladó Audio finomhangolás",

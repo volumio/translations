@@ -856,7 +856,8 @@
     "SHUTDOWN": "Kapat",
     "SLEEP": "Uyku",
     "SOURCES": "Kaynaklar",
-    "SYSTEM": "Sistem"
+    "SYSTEM": "Sistem",
+    "MUSIC": "Müzik"
   },
   "PLAYBACK_OPTIONS": {
     "ADVANCED_AUDIO_TWEAKS": "Gelişmiş Ses Ayarları/Tweaks",

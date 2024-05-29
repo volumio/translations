@@ -909,7 +909,8 @@
     "SHUTDOWN": "Afsluiten",
     "SLEEP": "Slaap",
     "SOURCES": "Bronnen",
-    "SYSTEM": "Systeem"
+    "SYSTEM": "Systeem",
+    "MUSIC": "Muziek"
   },
   "PLAYBACK_OPTIONS": {
     "ADVANCED_AUDIO_TWEAKS": "Geavanceerde audio-tweaks",
