@@ -1052,7 +1052,10 @@
     "DAC_FILTER_DOC": "Zvolte filtr převodníku, který potlačuje nežádoucí informace ze signálu a tvaruje jej do specifických průběhů.",
     "ADVANCED_AUDIO_SETTINGS": "Rozšířená nastavení zvuku",
     "POWER_OVERLOAD_PROTECTION_TITLE": "Přetížení",
-    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Snížení výkonu"
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Snížení výkonu",
+    "DISPLAY_ZOOM_FACTOR": "Faktor zvětšení displeje",
+    "DISPLAY_ZOOM_FACTOR_DOC": "Umožňuje změnit faktor zvětšení zobrazení a zvětšit tak velikost zobrazených prvků.",
+    "DISPLAY_UI": "Zobrazení uživatelského rozhraní"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Nejlepší rádia",

@@ -1051,7 +1051,10 @@
     "DAC_FILTER_DOC": "Vyberte filter DAC, ktorý potláča nežiaduce informácie zo signálu a tvaruje ho do špecifických priebehov.",
     "ADVANCED_AUDIO_SETTINGS": "Rozšírené nastavenia zvuku",
     "POWER_OVERLOAD_PROTECTION_TITLE": "Preťaženie",
-    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Zníženie výkonu"
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Zníženie výkonu",
+    "DISPLAY_ZOOM_FACTOR": "Faktor zväčšenia displeja",
+    "DISPLAY_ZOOM_FACTOR_DOC": "Umožňuje zmeniť faktor zväčšenia zobrazenia na zväčšenie veľkosti zobrazených prvkov",
+    "DISPLAY_UI": "Zobrazenie používateľského rozhrania"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najlepšie rádia",

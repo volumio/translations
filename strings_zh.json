@@ -1051,7 +1051,10 @@
     "DAC_FILTER_DOC": "选择 DAC 滤波器，它可以抑制信号中不需要的信息，并将其塑造成特定的波形",
     "ADVANCED_AUDIO_SETTINGS": "高级音频设置",
     "POWER_OVERLOAD_PROTECTION_TITLE": "超负荷",
-    "POWER_OVERLOAD_PROTECTION_MESSAGE": "降低功率"
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "降低功率",
+    "DISPLAY_ZOOM_FACTOR": "显示变焦系数",
+    "DISPLAY_ZOOM_FACTOR_DOC": "允许更改显示缩放因子，以增大显示元素的尺寸",
+    "DISPLAY_UI": "用户界面显示"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "最佳收音机",

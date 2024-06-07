@@ -1008,7 +1008,10 @@
     "DAC_FILTER_DOC": "Pasirinkite DAC filtrą, kuris slopina nepageidaujamą informaciją signale ir formuoja jį pagal tam tikras bangų formas.",
     "ADVANCED_AUDIO_SETTINGS": "Išplėstiniai garso nustatymai",
     "POWER_OVERLOAD_PROTECTION_TITLE": "Perkrova",
-    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Galios mažinimas"
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Galios mažinimas",
+    "DISPLAY_ZOOM_FACTOR": "Ekrano priartinimo koeficientas",
+    "DISPLAY_ZOOM_FACTOR_DOC": "Leidžia keisti rodymo mastelio koeficientą, kad padidintumėte rodomų elementų dydį",
+    "DISPLAY_UI": "Vartotojo sąsajos ekranas"
   },
   "MAIN_MENU": {
     "ALARM": "Žadintuvas",

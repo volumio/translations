@@ -1050,7 +1050,10 @@
     "DAC_FILTER_DOC": "Wählen Sie den DAC-Filter, der unerwünschte Informationen aus dem Signal unterdrückt und es in bestimmte Wellenformen bringt.",
     "ADVANCED_AUDIO_SETTINGS": "Erweiterte Audioeinstellungen",
     "POWER_OVERLOAD_PROTECTION_TITLE": "Überlastung",
-    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Reduzierung der Leistung"
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Reduzierung der Leistung",
+    "DISPLAY_ZOOM_FACTOR": "Display-Zoom-Faktor",
+    "DISPLAY_ZOOM_FACTOR_DOC": "Ermöglicht die Änderung des Zoomfaktors der Anzeige, um die Größe der angezeigten Elemente zu erhöhen",
+    "DISPLAY_UI": "Benutzeroberfläche Display"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Die besten Sender",

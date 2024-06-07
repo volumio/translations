@@ -1104,7 +1104,10 @@
     "DAC_FILTER_DOC": "Selecteer het DAC-filter, dat ongewenste informatie uit het signaal onderdrukt en het naar specifieke golfvormen vormt.",
     "ADVANCED_AUDIO_SETTINGS": "Geavanceerde audio-instellingen",
     "POWER_OVERLOAD_PROTECTION_TITLE": "Overload",
-    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Vermogensvermindering"
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Vermogensvermindering",
+    "DISPLAY_ZOOM_FACTOR": "Zoomfactor weergave",
+    "DISPLAY_ZOOM_FACTOR_DOC": "Toestaan om de weergavezoomfactor te wijzigen om de weergegeven elementen te vergroten",
+    "DISPLAY_UI": "Weergave gebruikersinterface"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Beste radiostations",

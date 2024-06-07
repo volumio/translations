@@ -1050,7 +1050,10 @@
     "DAC_FILTER_DOC": "Wybierz filtr DAC, który eliminuje niepożądane informacje z sygnału i kształtuje go do określonych przebiegów.",
     "ADVANCED_AUDIO_SETTINGS": "Zaawansowane ustawienia audio",
     "POWER_OVERLOAD_PROTECTION_TITLE": "Przeciążenie",
-    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Redukcja mocy"
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Redukcja mocy",
+    "DISPLAY_ZOOM_FACTOR": "Współczynnik powiększenia wyświetlacza",
+    "DISPLAY_ZOOM_FACTOR_DOC": "Umożliwia zmianę współczynnika powiększenia wyświetlacza w celu zwiększenia rozmiaru wyświetlanych elementów.",
+    "DISPLAY_UI": "Wyświetlacz interfejsu użytkownika"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najlepsze stacje radiowe",

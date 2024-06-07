@@ -1051,7 +1051,10 @@
     "DAC_FILTER_DOC": "Sinyalden istenmeyen bilgileri bastıran ve belirli dalga biçimlerine göre şekillendiren DAC Filtresini seçin",
     "ADVANCED_AUDIO_SETTINGS": "Gelişmiş Ses Ayarları",
     "POWER_OVERLOAD_PROTECTION_TITLE": "Aşırı Yük",
-    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Güç azaltma"
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Güç azaltma",
+    "DISPLAY_ZOOM_FACTOR": "Ekran Yakınlaştırma Faktörü",
+    "DISPLAY_ZOOM_FACTOR_DOC": "Görüntülenen öğelerin boyutunu artırmak için ekran Yakınlaştırma faktörünü değiştirmeye izin verin",
+    "DISPLAY_UI": "Kullanıcı Arayüzü Ekranı"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "En iyi Radyolar",

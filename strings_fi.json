@@ -931,7 +931,10 @@
     "DAC_FILTER_DOC": "Valitse DAC-suodatin, joka vaimentaa signaalista ei-toivotut tiedot ja muokkaa sen tiettyihin aaltomuotoihin.",
     "ADVANCED_AUDIO_SETTINGS": "Äänen lisäasetukset",
     "POWER_OVERLOAD_PROTECTION_TITLE": "Ylikuormitus",
-    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Tehon vähentäminen"
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "Tehon vähentäminen",
+    "DISPLAY_ZOOM_FACTOR": "Näytön zoomaustekijä",
+    "DISPLAY_ZOOM_FACTOR_DOC": "Mahdollistaa näytön zoomaustekijän muuttamisen näytettävien elementtien koon suurentamiseksi.",
+    "DISPLAY_UI": "Käyttöliittymän näyttö"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Parhaat radiot",

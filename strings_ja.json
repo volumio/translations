@@ -965,7 +965,10 @@
     "DAC_FILTER_DOC": "信号から不要な情報を抑制し、特定の波形に整形するDACフィルターを選択する。",
     "ADVANCED_AUDIO_SETTINGS": "高度なオーディオ設定",
     "POWER_OVERLOAD_PROTECTION_TITLE": "オーバーロード",
-    "POWER_OVERLOAD_PROTECTION_MESSAGE": "電力削減"
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "電力削減",
+    "DISPLAY_ZOOM_FACTOR": "表示倍率",
+    "DISPLAY_ZOOM_FACTOR_DOC": "表示倍率を変更し、表示される要素のサイズを大きくすることができる。",
+    "DISPLAY_UI": "ユーザーインターフェース表示"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "ベストラジオ",

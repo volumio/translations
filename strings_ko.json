@@ -1050,7 +1050,10 @@
     "DAC_FILTER_DOC": "신호에서 원치 않는 정보를 억제하고 특정 파형으로 변형하는 DAC 필터를 선택합니다.",
     "ADVANCED_AUDIO_SETTINGS": "고급 오디오 설정",
     "POWER_OVERLOAD_PROTECTION_TITLE": "과부하",
-    "POWER_OVERLOAD_PROTECTION_MESSAGE": "전력 절감"
+    "POWER_OVERLOAD_PROTECTION_MESSAGE": "전력 절감",
+    "DISPLAY_ZOOM_FACTOR": "디스플레이 확대/축소 계수",
+    "DISPLAY_ZOOM_FACTOR_DOC": "표시되는 요소의 크기를 늘리기 위해 표시 확대/축소 비율을 변경할 수 있습니다.",
+    "DISPLAY_UI": "사용자 인터페이스 디스플레이"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "베스트 라디오",
