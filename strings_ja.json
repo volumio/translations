@@ -1244,5 +1244,30 @@
     "PLUGINS": "音楽ストリーミング・プラットフォームの追加",
     "OTHER_SETTINGS": "アラーム／スリープモード／情報／ショップ",
     "STANDBY_RESTART": "デバイスのスタンバイと再起動"
+  },
+  "ACCESSIBILITY": {
+    "GO_BACK": "戻る",
+    "PLAYBACK_OPTIONS": "一般的な再生オプション",
+    "PLAY_HERE_SELECTED": "ここでプレーする 選ばれた",
+    "LOADING": "ローディング",
+    "OPEN_MENU": "メニューを開く",
+    "CLOSE_MENU": "メニューを閉じる",
+    "REPEAT_SELECTED": "リピート選択",
+    "LOGO": "ヴォルミオ・ロゴ",
+    "SOURCES": "情報源",
+    "SHUTDOWN": "シャットダウン",
+    "ALARM": "アラーム機能",
+    "SLEEP": "スリープ機能",
+    "SHOP": "ヴォルミオショップ"
+  },
+  "MUSIC_SOURCES": {
+    "BLUETOOTH_INPUT_PLAYBACK": "ブルートゥース入力再生",
+    "MULTIROOM_PLAYBACK": "マルチルーム再生",
+    "UPNP_RENDERER": "UPNPレンダラー",
+    "MUSIC_METADATA_DISCOVERY": "音楽メタデータの発見",
+    "CD_PLAYBACK_AND_RIPPING": "CD再生とリッピング",
+    "DIGITAL_AND_ANALOG_INPUTS": "デジタルおよびアナログ入力",
+    "DIGITAL_INPUTS": "デジタル入力",
+    "DLNA_BROWSER": "DLNAブラウザ"
   }
 }

@@ -1245,5 +1245,30 @@
     "PLUGINS": "음악 스트리밍 플랫폼 추가",
     "OTHER_SETTINGS": "알람 / 절전 모드 / 정보 / 쇼핑",
     "STANDBY_RESTART": "장치 대기 및 재시작"
+  },
+  "ACCESSIBILITY": {
+    "GO_BACK": "뒤로 가기",
+    "PLAYBACK_OPTIONS": "일반 재생 옵션",
+    "PLAY_HERE_SELECTED": "여기에서 재생 선택",
+    "LOADING": "로드 중",
+    "OPEN_MENU": "메뉴 열기",
+    "CLOSE_MENU": "메뉴 닫기",
+    "REPEAT_SELECTED": "선택 항목 반복",
+    "LOGO": "볼류미오 로고",
+    "SOURCES": "출처",
+    "SHUTDOWN": "종료",
+    "ALARM": "알람 기능",
+    "SLEEP": "절전 기능",
+    "SHOP": "볼류미오 샵"
+  },
+  "MUSIC_SOURCES": {
+    "BLUETOOTH_INPUT_PLAYBACK": "블루투스 입력 재생",
+    "MULTIROOM_PLAYBACK": "멀티룸 재생",
+    "UPNP_RENDERER": "UPNP 렌더러",
+    "MUSIC_METADATA_DISCOVERY": "음악 메타데이터 검색",
+    "CD_PLAYBACK_AND_RIPPING": "CD 재생 및 리핑",
+    "DIGITAL_AND_ANALOG_INPUTS": "디지털 및 아날로그 입력",
+    "DIGITAL_INPUTS": "디지털 입력",
+    "DLNA_BROWSER": "DLNA 브라우저"
   }
 }

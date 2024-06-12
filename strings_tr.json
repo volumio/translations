@@ -1246,5 +1246,30 @@
     "PLUGINS": "Müzik akış platformu ekleyin",
     "OTHER_SETTINGS": "Alarm / Uyku modu / Bilgi / Mağaza",
     "STANDBY_RESTART": "Bekleme ve Cihazı Yeniden Başlatma"
+  },
+  "ACCESSIBILITY": {
+    "GO_BACK": "Geri Dön",
+    "PLAYBACK_OPTIONS": "Genel Oynatma Seçenekleri",
+    "PLAY_HERE_SELECTED": "Burada Oyna Seçildi",
+    "LOADING": "Yükleniyor",
+    "OPEN_MENU": "Açık Menü",
+    "CLOSE_MENU": "Menüyü Kapat",
+    "REPEAT_SELECTED": "Seçileni Tekrarla",
+    "LOGO": "Volumio Logo",
+    "SOURCES": "Kaynaklar",
+    "SHUTDOWN": "Kapatma",
+    "ALARM": "Alarm fonksiyonu",
+    "SLEEP": "Uyku fonksiyonu",
+    "SHOP": "Volumio Mağazası"
+  },
+  "MUSIC_SOURCES": {
+    "BLUETOOTH_INPUT_PLAYBACK": "Bluetooth Girişi Oynatma",
+    "MULTIROOM_PLAYBACK": "Çok Odalı Oynatma",
+    "UPNP_RENDERER": "UPNP İşleyici",
+    "MUSIC_METADATA_DISCOVERY": "Müzik Metadata Keşfi",
+    "CD_PLAYBACK_AND_RIPPING": "CD Oynatma ve Kopyalama",
+    "DIGITAL_AND_ANALOG_INPUTS": "Dijital ve Analog Girişler",
+    "DIGITAL_INPUTS": "Dijital Girişler",
+    "DLNA_BROWSER": "DLNA Tarayıcı"
   }
 }

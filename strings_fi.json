@@ -1244,5 +1244,30 @@
     "PLUGINS": "Lisää musiikin suoratoistoalusta",
     "OTHER_SETTINGS": "Hälytys / Lepotila / Info / Kauppa",
     "STANDBY_RESTART": "Laitteen valmiustila ja uudelleenkäynnistys"
+  },
+  "ACCESSIBILITY": {
+    "GO_BACK": "Palaa takaisin",
+    "PLAYBACK_OPTIONS": "Yleiset toistoasetukset",
+    "PLAY_HERE_SELECTED": "Pelaa täällä Valittu",
+    "LOADING": "Ladataan",
+    "OPEN_MENU": "Avaa valikko",
+    "CLOSE_MENU": "Sulje valikko",
+    "REPEAT_SELECTED": "Toista valittu",
+    "LOGO": "Volumio-logo",
+    "SOURCES": "Lähteet",
+    "SHUTDOWN": "Sulkeminen",
+    "ALARM": "Hälytystoiminto",
+    "SLEEP": "Lepotoiminto",
+    "SHOP": "Volumio Shop"
+  },
+  "MUSIC_SOURCES": {
+    "BLUETOOTH_INPUT_PLAYBACK": "Bluetooth-tulo Toisto",
+    "MULTIROOM_PLAYBACK": "Monihuone-toisto",
+    "UPNP_RENDERER": "UPNP Renderer",
+    "MUSIC_METADATA_DISCOVERY": "Musiikin metatietojen löytäminen",
+    "CD_PLAYBACK_AND_RIPPING": "CD-toisto ja kopiointi",
+    "DIGITAL_AND_ANALOG_INPUTS": "Digitaaliset ja analogiset tulot",
+    "DIGITAL_INPUTS": "Digitaaliset tulot",
+    "DLNA_BROWSER": "DLNA-selain"
   }
 }

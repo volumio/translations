@@ -1247,5 +1247,30 @@
     "PLUGINS": "Přidání platformy pro streamování hudby",
     "OTHER_SETTINGS": "Budík / Režim spánku / Informace / Obchod",
     "STANDBY_RESTART": "Pohotovostní režim a restart zařízení"
+  },
+  "ACCESSIBILITY": {
+    "GO_BACK": "Vrátit se zpět",
+    "PLAYBACK_OPTIONS": "Obecné možnosti přehrávání",
+    "PLAY_HERE_SELECTED": "Přehrát zde Vybrané",
+    "LOADING": "Načítání",
+    "OPEN_MENU": "Otevřít nabídku",
+    "CLOSE_MENU": "Zavřít nabídku",
+    "REPEAT_SELECTED": "Opakování vybraných",
+    "LOGO": "Logo Volumio",
+    "SOURCES": "Zdroje",
+    "SHUTDOWN": "Vypnutí",
+    "ALARM": "Funkce alarmu",
+    "SLEEP": "Funkce spánku",
+    "SHOP": "Obchod Volumio"
+  },
+  "MUSIC_SOURCES": {
+    "BLUETOOTH_INPUT_PLAYBACK": "Přehrávání přes vstup Bluetooth",
+    "MULTIROOM_PLAYBACK": "Přehrávání ve více místnostech",
+    "UPNP_RENDERER": "UPNP Renderer",
+    "MUSIC_METADATA_DISCOVERY": "Vyhledávání hudebních metadat",
+    "CD_PLAYBACK_AND_RIPPING": "Přehrávání a ripování disků CD",
+    "DIGITAL_AND_ANALOG_INPUTS": "Digitální a analogové vstupy",
+    "DIGITAL_INPUTS": "Digitální vstupy",
+    "DLNA_BROWSER": "Prohlížeč DLNA"
   }
 }

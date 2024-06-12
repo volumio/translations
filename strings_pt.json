@@ -1244,5 +1244,30 @@
     "PLUGINS": "Adicionar plataforma de streaming de música",
     "OTHER_SETTINGS": "Alarme / Modo de espera / Informação / Loja",
     "STANDBY_RESTART": "Dispositivo em espera e reiniciado"
+  },
+  "ACCESSIBILITY": {
+    "GO_BACK": "Go Back",
+    "PLAYBACK_OPTIONS": "Opções gerais de reprodução",
+    "PLAY_HERE_SELECTED": "Reproduzir aqui Selecionado",
+    "LOADING": "Carregamento",
+    "OPEN_MENU": "Abrir menu",
+    "CLOSE_MENU": "Fechar menu",
+    "REPEAT_SELECTED": "Repetir selecionado",
+    "LOGO": "Logótipo Volumio",
+    "SOURCES": "Fontes",
+    "SHUTDOWN": "Encerramento",
+    "ALARM": "Função de alarme",
+    "SLEEP": "Função de sono",
+    "SHOP": "Loja Volumio"
+  },
+  "MUSIC_SOURCES": {
+    "BLUETOOTH_INPUT_PLAYBACK": "Reprodução de entrada Bluetooth",
+    "MULTIROOM_PLAYBACK": "Reprodução em várias divisões",
+    "UPNP_RENDERER": "Renderizador UPNP",
+    "MUSIC_METADATA_DISCOVERY": "Descoberta de metadados de música",
+    "CD_PLAYBACK_AND_RIPPING": "Reprodução e ripagem de CD",
+    "DIGITAL_AND_ANALOG_INPUTS": "Entradas digitais e analógicas",
+    "DIGITAL_INPUTS": "Entradas digitais",
+    "DLNA_BROWSER": "Navegador DLNA"
   }
 }

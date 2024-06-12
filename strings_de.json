@@ -1249,5 +1249,30 @@
     "PLUGINS": "Musik-Streaming-Plattform hinzufügen",
     "OTHER_SETTINGS": "Alarm / Schlafmodus / Info / Shop",
     "STANDBY_RESTART": "Standby und Neustart des Geräts"
+  },
+  "ACCESSIBILITY": {
+    "GO_BACK": "Zurückgehen",
+    "PLAYBACK_OPTIONS": "Allgemeine Wiedergabeoptionen",
+    "PLAY_HERE_SELECTED": "Hier spielen Ausgewählt",
+    "LOADING": "Laden",
+    "OPEN_MENU": "Open Menu",
+    "CLOSE_MENU": "Menü schließen",
+    "REPEAT_SELECTED": "Wiederholen Ausgewählt",
+    "LOGO": "Volumio Logo",
+    "SOURCES": "Quellen",
+    "SHUTDOWN": "Abschaltung",
+    "ALARM": "Alarmfunktion",
+    "SLEEP": "Schlaf-Funktion",
+    "SHOP": "Volumio Shop"
+  },
+  "MUSIC_SOURCES": {
+    "BLUETOOTH_INPUT_PLAYBACK": "Wiedergabe mit Bluetooth-Eingang",
+    "MULTIROOM_PLAYBACK": "Multiroom-Wiedergabe",
+    "UPNP_RENDERER": "UPNP-Renderer",
+    "MUSIC_METADATA_DISCOVERY": "Entdeckung von Musik-Metadaten",
+    "CD_PLAYBACK_AND_RIPPING": "CD-Wiedergabe und -Ripping",
+    "DIGITAL_AND_ANALOG_INPUTS": "Digitale und analoge Eingänge",
+    "DIGITAL_INPUTS": "Digitale Eingänge",
+    "DLNA_BROWSER": "DLNA-Browser"
   }
 }

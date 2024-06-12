@@ -1246,5 +1246,30 @@
     "PLUGINS": "添加音乐流媒体平台",
     "OTHER_SETTINGS": "闹钟/睡眠模式/信息/商店",
     "STANDBY_RESTART": "待机和重启设备"
+  },
+  "ACCESSIBILITY": {
+    "GO_BACK": "返回",
+    "PLAYBACK_OPTIONS": "常规播放选项",
+    "PLAY_HERE_SELECTED": "选择在此播放",
+    "LOADING": "加载中",
+    "OPEN_MENU": "打开菜单",
+    "CLOSE_MENU": "关闭菜单",
+    "REPEAT_SELECTED": "已选择重复",
+    "LOGO": "Volumio 徽标",
+    "SOURCES": "资料来源",
+    "SHUTDOWN": "关闭",
+    "ALARM": "报警功能",
+    "SLEEP": "睡眠功能",
+    "SHOP": "Volumio 商店"
+  },
+  "MUSIC_SOURCES": {
+    "BLUETOOTH_INPUT_PLAYBACK": "蓝牙输入播放",
+    "MULTIROOM_PLAYBACK": "多房间播放",
+    "UPNP_RENDERER": "UPNP 渲染器",
+    "MUSIC_METADATA_DISCOVERY": "音乐元数据发现",
+    "CD_PLAYBACK_AND_RIPPING": "CD 播放和翻录",
+    "DIGITAL_AND_ANALOG_INPUTS": "数字和模拟输入",
+    "DIGITAL_INPUTS": "数字输入",
+    "DLNA_BROWSER": "DLNA 浏览器"
   }
 }

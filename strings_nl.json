@@ -1246,5 +1246,30 @@
     "PLUGINS": "Muziekstreamingplatform toevoegen",
     "OTHER_SETTINGS": "Alarm / Sleep mode / Info / Shop",
     "STANDBY_RESTART": "Apparaat stand-by en opnieuw opstarten"
+  },
+  "ACCESSIBILITY": {
+    "GO_BACK": "Ga terug",
+    "PLAYBACK_OPTIONS": "Algemene afspeelopties",
+    "PLAY_HERE_SELECTED": "Speel hier geselecteerd",
+    "LOADING": "Laden",
+    "OPEN_MENU": "Menu openen",
+    "CLOSE_MENU": "Menu sluiten",
+    "REPEAT_SELECTED": "Herhaal geselecteerd",
+    "LOGO": "Logo Volumio",
+    "SOURCES": "Bronnen",
+    "SHUTDOWN": "Afsluiten",
+    "ALARM": "Alarmfunctie",
+    "SLEEP": "Slaapfunctie",
+    "SHOP": "Winkel"
+  },
+  "MUSIC_SOURCES": {
+    "BLUETOOTH_INPUT_PLAYBACK": "Bluetooth-ingang afspelen",
+    "MULTIROOM_PLAYBACK": "Afspelen in meerdere kamers",
+    "UPNP_RENDERER": "UPNP-renderer",
+    "MUSIC_METADATA_DISCOVERY": "Ontdekking van muziekmetadata",
+    "CD_PLAYBACK_AND_RIPPING": "CD afspelen en rippen",
+    "DIGITAL_AND_ANALOG_INPUTS": "Digitale en analoge ingangen",
+    "DIGITAL_INPUTS": "Digitale ingangen",
+    "DLNA_BROWSER": "DLNA-browser"
   }
 }

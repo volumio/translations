@@ -1246,5 +1246,30 @@
     "PLUGINS": "Добавьте платформу для потокового воспроизведения музыки",
     "OTHER_SETTINGS": "Будильник / Режим сна / Информация / Магазин",
     "STANDBY_RESTART": "Переход в режим ожидания и перезапуск устройства"
+  },
+  "ACCESSIBILITY": {
+    "GO_BACK": "Вернуться",
+    "PLAYBACK_OPTIONS": "Общие параметры воспроизведения",
+    "PLAY_HERE_SELECTED": "Играть здесь Избранное",
+    "LOADING": "Загрузка",
+    "OPEN_MENU": "Открыть меню",
+    "CLOSE_MENU": "Закрыть меню",
+    "REPEAT_SELECTED": "Повторить выбранное",
+    "LOGO": "Логотип Volumio",
+    "SOURCES": "Источники",
+    "SHUTDOWN": "Выключение",
+    "ALARM": "Функция сигнализации",
+    "SLEEP": "Функция сна",
+    "SHOP": "Магазин Volumio"
+  },
+  "MUSIC_SOURCES": {
+    "BLUETOOTH_INPUT_PLAYBACK": "Воспроизведение через вход Bluetooth",
+    "MULTIROOM_PLAYBACK": "Воспроизведение в нескольких комнатах",
+    "UPNP_RENDERER": "Рендерер UPNP",
+    "MUSIC_METADATA_DISCOVERY": "Обнаружение музыкальных метаданных",
+    "CD_PLAYBACK_AND_RIPPING": "Воспроизведение и копирование компакт-дисков",
+    "DIGITAL_AND_ANALOG_INPUTS": "Цифровые и аналоговые входы",
+    "DIGITAL_INPUTS": "Цифровые входы",
+    "DLNA_BROWSER": "Браузер DLNA"
   }
 }

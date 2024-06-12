@@ -1251,5 +1251,30 @@
     "PLUGINS": "Aggiungere una piattaforma di streaming musicale",
     "OTHER_SETTINGS": "Allarme / Modalità Sleep / Info / Negozio",
     "STANDBY_RESTART": "Standby e riavvio del dispositivo"
+  },
+  "ACCESSIBILITY": {
+    "GO_BACK": "Torna indietro",
+    "PLAYBACK_OPTIONS": "Opzioni generali di riproduzione",
+    "PLAY_HERE_SELECTED": "Gioca qui Selezionato",
+    "LOADING": "Caricamento",
+    "OPEN_MENU": "Menu aperto",
+    "CLOSE_MENU": "Chiudere il menu",
+    "REPEAT_SELECTED": "Ripetizione selezionata",
+    "LOGO": "Volumio Logo",
+    "SOURCES": "Fonti",
+    "SHUTDOWN": "Spegnimento",
+    "ALARM": "Funzione di allarme",
+    "SLEEP": "Funzione Sleep",
+    "SHOP": "Volumio Shop"
+  },
+  "MUSIC_SOURCES": {
+    "BLUETOOTH_INPUT_PLAYBACK": "Riproduzione con ingresso Bluetooth",
+    "MULTIROOM_PLAYBACK": "Riproduzione multiroom",
+    "UPNP_RENDERER": "Rendering UPNP",
+    "MUSIC_METADATA_DISCOVERY": "Scoperta dei metadati musicali",
+    "CD_PLAYBACK_AND_RIPPING": "Riproduzione e ripping di CD",
+    "DIGITAL_AND_ANALOG_INPUTS": "Ingressi digitali e analogici",
+    "DIGITAL_INPUTS": "Ingressi digitali",
+    "DLNA_BROWSER": "Browser DLNA"
   }
 }
