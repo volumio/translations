@@ -1181,6 +1181,20 @@
     "FILTER_GENRES_LATIN": "Latin",
     "FILTER_GENRES_ITALIAN_MUSIC": "Italian Music"
   },
+  "VOLUMIO_CLOUD_AMAZON_MUSIC": {
+    "MY_LIBRARY": "My Library",
+    "MY_LIBRARY_PLAYLISTS": "My Playlists",
+    "MY_LIBRARY_TRACKS": "My Likes",
+    "MY_LIBRARY_ALBUMS": "My Albums",
+    "MY_LIBRARY_ARTISTS": "Followed Artists"
+  },
+  "PLUGIN_AMAZON_MUSIC": {
+    "CONFIG_TITLE": "Amazon Music Settings",
+    "SECTION_ACCOUNT": "SECTION_ACCOUNT",
+    "SECTION_ACCOUNT_DESC": "SECTION_ACCOUNT_DESC",
+    "CONNECT_DESC": "CONNECT_DESC",
+    "LOGOUT_DESC": "LOGOUT_DESC"
+  },
   "PLUGIN_CDCONTROLLER": {
     "INTERNAL_MEMORY": "Internal Memory",
     "RIP_IN_PROGRESS_MESSAGE": "This CD is currently being copied, and cannot be accessed until the copy operation has completed",
