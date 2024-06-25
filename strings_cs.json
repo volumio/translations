@@ -1261,7 +1261,8 @@
     "SHUTDOWN": "Vypnutí",
     "ALARM": "Funkce alarmu",
     "SLEEP": "Funkce spánku",
-    "SHOP": "Obchod Volumio"
+    "SHOP": "Obchod Volumio",
+    "SLIDER": "Posuvník"
   },
   "MUSIC_SOURCES": {
     "BLUETOOTH_INPUT_PLAYBACK": "Přehrávání přes vstup Bluetooth",
@@ -1272,5 +1273,19 @@
     "DIGITAL_AND_ANALOG_INPUTS": "Digitální a analogové vstupy",
     "DIGITAL_INPUTS": "Digitální vstupy",
     "DLNA_BROWSER": "Prohlížeč DLNA"
+  },
+  "VOLUMIO_CLOUD_AMAZON_MUSIC": {
+    "MY_LIBRARY": "Moje knihovna",
+    "MY_LIBRARY_PLAYLISTS": "Moje seznamy skladeb",
+    "MY_LIBRARY_TRACKS": "Co se mi líbí",
+    "MY_LIBRARY_ALBUMS": "Moje alba",
+    "MY_LIBRARY_ARTISTS": "Sledovaní umělci"
+  },
+  "PLUGIN_AMAZON_MUSIC": {
+    "CONFIG_TITLE": "Nastavení služby Amazon Music",
+    "SECTION_ACCOUNT": "SECTION_ACCOUNT",
+    "SECTION_ACCOUNT_DESC": "SECTION_ACCOUNT_DESC",
+    "CONNECT_DESC": "CONNECT_DESC",
+    "LOGOUT_DESC": "LOGOUT_DESC"
   }
 }

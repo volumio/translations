@@ -1258,7 +1258,8 @@
     "SHUTDOWN": "Sulkeminen",
     "ALARM": "Hälytystoiminto",
     "SLEEP": "Lepotoiminto",
-    "SHOP": "Volumio Shop"
+    "SHOP": "Volumio Shop",
+    "SLIDER": "Slider"
   },
   "MUSIC_SOURCES": {
     "BLUETOOTH_INPUT_PLAYBACK": "Bluetooth-tulo Toisto",
@@ -1269,5 +1270,19 @@
     "DIGITAL_AND_ANALOG_INPUTS": "Digitaaliset ja analogiset tulot",
     "DIGITAL_INPUTS": "Digitaaliset tulot",
     "DLNA_BROWSER": "DLNA-selain"
+  },
+  "VOLUMIO_CLOUD_AMAZON_MUSIC": {
+    "MY_LIBRARY": "Kirjastoni",
+    "MY_LIBRARY_PLAYLISTS": "Minun soittolistani",
+    "MY_LIBRARY_TRACKS": "Tykkäykseni",
+    "MY_LIBRARY_ALBUMS": "Albumini",
+    "MY_LIBRARY_ARTISTS": "Seuratut taiteilijat"
+  },
+  "PLUGIN_AMAZON_MUSIC": {
+    "CONFIG_TITLE": "Amazon-musiikin asetukset",
+    "SECTION_ACCOUNT": "SECTION_ACCOUNT",
+    "SECTION_ACCOUNT_DESC": "SECTION_ACCOUNT_DESC",
+    "CONNECT_DESC": "CONNECT_DESC",
+    "LOGOUT_DESC": "LOGOUT_DESC"
   }
 }

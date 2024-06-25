@@ -1258,7 +1258,8 @@
     "SHUTDOWN": "シャットダウン",
     "ALARM": "アラーム機能",
     "SLEEP": "スリープ機能",
-    "SHOP": "ヴォルミオショップ"
+    "SHOP": "ヴォルミオショップ",
+    "SLIDER": "スライダー"
   },
   "MUSIC_SOURCES": {
     "BLUETOOTH_INPUT_PLAYBACK": "ブルートゥース入力再生",
@@ -1269,5 +1270,19 @@
     "DIGITAL_AND_ANALOG_INPUTS": "デジタルおよびアナログ入力",
     "DIGITAL_INPUTS": "デジタル入力",
     "DLNA_BROWSER": "DLNAブラウザ"
+  },
+  "VOLUMIO_CLOUD_AMAZON_MUSIC": {
+    "MY_LIBRARY": "マイ・ライブラリー",
+    "MY_LIBRARY_PLAYLISTS": "私のプレイリスト",
+    "MY_LIBRARY_TRACKS": "私のお気に入り",
+    "MY_LIBRARY_ALBUMS": "マイ・アルバム",
+    "MY_LIBRARY_ARTISTS": "フォローされたアーティスト"
+  },
+  "PLUGIN_AMAZON_MUSIC": {
+    "CONFIG_TITLE": "Amazonミュージック設定",
+    "SECTION_ACCOUNT": "セクションアカウント",
+    "SECTION_ACCOUNT_DESC": "セクション",
+    "CONNECT_DESC": "CONNECT_DESC",
+    "LOGOUT_DESC": "ログアウト"
   }
 }

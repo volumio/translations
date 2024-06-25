@@ -1260,7 +1260,8 @@
     "SHUTDOWN": "Kapatma",
     "ALARM": "Alarm fonksiyonu",
     "SLEEP": "Uyku fonksiyonu",
-    "SHOP": "Volumio Mağazası"
+    "SHOP": "Volumio Mağazası",
+    "SLIDER": "Kaydırıcı"
   },
   "MUSIC_SOURCES": {
     "BLUETOOTH_INPUT_PLAYBACK": "Bluetooth Girişi Oynatma",
@@ -1271,5 +1272,19 @@
     "DIGITAL_AND_ANALOG_INPUTS": "Dijital ve Analog Girişler",
     "DIGITAL_INPUTS": "Dijital Girişler",
     "DLNA_BROWSER": "DLNA Tarayıcı"
+  },
+  "VOLUMIO_CLOUD_AMAZON_MUSIC": {
+    "MY_LIBRARY": "Benim Kütüphanem",
+    "MY_LIBRARY_PLAYLISTS": "Çalma Listelerim",
+    "MY_LIBRARY_TRACKS": "Benim Beğenilerim",
+    "MY_LIBRARY_ALBUMS": "Albümlerim",
+    "MY_LIBRARY_ARTISTS": "Takip Edilen Sanatçılar"
+  },
+  "PLUGIN_AMAZON_MUSIC": {
+    "CONFIG_TITLE": "Amazon Müzik Ayarları",
+    "SECTION_ACCOUNT": "SECTION_ACCOUNT",
+    "SECTION_ACCOUNT_DESC": "SECTION_ACCOUNT_DESC",
+    "CONNECT_DESC": "CONNECT_DESC",
+    "LOGOUT_DESC": "LOGOUT_DESC"
   }
 }

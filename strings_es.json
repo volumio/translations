@@ -1259,7 +1259,8 @@
     "SHUTDOWN": "Cierre",
     "ALARM": "Función de alarma",
     "SLEEP": "Función sueño",
-    "SHOP": "Tienda Volumio"
+    "SHOP": "Tienda Volumio",
+    "SLIDER": "Deslizador"
   },
   "MUSIC_SOURCES": {
     "BLUETOOTH_INPUT_PLAYBACK": "Entrada Bluetooth Reproducción",
@@ -1270,5 +1271,19 @@
     "DIGITAL_AND_ANALOG_INPUTS": "Entradas digitales y analógicas",
     "DIGITAL_INPUTS": "Entradas digitales",
     "DLNA_BROWSER": "Navegador DLNA"
+  },
+  "VOLUMIO_CLOUD_AMAZON_MUSIC": {
+    "MY_LIBRARY": "Mi biblioteca",
+    "MY_LIBRARY_PLAYLISTS": "Mis listas de reproducción",
+    "MY_LIBRARY_TRACKS": "Mis gustos",
+    "MY_LIBRARY_ALBUMS": "Mis álbumes",
+    "MY_LIBRARY_ARTISTS": "Artistas seguidos"
+  },
+  "PLUGIN_AMAZON_MUSIC": {
+    "CONFIG_TITLE": "Configuración de Amazon Music",
+    "SECTION_ACCOUNT": "CUENTA_SECCIÓN",
+    "SECTION_ACCOUNT_DESC": "SECTION_ACCOUNT_DESC",
+    "CONNECT_DESC": "CONNECT_DESC",
+    "LOGOUT_DESC": "LOGOUT_DESC"
   }
 }

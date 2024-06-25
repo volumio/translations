@@ -1258,7 +1258,8 @@
     "SHUTDOWN": "Nedlukning",
     "ALARM": "Alarmfunktion",
     "SLEEP": "Søvnfunktion",
-    "SHOP": "Volumio Shop"
+    "SHOP": "Volumio Shop",
+    "SLIDER": "Skyder"
   },
   "MUSIC_SOURCES": {
     "BLUETOOTH_INPUT_PLAYBACK": "Afspilning af Bluetooth-input",
@@ -1269,5 +1270,19 @@
     "DIGITAL_AND_ANALOG_INPUTS": "Digitale og analoge indgange",
     "DIGITAL_INPUTS": "Digitale indgange",
     "DLNA_BROWSER": "DLNA-browser"
+  },
+  "VOLUMIO_CLOUD_AMAZON_MUSIC": {
+    "MY_LIBRARY": "Mit bibliotek",
+    "MY_LIBRARY_PLAYLISTS": "Mine afspilningslister",
+    "MY_LIBRARY_TRACKS": "Hvad jeg kan lide",
+    "MY_LIBRARY_ALBUMS": "Mine albummer",
+    "MY_LIBRARY_ARTISTS": "Fulgte kunstnere"
+  },
+  "PLUGIN_AMAZON_MUSIC": {
+    "CONFIG_TITLE": "Indstillinger for Amazon Music",
+    "SECTION_ACCOUNT": "SEKTION_KONTO",
+    "SECTION_ACCOUNT_DESC": "SEKTION_KONTO_DESC",
+    "CONNECT_DESC": "CONNECT_DESC",
+    "LOGOUT_DESC": "LOGOUT_DESC"
   }
 }

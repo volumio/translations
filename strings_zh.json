@@ -1260,7 +1260,8 @@
     "SHUTDOWN": "关闭",
     "ALARM": "报警功能",
     "SLEEP": "睡眠功能",
-    "SHOP": "Volumio 商店"
+    "SHOP": "Volumio 商店",
+    "SLIDER": "滑块"
   },
   "MUSIC_SOURCES": {
     "BLUETOOTH_INPUT_PLAYBACK": "蓝牙输入播放",
@@ -1271,5 +1272,19 @@
     "DIGITAL_AND_ANALOG_INPUTS": "数字和模拟输入",
     "DIGITAL_INPUTS": "数字输入",
     "DLNA_BROWSER": "DLNA 浏览器"
+  },
+  "VOLUMIO_CLOUD_AMAZON_MUSIC": {
+    "MY_LIBRARY": "我的图书馆",
+    "MY_LIBRARY_PLAYLISTS": "我的播放列表",
+    "MY_LIBRARY_TRACKS": "我的喜好",
+    "MY_LIBRARY_ALBUMS": "我的相册",
+    "MY_LIBRARY_ARTISTS": "关注的艺术家"
+  },
+  "PLUGIN_AMAZON_MUSIC": {
+    "CONFIG_TITLE": "亚马逊音乐设置",
+    "SECTION_ACCOUNT": "科室账户",
+    "SECTION_ACCOUNT_DESC": "账户说明",
+    "CONNECT_DESC": "CONNECT_DESC",
+    "LOGOUT_DESC": "LOGOUT_DESC"
   }
 }

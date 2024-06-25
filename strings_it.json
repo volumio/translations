@@ -1265,7 +1265,8 @@
     "SHUTDOWN": "Spegnimento",
     "ALARM": "Funzione di allarme",
     "SLEEP": "Funzione Sleep",
-    "SHOP": "Volumio Shop"
+    "SHOP": "Volumio Shop",
+    "SLIDER": "Cursore"
   },
   "MUSIC_SOURCES": {
     "BLUETOOTH_INPUT_PLAYBACK": "Riproduzione con ingresso Bluetooth",
@@ -1276,5 +1277,19 @@
     "DIGITAL_AND_ANALOG_INPUTS": "Ingressi digitali e analogici",
     "DIGITAL_INPUTS": "Ingressi digitali",
     "DLNA_BROWSER": "Browser DLNA"
+  },
+  "VOLUMIO_CLOUD_AMAZON_MUSIC": {
+    "MY_LIBRARY": "La mia biblioteca",
+    "MY_LIBRARY_PLAYLISTS": "Le mie playlist",
+    "MY_LIBRARY_TRACKS": "I miei gusti",
+    "MY_LIBRARY_ALBUMS": "I miei album",
+    "MY_LIBRARY_ARTISTS": "Artisti seguiti"
+  },
+  "PLUGIN_AMAZON_MUSIC": {
+    "CONFIG_TITLE": "Impostazioni di Amazon Music",
+    "SECTION_ACCOUNT": "CONTO_SEZIONE",
+    "SECTION_ACCOUNT_DESC": "SEZIONE_CONTO_DESC",
+    "CONNECT_DESC": "CONNECT_DESC",
+    "LOGOUT_DESC": "LOGOUT_DESC"
   }
 }

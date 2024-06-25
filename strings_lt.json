@@ -1259,7 +1259,8 @@
     "SHUTDOWN": "Išjungimas",
     "ALARM": "Pavojaus signalo funkcija",
     "SLEEP": "Miego funkcija",
-    "SHOP": "\"Volumio\" parduotuvė"
+    "SHOP": "\"Volumio\" parduotuvė",
+    "SLIDER": "Šliaužiklis"
   },
   "MUSIC_SOURCES": {
     "BLUETOOTH_INPUT_PLAYBACK": "\"Bluetooth\" įvesties atkūrimas",
@@ -1270,5 +1271,19 @@
     "DIGITAL_AND_ANALOG_INPUTS": "Skaitmeniniai ir analoginiai įėjimai",
     "DIGITAL_INPUTS": "Skaitmeniniai įėjimai",
     "DLNA_BROWSER": "DLNA naršyklė"
+  },
+  "VOLUMIO_CLOUD_AMAZON_MUSIC": {
+    "MY_LIBRARY": "Mano biblioteka",
+    "MY_LIBRARY_PLAYLISTS": "Mano grojaraščiai",
+    "MY_LIBRARY_TRACKS": "Mano pomėgiai",
+    "MY_LIBRARY_ALBUMS": "Mano albumai",
+    "MY_LIBRARY_ARTISTS": "Sekami menininkai"
+  },
+  "PLUGIN_AMAZON_MUSIC": {
+    "CONFIG_TITLE": "\"Amazon Music\" nustatymai",
+    "SECTION_ACCOUNT": "SECTION_ACCOUNT",
+    "SECTION_ACCOUNT_DESC": "SECTION_ACCOUNT_DESC",
+    "CONNECT_DESC": "CONNECT_DESC",
+    "LOGOUT_DESC": "LOGOUT_DESC"
   }
 }

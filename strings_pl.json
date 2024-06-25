@@ -1259,7 +1259,8 @@
     "SHUTDOWN": "Wyłączenie",
     "ALARM": "Funkcja alarmu",
     "SLEEP": "Funkcja uśpienia",
-    "SHOP": "Sklep Volumio"
+    "SHOP": "Sklep Volumio",
+    "SLIDER": "Suwak"
   },
   "MUSIC_SOURCES": {
     "BLUETOOTH_INPUT_PLAYBACK": "Odtwarzanie przez wejście Bluetooth",
@@ -1270,5 +1271,19 @@
     "DIGITAL_AND_ANALOG_INPUTS": "Wejścia cyfrowe i analogowe",
     "DIGITAL_INPUTS": "Wejścia cyfrowe",
     "DLNA_BROWSER": "Przeglądarka DLNA"
+  },
+  "VOLUMIO_CLOUD_AMAZON_MUSIC": {
+    "MY_LIBRARY": "Moja biblioteka",
+    "MY_LIBRARY_PLAYLISTS": "Moje listy odtwarzania",
+    "MY_LIBRARY_TRACKS": "Moje upodobania",
+    "MY_LIBRARY_ALBUMS": "Moje albumy",
+    "MY_LIBRARY_ARTISTS": "Śledzeni artyści"
+  },
+  "PLUGIN_AMAZON_MUSIC": {
+    "CONFIG_TITLE": "Ustawienia Amazon Music",
+    "SECTION_ACCOUNT": "SECTION_ACCOUNT",
+    "SECTION_ACCOUNT_DESC": "SECTION_ACCOUNT_DESC",
+    "CONNECT_DESC": "CONNECT_DESC",
+    "LOGOUT_DESC": "LOGOUT_DESC"
   }
 }

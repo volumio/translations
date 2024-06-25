@@ -1259,7 +1259,8 @@
     "SHUTDOWN": "종료",
     "ALARM": "알람 기능",
     "SLEEP": "절전 기능",
-    "SHOP": "볼류미오 샵"
+    "SHOP": "볼류미오 샵",
+    "SLIDER": "슬라이더"
   },
   "MUSIC_SOURCES": {
     "BLUETOOTH_INPUT_PLAYBACK": "블루투스 입력 재생",
@@ -1270,5 +1271,19 @@
     "DIGITAL_AND_ANALOG_INPUTS": "디지털 및 아날로그 입력",
     "DIGITAL_INPUTS": "디지털 입력",
     "DLNA_BROWSER": "DLNA 브라우저"
+  },
+  "VOLUMIO_CLOUD_AMAZON_MUSIC": {
+    "MY_LIBRARY": "내 라이브러리",
+    "MY_LIBRARY_PLAYLISTS": "내 재생 목록",
+    "MY_LIBRARY_TRACKS": "내 좋아요",
+    "MY_LIBRARY_ALBUMS": "내 앨범",
+    "MY_LIBRARY_ARTISTS": "팔로우하는 아티스트"
+  },
+  "PLUGIN_AMAZON_MUSIC": {
+    "CONFIG_TITLE": "Amazon 음악 설정",
+    "SECTION_ACCOUNT": "섹션_계정",
+    "SECTION_ACCOUNT_DESC": "섹션_계정_설명",
+    "CONNECT_DESC": "CONNECT_DESC",
+    "LOGOUT_DESC": "로그아웃_데스크"
   }
 }

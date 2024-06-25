@@ -1259,7 +1259,8 @@
     "SHUTDOWN": "Leállítás",
     "ALARM": "Riasztási funkció",
     "SLEEP": "Alvás funkció",
-    "SHOP": "Volumio Shop"
+    "SHOP": "Volumio Shop",
+    "SLIDER": "Csúszka"
   },
   "MUSIC_SOURCES": {
     "BLUETOOTH_INPUT_PLAYBACK": "Bluetooth bemenet lejátszás",
@@ -1270,5 +1271,19 @@
     "DIGITAL_AND_ANALOG_INPUTS": "Digitális és analóg bemenetek",
     "DIGITAL_INPUTS": "Digitális bemenetek",
     "DLNA_BROWSER": "DLNA böngésző"
+  },
+  "VOLUMIO_CLOUD_AMAZON_MUSIC": {
+    "MY_LIBRARY": "Könyvtáram",
+    "MY_LIBRARY_PLAYLISTS": "Lejátszási listáim",
+    "MY_LIBRARY_TRACKS": "Kedvenceim",
+    "MY_LIBRARY_ALBUMS": "Saját albumok",
+    "MY_LIBRARY_ARTISTS": "Követett művészek"
+  },
+  "PLUGIN_AMAZON_MUSIC": {
+    "CONFIG_TITLE": "Amazon Music beállítások",
+    "SECTION_ACCOUNT": "SECTION_ACCOUNT",
+    "SECTION_ACCOUNT_DESC": "SECTION_ACCOUNT_DESC",
+    "CONNECT_DESC": "CONNECT_DESC",
+    "LOGOUT_DESC": "LOGOUT_DESC"
   }
 }

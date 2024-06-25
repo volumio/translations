@@ -1260,7 +1260,8 @@
     "SHUTDOWN": "Avstängning",
     "ALARM": "Larmfunktion",
     "SLEEP": "Funktion för sömn",
-    "SHOP": "Volumio Butik"
+    "SHOP": "Volumio Butik",
+    "SLIDER": "Skjutreglaget"
   },
   "MUSIC_SOURCES": {
     "BLUETOOTH_INPUT_PLAYBACK": "Bluetooth-ingång Uppspelning",
@@ -1271,5 +1272,19 @@
     "DIGITAL_AND_ANALOG_INPUTS": "Digitala och analoga ingångar",
     "DIGITAL_INPUTS": "Digitala ingångar",
     "DLNA_BROWSER": "DLNA-webbläsare"
+  },
+  "VOLUMIO_CLOUD_AMAZON_MUSIC": {
+    "MY_LIBRARY": "Mitt bibliotek",
+    "MY_LIBRARY_PLAYLISTS": "Mina spellistor",
+    "MY_LIBRARY_TRACKS": "Mina favoriter",
+    "MY_LIBRARY_ALBUMS": "Mina album",
+    "MY_LIBRARY_ARTISTS": "Följda artister"
+  },
+  "PLUGIN_AMAZON_MUSIC": {
+    "CONFIG_TITLE": "Inställningar för Amazon Music",
+    "SECTION_ACCOUNT": "SEKTION_KONTO",
+    "SECTION_ACCOUNT_DESC": "AVSNITT_KONTO_BESKRIVNING",
+    "CONNECT_DESC": "CONNECT_DESC",
+    "LOGOUT_DESC": "LOGOUT_DESC"
   }
 }

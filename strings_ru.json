@@ -1260,7 +1260,8 @@
     "SHUTDOWN": "Выключение",
     "ALARM": "Функция сигнализации",
     "SLEEP": "Функция сна",
-    "SHOP": "Магазин Volumio"
+    "SHOP": "Магазин Volumio",
+    "SLIDER": "Слайдер"
   },
   "MUSIC_SOURCES": {
     "BLUETOOTH_INPUT_PLAYBACK": "Воспроизведение через вход Bluetooth",
@@ -1271,5 +1272,19 @@
     "DIGITAL_AND_ANALOG_INPUTS": "Цифровые и аналоговые входы",
     "DIGITAL_INPUTS": "Цифровые входы",
     "DLNA_BROWSER": "Браузер DLNA"
+  },
+  "VOLUMIO_CLOUD_AMAZON_MUSIC": {
+    "MY_LIBRARY": "Моя библиотека",
+    "MY_LIBRARY_PLAYLISTS": "Мои плейлисты",
+    "MY_LIBRARY_TRACKS": "Мои симпатии",
+    "MY_LIBRARY_ALBUMS": "Мои альбомы",
+    "MY_LIBRARY_ARTISTS": "Следующие художники"
+  },
+  "PLUGIN_AMAZON_MUSIC": {
+    "CONFIG_TITLE": "Настройки Amazon Music",
+    "SECTION_ACCOUNT": "РАЗДЕЛ_СЧЁТА",
+    "SECTION_ACCOUNT_DESC": "SECTION_ACCOUNT_DESC",
+    "CONNECT_DESC": "CONNECT_DESC",
+    "LOGOUT_DESC": "LOGOUT_DESC"
   }
 }

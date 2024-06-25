@@ -1260,7 +1260,8 @@
     "SHUTDOWN": "Afsluiten",
     "ALARM": "Alarmfunctie",
     "SLEEP": "Slaapfunctie",
-    "SHOP": "Winkel"
+    "SHOP": "Winkel",
+    "SLIDER": "Schuifregelaar"
   },
   "MUSIC_SOURCES": {
     "BLUETOOTH_INPUT_PLAYBACK": "Bluetooth-ingang afspelen",
@@ -1271,5 +1272,19 @@
     "DIGITAL_AND_ANALOG_INPUTS": "Digitale en analoge ingangen",
     "DIGITAL_INPUTS": "Digitale ingangen",
     "DLNA_BROWSER": "DLNA-browser"
+  },
+  "VOLUMIO_CLOUD_AMAZON_MUSIC": {
+    "MY_LIBRARY": "Mijn bibliotheek",
+    "MY_LIBRARY_PLAYLISTS": "Mijn afspeellijsten",
+    "MY_LIBRARY_TRACKS": "Mijn favorieten",
+    "MY_LIBRARY_ALBUMS": "Mijn albums",
+    "MY_LIBRARY_ARTISTS": "Gevolgde artiesten"
+  },
+  "PLUGIN_AMAZON_MUSIC": {
+    "CONFIG_TITLE": "Amazon Muziekinstellingen",
+    "SECTION_ACCOUNT": "SECTIE_REKENING",
+    "SECTION_ACCOUNT_DESC": "SECTIE_ACCOUNT_DESC",
+    "CONNECT_DESC": "CONNECT_DESC",
+    "LOGOUT_DESC": "LOGOUT_DESC"
   }
 }
