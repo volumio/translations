@@ -468,7 +468,10 @@
     "UI_CONFIG_SELECT_TIMEZONE": "Vælg tidszone",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "Vælg tidszone for dit system",
     "USER_INTERFACE_MANIFEST": "Manifest",
-    "SUPERSEARCH_INFINITY_SERVICES": "SuperSearch og Infinity Playback-aktiverede tjenester"
+    "SUPERSEARCH_INFINITY_SERVICES": "SuperSearch og Infinity Playback-aktiverede tjenester",
+    "USER_INTERFACE": "Brugergrænseflade",
+    "USER_INTERFACE_SETTINGS": "Indstillinger for brugergrænseflade",
+    "USER_INTERFACE_SUCCESSFULLY_SET_TO": "Brugergrænsefladen er indstillet til"
   },
   "MAIN_MENU": {
     "ALARM": "Alarm",

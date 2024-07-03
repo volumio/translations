@@ -841,7 +841,10 @@
     "UI_CONFIG_SELECT_TIMEZONE": "Wybierz strefę czasową",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "Wybierz strefę czasową systemu",
     "USER_INTERFACE_MANIFEST": "Manifest",
-    "SUPERSEARCH_INFINITY_SERVICES": "Usługi SuperSearch i Infinity Playback Enabled"
+    "SUPERSEARCH_INFINITY_SERVICES": "Usługi SuperSearch i Infinity Playback Enabled",
+    "USER_INTERFACE": "Interfejs użytkownika",
+    "USER_INTERFACE_SETTINGS": "Ustawienia interfejsu użytkownika",
+    "USER_INTERFACE_SUCCESSFULLY_SET_TO": "Interfejs użytkownika został pomyślnie ustawiony na"
   },
   "MAIN_MENU": {
     "ALARM": "Budzik",

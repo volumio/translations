@@ -841,7 +841,10 @@
     "UI_CONFIG_SELECT_TIMEZONE": "Zeitzone auswählen",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "Wählen Sie die Zeitzone für Ihr System",
     "USER_INTERFACE_MANIFEST": "Manifest",
-    "SUPERSEARCH_INFINITY_SERVICES": "SuperSearch und Infinity Playback Enabled Services"
+    "SUPERSEARCH_INFINITY_SERVICES": "SuperSearch und Infinity Playback Enabled Services",
+    "USER_INTERFACE": "User Interface",
+    "USER_INTERFACE_SETTINGS": "Einstellungen der Benutzeroberfläche",
+    "USER_INTERFACE_SUCCESSFULLY_SET_TO": "Benutzeroberfläche erfolgreich eingestellt auf"
   },
   "MAIN_MENU": {
     "ALARM": "Wecker",

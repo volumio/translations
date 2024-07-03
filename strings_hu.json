@@ -841,7 +841,10 @@
     "UI_CONFIG_SELECT_TIMEZONE": "Időzóna kiválasztása",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "Válassza ki a rendszer időzónáját",
     "USER_INTERFACE_MANIFEST": "Manifest",
-    "SUPERSEARCH_INFINITY_SERVICES": "SuperSearch és Infinity Playback Enabled szolgáltatások"
+    "SUPERSEARCH_INFINITY_SERVICES": "SuperSearch és Infinity Playback Enabled szolgáltatások",
+    "USER_INTERFACE": "Felhasználói felület",
+    "USER_INTERFACE_SETTINGS": "Felhasználói felület beállításai",
+    "USER_INTERFACE_SUCCESSFULLY_SET_TO": "Felhasználói felület sikeresen beállítva"
   },
   "MAIN_MENU": {
     "ALARM": "Ébresztő",

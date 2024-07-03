@@ -847,7 +847,10 @@
     "UI_CONFIG_SELECT_TIMEZONE": "Selezionare il fuso orario",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "Selezionare il fuso orario del sistema",
     "USER_INTERFACE_MANIFEST": "Manifest",
-    "SUPERSEARCH_INFINITY_SERVICES": "Servizi abilitati a SuperSearch e Infinity Playback"
+    "SUPERSEARCH_INFINITY_SERVICES": "Servizi abilitati a SuperSearch e Infinity Playback",
+    "USER_INTERFACE": "Interfaccia utente",
+    "USER_INTERFACE_SETTINGS": "Impostazioni dell'interfaccia utente",
+    "USER_INTERFACE_SUCCESSFULLY_SET_TO": "Interfaccia utente impostata con successo su"
   },
   "MAIN_MENU": {
     "ALARM": "Sveglie",

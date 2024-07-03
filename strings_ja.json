@@ -511,7 +511,10 @@
     "UI_CONFIG_SELECT_TIMEZONE": "タイムゾーンを選択する",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "システムのタイムゾーンを選択する",
     "USER_INTERFACE_MANIFEST": "マニフェスト",
-    "SUPERSEARCH_INFINITY_SERVICES": "スーパーサーチとインフィニティ再生対応サービス"
+    "SUPERSEARCH_INFINITY_SERVICES": "スーパーサーチとインフィニティ再生対応サービス",
+    "USER_INTERFACE": "ユーザーインターフェース",
+    "USER_INTERFACE_SETTINGS": "ユーザーインターフェースの設定",
+    "USER_INTERFACE_SUCCESSFULLY_SET_TO": "ユーザー・インターフェイスが正常に"
   },
   "MAIN_MENU": {
     "ALARM": "アラーム",

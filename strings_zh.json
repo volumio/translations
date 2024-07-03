@@ -842,7 +842,10 @@
     "UI_CONFIG_SELECT_TIMEZONE": "选择时区",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "选择你的系统的时区",
     "USER_INTERFACE_MANIFEST": "表现形式",
-    "SUPERSEARCH_INFINITY_SERVICES": "超级搜索和支持无限播放的服务"
+    "SUPERSEARCH_INFINITY_SERVICES": "超级搜索和支持无限播放的服务",
+    "USER_INTERFACE": "用户界面",
+    "USER_INTERFACE_SETTINGS": "用户界面设置",
+    "USER_INTERFACE_SUCCESSFULLY_SET_TO": "用户界面成功设置为"
   },
   "MAIN_MENU": {
     "ALARM": "闹钟",

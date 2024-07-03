@@ -841,7 +841,10 @@
     "UI_CONFIG_SELECT_TIMEZONE": "표준 시간대 선택",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "시스템의 표준 시간대 선택",
     "USER_INTERFACE_MANIFEST": "매니페스트",
-    "SUPERSEARCH_INFINITY_SERVICES": "슈퍼서치 및 무한 재생 지원 서비스"
+    "SUPERSEARCH_INFINITY_SERVICES": "슈퍼서치 및 무한 재생 지원 서비스",
+    "USER_INTERFACE": "사용자 인터페이스",
+    "USER_INTERFACE_SETTINGS": "사용자 인터페이스 설정",
+    "USER_INTERFACE_SUCCESSFULLY_SET_TO": "사용자 인터페이스가 다음과 같이 성공적으로 설정되었습니다."
   },
   "MAIN_MENU": {
     "ALARM": "알람",

@@ -843,7 +843,10 @@
     "UI_CONFIG_SELECT_TIMEZONE": "Vyberte časové pásmo",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "Vyberte časové pásmo vašeho systému",
     "USER_INTERFACE_MANIFEST": "Manifest",
-    "SUPERSEARCH_INFINITY_SERVICES": "Služby SuperSearch a Infinity Playback Enabled"
+    "SUPERSEARCH_INFINITY_SERVICES": "Služby SuperSearch a Infinity Playback Enabled",
+    "USER_INTERFACE": "Uživatelské rozhraní",
+    "USER_INTERFACE_SETTINGS": "Nastavení uživatelského rozhraní",
+    "USER_INTERFACE_SUCCESSFULLY_SET_TO": "Uživatelské rozhraní úspěšně nastaveno na"
   },
   "MAIN_MENU": {
     "ALARM": "Budík",

@@ -895,7 +895,10 @@
     "UI_CONFIG_SELECT_TIMEZONE": "Selecteer tijdzone",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "Selecteer de tijdzone van uw systeem",
     "USER_INTERFACE_MANIFEST": "Manifest",
-    "SUPERSEARCH_INFINITY_SERVICES": "Services met SuperSearch en Infinity-weergave"
+    "SUPERSEARCH_INFINITY_SERVICES": "Services met SuperSearch en Infinity-weergave",
+    "USER_INTERFACE": "Gebruikersinterface",
+    "USER_INTERFACE_SETTINGS": "Instellingen gebruikersinterface",
+    "USER_INTERFACE_SUCCESSFULLY_SET_TO": "Gebruikersinterface met succes ingesteld op"
   },
   "MAIN_MENU": {
     "ALARM": "Wekker",

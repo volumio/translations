@@ -842,7 +842,10 @@
     "UI_CONFIG_SELECT_TIMEZONE": "Saat Dilimini Seçin",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "Sisteminizin Saat Dilimini Seçin",
     "USER_INTERFACE_MANIFEST": "Manifesto",
-    "SUPERSEARCH_INFINITY_SERVICES": "SuperSearch ve Infinity Playback Özellikli Hizmetler"
+    "SUPERSEARCH_INFINITY_SERVICES": "SuperSearch ve Infinity Playback Özellikli Hizmetler",
+    "USER_INTERFACE": "Kullanıcı Arayüzü",
+    "USER_INTERFACE_SETTINGS": "Kullanıcı Arayüzü Ayarları",
+    "USER_INTERFACE_SUCCESSFULLY_SET_TO": "Kullanıcı Arayüzü başarıyla"
   },
   "MAIN_MENU": {
     "ALARM": "Uyandırma/Alarm",

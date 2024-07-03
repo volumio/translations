@@ -841,7 +841,10 @@
     "UI_CONFIG_SELECT_TIMEZONE": "Выберите часовой пояс",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "Выберите часовой пояс вашей системы",
     "USER_INTERFACE_MANIFEST": "Манифест",
-    "SUPERSEARCH_INFINITY_SERVICES": "Службы с поддержкой SuperSearch и Infinity Playback"
+    "SUPERSEARCH_INFINITY_SERVICES": "Службы с поддержкой SuperSearch и Infinity Playback",
+    "USER_INTERFACE": "Пользовательский интерфейс",
+    "USER_INTERFACE_SETTINGS": "Настройки пользовательского интерфейса",
+    "USER_INTERFACE_SUCCESSFULLY_SET_TO": "Пользовательский интерфейс успешно установлен на"
   },
   "MAIN_MENU": {
     "ALARM": "Будильник",

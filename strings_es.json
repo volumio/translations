@@ -841,7 +841,10 @@
     "UI_CONFIG_SELECT_TIMEZONE": "Seleccione la zona horaria",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "Seleccione la zona horaria de su sistema",
     "USER_INTERFACE_MANIFEST": "Manifiesto",
-    "SUPERSEARCH_INFINITY_SERVICES": "Servicios SuperSearch e Infinity Playback Enabled"
+    "SUPERSEARCH_INFINITY_SERVICES": "Servicios SuperSearch e Infinity Playback Enabled",
+    "USER_INTERFACE": "Interfaz de usuario",
+    "USER_INTERFACE_SETTINGS": "Configuración de la interfaz de usuario",
+    "USER_INTERFACE_SUCCESSFULLY_SET_TO": "Interfaz de usuario configurada correctamente"
   },
   "MAIN_MENU": {
     "ALARM": "Alarma",

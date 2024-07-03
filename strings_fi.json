@@ -477,7 +477,10 @@
     "UI_CONFIG_SELECT_TIMEZONE": "Valitse aikavyöhyke",
     "UI_CONFIG_SELECT_TIMEZONE_DOC": "Valitse järjestelmäsi aikavyöhyke",
     "USER_INTERFACE_MANIFEST": "Manifest",
-    "SUPERSEARCH_INFINITY_SERVICES": "SuperSearch- ja Infinity Playback -palveluiden käyttöönotto"
+    "SUPERSEARCH_INFINITY_SERVICES": "SuperSearch- ja Infinity Playback -palveluiden käyttöönotto",
+    "USER_INTERFACE": "Käyttöliittymä",
+    "USER_INTERFACE_SETTINGS": "Käyttöliittymän asetukset",
+    "USER_INTERFACE_SUCCESSFULLY_SET_TO": "Käyttöliittymä onnistuneesti asetettu"
   },
   "MAIN_MENU": {
     "ALARM": "Herätys",
