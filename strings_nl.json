@@ -205,7 +205,8 @@
     "LOGIN_OAUTH_NOT_POSSIBLE": "Inloggen is niet mogelijk op dit apparaat. Gebruik de Volumio App om toegang te krijgen tot de service en autorisatie te verkrijgen.",
     "STANDBY": "Stand-by",
     "FILTER_ALL": "Alle",
-    "PLAY_NEXT_TITLE": "Volgende afspelen"
+    "PLAY_NEXT_TITLE": "Volgende afspelen",
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Controleer of je apparaat is verbonden met internet"
   },
   "DEVICELIST": {
     "SETUP_NEW_DEVICE": "Apparaat toevoegen",

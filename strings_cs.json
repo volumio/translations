@@ -172,7 +172,8 @@
     "LOGIN_OAUTH_NOT_POSSIBLE": "Přihlášení není na tomto zařízení možné. Pro přístup ke službě a její autorizaci použijte aplikaci Volumio.",
     "STANDBY": "Pohotovostní režim",
     "FILTER_ALL": "Všechny",
-    "PLAY_NEXT_TITLE": "Přehrát další"
+    "PLAY_NEXT_TITLE": "Přehrát další",
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Zkontrolujte, zda je zařízení připojeno k internetu"
   },
   "BROWSER": {
     "PLAY": "Přehrát",

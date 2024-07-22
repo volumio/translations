@@ -170,7 +170,8 @@
     "LOGIN_OAUTH_NOT_POSSIBLE": "Il login non è possibile su questo dispositivo. Utilizzare l'App Volumio per accedere e autorizzare il servizio.",
     "STANDBY": "Standby",
     "FILTER_ALL": "Tutti",
-    "PLAY_NEXT_TITLE": "Riproduzione successiva"
+    "PLAY_NEXT_TITLE": "Riproduzione successiva",
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Controllare se il dispositivo è connesso a Internet"
   },
   "BROWSER": {
     "PLAY": "Riproduci",

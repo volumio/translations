@@ -170,7 +170,8 @@
     "LOGIN_OAUTH_NOT_POSSIBLE": "Inloggning är inte möjlig på denna enhet. Använd Volumio-appen för att komma åt och auktorisera tjänsten",
     "STANDBY": "Standby",
     "FILTER_ALL": "Alla",
-    "PLAY_NEXT_TITLE": "Spela nästa"
+    "PLAY_NEXT_TITLE": "Spela nästa",
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Kontrollera om din enhet är ansluten till internet"
   },
   "BROWSER": {
     "PLAY": "Spela",

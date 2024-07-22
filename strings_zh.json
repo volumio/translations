@@ -170,7 +170,8 @@
     "LOGIN_OAUTH_NOT_POSSIBLE": "此设备无法登录。请使用 Volumio 应用程序访问和授权服务",
     "STANDBY": "备用",
     "FILTER_ALL": "全部",
-    "PLAY_NEXT_TITLE": "播放下一个"
+    "PLAY_NEXT_TITLE": "播放下一个",
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "检查设备是否已连接互联网"
   },
   "BROWSER": {
     "PLAY": "播放",

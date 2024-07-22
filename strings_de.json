@@ -170,7 +170,8 @@
     "LOGIN_OAUTH_NOT_POSSIBLE": "Die Anmeldung ist auf diesem Gerät nicht möglich. Bitte verwenden Sie die Volumio App, um auf den Dienst zuzugreifen und ihn zu autorisieren",
     "STANDBY": "Bereitschaft",
     "FILTER_ALL": "Alle",
-    "PLAY_NEXT_TITLE": "Weiter spielen"
+    "PLAY_NEXT_TITLE": "Weiter spielen",
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Prüfen Sie, ob Ihr Gerät mit dem Internet verbunden ist"
   },
   "BROWSER": {
     "PLAY": "Wiedergeben",

@@ -443,7 +443,8 @@
     "LOGIN_OAUTH_NOT_POSSIBLE": "Prisijungti šiuo įrenginiu neįmanoma. Naudokite \"Volumio\" programėlę, kad galėtumėte prisijungti prie paslaugos ir ją autorizuoti.",
     "STANDBY": "Budėjimo režimas",
     "FILTER_ALL": "Visi",
-    "PLAY_NEXT_TITLE": "Žaisti toliau"
+    "PLAY_NEXT_TITLE": "Žaisti toliau",
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Patikrinkite, ar jūsų prietaisas prijungtas prie interneto"
   },
   "MY_MUSIC": {
     "UPDATE": "Atnaujinti",

@@ -170,7 +170,8 @@
     "LOGIN_OAUTH_NOT_POSSIBLE": "이 기기에서는 로그인할 수 없습니다. 서비스에 액세스하고 권한을 부여하려면 Volumio 앱을 사용하세요.",
     "STANDBY": "대기",
     "FILTER_ALL": "모두",
-    "PLAY_NEXT_TITLE": "다음 재생"
+    "PLAY_NEXT_TITLE": "다음 재생",
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "디바이스가 인터넷에 연결되어 있는지 확인"
   },
   "BROWSER": {
     "PLAY": "재생",

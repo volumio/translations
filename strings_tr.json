@@ -170,7 +170,8 @@
     "LOGIN_OAUTH_NOT_POSSIBLE": "Bu cihazda oturum açmak mümkün değil. Hizmete erişmek ve yetkilendirmek için lütfen Volumio Uygulamasını kullanın",
     "STANDBY": "Bekleme",
     "FILTER_ALL": "Tümü",
-    "PLAY_NEXT_TITLE": "Sonraki oynat"
+    "PLAY_NEXT_TITLE": "Sonraki oynat",
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Cihazınızın internete bağlı olup olmadığını kontrol edin"
   },
   "BROWSER": {
     "PLAY": "Oynat",

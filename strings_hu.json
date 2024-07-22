@@ -170,7 +170,8 @@
     "LOGIN_OAUTH_NOT_POSSIBLE": "A bejelentkezés nem lehetséges ezen az eszközön. Kérjük, használja a Volumio App-ot a szolgáltatás eléréséhez és engedélyezéséhez.",
     "STANDBY": "Készenléti állapot",
     "FILTER_ALL": "Minden",
-    "PLAY_NEXT_TITLE": "Játsszon tovább"
+    "PLAY_NEXT_TITLE": "Játsszon tovább",
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Ellenőrizze, hogy a készülék csatlakozik-e az internethez"
   },
   "BROWSER": {
     "PLAY": "Lejátszás",

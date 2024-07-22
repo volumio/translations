@@ -171,7 +171,8 @@
     "LOGIN_OAUTH_NOT_POSSIBLE": "La connexion n'est pas possible sur cet appareil. Veuillez utiliser l'application Volumio pour accéder au service et l'autoriser.",
     "STANDBY": "En attente",
     "FILTER_ALL": "Tous",
-    "PLAY_NEXT_TITLE": "Jouer la suite"
+    "PLAY_NEXT_TITLE": "Jouer la suite",
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Vérifiez si votre appareil est connecté à l'internet"
   },
   "BROWSER": {
     "PLAY": "Lecture",

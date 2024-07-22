@@ -170,7 +170,8 @@
     "LOGIN_OAUTH_NOT_POSSIBLE": "このデバイスではログインできません。Volumioアプリをご利用ください。",
     "STANDBY": "スタンバイ",
     "FILTER_ALL": "すべて",
-    "PLAY_NEXT_TITLE": "次を再生する"
+    "PLAY_NEXT_TITLE": "次を再生する",
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "デバイスがインターネットに接続されているか確認する"
   },
   "BROWSER": {
     "PLAY": "再生",

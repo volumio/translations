@@ -170,7 +170,8 @@
     "LOGIN_OAUTH_NOT_POSSIBLE": "Вход в систему на этом устройстве невозможен. Для доступа и авторизации используйте приложение Volumio App",
     "STANDBY": "В режиме ожидания",
     "FILTER_ALL": "Все",
-    "PLAY_NEXT_TITLE": "Играть дальше"
+    "PLAY_NEXT_TITLE": "Играть дальше",
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Проверьте, подключено ли ваше устройство к интернету"
   },
   "BROWSER": {
     "PLAY": "Воспроизвести",

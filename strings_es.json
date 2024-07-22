@@ -170,7 +170,8 @@
     "LOGIN_OAUTH_NOT_POSSIBLE": "El inicio de sesión no es posible en este dispositivo. Utilice la aplicación Volumio para acceder y autorizar el servicio.",
     "STANDBY": "En espera",
     "FILTER_ALL": "Todos",
-    "PLAY_NEXT_TITLE": "Siguiente"
+    "PLAY_NEXT_TITLE": "Siguiente",
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Comprueba si tu dispositivo está conectado a Internet"
   },
   "BROWSER": {
     "PLAY": "Reproducir",

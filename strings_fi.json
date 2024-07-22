@@ -170,7 +170,8 @@
     "LOGIN_OAUTH_NOT_POSSIBLE": "Kirjautuminen ei ole mahdollista tällä laitteella. Käytä Volumio-sovellusta palvelun käyttämiseen ja valtuuttamiseen.",
     "STANDBY": "Valmiustila",
     "FILTER_ALL": "Kaikki",
-    "PLAY_NEXT_TITLE": "Toista seuraavaksi"
+    "PLAY_NEXT_TITLE": "Toista seuraavaksi",
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Tarkista, onko laitteesi yhteydessä internetiin"
   },
   "BROWSER": {
     "PLAY": "Soita",

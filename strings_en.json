@@ -205,7 +205,8 @@
     "LOGIN_OAUTH_NOT_POSSIBLE": "Login is not possible on this device. Please use the Volumio App to access and authorize the service",
     "STANDBY": "Standby",
     "FILTER_ALL": "All",
-    "PLAY_NEXT_TITLE": "Play next"
+    "PLAY_NEXT_TITLE": "Play next",
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Check if your device is connected to the internet"
   },
   "DEVICELIST": {
     "SETUP_NEW_DEVICE": "Configure a new device",

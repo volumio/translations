@@ -170,7 +170,8 @@
     "LOGIN_OAUTH_NOT_POSSIBLE": "Logowanie nie jest możliwe na tym urządzeniu. Użyj aplikacji Volumio, aby uzyskać dostęp i autoryzować usługę",
     "STANDBY": "Tryb gotowości",
     "FILTER_ALL": "Wszystkie",
-    "PLAY_NEXT_TITLE": "Graj dalej"
+    "PLAY_NEXT_TITLE": "Graj dalej",
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Sprawdź, czy urządzenie jest połączone z Internetem"
   },
   "BROWSER": {
     "PLAY": "Odtwarzaj",
