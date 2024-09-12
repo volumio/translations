@@ -785,7 +785,7 @@
     "MUSIC_METADATA": "Découverte de métadonnées musicales",
     "ALL_FREE_FEATURES": "Toutes les fonctionnalités gratuites",
     "MANIFEST_UI": "Interface utilisateur 'Manifest'",
-    "MULTIROOM_PLAYBACK": "Lecture multi-pièces",
+    "MULTIROOM_PLAYBACK": "Lecture multi-room",
     "FILES_PLAYBACK": "Lecture de tous les types de fichiers",
     "WEBRADIOS_DIRECTORY": "Annuaires de webradios intégrées",
     "ALARM_AND_SLEEP_FUNCTION": "Alarme et fonction sommeil",
@@ -1275,7 +1275,7 @@
   },
   "MUSIC_SOURCES": {
     "BLUETOOTH_INPUT_PLAYBACK": "Entrée Bluetooth Lecture",
-    "MULTIROOM_PLAYBACK": "Lecture multi-pièces",
+    "MULTIROOM_PLAYBACK": "Lecture multi-room",
     "UPNP_RENDERER": "Renderer UPNP",
     "MUSIC_METADATA_DISCOVERY": "Découverte de métadonnées musicales",
     "CD_PLAYBACK_AND_RIPPING": "Lecture et extraction de CD",
