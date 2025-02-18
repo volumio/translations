@@ -1058,7 +1058,9 @@
     "POWER_OVERLOAD_PROTECTION_MESSAGE": "Zníženie výkonu",
     "DISPLAY_ZOOM_FACTOR": "Faktor zväčšenia displeja",
     "DISPLAY_ZOOM_FACTOR_DOC": "Umožňuje zmeniť faktor zväčšenia zobrazenia na zväčšenie veľkosti zobrazených prvkov",
-    "DISPLAY_UI": "Zobrazenie používateľského rozhrania"
+    "DISPLAY_UI": "Zobrazenie používateľského rozhrania",
+    "STANDBY_ACTION_DOC": "Vyberte akciu, ktorá sa má vykonať, keď systém prejde do pohotovostného režimu, buď Pohotovostný režim, alebo Vypnutie",
+    "STANDBY_ACTION": "Pohotovostná akcia"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najlepšie rádia",

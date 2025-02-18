@@ -1058,7 +1058,9 @@
     "POWER_OVERLOAD_PROTECTION_MESSAGE": "Effektreduktion",
     "DISPLAY_ZOOM_FACTOR": "Zoomfaktor för display",
     "DISPLAY_ZOOM_FACTOR_DOC": "Gör det möjligt att ändra visningen Zoomfaktor för att öka storleken på de element som visas",
-    "DISPLAY_UI": "Display för användargränssnitt"
+    "DISPLAY_UI": "Display för användargränssnitt",
+    "STANDBY_ACTION_DOC": "Välj vilken åtgärd som ska utföras när systemet går in i standby-läge, antingen Standby eller Shutdown",
+    "STANDBY_ACTION": "Standby-åtgärd"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Bäst radio",

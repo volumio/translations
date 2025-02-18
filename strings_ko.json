@@ -1057,7 +1057,9 @@
     "POWER_OVERLOAD_PROTECTION_MESSAGE": "전력 절감",
     "DISPLAY_ZOOM_FACTOR": "디스플레이 확대/축소 계수",
     "DISPLAY_ZOOM_FACTOR_DOC": "표시되는 요소의 크기를 늘리기 위해 표시 확대/축소 비율을 변경할 수 있습니다.",
-    "DISPLAY_UI": "사용자 인터페이스 디스플레이"
+    "DISPLAY_UI": "사용자 인터페이스 디스플레이",
+    "STANDBY_ACTION_DOC": "시스템이 대기 모드로 전환될 때 수행할 작업을 대기 또는 종료 중에서 선택합니다.",
+    "STANDBY_ACTION": "대기 작업"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "베스트 라디오",

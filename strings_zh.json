@@ -1058,7 +1058,9 @@
     "POWER_OVERLOAD_PROTECTION_MESSAGE": "降低功率",
     "DISPLAY_ZOOM_FACTOR": "显示变焦系数",
     "DISPLAY_ZOOM_FACTOR_DOC": "允许更改显示缩放因子，以增大显示元素的尺寸",
-    "DISPLAY_UI": "用户界面显示"
+    "DISPLAY_UI": "用户界面显示",
+    "STANDBY_ACTION_DOC": "选择系统进入待机模式时要执行的操作：待机或关机",
+    "STANDBY_ACTION": "待命行动"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "最佳收音机",

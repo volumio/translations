@@ -1111,7 +1111,9 @@
     "POWER_OVERLOAD_PROTECTION_MESSAGE": "Vermogensvermindering",
     "DISPLAY_ZOOM_FACTOR": "Zoomfactor weergave",
     "DISPLAY_ZOOM_FACTOR_DOC": "Toestaan om de weergavezoomfactor te wijzigen om de weergegeven elementen te vergroten",
-    "DISPLAY_UI": "Weergave gebruikersinterface"
+    "DISPLAY_UI": "Weergave gebruikersinterface",
+    "STANDBY_ACTION_DOC": "Kies de actie die moet worden uitgevoerd wanneer het systeem in stand-bymodus gaat, Stand-by of Uitschakelen.",
+    "STANDBY_ACTION": "Stand-by Actie"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Beste radiostations",
