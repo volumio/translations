@@ -1110,7 +1110,10 @@
     "POWER_OVERLOAD_PROTECTION_MESSAGE": "Power reduction",
     "DISPLAY_ZOOM_FACTOR": "Display Zoom Factor",
     "DISPLAY_ZOOM_FACTOR_DOC": "Allow to change the display Zoom factor to increase the size of displayed elements",
-    "DISPLAY_UI": "User Interface Display"
+    "DISPLAY_UI": "User Interface Display",
+    "STANDBY_ACTION_DOC": "Choose the action to be performed when the system goes into standby mode, either Standby or Shutdown",
+    "STANDBY_ACTION": "Power Saving Action",
+    "POWEROFF": "Power Off"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Best Radios",

@@ -929,7 +929,10 @@
     "POWER_OVERLOAD_PROTECTION_MESSAGE": "Reduktion af effekt",
     "DISPLAY_ZOOM_FACTOR": "Skærm-zoomfaktor",
     "DISPLAY_ZOOM_FACTOR_DOC": "Gør det muligt at ændre displayets zoomfaktor for at øge størrelsen på de viste elementer",
-    "DISPLAY_UI": "Visning af brugergrænseflade"
+    "DISPLAY_UI": "Visning af brugergrænseflade",
+    "STANDBY_ACTION_DOC": "Vælg den handling, der skal udføres, når systemet går i standbytilstand, enten Standby eller Shutdown.",
+    "STANDBY_ACTION": "Standby-handling",
+    "POWEROFF": "Sluk for strømmen"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "De bedste radioer",

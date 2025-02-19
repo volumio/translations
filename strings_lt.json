@@ -1015,7 +1015,10 @@
     "POWER_OVERLOAD_PROTECTION_MESSAGE": "Galios mažinimas",
     "DISPLAY_ZOOM_FACTOR": "Ekrano priartinimo koeficientas",
     "DISPLAY_ZOOM_FACTOR_DOC": "Leidžia keisti rodymo mastelio koeficientą, kad padidintumėte rodomų elementų dydį",
-    "DISPLAY_UI": "Vartotojo sąsajos ekranas"
+    "DISPLAY_UI": "Vartotojo sąsajos ekranas",
+    "STANDBY_ACTION_DOC": "Pasirinkite veiksmą, kuris bus atliekamas, kai sistema pereis į budėjimo režimą, t. y. budėjimo režimas arba išjungimas.",
+    "STANDBY_ACTION": "Budėjimo veiksmas",
+    "POWEROFF": "Išjungtas maitinimas"
   },
   "MAIN_MENU": {
     "ALARM": "Žadintuvas",

@@ -1057,7 +1057,10 @@
     "POWER_OVERLOAD_PROTECTION_MESSAGE": "Reducción de potencia",
     "DISPLAY_ZOOM_FACTOR": "Factor de zoom de la pantalla",
     "DISPLAY_ZOOM_FACTOR_DOC": "Permite cambiar el factor de zoom de la pantalla para aumentar el tamaño de los elementos mostrados.",
-    "DISPLAY_UI": "Pantalla de interfaz de usuario"
+    "DISPLAY_UI": "Pantalla de interfaz de usuario",
+    "STANDBY_ACTION_DOC": "Elija la acción a realizar cuando el sistema pase al modo de espera, Standby o Apagado.",
+    "STANDBY_ACTION": "Acción de espera",
+    "POWEROFF": "Apagado"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Mejores radios",

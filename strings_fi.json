@@ -938,7 +938,10 @@
     "POWER_OVERLOAD_PROTECTION_MESSAGE": "Tehon vähentäminen",
     "DISPLAY_ZOOM_FACTOR": "Näytön zoomaustekijä",
     "DISPLAY_ZOOM_FACTOR_DOC": "Mahdollistaa näytön zoomaustekijän muuttamisen näytettävien elementtien koon suurentamiseksi.",
-    "DISPLAY_UI": "Käyttöliittymän näyttö"
+    "DISPLAY_UI": "Käyttöliittymän näyttö",
+    "STANDBY_ACTION_DOC": "Valitse toiminto, joka suoritetaan, kun järjestelmä siirtyy valmiustilaan, joko Standby tai Shutdown.",
+    "STANDBY_ACTION": "Valmiustila Toiminta",
+    "POWEROFF": "Virta pois päältä"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Parhaat radiot",
