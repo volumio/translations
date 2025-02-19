@@ -1057,9 +1057,7 @@
     "POWER_OVERLOAD_PROTECTION_MESSAGE": "Teljesítménycsökkentés",
     "DISPLAY_ZOOM_FACTOR": "Kijelző zoom faktor",
     "DISPLAY_ZOOM_FACTOR_DOC": "Lehetővé teszi a kijelző nagyítási tényezőjének módosítását a megjelenített elemek méretének növeléséhez",
-    "DISPLAY_UI": "Felhasználói felület megjelenítése",
-    "STANDBY_ACTION_DOC": "Válassza ki a rendszer készenléti üzemmódba lépésekor végrehajtandó műveletet: Készenlét vagy Leállítás.",
-    "STANDBY_ACTION": "Készenléti művelet"
+    "DISPLAY_UI": "Felhasználói felület megjelenítése"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Legjobb rádiók",

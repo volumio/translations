@@ -1058,9 +1058,7 @@
     "POWER_OVERLOAD_PROTECTION_MESSAGE": "Güç azaltma",
     "DISPLAY_ZOOM_FACTOR": "Ekran Yakınlaştırma Faktörü",
     "DISPLAY_ZOOM_FACTOR_DOC": "Görüntülenen öğelerin boyutunu artırmak için ekran Yakınlaştırma faktörünü değiştirmeye izin verin",
-    "DISPLAY_UI": "Kullanıcı Arayüzü Ekranı",
-    "STANDBY_ACTION_DOC": "Sistem bekleme moduna geçtiğinde gerçekleştirilecek eylemi seçin; Bekleme veya Kapatma",
-    "STANDBY_ACTION": "Bekleme Eylemi"
+    "DISPLAY_UI": "Kullanıcı Arayüzü Ekranı"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "En iyi Radyolar",
