@@ -932,7 +932,11 @@
     "DISPLAY_UI": "Visning af brugergrænseflade",
     "STANDBY_ACTION_DOC": "Vælg den handling, der skal udføres, når systemet går i standbytilstand, enten Standby eller Shutdown.",
     "STANDBY_ACTION": "Standby-handling",
-    "POWEROFF": "Sluk for strømmen"
+    "POWEROFF": "Sluk for strømmen",
+    "AUTO_POWERSAVING_DOC": "Aktivér eller deaktivér funktionen Automatisk strømbesparelse. Når den er aktiveret, vil systemet automatisk slukke eller gå i standbytilstand efter en periode med inaktivitet.",
+    "AUTO_POWERSAVING": "Automatisk strømbesparelse",
+    "POWERSAVING_TIMEOUT_DOC": "Indstil den tid, hvorefter systemet automatisk går i standbytilstand eller slukker.",
+    "POWERSAVING_TIMEOUT": "Strømbesparende timeout"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "De bedste radioer",

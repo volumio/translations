@@ -1060,7 +1060,11 @@
     "DISPLAY_UI": "Benutzeroberfläche Display",
     "STANDBY_ACTION_DOC": "Wählen Sie die Aktion, die ausgeführt werden soll, wenn das System in den Standby-Modus wechselt, entweder Standby oder Shutdown",
     "STANDBY_ACTION": "Standby-Aktion",
-    "POWEROFF": "Ausschalten"
+    "POWEROFF": "Ausschalten",
+    "AUTO_POWERSAVING_DOC": "Aktivieren oder deaktivieren Sie die automatische Stromsparfunktion. Wenn diese Funktion aktiviert ist, schaltet sich das System nach einer gewissen Zeit der Inaktivität automatisch aus oder geht in den Standby-Modus über.",
+    "AUTO_POWERSAVING": "Automatisches Energiesparen",
+    "POWERSAVING_TIMEOUT_DOC": "Stellen Sie die Zeit ein, nach der das System automatisch in den Standby-Modus wechselt oder sich ausschaltet",
+    "POWERSAVING_TIMEOUT": "Zeitüberschreitung beim Energiesparen"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Die besten Sender",

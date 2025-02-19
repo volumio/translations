@@ -941,7 +941,11 @@
     "DISPLAY_UI": "Ecrã da interface do utilizador",
     "STANDBY_ACTION_DOC": "Escolha a ação a executar quando o sistema entra no modo de espera, Standby ou Shutdown",
     "STANDBY_ACTION": "Ação de espera",
-    "POWEROFF": "Desligar"
+    "POWEROFF": "Desligar",
+    "AUTO_POWERSAVING_DOC": "Ativar ou desativar a função de poupança automática de energia. Quando activada, o sistema desliga-se automaticamente ou entra no modo de espera após um período de inatividade",
+    "AUTO_POWERSAVING": "Poupança automática de energia",
+    "POWERSAVING_TIMEOUT_DOC": "Definir o tempo após o qual o sistema entrará automaticamente no modo de espera ou se desligará",
+    "POWERSAVING_TIMEOUT": "Tempo limite de poupança de energia"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Melhores rádios",

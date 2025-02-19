@@ -941,7 +941,11 @@
     "DISPLAY_UI": "Käyttöliittymän näyttö",
     "STANDBY_ACTION_DOC": "Valitse toiminto, joka suoritetaan, kun järjestelmä siirtyy valmiustilaan, joko Standby tai Shutdown.",
     "STANDBY_ACTION": "Valmiustila Toiminta",
-    "POWEROFF": "Virta pois päältä"
+    "POWEROFF": "Virta pois päältä",
+    "AUTO_POWERSAVING_DOC": "Ota automaattinen virransäästötoiminto käyttöön tai poista se käytöstä. Kun se on käytössä, järjestelmä kytkeytyy automaattisesti pois päältä tai siirtyy valmiustilaan, kun se on ollut jonkin aikaa käyttämättömänä.",
+    "AUTO_POWERSAVING": "Automaattinen virransäästö",
+    "POWERSAVING_TIMEOUT_DOC": "Aseta aika, jonka jälkeen järjestelmä siirtyy automaattisesti valmiustilaan tai sammuu.",
+    "POWERSAVING_TIMEOUT": "Virransäästön aikakatkaisu"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Parhaat radiot",

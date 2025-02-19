@@ -1066,7 +1066,11 @@
     "DISPLAY_UI": "Display dell'interfaccia utente",
     "STANDBY_ACTION_DOC": "Scegliere l'azione da eseguire quando il sistema passa in modalità standby, Standby o Spegnimento.",
     "STANDBY_ACTION": "Azione di standby",
-    "POWEROFF": "Spegnimento"
+    "POWEROFF": "Spegnimento",
+    "AUTO_POWERSAVING_DOC": "Abilitare o disabilitare la funzione di risparmio energetico automatico. Se abilitata, il sistema si spegne automaticamente o passa in modalità Standby dopo un periodo di inattività.",
+    "AUTO_POWERSAVING": "Risparmio energetico automatico",
+    "POWERSAVING_TIMEOUT_DOC": "Impostare il tempo dopo il quale il sistema passa automaticamente in modalità standby o si spegne.",
+    "POWERSAVING_TIMEOUT": "Timeout risparmio energetico"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Le Radio Migliori",

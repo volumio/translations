@@ -1061,7 +1061,11 @@
     "DISPLAY_UI": "Display för användargränssnitt",
     "STANDBY_ACTION_DOC": "Välj vilken åtgärd som ska utföras när systemet går in i standby-läge, antingen Standby eller Shutdown",
     "STANDBY_ACTION": "Standby-åtgärd",
-    "POWEROFF": "Stäng av strömmen"
+    "POWEROFF": "Stäng av strömmen",
+    "AUTO_POWERSAVING_DOC": "Aktivera eller inaktivera funktionen Auto Power Saving. När den är aktiverad stängs systemet automatiskt av eller går över i standbyläge efter en tids inaktivitet",
+    "AUTO_POWERSAVING": "Automatisk strömsparning",
+    "POWERSAVING_TIMEOUT_DOC": "Ställ in den tid efter vilken systemet automatiskt ska gå in i standby-läge eller stängas av",
+    "POWERSAVING_TIMEOUT": "Timeout för strömsparande"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Bäst radio",

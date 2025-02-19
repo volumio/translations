@@ -1063,7 +1063,11 @@
     "DISPLAY_UI": "Affichage de l'interface utilisateur",
     "STANDBY_ACTION_DOC": "Choisissez l'action à effectuer lorsque le système passe en mode veille, soit Standby, soit Shutdown.",
     "STANDBY_ACTION": "Action en attente",
-    "POWEROFF": "Mise hors tension"
+    "POWEROFF": "Mise hors tension",
+    "AUTO_POWERSAVING_DOC": "Active ou désactive la fonction d'économie d'énergie automatique. Lorsqu'elle est activée, le système s'éteint automatiquement ou passe en mode veille après une période d'inactivité.",
+    "AUTO_POWERSAVING": "Économie d'énergie automatique",
+    "POWERSAVING_TIMEOUT_DOC": "Définir le délai après lequel le système passera automatiquement en mode veille ou s'éteindra.",
+    "POWERSAVING_TIMEOUT": "Délai d'économie d'énergie"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Meilleures Radios",

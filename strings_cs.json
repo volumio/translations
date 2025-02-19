@@ -1062,7 +1062,11 @@
     "DISPLAY_UI": "Zobrazení uživatelského rozhraní",
     "STANDBY_ACTION_DOC": "Zvolte akci, která se má provést, když systém přejde do pohotovostního režimu, buď pohotovostní režim, nebo vypnutí.",
     "STANDBY_ACTION": "Pohotovostní akce",
-    "POWEROFF": "Vypnutí napájení"
+    "POWEROFF": "Vypnutí napájení",
+    "AUTO_POWERSAVING_DOC": "Povolte nebo zakažte funkci automatické úspory energie. Je-li tato funkce povolena, systém se po určité době nečinnosti automaticky vypne nebo přejde do pohotovostního režimu.",
+    "AUTO_POWERSAVING": "Automatická úspora energie",
+    "POWERSAVING_TIMEOUT_DOC": "Nastavení doby, po které systém automaticky přejde do pohotovostního režimu nebo se vypne.",
+    "POWERSAVING_TIMEOUT": "Časový limit úspory energie"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Nejlepší rádia",

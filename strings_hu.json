@@ -1060,7 +1060,11 @@
     "DISPLAY_UI": "Felhasználói felület megjelenítése",
     "STANDBY_ACTION_DOC": "Válassza ki a rendszer készenléti üzemmódba lépésekor végrehajtandó műveletet: Készenlét vagy Leállítás.",
     "STANDBY_ACTION": "Készenléti művelet",
-    "POWEROFF": "Kikapcsolás"
+    "POWEROFF": "Kikapcsolás",
+    "AUTO_POWERSAVING_DOC": "Az automatikus energiatakarékossági funkció engedélyezése vagy letiltása. Ha engedélyezve van, a rendszer automatikusan kikapcsol vagy készenléti üzemmódba lép, miután egy bizonyos ideig nem használta a készüléket.",
+    "AUTO_POWERSAVING": "Automatikus energiatakarékosság",
+    "POWERSAVING_TIMEOUT_DOC": "Állítsa be azt az időt, amely után a rendszer automatikusan készenléti üzemmódba lép vagy kikapcsol.",
+    "POWERSAVING_TIMEOUT": "Energiatakarékossági időkorlát"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Legjobb rádiók",

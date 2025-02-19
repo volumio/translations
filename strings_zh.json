@@ -1061,7 +1061,11 @@
     "DISPLAY_UI": "用户界面显示",
     "STANDBY_ACTION_DOC": "选择系统进入待机模式时要执行的操作：待机或关机",
     "STANDBY_ACTION": "待命行动",
-    "POWEROFF": "关闭电源"
+    "POWEROFF": "关闭电源",
+    "AUTO_POWERSAVING_DOC": "启用或禁用自动省电功能。启用后，系统将在一段时间不活动后自动关闭或进入待机模式",
+    "AUTO_POWERSAVING": "自动节能",
+    "POWERSAVING_TIMEOUT_DOC": "设置系统自动进入待机模式或关闭的时间",
+    "POWERSAVING_TIMEOUT": "省电超时"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "最佳收音机",

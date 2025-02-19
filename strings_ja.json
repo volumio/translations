@@ -976,7 +976,11 @@
     "DISPLAY_UI": "ユーザーインターフェースの表示",
     "STANDBY_ACTION_DOC": "システムがスタンバイ・モードに移行したときに実行されるアクションを、スタンバイまたはシャットダウンのいずれかを選択します。",
     "STANDBY_ACTION": "待機動作",
-    "POWEROFF": "電源オフ"
+    "POWEROFF": "電源オフ",
+    "AUTO_POWERSAVING_DOC": "自動節電機能を有効または無効にします。有効にすると、一定時間操作しないと自動的に電源がオフになるか、スタンバイモードになります。",
+    "AUTO_POWERSAVING": "自動節電",
+    "POWERSAVING_TIMEOUT_DOC": "システムが自動的にスタンバイモードに入るか、またはオフになるまでの時間を設定します。",
+    "POWERSAVING_TIMEOUT": "節電タイムアウト"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "ベストラジオ",

@@ -1061,7 +1061,11 @@
     "DISPLAY_UI": "Kullanıcı Arayüzü Ekranı",
     "STANDBY_ACTION_DOC": "Sistem bekleme moduna geçtiğinde gerçekleştirilecek eylemi seçin; Bekleme veya Kapatma",
     "STANDBY_ACTION": "Bekleme Eylemi",
-    "POWEROFF": "Güç Kapalı"
+    "POWEROFF": "Güç Kapalı",
+    "AUTO_POWERSAVING_DOC": "Otomatik Güç Tasarrufu özelliğini etkinleştirin veya devre dışı bırakın. Etkinleştirildiğinde, sistem belirli bir süre kullanılmadığında otomatik olarak kapanır veya Bekleme moduna geçer",
+    "AUTO_POWERSAVING": "Otomatik Güç Tasarrufu",
+    "POWERSAVING_TIMEOUT_DOC": "Sistemin otomatik olarak bekleme moduna geçeceği veya kapanacağı süreyi ayarlayın",
+    "POWERSAVING_TIMEOUT": "Güç Tasarrufu Zaman Aşımı"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "En iyi Radyolar",

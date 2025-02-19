@@ -1114,7 +1114,11 @@
     "DISPLAY_UI": "Weergave gebruikersinterface",
     "STANDBY_ACTION_DOC": "Kies de actie die moet worden uitgevoerd wanneer het systeem in stand-bymodus gaat, Stand-by of Uitschakelen.",
     "STANDBY_ACTION": "Stand-by Actie",
-    "POWEROFF": "Uitschakelen"
+    "POWEROFF": "Uitschakelen",
+    "AUTO_POWERSAVING_DOC": "De functie voor automatische energiebesparing in- of uitschakelen. Als deze functie is ingeschakeld, wordt het systeem automatisch uitgeschakeld of gaat het in stand-bymodus na een periode van inactiviteit.",
+    "AUTO_POWERSAVING": "Automatische energiebesparing",
+    "POWERSAVING_TIMEOUT_DOC": "Stel de tijd in waarna het systeem automatisch in stand-bymodus gaat of uitschakelt.",
+    "POWERSAVING_TIMEOUT": "Time-out energiebesparing"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Beste radiostations",

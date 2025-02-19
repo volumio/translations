@@ -1018,7 +1018,11 @@
     "DISPLAY_UI": "Vartotojo sąsajos ekranas",
     "STANDBY_ACTION_DOC": "Pasirinkite veiksmą, kuris bus atliekamas, kai sistema pereis į budėjimo režimą, t. y. budėjimo režimas arba išjungimas.",
     "STANDBY_ACTION": "Budėjimo veiksmas",
-    "POWEROFF": "Išjungtas maitinimas"
+    "POWEROFF": "Išjungtas maitinimas",
+    "AUTO_POWERSAVING_DOC": "Įjunkite arba išjunkite automatinio energijos taupymo funkciją. Kai ši funkcija įjungta, sistema automatiškai išsijungs arba pereis į budėjimo režimą po tam tikro neveikimo laikotarpio.",
+    "AUTO_POWERSAVING": "Automatinis energijos taupymas",
+    "POWERSAVING_TIMEOUT_DOC": "Nustatykite laiką, po kurio sistema automatiškai pereis į budėjimo režimą arba išsijungs.",
+    "POWERSAVING_TIMEOUT": "Energijos taupymo laiko limitas"
   },
   "MAIN_MENU": {
     "ALARM": "Žadintuvas",

@@ -1060,7 +1060,11 @@
     "DISPLAY_UI": "Pantalla de interfaz de usuario",
     "STANDBY_ACTION_DOC": "Elija la acción a realizar cuando el sistema pase al modo de espera, Standby o Apagado.",
     "STANDBY_ACTION": "Acción de espera",
-    "POWEROFF": "Apagado"
+    "POWEROFF": "Apagado",
+    "AUTO_POWERSAVING_DOC": "Activa o desactiva la función de Ahorro Automático de Energía. Si está activada, el sistema se apagará automáticamente o pasará al modo de espera tras un periodo de inactividad.",
+    "AUTO_POWERSAVING": "Ahorro de energía automático",
+    "POWERSAVING_TIMEOUT_DOC": "Ajuste el tiempo tras el cual el sistema pasará automáticamente al modo de espera o se apagará",
+    "POWERSAVING_TIMEOUT": "Tiempo de espera de ahorro de energía"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Mejores radios",

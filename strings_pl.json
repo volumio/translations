@@ -1060,7 +1060,11 @@
     "DISPLAY_UI": "Wyświetlacz interfejsu użytkownika",
     "STANDBY_ACTION_DOC": "Wybierz czynność, która ma zostać wykonana, gdy system przejdzie w tryb gotowości - Standby (Tryb gotowości) lub Shutdown (Wyłączenie).",
     "STANDBY_ACTION": "Działanie w trybie gotowości",
-    "POWEROFF": "Wyłączone zasilanie"
+    "POWEROFF": "Wyłączone zasilanie",
+    "AUTO_POWERSAVING_DOC": "Włączenie lub wyłączenie funkcji automatycznego oszczędzania energii. Po jej włączeniu system automatycznie wyłączy się lub przejdzie w tryb czuwania po okresie bezczynności",
+    "AUTO_POWERSAVING": "Automatyczne oszczędzanie energii",
+    "POWERSAVING_TIMEOUT_DOC": "Ustaw czas, po którym system automatycznie przejdzie w tryb czuwania lub wyłączy się.",
+    "POWERSAVING_TIMEOUT": "Limit czasu oszczędzania energii"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najlepsze stacje radiowe",

@@ -1113,7 +1113,11 @@
     "DISPLAY_UI": "User Interface Display",
     "STANDBY_ACTION_DOC": "Choose the action to be performed when the system goes into standby mode, either Standby or Shutdown",
     "STANDBY_ACTION": "Power Saving Action",
-    "POWEROFF": "Power Off"
+    "POWEROFF": "Power Off",
+    "AUTO_POWERSAVING_DOC": "Enable or disable the Auto Power Saving feature. When enabled, the system will automatically turn off or go into Standby mode after a period of inactivity",
+    "AUTO_POWERSAVING": "Auto Power Saving",
+    "POWERSAVING_TIMEOUT_DOC": "Set the time after which the system will automatically go into standby mode or turn off",
+    "POWERSAVING_TIMEOUT": "Power Saving Timeout"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Best Radios",
