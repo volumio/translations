@@ -795,7 +795,8 @@
     "NETWORK_STORAGE_SUPPORT": "네트워크 스토리지 브라우징",
     "OVER_THE_AIR_UPDATES": "무선 업데이트",
     "AI_SUPERSEARCH": "AI 텍스트 검색",
-    "AI_INFINITY_PLAYBACK": "AI 무한 재생"
+    "AI_INFINITY_PLAYBACK": "AI 무한 재생",
+    "QOBUZ_CONNECT": "QOBUZ Connect"
   },
   "APPEARANCE": {
     "ALBUMARTIST": "앨범 목록",
@@ -1064,7 +1065,12 @@
     "AUTO_POWERSAVING_DOC": "자동 절전 기능을 활성화 또는 비활성화합니다. 활성화하면 일정 시간 동안 사용하지 않으면 시스템이 자동으로 꺼지거나 대기 모드로 전환됩니다.",
     "AUTO_POWERSAVING": "자동 절전",
     "POWERSAVING_TIMEOUT_DOC": "시스템이 자동으로 대기 모드로 전환되거나 꺼지는 시간을 설정합니다.",
-    "POWERSAVING_TIMEOUT": "절전 시간 초과"
+    "POWERSAVING_TIMEOUT": "절전 시간 초과",
+    "DAC_NOS_MODE": "내부 DAC NOS 모드",
+    "DAC_NOS_MODE_DOC": "내부 DAC를 비오버샘플링 모드로 설정합니다.",
+    "DAC_OUTPUT_LEVEL": "내부 DAC 출력 레벨",
+    "DAC_OUTPUT_LEVEL_DOC": "앰프 입력 감도에 맞게 내부 DAC 출력 레벨을 볼트 RMS로 설정합니다.",
+    "DISPLAY_UI_DOC": "디스플레이에 표시할 사용자 인터페이스 유형을 선택합니다."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "베스트 라디오",

@@ -795,7 +795,8 @@
     "NETWORK_STORAGE_SUPPORT": "Netzwerkspeicher durchsuchen",
     "OVER_THE_AIR_UPDATES": "Over-The-Air Aktualisierungen",
     "AI_SUPERSEARCH": "AI Textuelle Suche",
-    "AI_INFINITY_PLAYBACK": "AI Infinity-Wiedergabe"
+    "AI_INFINITY_PLAYBACK": "AI Infinity-Wiedergabe",
+    "QOBUZ_CONNECT": "QOBUZ Connect"
   },
   "APPEARANCE": {
     "ALBUMARTIST": "Albuminterpret",
@@ -1064,7 +1065,12 @@
     "AUTO_POWERSAVING_DOC": "Aktivieren oder deaktivieren Sie die automatische Stromsparfunktion. Wenn diese Funktion aktiviert ist, schaltet sich das System nach einer gewissen Zeit der Inaktivität automatisch aus oder geht in den Standby-Modus über.",
     "AUTO_POWERSAVING": "Automatisches Energiesparen",
     "POWERSAVING_TIMEOUT_DOC": "Stellen Sie die Zeit ein, nach der das System automatisch in den Standby-Modus wechselt oder sich ausschaltet",
-    "POWERSAVING_TIMEOUT": "Zeitüberschreitung beim Energiesparen"
+    "POWERSAVING_TIMEOUT": "Zeitüberschreitung beim Energiesparen",
+    "DAC_NOS_MODE": "Interner DAC NOS-Modus",
+    "DAC_NOS_MODE_DOC": "Den internen DAC auf Nicht-Oversampling-Modus einstellen",
+    "DAC_OUTPUT_LEVEL": "Interner DAC-Ausgangspegel",
+    "DAC_OUTPUT_LEVEL_DOC": "Stellen Sie den internen DAC-Ausgangspegel in Volt RMS ein, der der Eingangsempfindlichkeit Ihres Verstärkers entspricht.",
+    "DISPLAY_UI_DOC": "Wählen Sie die Art der Benutzeroberfläche, die auf dem Display angezeigt werden soll"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Die besten Sender",

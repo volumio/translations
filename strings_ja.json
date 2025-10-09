@@ -980,7 +980,12 @@
     "AUTO_POWERSAVING_DOC": "自動節電機能を有効または無効にします。有効にすると、一定時間操作しないと自動的に電源がオフになるか、スタンバイモードになります。",
     "AUTO_POWERSAVING": "自動節電",
     "POWERSAVING_TIMEOUT_DOC": "システムが自動的にスタンバイモードに入るか、またはオフになるまでの時間を設定します。",
-    "POWERSAVING_TIMEOUT": "節電タイムアウト"
+    "POWERSAVING_TIMEOUT": "節電タイムアウト",
+    "DAC_NOS_MODE": "内部DAC NOSモード",
+    "DAC_NOS_MODE_DOC": "内部DACをノンオーバーサンプリングモードに設定する",
+    "DAC_OUTPUT_LEVEL": "内部DAC出力レベル",
+    "DAC_OUTPUT_LEVEL_DOC": "アンプの入力感度に合うように、内部DAC出力レベルをボルトRMSで設定する。",
+    "DISPLAY_UI_DOC": "ディスプレイに表示するユーザーインターフェースの種類を選択する。"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "ベストラジオ",
@@ -1078,7 +1083,8 @@
     "NETWORK_STORAGE_SUPPORT": "NASのブラウジング",
     "OVER_THE_AIR_UPDATES": "OTAアップデート",
     "AI_SUPERSEARCH": "AIテキスト検索",
-    "AI_INFINITY_PLAYBACK": "AIインフィニティプレイ"
+    "AI_INFINITY_PLAYBACK": "AIインフィニティプレイ",
+    "QOBUZ_CONNECT": "QOBUZコネクト"
   },
   "VOLUMIO_CLOUD_TIDAL": {
     "MENU_TIDAL": "TIDAL",

@@ -798,7 +798,8 @@
     "NETWORK_STORAGE_SUPPORT": "Stockage en réseau Navigation",
     "OVER_THE_AIR_UPDATES": "Mises à jour",
     "AI_SUPERSEARCH": "Recherche textuelle grâce à l'IA",
-    "AI_INFINITY_PLAYBACK": "Lecture infinie grâce à l'IA"
+    "AI_INFINITY_PLAYBACK": "Lecture infinie grâce à l'IA",
+    "QOBUZ_CONNECT": "QOBUZ Connect"
   },
   "APPEARANCE": {
     "ALBUMARTIST": "Albumartist",
@@ -1067,7 +1068,12 @@
     "AUTO_POWERSAVING_DOC": "Active ou désactive la fonction d'économie d'énergie automatique. Lorsqu'elle est activée, le système s'éteint automatiquement ou passe en mode veille après une période d'inactivité.",
     "AUTO_POWERSAVING": "Économie d'énergie automatique",
     "POWERSAVING_TIMEOUT_DOC": "Définir le délai après lequel le système passera automatiquement en mode veille ou s'éteindra.",
-    "POWERSAVING_TIMEOUT": "Délai d'économie d'énergie"
+    "POWERSAVING_TIMEOUT": "Délai d'économie d'énergie",
+    "DAC_NOS_MODE": "DAC interne Mode NOS",
+    "DAC_NOS_MODE_DOC": "Régler le CNA interne en mode non suréchantillonné",
+    "DAC_OUTPUT_LEVEL": "Niveau de sortie du CNA interne",
+    "DAC_OUTPUT_LEVEL_DOC": "Réglez le niveau de sortie du CNA interne en Volt RMS, pour correspondre à la sensibilité d'entrée de votre amplificateur.",
+    "DISPLAY_UI_DOC": "Sélectionner le type d'interface utilisateur à afficher sur l'écran"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Meilleures Radios",

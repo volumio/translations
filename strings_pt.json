@@ -945,7 +945,12 @@
     "AUTO_POWERSAVING_DOC": "Ativar ou desativar a função de poupança automática de energia. Quando activada, o sistema desliga-se automaticamente ou entra no modo de espera após um período de inatividade",
     "AUTO_POWERSAVING": "Poupança automática de energia",
     "POWERSAVING_TIMEOUT_DOC": "Definir o tempo após o qual o sistema entrará automaticamente no modo de espera ou se desligará",
-    "POWERSAVING_TIMEOUT": "Tempo limite de poupança de energia"
+    "POWERSAVING_TIMEOUT": "Tempo limite de poupança de energia",
+    "DAC_NOS_MODE": "DAC interno Modo NOS",
+    "DAC_NOS_MODE_DOC": "Definir o DAC interno para o modo de não sobreamostragem",
+    "DAC_OUTPUT_LEVEL": "Nível de saída do DAC interno",
+    "DAC_OUTPUT_LEVEL_DOC": "Defina o nível de saída do DAC interno em Volt RMS, para corresponder à sensibilidade de entrada do seu amplificador",
+    "DISPLAY_UI_DOC": "Selecionar o tipo de interface de utilizador a apresentar no ecrã"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Melhores rádios",
@@ -1077,7 +1082,8 @@
     "NETWORK_STORAGE_SUPPORT": "Navegação no armazenamento em rede",
     "OVER_THE_AIR_UPDATES": "Actualizações pelo ar",
     "AI_SUPERSEARCH": "Pesquisa textual de IA",
-    "AI_INFINITY_PLAYBACK": "Reprodução AI Infinity"
+    "AI_INFINITY_PLAYBACK": "Reprodução AI Infinity",
+    "QOBUZ_CONNECT": "QOBUZ Connect"
   },
   "VOLUMIO_CLOUD_TIDAL": {
     "MENU_TIDAL": "TIDAL",

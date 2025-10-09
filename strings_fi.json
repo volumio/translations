@@ -945,7 +945,12 @@
     "AUTO_POWERSAVING_DOC": "Ota automaattinen virransäästötoiminto käyttöön tai poista se käytöstä. Kun se on käytössä, järjestelmä kytkeytyy automaattisesti pois päältä tai siirtyy valmiustilaan, kun se on ollut jonkin aikaa käyttämättömänä.",
     "AUTO_POWERSAVING": "Automaattinen virransäästö",
     "POWERSAVING_TIMEOUT_DOC": "Aseta aika, jonka jälkeen järjestelmä siirtyy automaattisesti valmiustilaan tai sammuu.",
-    "POWERSAVING_TIMEOUT": "Virransäästön aikakatkaisu"
+    "POWERSAVING_TIMEOUT": "Virransäästön aikakatkaisu",
+    "DAC_NOS_MODE": "Sisäinen DAC NOS-tila",
+    "DAC_NOS_MODE_DOC": "Aseta sisäisen DAC:n ei-ylinäytteenottotila.",
+    "DAC_OUTPUT_LEVEL": "Sisäinen DAC-lähtötaso",
+    "DAC_OUTPUT_LEVEL_DOC": "Aseta sisäisen DAC:n lähtötaso voltin RMS-arvona vastaamaan vahvistimesi tulosherkkyyttä.",
+    "DISPLAY_UI_DOC": "Valitse näytöllä näytettävän käyttöliittymän tyyppi."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Parhaat radiot",
@@ -1077,7 +1082,8 @@
     "NETWORK_STORAGE_SUPPORT": "Verkkovaraston selaus",
     "OVER_THE_AIR_UPDATES": "Over The Air -päivitykset",
     "AI_SUPERSEARCH": "Tekoälyn tekstihaku",
-    "AI_INFINITY_PLAYBACK": "AI Infinity Playback"
+    "AI_INFINITY_PLAYBACK": "AI Infinity Playback",
+    "QOBUZ_CONNECT": "QOBUZ Connect"
   },
   "VOLUMIO_CLOUD_TIDAL": {
     "MENU_TIDAL": "TIDAL",

@@ -550,7 +550,8 @@
     "NETWORK_STORAGE_SUPPORT": "Przeglądanie sieciowej pamięci masowej",
     "OVER_THE_AIR_UPDATES": "Aktualizacje bezprzewodowe",
     "AI_SUPERSEARCH": "Wyszukiwanie tekstowe AI",
-    "AI_INFINITY_PLAYBACK": "Odtwarzanie AI Infinity"
+    "AI_INFINITY_PLAYBACK": "Odtwarzanie AI Infinity",
+    "QOBUZ_CONNECT": "QOBUZ Connect"
   },
   "MYVOLUMIO": {
     "USERNAME": "Nazwa użytkownika",
@@ -1064,7 +1065,12 @@
     "AUTO_POWERSAVING_DOC": "Włączenie lub wyłączenie funkcji automatycznego oszczędzania energii. Po jej włączeniu system automatycznie wyłączy się lub przejdzie w tryb czuwania po okresie bezczynności",
     "AUTO_POWERSAVING": "Automatyczne oszczędzanie energii",
     "POWERSAVING_TIMEOUT_DOC": "Ustaw czas, po którym system automatycznie przejdzie w tryb czuwania lub wyłączy się.",
-    "POWERSAVING_TIMEOUT": "Limit czasu oszczędzania energii"
+    "POWERSAVING_TIMEOUT": "Limit czasu oszczędzania energii",
+    "DAC_NOS_MODE": "Wewnętrzny DAC Tryb NOS",
+    "DAC_NOS_MODE_DOC": "Ustawienie wewnętrznego przetwornika C/A na tryb bez nadpróbkowania",
+    "DAC_OUTPUT_LEVEL": "Poziom wyjścia wewnętrznego przetwornika C/A",
+    "DAC_OUTPUT_LEVEL_DOC": "Ustaw poziom wyjściowy wewnętrznego przetwornika cyfrowo-analogowego w woltach RMS, aby dopasować go do czułości wejściowej wzmacniacza.",
+    "DISPLAY_UI_DOC": "Wybór typu interfejsu użytkownika wyświetlanego na wyświetlaczu"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najlepsze stacje radiowe",

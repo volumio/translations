@@ -1022,7 +1022,12 @@
     "AUTO_POWERSAVING_DOC": "Įjunkite arba išjunkite automatinio energijos taupymo funkciją. Kai ši funkcija įjungta, sistema automatiškai išsijungs arba pereis į budėjimo režimą po tam tikro neveikimo laikotarpio.",
     "AUTO_POWERSAVING": "Automatinis energijos taupymas",
     "POWERSAVING_TIMEOUT_DOC": "Nustatykite laiką, po kurio sistema automatiškai pereis į budėjimo režimą arba išsijungs.",
-    "POWERSAVING_TIMEOUT": "Energijos taupymo laiko limitas"
+    "POWERSAVING_TIMEOUT": "Energijos taupymo laiko limitas",
+    "DAC_NOS_MODE": "Vidinis DAC NOS režimas",
+    "DAC_NOS_MODE_DOC": "Nustatykite vidinį DAC į ne perrinkimo režimą",
+    "DAC_OUTPUT_LEVEL": "Vidinis DAC išvesties lygis",
+    "DAC_OUTPUT_LEVEL_DOC": "Nustatykite vidinį DAC išvesties lygį voltų vidutine kvadratine verte, kad jis atitiktų jūsų stiprintuvo įvesties jautrumą.",
+    "DISPLAY_UI_DOC": "Pasirinkite naudotojo sąsajos, kuri bus rodoma ekrane, tipą"
   },
   "MAIN_MENU": {
     "ALARM": "Žadintuvas",
@@ -1078,7 +1083,8 @@
     "NETWORK_STORAGE_SUPPORT": "Naršymas tinklo saugykloje",
     "OVER_THE_AIR_UPDATES": "Atnaujinimai per orą",
     "AI_SUPERSEARCH": "AI tekstinė paieška",
-    "AI_INFINITY_PLAYBACK": "AI Infinity atkūrimas"
+    "AI_INFINITY_PLAYBACK": "AI Infinity atkūrimas",
+    "QOBUZ_CONNECT": "QOBUZ Connect"
   },
   "VOLUMIO_CLOUD_TIDAL": {
     "MENU_TIDAL": "TIDAL",

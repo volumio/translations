@@ -796,7 +796,8 @@
     "NETWORK_STORAGE_SUPPORT": "Ağ Depolama Taraması",
     "OVER_THE_AIR_UPDATES": "Havadan Güncellemeler",
     "AI_SUPERSEARCH": "Yapay Zeka Metinsel Arama",
-    "AI_INFINITY_PLAYBACK": "AI Infinity Oynatma"
+    "AI_INFINITY_PLAYBACK": "AI Infinity Oynatma",
+    "QOBUZ_CONNECT": "QOBUZ Connect"
   },
   "APPEARANCE": {
     "ALBUMARTIST": "Albüm sanatçısı",
@@ -1065,7 +1066,12 @@
     "AUTO_POWERSAVING_DOC": "Otomatik Güç Tasarrufu özelliğini etkinleştirin veya devre dışı bırakın. Etkinleştirildiğinde, sistem belirli bir süre kullanılmadığında otomatik olarak kapanır veya Bekleme moduna geçer",
     "AUTO_POWERSAVING": "Otomatik Güç Tasarrufu",
     "POWERSAVING_TIMEOUT_DOC": "Sistemin otomatik olarak bekleme moduna geçeceği veya kapanacağı süreyi ayarlayın",
-    "POWERSAVING_TIMEOUT": "Güç Tasarrufu Zaman Aşımı"
+    "POWERSAVING_TIMEOUT": "Güç Tasarrufu Zaman Aşımı",
+    "DAC_NOS_MODE": "Dahili DAC NOS Modu",
+    "DAC_NOS_MODE_DOC": "Dahili DAC'yi Aşırı Örneklemesiz moda ayarlayın",
+    "DAC_OUTPUT_LEVEL": "Dahili DAC Çıkış Seviyesi",
+    "DAC_OUTPUT_LEVEL_DOC": "Dahili DAC Çıkış Seviyesini Volt RMS cinsinden amplifikatörünüzün giriş hassasiyetine uyacak şekilde ayarlayın",
+    "DISPLAY_UI_DOC": "Ekranda görüntülenecek Kullanıcı Arayüzü türünü seçin"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "En iyi Radyolar",

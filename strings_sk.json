@@ -796,7 +796,8 @@
     "NETWORK_STORAGE_SUPPORT": "Prehliadanie sieťového úložiska",
     "OVER_THE_AIR_UPDATES": "Aktualizácie cez vzduch",
     "AI_SUPERSEARCH": "Textové vyhľadávanie s umelou inteligenciou",
-    "AI_INFINITY_PLAYBACK": "AI Infinity Playback"
+    "AI_INFINITY_PLAYBACK": "AI Infinity Playback",
+    "QOBUZ_CONNECT": "QOBUZ Connect"
   },
   "APPEARANCE": {
     "ALBUMARTIST": "Album-Umelec",
@@ -1065,7 +1066,12 @@
     "AUTO_POWERSAVING_DOC": "Povolenie alebo zakázanie funkcie automatického šetrenia energie. Ak je táto funkcia povolená, systém sa po určitom čase nečinnosti automaticky vypne alebo prejde do pohotovostného režimu.",
     "AUTO_POWERSAVING": "Automatická úspora energie",
     "POWERSAVING_TIMEOUT_DOC": "Nastavenie času, po ktorom systém automaticky prejde do pohotovostného režimu alebo sa vypne",
-    "POWERSAVING_TIMEOUT": "Časový limit úspory energie"
+    "POWERSAVING_TIMEOUT": "Časový limit úspory energie",
+    "DAC_NOS_MODE": "Režim interného DAC NOS",
+    "DAC_NOS_MODE_DOC": "Nastavenie interného prevodníka DAC na režim bez prevzorkovania",
+    "DAC_OUTPUT_LEVEL": "Interná výstupná úroveň DAC",
+    "DAC_OUTPUT_LEVEL_DOC": "Nastavte internú výstupnú úroveň DAC vo voltoch RMS tak, aby zodpovedala vstupnej citlivosti zosilňovača.",
+    "DISPLAY_UI_DOC": "Výber typu používateľského rozhrania, ktoré sa má zobraziť na displeji"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najlepšie rádia",

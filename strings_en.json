@@ -848,7 +848,8 @@
     "NETWORK_STORAGE_SUPPORT": "Network Storage Browsing",
     "OVER_THE_AIR_UPDATES": "Over The Air Updates",
     "AI_SUPERSEARCH": "AI Textual Search",
-    "AI_INFINITY_PLAYBACK": "AI Infinity Playback"
+    "AI_INFINITY_PLAYBACK": "AI Infinity Playback",
+    "QOBUZ_CONNECT": "QOBUZ Connect"
   },
   "APPEARANCE": {
     "ALBUMARTIST": "Albumartist",
@@ -1117,7 +1118,12 @@
     "AUTO_POWERSAVING_DOC": "Enable or disable the Auto Power Saving feature. When enabled, the system will automatically turn off or go into Standby mode after a period of inactivity",
     "AUTO_POWERSAVING": "Auto Power Saving",
     "POWERSAVING_TIMEOUT_DOC": "Set the time after which the system will automatically go into standby mode or turn off",
-    "POWERSAVING_TIMEOUT": "Power Saving Timeout"
+    "POWERSAVING_TIMEOUT": "Power Saving Timeout",
+    "DAC_NOS_MODE": "Internal DAC NOS Mode",
+    "DAC_NOS_MODE_DOC": "Set the Internal DAC to Non-Oversampling mode",
+    "DAC_OUTPUT_LEVEL": "Internal DAC Output Level",
+    "DAC_OUTPUT_LEVEL_DOC": "Set the Internal DAC Output Level in Volt RMS, to match your amplifier input sensitivity",
+    "DISPLAY_UI_DOC": "Select the type of User Interface to be displayed on the display"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Best Radios",

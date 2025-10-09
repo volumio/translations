@@ -795,7 +795,8 @@
     "NETWORK_STORAGE_SUPPORT": "Almacenamiento en red Navegación",
     "OVER_THE_AIR_UPDATES": "Actualizaciones por aire",
     "AI_SUPERSEARCH": "Búsqueda textual AI",
-    "AI_INFINITY_PLAYBACK": "Reproducción AI Infinity"
+    "AI_INFINITY_PLAYBACK": "Reproducción AI Infinity",
+    "QOBUZ_CONNECT": "QOBUZ Connect"
   },
   "APPEARANCE": {
     "ALBUMARTIST": "Artista del álbum",
@@ -1064,7 +1065,12 @@
     "AUTO_POWERSAVING_DOC": "Activa o desactiva la función de Ahorro Automático de Energía. Si está activada, el sistema se apagará automáticamente o pasará al modo de espera tras un periodo de inactividad.",
     "AUTO_POWERSAVING": "Ahorro de energía automático",
     "POWERSAVING_TIMEOUT_DOC": "Ajuste el tiempo tras el cual el sistema pasará automáticamente al modo de espera o se apagará",
-    "POWERSAVING_TIMEOUT": "Tiempo de espera de ahorro de energía"
+    "POWERSAVING_TIMEOUT": "Tiempo de espera de ahorro de energía",
+    "DAC_NOS_MODE": "DAC interno Modo NOS",
+    "DAC_NOS_MODE_DOC": "Poner el DAC interno en modo sin sobremuestreo",
+    "DAC_OUTPUT_LEVEL": "Nivel de salida del DAC interno",
+    "DAC_OUTPUT_LEVEL_DOC": "Ajuste el nivel de salida del DAC interno en voltios RMS, para que coincida con la sensibilidad de entrada de su amplificador.",
+    "DISPLAY_UI_DOC": "Seleccione el tipo de interfaz de usuario que se mostrará en la pantalla"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Mejores radios",

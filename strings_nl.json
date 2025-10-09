@@ -849,7 +849,8 @@
     "NETWORK_STORAGE_SUPPORT": "Bladeren in NAS opslag",
     "OVER_THE_AIR_UPDATES": "Over The Air Updates",
     "AI_SUPERSEARCH": "AI-tekstueel zoeken",
-    "AI_INFINITY_PLAYBACK": "AI oneindige weergave"
+    "AI_INFINITY_PLAYBACK": "AI oneindige weergave",
+    "QOBUZ_CONNECT": "QOBUZ aansluiten"
   },
   "APPEARANCE": {
     "ALBUMARTIST": "Albumartiest",
@@ -1118,7 +1119,12 @@
     "AUTO_POWERSAVING_DOC": "De functie voor automatische energiebesparing in- of uitschakelen. Als deze functie is ingeschakeld, wordt het systeem automatisch uitgeschakeld of gaat het in stand-bymodus na een periode van inactiviteit.",
     "AUTO_POWERSAVING": "Automatische energiebesparing",
     "POWERSAVING_TIMEOUT_DOC": "Stel de tijd in waarna het systeem automatisch in stand-bymodus gaat of uitschakelt.",
-    "POWERSAVING_TIMEOUT": "Time-out energiebesparing"
+    "POWERSAVING_TIMEOUT": "Time-out energiebesparing",
+    "DAC_NOS_MODE": "Interne DAC NOS-modus",
+    "DAC_NOS_MODE_DOC": "Stel de interne DAC in op niet-overbemonsteringmodus",
+    "DAC_OUTPUT_LEVEL": "Intern DAC-uitgangsniveau",
+    "DAC_OUTPUT_LEVEL_DOC": "Stel het interne uitgangsniveau van de DAC in Volt RMS in, zodat het overeenkomt met de ingangsgevoeligheid van je versterker.",
+    "DISPLAY_UI_DOC": "Selecteer het type gebruikersinterface dat moet worden weergegeven op het scherm"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Beste radiostations",

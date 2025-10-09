@@ -796,7 +796,8 @@
     "NETWORK_STORAGE_SUPPORT": "网络存储浏览",
     "OVER_THE_AIR_UPDATES": "空中更新",
     "AI_SUPERSEARCH": "人工智能文本搜索",
-    "AI_INFINITY_PLAYBACK": "人工智能无限回放"
+    "AI_INFINITY_PLAYBACK": "人工智能无限回放",
+    "QOBUZ_CONNECT": "QOBUZ Connect"
   },
   "APPEARANCE": {
     "ALBUMARTIST": "专辑艺术家",
@@ -1065,7 +1066,12 @@
     "AUTO_POWERSAVING_DOC": "启用或禁用自动省电功能。启用后，系统将在一段时间不活动后自动关闭或进入待机模式",
     "AUTO_POWERSAVING": "自动节能",
     "POWERSAVING_TIMEOUT_DOC": "设置系统自动进入待机模式或关闭的时间",
-    "POWERSAVING_TIMEOUT": "省电超时"
+    "POWERSAVING_TIMEOUT": "省电超时",
+    "DAC_NOS_MODE": "内部 DAC NOS 模式",
+    "DAC_NOS_MODE_DOC": "将内部 DAC 设置为非过采样模式",
+    "DAC_OUTPUT_LEVEL": "内部 DAC 输出电平",
+    "DAC_OUTPUT_LEVEL_DOC": "以伏特有效值为单位设置内部 DAC 输出电平，以匹配放大器的输入灵敏度",
+    "DISPLAY_UI_DOC": "选择要在显示屏上显示的用户界面类型"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "最佳收音机",

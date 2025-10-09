@@ -781,7 +781,8 @@
     "NETWORK_STORAGE_SUPPORT": "Hálózati tároló böngészése",
     "OVER_THE_AIR_UPDATES": "Over The Air frissítések",
     "AI_SUPERSEARCH": "AI szöveges keresés",
-    "AI_INFINITY_PLAYBACK": "AI Infinity lejátszás"
+    "AI_INFINITY_PLAYBACK": "AI Infinity lejátszás",
+    "QOBUZ_CONNECT": "QOBUZ Connect"
   },
   "ALARM": {
     "CRATE_PLAYLIST_FIRST": "Az Ébresztő használatához először létre kell hoznia legalább egy lejátszási listát",
@@ -1064,7 +1065,12 @@
     "AUTO_POWERSAVING_DOC": "Az automatikus energiatakarékossági funkció engedélyezése vagy letiltása. Ha engedélyezve van, a rendszer automatikusan kikapcsol vagy készenléti üzemmódba lép, miután egy bizonyos ideig nem használta a készüléket.",
     "AUTO_POWERSAVING": "Automatikus energiatakarékosság",
     "POWERSAVING_TIMEOUT_DOC": "Állítsa be azt az időt, amely után a rendszer automatikusan készenléti üzemmódba lép vagy kikapcsol.",
-    "POWERSAVING_TIMEOUT": "Energiatakarékossági időkorlát"
+    "POWERSAVING_TIMEOUT": "Energiatakarékossági időkorlát",
+    "DAC_NOS_MODE": "Belső DAC NOS üzemmód",
+    "DAC_NOS_MODE_DOC": "Állítsa a belső DAC-ot nem túlmintavételező üzemmódra",
+    "DAC_OUTPUT_LEVEL": "Belső DAC kimeneti szint",
+    "DAC_OUTPUT_LEVEL_DOC": "Állítsa be a belső DAC kimeneti szintjét Volt RMS-ben, hogy megfeleljen az erősítő bemeneti érzékenységének.",
+    "DISPLAY_UI_DOC": "A kijelzőn megjelenítendő felhasználói felület típusának kiválasztása"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Legjobb rádiók",
