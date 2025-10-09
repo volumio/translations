@@ -1071,7 +1071,9 @@
     "DAC_NOS_MODE_DOC": "Ställ in den interna DAC:n på icke-översamplingsläge",
     "DAC_OUTPUT_LEVEL": "Intern DAC-utgångsnivå",
     "DAC_OUTPUT_LEVEL_DOC": "Ställ in den interna DAC-utgångsnivån i Volt RMS, så att den matchar förstärkarens ingångskänslighet",
-    "DISPLAY_UI_DOC": "Välj vilken typ av användargränssnitt som ska visas på displayen"
+    "DISPLAY_UI_DOC": "Välj vilken typ av användargränssnitt som ska visas på displayen",
+    "DISPLAY_UI2": "Display Användargränssnitt",
+    "DISPLAY_UI2_DOC": "Välj vilken typ av användargränssnitt som ska visas på displayen"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Bäst radio",

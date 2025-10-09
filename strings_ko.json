@@ -1070,7 +1070,9 @@
     "DAC_NOS_MODE_DOC": "내부 DAC를 비오버샘플링 모드로 설정합니다.",
     "DAC_OUTPUT_LEVEL": "내부 DAC 출력 레벨",
     "DAC_OUTPUT_LEVEL_DOC": "앰프 입력 감도에 맞게 내부 DAC 출력 레벨을 볼트 RMS로 설정합니다.",
-    "DISPLAY_UI_DOC": "디스플레이에 표시할 사용자 인터페이스 유형을 선택합니다."
+    "DISPLAY_UI_DOC": "디스플레이에 표시할 사용자 인터페이스 유형을 선택합니다.",
+    "DISPLAY_UI2": "디스플레이 사용자 인터페이스",
+    "DISPLAY_UI2_DOC": "디스플레이에 표시할 사용자 인터페이스 스타일을 선택합니다."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "베스트 라디오",

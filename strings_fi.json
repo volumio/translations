@@ -950,7 +950,9 @@
     "DAC_NOS_MODE_DOC": "Aseta sisäisen DAC:n ei-ylinäytteenottotila.",
     "DAC_OUTPUT_LEVEL": "Sisäinen DAC-lähtötaso",
     "DAC_OUTPUT_LEVEL_DOC": "Aseta sisäisen DAC:n lähtötaso voltin RMS-arvona vastaamaan vahvistimesi tulosherkkyyttä.",
-    "DISPLAY_UI_DOC": "Valitse näytöllä näytettävän käyttöliittymän tyyppi."
+    "DISPLAY_UI_DOC": "Valitse näytöllä näytettävän käyttöliittymän tyyppi.",
+    "DISPLAY_UI2": "Näyttö Käyttöliittymä",
+    "DISPLAY_UI2_DOC": "Valitse näytössä näytettävä käyttöliittymätyyli."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Parhaat radiot",

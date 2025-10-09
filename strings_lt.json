@@ -1027,7 +1027,9 @@
     "DAC_NOS_MODE_DOC": "Nustatykite vidinį DAC į ne perrinkimo režimą",
     "DAC_OUTPUT_LEVEL": "Vidinis DAC išvesties lygis",
     "DAC_OUTPUT_LEVEL_DOC": "Nustatykite vidinį DAC išvesties lygį voltų vidutine kvadratine verte, kad jis atitiktų jūsų stiprintuvo įvesties jautrumą.",
-    "DISPLAY_UI_DOC": "Pasirinkite naudotojo sąsajos, kuri bus rodoma ekrane, tipą"
+    "DISPLAY_UI_DOC": "Pasirinkite naudotojo sąsajos, kuri bus rodoma ekrane, tipą",
+    "DISPLAY_UI2": "Ekrano naudotojo sąsaja",
+    "DISPLAY_UI2_DOC": "Pasirinkite naudotojo sąsajos stilių, kuris bus rodomas ekrane"
   },
   "MAIN_MENU": {
     "ALARM": "Žadintuvas",

@@ -1073,7 +1073,9 @@
     "DAC_NOS_MODE_DOC": "Régler le CNA interne en mode non suréchantillonné",
     "DAC_OUTPUT_LEVEL": "Niveau de sortie du CNA interne",
     "DAC_OUTPUT_LEVEL_DOC": "Réglez le niveau de sortie du CNA interne en Volt RMS, pour correspondre à la sensibilité d'entrée de votre amplificateur.",
-    "DISPLAY_UI_DOC": "Sélectionner le type d'interface utilisateur à afficher sur l'écran"
+    "DISPLAY_UI_DOC": "Sélectionner le type d'interface utilisateur à afficher sur l'écran",
+    "DISPLAY_UI2": "Affichage de l'interface utilisateur",
+    "DISPLAY_UI2_DOC": "Sélectionner le style d'interface utilisateur à afficher sur l'écran"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Meilleures Radios",

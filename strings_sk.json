@@ -1071,7 +1071,9 @@
     "DAC_NOS_MODE_DOC": "Nastavenie interného prevodníka DAC na režim bez prevzorkovania",
     "DAC_OUTPUT_LEVEL": "Interná výstupná úroveň DAC",
     "DAC_OUTPUT_LEVEL_DOC": "Nastavte internú výstupnú úroveň DAC vo voltoch RMS tak, aby zodpovedala vstupnej citlivosti zosilňovača.",
-    "DISPLAY_UI_DOC": "Výber typu používateľského rozhrania, ktoré sa má zobraziť na displeji"
+    "DISPLAY_UI_DOC": "Výber typu používateľského rozhrania, ktoré sa má zobraziť na displeji",
+    "DISPLAY_UI2": "Používateľské rozhranie displeja",
+    "DISPLAY_UI2_DOC": "Výber štýlu používateľského rozhrania, ktorý sa má zobraziť na displeji"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najlepšie rádia",

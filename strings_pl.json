@@ -1070,7 +1070,9 @@
     "DAC_NOS_MODE_DOC": "Ustawienie wewnętrznego przetwornika C/A na tryb bez nadpróbkowania",
     "DAC_OUTPUT_LEVEL": "Poziom wyjścia wewnętrznego przetwornika C/A",
     "DAC_OUTPUT_LEVEL_DOC": "Ustaw poziom wyjściowy wewnętrznego przetwornika cyfrowo-analogowego w woltach RMS, aby dopasować go do czułości wejściowej wzmacniacza.",
-    "DISPLAY_UI_DOC": "Wybór typu interfejsu użytkownika wyświetlanego na wyświetlaczu"
+    "DISPLAY_UI_DOC": "Wybór typu interfejsu użytkownika wyświetlanego na wyświetlaczu",
+    "DISPLAY_UI2": "Interfejs użytkownika wyświetlacza",
+    "DISPLAY_UI2_DOC": "Wybór stylu interfejsu użytkownika wyświetlanego na ekranie"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najlepsze stacje radiowe",

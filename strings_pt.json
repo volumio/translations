@@ -950,7 +950,9 @@
     "DAC_NOS_MODE_DOC": "Definir o DAC interno para o modo de não sobreamostragem",
     "DAC_OUTPUT_LEVEL": "Nível de saída do DAC interno",
     "DAC_OUTPUT_LEVEL_DOC": "Defina o nível de saída do DAC interno em Volt RMS, para corresponder à sensibilidade de entrada do seu amplificador",
-    "DISPLAY_UI_DOC": "Selecionar o tipo de interface de utilizador a apresentar no ecrã"
+    "DISPLAY_UI_DOC": "Selecionar o tipo de interface de utilizador a apresentar no ecrã",
+    "DISPLAY_UI2": "Exibir a interface do utilizador",
+    "DISPLAY_UI2_DOC": "Selecionar o estilo de interface do utilizador a ser apresentado no ecrã"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Melhores rádios",

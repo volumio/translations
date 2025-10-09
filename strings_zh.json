@@ -1071,7 +1071,9 @@
     "DAC_NOS_MODE_DOC": "将内部 DAC 设置为非过采样模式",
     "DAC_OUTPUT_LEVEL": "内部 DAC 输出电平",
     "DAC_OUTPUT_LEVEL_DOC": "以伏特有效值为单位设置内部 DAC 输出电平，以匹配放大器的输入灵敏度",
-    "DISPLAY_UI_DOC": "选择要在显示屏上显示的用户界面类型"
+    "DISPLAY_UI_DOC": "选择要在显示屏上显示的用户界面类型",
+    "DISPLAY_UI2": "显示用户界面",
+    "DISPLAY_UI2_DOC": "选择要在显示屏上显示的用户界面样式"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "最佳收音机",

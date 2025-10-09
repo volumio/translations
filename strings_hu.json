@@ -1070,7 +1070,9 @@
     "DAC_NOS_MODE_DOC": "Állítsa a belső DAC-ot nem túlmintavételező üzemmódra",
     "DAC_OUTPUT_LEVEL": "Belső DAC kimeneti szint",
     "DAC_OUTPUT_LEVEL_DOC": "Állítsa be a belső DAC kimeneti szintjét Volt RMS-ben, hogy megfeleljen az erősítő bemeneti érzékenységének.",
-    "DISPLAY_UI_DOC": "A kijelzőn megjelenítendő felhasználói felület típusának kiválasztása"
+    "DISPLAY_UI_DOC": "A kijelzőn megjelenítendő felhasználói felület típusának kiválasztása",
+    "DISPLAY_UI2": "Felhasználói felület megjelenítése",
+    "DISPLAY_UI2_DOC": "A kijelzőn megjelenítendő felhasználói felület stílusának kiválasztása"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Legjobb rádiók",

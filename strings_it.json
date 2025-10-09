@@ -1076,7 +1076,9 @@
     "DAC_NOS_MODE_DOC": "Impostare il DAC interno in modalità non sovracampionamento",
     "DAC_OUTPUT_LEVEL": "Livello di uscita del DAC interno",
     "DAC_OUTPUT_LEVEL_DOC": "Impostate il livello di uscita del DAC interno in Volt RMS, in modo che corrisponda alla sensibilità di ingresso dell'amplificatore.",
-    "DISPLAY_UI_DOC": "Selezionare il tipo di interfaccia utente da visualizzare sul display."
+    "DISPLAY_UI_DOC": "Selezionare il tipo di interfaccia utente da visualizzare sul display.",
+    "DISPLAY_UI2": "Interfaccia utente del display",
+    "DISPLAY_UI2_DOC": "Selezionare lo stile dell'interfaccia utente da visualizzare sul display."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Le Radio Migliori",

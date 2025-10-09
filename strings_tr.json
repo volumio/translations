@@ -1071,7 +1071,9 @@
     "DAC_NOS_MODE_DOC": "Dahili DAC'yi Aşırı Örneklemesiz moda ayarlayın",
     "DAC_OUTPUT_LEVEL": "Dahili DAC Çıkış Seviyesi",
     "DAC_OUTPUT_LEVEL_DOC": "Dahili DAC Çıkış Seviyesini Volt RMS cinsinden amplifikatörünüzün giriş hassasiyetine uyacak şekilde ayarlayın",
-    "DISPLAY_UI_DOC": "Ekranda görüntülenecek Kullanıcı Arayüzü türünü seçin"
+    "DISPLAY_UI_DOC": "Ekranda görüntülenecek Kullanıcı Arayüzü türünü seçin",
+    "DISPLAY_UI2": "Ekran Kullanıcı Arayüzü",
+    "DISPLAY_UI2_DOC": "Ekranda gösterilecek Kullanıcı Arayüzü stilini seçin"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "En iyi Radyolar",
