@@ -983,6 +983,8 @@
     "POWERSAVING_TIMEOUT": "節電タイムアウト",
     "DAC_NOS_MODE": "内部DAC NOSモード",
     "DAC_NOS_MODE_DOC": "内部DACをノンオーバーサンプリングモードに設定する",
+    "DAC_OUTPUT_LEVEL": "内部DAC出力レベル",
+    "DAC_OUTPUT_LEVEL_DOC": "アンプの入力感度に合うように、内部DAC出力レベルをボルトRMSで設定する。",
     "DISPLAY_UI_DOC": "ディスプレイに表示するユーザーインターフェースの種類を選択する。",
     "DISPLAY_UI2": "ディスプレイ・ユーザー・インターフェース",
     "DISPLAY_UI2_DOC": "ディスプレイに表示するユーザーインターフェースのスタイルを選択する。"

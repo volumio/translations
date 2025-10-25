@@ -1121,6 +1121,8 @@
     "POWERSAVING_TIMEOUT": "Power Saving Timeout",
     "DAC_NOS_MODE": "Internal DAC NOS Mode",
     "DAC_NOS_MODE_DOC": "Set the Internal DAC to Non-Oversampling mode",
+    "DAC_OUTPUT_LEVEL": "Internal DAC Output Level",
+    "DAC_OUTPUT_LEVEL_DOC": "Set the maximum output level of the Internal DAC, to match your amplifier input capabilities",
     "DISPLAY_UI_DOC": "Select the type of User Interface to be displayed on the display",
     "DISPLAY_UI2": "Display User Interface",
     "DISPLAY_UI2_DOC": "Select the User Interface style to be shown on the display"

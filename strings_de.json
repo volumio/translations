@@ -1068,6 +1068,8 @@
     "POWERSAVING_TIMEOUT": "Zeitüberschreitung beim Energiesparen",
     "DAC_NOS_MODE": "Interner DAC NOS-Modus",
     "DAC_NOS_MODE_DOC": "Den internen DAC auf Nicht-Oversampling-Modus einstellen",
+    "DAC_OUTPUT_LEVEL": "Interner DAC-Ausgangspegel",
+    "DAC_OUTPUT_LEVEL_DOC": "Stellen Sie den internen DAC-Ausgangspegel in Volt RMS ein, der der Eingangsempfindlichkeit Ihres Verstärkers entspricht.",
     "DISPLAY_UI_DOC": "Wählen Sie die Art der Benutzeroberfläche, die auf dem Display angezeigt werden soll",
     "DISPLAY_UI2": "Benutzeroberfläche anzeigen",
     "DISPLAY_UI2_DOC": "Wählen Sie den Stil der Benutzeroberfläche, der auf dem Display angezeigt werden soll"
