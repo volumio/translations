@@ -1122,8 +1122,6 @@
     "POWERSAVING_TIMEOUT": "Time-out energiebesparing",
     "DAC_NOS_MODE": "Interne DAC NOS-modus",
     "DAC_NOS_MODE_DOC": "Stel de interne DAC in op niet-overbemonsteringmodus",
-    "DAC_OUTPUT_LEVEL": "Intern DAC-uitgangsniveau",
-    "DAC_OUTPUT_LEVEL_DOC": "Stel het interne uitgangsniveau van de DAC in Volt RMS in, zodat het overeenkomt met de ingangsgevoeligheid van je versterker.",
     "DISPLAY_UI_DOC": "Selecteer het type gebruikersinterface dat moet worden weergegeven op het scherm",
     "DISPLAY_UI2": "Gebruikersinterface weergeven",
     "DISPLAY_UI2_DOC": "Selecteer de gebruikersinterfacestijl die op het scherm moet worden weergegeven"
