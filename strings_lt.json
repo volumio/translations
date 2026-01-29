@@ -905,7 +905,9 @@
     "SQ_HIGH": "Aukštas",
     "SQ_LOSSLESS": "Be nuostolių",
     "SQ_HI_RES": "Hi-Res",
-    "SQ_HIGHEST_POSSIBLE": "Didžiausias galimas"
+    "SQ_HIGHEST_POSSIBLE": "Didžiausias galimas",
+    "OUTPUT_DEVICE_NOT_AVAILABLE_CONNECT_IT": "Nepavyko transliuoti į pasirinktą išvesties įrenginį. Patikrinkite, ar įrenginys prijungtas ir įjungtas.",
+    "OUTPUT_DEVICE_BUSY": "Pasirinkta išvesties įrenginys yra užimtas, prieš pasirinkdami jį, sustabdykite bet kokį kitą atkūrimą."
   },
   "WEBRADIO": {
     "BY_LANGUAGE": "Pagal kalbą",

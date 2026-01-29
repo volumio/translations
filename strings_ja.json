@@ -870,7 +870,9 @@
     "SQ_HIGH": "High",
     "SQ_LOSSLESS": "Lossless",
     "SQ_HI_RES": "Hi-Res",
-    "SQ_HIGHEST_POSSIBLE": "Highest"
+    "SQ_HIGHEST_POSSIBLE": "Highest",
+    "OUTPUT_DEVICE_NOT_AVAILABLE_CONNECT_IT": "選択した出力デバイスへのストリーミングができませんでした。デバイスが接続され、電源が入っていることを確認してください",
+    "OUTPUT_DEVICE_BUSY": "選択した出力デバイスは使用中です。選択する前に他の再生を停止してください。"
   },
   "PLAYLIST": {
     "ADDED_TITLE": "追加されました",

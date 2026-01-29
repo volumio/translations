@@ -1008,7 +1008,9 @@
     "SQ_HIGH": "High",
     "SQ_LOSSLESS": "Lossless",
     "SQ_HI_RES": "Hi-Res",
-    "SQ_HIGHEST_POSSIBLE": "Highest Possible"
+    "SQ_HIGHEST_POSSIBLE": "Highest Possible",
+    "OUTPUT_DEVICE_NOT_AVAILABLE_CONNECT_IT": "Could not stream to the selected output device, make sure the device is connected and turned on",
+    "OUTPUT_DEVICE_BUSY": "The selected output device is busy, plase stop any other playback before selecting it"
   },
   "PLAYLIST": {
     "ADDED_TITLE": "Added",

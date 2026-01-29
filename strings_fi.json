@@ -835,7 +835,9 @@
     "SQ_HIGH": "Korkea",
     "SQ_LOSSLESS": "Häviötön",
     "SQ_HI_RES": "Hi-Res",
-    "SQ_HIGHEST_POSSIBLE": "Korkein mahdollinen"
+    "SQ_HIGHEST_POSSIBLE": "Korkein mahdollinen",
+    "OUTPUT_DEVICE_NOT_AVAILABLE_CONNECT_IT": "Valittuun lähtölaitteeseen ei voitu suoratoistaa. Varmista, että laite on kytketty ja kytketty päälle.",
+    "OUTPUT_DEVICE_BUSY": "Valittu lähtölaite on varattu. Lopeta kaikki muut toistot ennen kuin valitset sen."
   },
   "PLAYLIST": {
     "ADDED_TITLE": "Lisätty",

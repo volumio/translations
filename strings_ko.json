@@ -955,7 +955,9 @@
     "SQ_HIGH": "High",
     "SQ_LOSSLESS": "무손실",
     "SQ_HIGHEST_POSSIBLE": "가능한 최고",
-    "SQ_HI_RES": "Hi-Res(고음질)"
+    "SQ_HI_RES": "Hi-Res(고음질)",
+    "OUTPUT_DEVICE_NOT_AVAILABLE_CONNECT_IT": "선택한 출력 장치로 스트리밍할 수 없습니다. 장치가 연결되어 있고 켜져 있는지 확인하십시오.",
+    "OUTPUT_DEVICE_BUSY": "선택한 출력 장치가 사용 중입니다. 선택하기 전에 다른 재생 작업을 중지하십시오."
   },
   "PLAYLIST": {
     "ADDED_TITLE": "추가 ->",

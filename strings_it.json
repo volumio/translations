@@ -961,7 +961,9 @@
     "SQ_HIGH": "Alto",
     "SQ_LOSSLESS": "Senza perdite",
     "SQ_HI_RES": "Hi-Res",
-    "SQ_HIGHEST_POSSIBLE": "Il massimo possibile"
+    "SQ_HIGHEST_POSSIBLE": "Il massimo possibile",
+    "OUTPUT_DEVICE_NOT_AVAILABLE_CONNECT_IT": "Impossibile eseguire lo streaming sul dispositivo di output selezionato. Assicurarsi che il dispositivo sia collegato e acceso.",
+    "OUTPUT_DEVICE_BUSY": "Il dispositivo di output selezionato è occupato, interrompere qualsiasi altra riproduzione prima di selezionarlo."
   },
   "PLAYLIST": {
     "ADDED_TITLE": "Aggiunta",

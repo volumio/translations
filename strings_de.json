@@ -955,7 +955,9 @@
     "SQ_HI_RES": "Hi-Res",
     "SQ_QUALITY_TITLE": "Audioqualität",
     "SQ_FLAC_HIRES_96": "FLAC Hi-Res (24 Bit, bis zu 96 kHz)",
-    "SQ_HIGHEST_POSSIBLE": "Bestmöglich"
+    "SQ_HIGHEST_POSSIBLE": "Bestmöglich",
+    "OUTPUT_DEVICE_NOT_AVAILABLE_CONNECT_IT": "Das Streaming zum ausgewählten Ausgabegerät war nicht möglich. Stellen Sie sicher, dass das Gerät angeschlossen und eingeschaltet ist.",
+    "OUTPUT_DEVICE_BUSY": "Das ausgewählte Ausgabegerät ist beschäftigt. Bitte beenden Sie alle anderen Wiedergaben, bevor Sie es auswählen."
   },
   "PLAYLIST": {
     "ADDED_TITLE": "Hinzugefügt",

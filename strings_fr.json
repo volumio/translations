@@ -958,7 +958,9 @@
     "SQ_HI_RES": "Hi-Res",
     "SQ_HIGHEST_POSSIBLE": "La plus haute possible",
     "SQ_QUALITY_TITLE": "Qualité du son",
-    "SQ_QUALITY_DESC": "Choisissez la qualité désirée"
+    "SQ_QUALITY_DESC": "Choisissez la qualité désirée",
+    "OUTPUT_DEVICE_NOT_AVAILABLE_CONNECT_IT": "Impossible de diffuser en continu vers le périphérique de sortie sélectionné. Assurez-vous que le périphérique est connecté et allumé.",
+    "OUTPUT_DEVICE_BUSY": "Le périphérique de sortie sélectionné est occupé, veuillez arrêter toute autre lecture avant de le sélectionner."
   },
   "PLAYLIST": {
     "ADDED_TITLE": "Ajouté",

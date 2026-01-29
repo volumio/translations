@@ -826,7 +826,9 @@
     "SQ_HIGH": "Høj",
     "SQ_LOSSLESS": "Uden tab",
     "SQ_HI_RES": "Hi-Res",
-    "SQ_HIGHEST_POSSIBLE": "Højest mulige"
+    "SQ_HIGHEST_POSSIBLE": "Højest mulige",
+    "OUTPUT_DEVICE_NOT_AVAILABLE_CONNECT_IT": "Kunne ikke streame til den valgte output-enhed. Sørg for, at enheden er tilsluttet og tændt.",
+    "OUTPUT_DEVICE_BUSY": "Den valgte output-enhed er optaget. Stop al anden afspilning, før du vælger den."
   },
   "PLAYLIST": {
     "ADDED_TITLE": "Tilføjet",

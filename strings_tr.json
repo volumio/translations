@@ -956,7 +956,9 @@
     "SQ_HIGH": "Yüksek",
     "SQ_LOSSLESS": "Kayıpsız",
     "SQ_HI_RES": "Yüksek Çözünürlük",
-    "SQ_HIGHEST_POSSIBLE": "Mümkün Olan En Yüksek"
+    "SQ_HIGHEST_POSSIBLE": "Mümkün Olan En Yüksek",
+    "OUTPUT_DEVICE_NOT_AVAILABLE_CONNECT_IT": "Seçilen çıkış cihazına akış yapılamadı, cihazın bağlı ve açık olduğundan emin olun.",
+    "OUTPUT_DEVICE_BUSY": "Seçilen çıkış cihazı meşgul, lütfen seçmeden önce diğer tüm oynatma işlemlerini durdurun."
   },
   "PLAYLIST": {
     "ADDED_TITLE": "Eklendi",

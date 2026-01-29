@@ -835,7 +835,9 @@
     "SQ_HIGH": "Elevado",
     "SQ_LOSSLESS": "Sem perdas",
     "SQ_HI_RES": "Alta resolução",
-    "SQ_HIGHEST_POSSIBLE": "O mais alto possível"
+    "SQ_HIGHEST_POSSIBLE": "O mais alto possível",
+    "OUTPUT_DEVICE_NOT_AVAILABLE_CONNECT_IT": "Não foi possível transmitir para o dispositivo de saída selecionado. Certifique-se de que o dispositivo está conectado e ligado.",
+    "OUTPUT_DEVICE_BUSY": "O dispositivo de saída selecionado está ocupado. Interrompa qualquer outra reprodução antes de selecioná-lo."
   },
   "PLAYLIST": {
     "ADDED_TITLE": "Adicionada",

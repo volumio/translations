@@ -955,7 +955,9 @@
     "SQ_HIGH": "Magas",
     "SQ_LOSSLESS": "Veszteségmentes",
     "SQ_HI_RES": "Nagy-Felbontású",
-    "SQ_HIGHEST_POSSIBLE": "Lehető Legmagasabb"
+    "SQ_HIGHEST_POSSIBLE": "Lehető Legmagasabb",
+    "OUTPUT_DEVICE_NOT_AVAILABLE_CONNECT_IT": "Nem sikerült streamelni a kiválasztott kimeneti eszközre. Győződjön meg arról, hogy az eszköz csatlakoztatva van és be van kapcsolva.",
+    "OUTPUT_DEVICE_BUSY": "A kiválasztott kimeneti eszköz foglalt, kérjük, állítsa le az összes többi lejátszást, mielőtt kiválasztaná."
   },
   "PLAYLIST": {
     "ADDED_TITLE": "Hozzáadva",

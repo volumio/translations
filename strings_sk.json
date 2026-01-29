@@ -956,7 +956,9 @@
     "SQ_HIGH": "Vysoká",
     "SQ_LOSSLESS": "Bezstratový",
     "SQ_HI_RES": "Hi-Res",
-    "SQ_HIGHEST_POSSIBLE": "Najvyššia možná"
+    "SQ_HIGHEST_POSSIBLE": "Najvyššia možná",
+    "OUTPUT_DEVICE_NOT_AVAILABLE_CONNECT_IT": "Nepodarilo sa streamovať do vybraného výstupného zariadenia. Uistite sa, že je zariadenie pripojené a zapnuté.",
+    "OUTPUT_DEVICE_BUSY": "Vybrané výstupné zariadenie je obsadené, pred jeho výberom zastavte všetky ostatné prehrávania."
   },
   "PLAYLIST": {
     "ADDED_TITLE": "Pridaný",

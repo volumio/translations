@@ -956,7 +956,9 @@
     "SQ_HIGH": "Hög",
     "SQ_LOSSLESS": "Förlustfri",
     "SQ_HI_RES": "Hi-Res",
-    "SQ_HIGHEST_POSSIBLE": "Högsta möjliga"
+    "SQ_HIGHEST_POSSIBLE": "Högsta möjliga",
+    "OUTPUT_DEVICE_NOT_AVAILABLE_CONNECT_IT": "Det gick inte att strömma till den valda utgångsenheten. Kontrollera att enheten är ansluten och påslagen.",
+    "OUTPUT_DEVICE_BUSY": "Den valda utgångsenheten är upptagen. Avsluta all annan uppspelning innan du väljer den."
   },
   "PLAYLIST": {
     "ADDED_TITLE": "Lade till",

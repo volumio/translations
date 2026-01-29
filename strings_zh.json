@@ -956,7 +956,9 @@
     "SQ_HIGH": "高",
     "SQ_LOSSLESS": "无损的",
     "SQ_HI_RES": "高分辨率",
-    "SQ_HIGHEST_POSSIBLE": "可能的最高值"
+    "SQ_HIGHEST_POSSIBLE": "可能的最高值",
+    "OUTPUT_DEVICE_NOT_AVAILABLE_CONNECT_IT": "无法向所选输出设备传输流媒体，请确保设备已连接并处于开启状态",
+    "OUTPUT_DEVICE_BUSY": "所选输出设备正在使用中，请停止其他播放操作后再选择该设备。"
   },
   "PLAYLIST": {
     "ADDED_TITLE": "已添加",

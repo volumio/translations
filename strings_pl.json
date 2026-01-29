@@ -955,7 +955,9 @@
     "SQ_HIGH": "High",
     "SQ_LOSSLESS": "Lossless",
     "SQ_HI_RES": "Hi-Res",
-    "SQ_HIGHEST_POSSIBLE": "Highest Possible"
+    "SQ_HIGHEST_POSSIBLE": "Highest Possible",
+    "OUTPUT_DEVICE_NOT_AVAILABLE_CONNECT_IT": "Nie można przesłać strumienia do wybranego urządzenia wyjściowego. Upewnij się, że urządzenie jest podłączone i włączone.",
+    "OUTPUT_DEVICE_BUSY": "Wybrane urządzenie wyjściowe jest zajęte. Przed jego wybraniem należy zatrzymać wszelkie inne odtwarzanie."
   },
   "PLAYLIST": {
     "ADDED_TITLE": "Dodane",

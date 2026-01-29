@@ -955,7 +955,9 @@
     "SQ_FLAC_HIRES_96": "FLAC alta resolución 24 bit hasta 96 kHz",
     "SQ_FLAC_HIRES_192": "FLAC alta resolución 24 bit hasta 192 kHz",
     "SQ_HIGHEST_POSSIBLE": "La más alta posible",
-    "SQ_QUALITY_DESC": "Selecciona la calidad músical deseada"
+    "SQ_QUALITY_DESC": "Selecciona la calidad músical deseada",
+    "OUTPUT_DEVICE_NOT_AVAILABLE_CONNECT_IT": "No se pudo transmitir al dispositivo de salida seleccionado. Asegúrese de que el dispositivo esté conectado y encendido.",
+    "OUTPUT_DEVICE_BUSY": "El dispositivo de salida seleccionado está ocupado, detenga cualquier otra reproducción antes de seleccionarlo."
   },
   "PLAYLIST": {
     "ADDED_TITLE": "Añadido",

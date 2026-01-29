@@ -1009,7 +1009,9 @@
     "SQ_FLAC_HIRES_192": "FLAC Hi-Res 24 bit tot 192 kHz",
     "SQ_HIGHEST_POSSIBLE": "Hoogst mogelijke",
     "SQ_FLAC_LOSSLESS": "FLAC verliesloos",
-    "SQ_MP3_320": "MP3 (320 kbit/s)"
+    "SQ_MP3_320": "MP3 (320 kbit/s)",
+    "OUTPUT_DEVICE_NOT_AVAILABLE_CONNECT_IT": "Kan niet streamen naar het geselecteerde uitvoerapparaat. Controleer of het apparaat is aangesloten en ingeschakeld.",
+    "OUTPUT_DEVICE_BUSY": "Het geselecteerde uitvoerapparaat is bezet. Stop alle andere afspeelactiviteiten voordat u het selecteert."
   },
   "PLAYLIST": {
     "ADDED_TITLE": "Toegevoegd",
