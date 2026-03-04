@@ -40,7 +40,7 @@
     "SUPER_SEARCH": "\"Volumio SuperSearch BETA",
     "SUPER_SEARCH_INFO": "\"SuperSearch\" - tai paieškos režimas, leidžiantis prašyti \"Volumio\" muzikos pasiūlymų taip pat, kaip prašytumėte draugo ar įrašų parduotuvės pardavėjo. <br /><br />Tereikia įvesti į pokalbį panašų klausimą apie tai, kokius kūrinius norite išgirsti, ir \"Volumio\" suras jums atitinkamus kūrinius iš jūsų bibliotekos. <br /><br /> Keletas užklausų pavyzdžių: <br /><br /> <ul><li>Glaudus džiazas su moteriškais balsais</li><li>Italijos indie rokas </li><li>New wave su būgnais ir sintezatoriumi</li></ul><br /><br /><br />Galite klausti savo kalba arba angliškai. Anglų kalba paprastai pateikia tikslesnius rezultatus.<br /> <br />Įjungus funkciją \"Autoplay\", baigus paiešką bus paleisti atitikę kūriniai<br /> <br />Pastabos: <br /><br /><ul><li>Tam, kad \"SuperSearch\" rezultatai būtų geriausi, turėtumėte turėti prijungtą bent vieną transliacijos paslaugą, pavyzdžiui, TIDAL, QOBUZ arba \"Spotify\"</li><li>Jeigu neturite nė vienos iš minėtų paslaugų, rekomenduojama, kad jūsų vietinę biblioteką sudarytų bent 1000 kūrinių</li></ul>.",
     "SUPER_SEARCH_WAIT": "Palaukite, ši paieška užtruks iki 20 sekundžių...",
-    "PLAY_NEXT": "Žaisti toliau"
+    "PLAY_NEXT": "Groti kitą"
   },
   "PLUGINS": {
     "PLUGINS": "Įskiepiai",
@@ -125,7 +125,7 @@
     "CLEAR_QUEUE": "Išvalyti eilę",
     "SAVE_QUEUE_AS_PLAYLIST": "Išsaugoti eilę kaip grojaraštį",
     "CONSUME_PLAYLIST": "Vartoti grojaraštį",
-    "INFINITY_PLAY": "Begalybės žaidimas"
+    "INFINITY_PLAY": "Groti nesustojant"
   },
   "NETWORKFS": {
     "PASSWORD": "Slaptažodis",
@@ -268,7 +268,7 @@
     "AUTOMATIC_SOFTWAREUPDATE_DESC": "Jūsų prietaisas bus automatiškai atnaujinamas, kai bus išleista nauja programinė įranga",
     "UPDATE_AVAILABLE": "Galima įsigyti programinės įrangos atnaujinimą",
     "CONGRATULATIONS": "Sveikiname",
-    "DEVICE_SUCCESSFULLY_CONFIGURED": "sukonfigūruotas ir paruoštas žaisti.",
+    "DEVICE_SUCCESSFULLY_CONFIGURED": "sukonfigūruotas ir paruoštas naudoti",
     "PLEASE_DONATE": "Jei jums patinka \"Volumio\", apsvarstykite galimybę paaukoti. Jūs galite prisidėti prie šio projekto!",
     "RUN_FIRST_CONFIG_WIZARD": "Paleiskite pirmąjį konfigūravimo vedlį"
   },
@@ -443,7 +443,7 @@
     "LOGIN_OAUTH_NOT_POSSIBLE": "Prisijungti šiuo įrenginiu neįmanoma. Naudokite \"Volumio\" programėlę, kad galėtumėte prisijungti prie paslaugos ir ją autorizuoti.",
     "STANDBY": "Budėjimo režimas",
     "FILTER_ALL": "Visi",
-    "PLAY_NEXT_TITLE": "Žaisti toliau",
+    "PLAY_NEXT_TITLE": "Groti kitą",
     "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Patikrinkite, ar jūsų prietaisas prijungtas prie interneto"
   },
   "MY_MUSIC": {
@@ -503,8 +503,8 @@
     "REMOTE_CONTROL_DEVICES": "Nuotolinio valdymo įrenginiai",
     "ACTIVE_DEVICES": "Aktyvūs įrenginiai",
     "CAST_DEVICES": "Lieti įrenginiai",
-    "LOCAL_PLAYBACK": "Žaiskite čia",
-    "CONTINUE_PLAYING": "Žaiskite čia",
+    "LOCAL_PLAYBACK": "Groti",
+    "CONTINUE_PLAYING": "Groti",
     "LOCAL_PLAYBACK_ENABLED": "Įjungtas vietinis atkūrimas",
     "INPUTS": "Įėjimai",
     "PRESETS": "Išankstiniai nustatymai",
@@ -967,7 +967,7 @@
     "KEEP_PRESSED_TO_TURN_OFF_IN": "Laikykite nuspaudę, kad išjungtumėte",
     "MEDIA_REMOVED_SUCCESSFULLY": "Žiniasklaida sėkmingai pašalinta",
     "NO_UPDATE_AVAILABLE": "Atnaujinimų nėra",
-    "PLAYER_NAME": "Žaidėjo vardas",
+    "PLAYER_NAME": "Grotuvo vardas",
     "PLAYER_NAME_DOC": "Tai yra jūsų sistemos pavadinimas, kuris bus rodomas tinkle.",
     "PRIVACY_SETTINGS": "Privatumo nustatymai",
     "SHOW_ADVANCED_SETTINGS": "Rodyti išplėstinius nustatymus",
@@ -1234,7 +1234,7 @@
   "DEVICELIST": {
     "SETUP_NEW_DEVICE": "Naujo prietaiso konfigūravimas",
     "SELECT_A_DEVICE": "Pasirinkite įrenginį",
-    "SEARCHING_DEVICES": "Ieškote prietaisų",
+    "SEARCHING_DEVICES": "Ieškokite prietaisų",
     "BACK_BUTTON": "Du kartus paspauskite atgal, kad pasirinktumėte kitą prietaisą",
     "NO_DEVICE_FOUND_SETTINGS": "Jei įrenginys nerastas, patikrinkite vietinio tinklo privatumo leidimus paspausdami čia"
   },
@@ -1248,7 +1248,7 @@
     "FUNCTION_MUSIC_CATALOGUE": "Ieškokite savo muzikos bibliotekos, pvz., failų, srautinių transliacijų paslaugų, grojaraščių, mėgstamiausių įrašų ir radijo stočių",
     "PLAYLIST": "Atkūrimo eilė",
     "FUNCTION_PLAYLIST": "Tvarkykite atkūrimo eilę",
-    "PLAYER": "Žaidėjo valdikliai",
+    "PLAYER": "Grotuvo valdikliai",
     "FUNCTION_PLAYER": "Atkūrimas, pristabdymas, praleidimas, kartojimas, atsitiktinis perklausymas ir begalinis atkūrimas",
     "OUTPUT_MENU": "Išvesties ir garso valdymo koncentratorius",
     "FUNCTION_OUTPUT_MENU": "Tvarkykite garsumą, \"Multiroom\", grupavimą ir \"Casting",
@@ -1270,7 +1270,7 @@
   "ACCESSIBILITY": {
     "GO_BACK": "Grįžti atgal",
     "PLAYBACK_OPTIONS": "Bendrosios atkūrimo parinktys",
-    "PLAY_HERE_SELECTED": "Žaisti čia Pasirinkta",
+    "PLAY_HERE_SELECTED": "Groti čia",
     "LOADING": "Pakrovimas",
     "OPEN_MENU": "Atviras meniu",
     "CLOSE_MENU": "Uždaryti meniu",
