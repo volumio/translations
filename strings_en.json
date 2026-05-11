@@ -333,6 +333,7 @@
     "DOWNLOAD_SPEED": "Download Speed",
     "TIME_REMAINING": "Time Remaining",
     "UPDATE_NOW": "Update Now",
+    "DO_NOT_POWER_OFF": "Do not power off, restart or unplug the device until the update is complete.",
     "UPDATE_AVAILABLE": "A software update is available",
     "CHECKING_FOR_UPDATES": "Checking for Updates",
     "CHECKING_FOR_UPDATES_WAIT": "Please Wait",

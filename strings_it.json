@@ -283,6 +283,7 @@
     "DOWNLOAD_SPEED": "Velocità di download",
     "TIME_REMAINING": "Tempo Rimanente",
     "UPDATE_NOW": "Aggiorna Ora",
+    "DO_NOT_POWER_OFF": "Non spegnere, riavviare o scollegare il dispositivo fino al completamento dell'aggiornamento.",
     "CHECKING_FOR_UPDATES": "Controllando gli Aggiornamenti",
     "CHECKING_FOR_UPDATES_WAIT": "Attendere",
     "CLEANING": "Rimozione dei file temporanei",
