@@ -515,7 +515,11 @@
   },
   "SIDEMENU": {
     "ANALOG_INPUT": "Analoger Eingang",
-    "BLUETOOTH": "Bluetooth"
+    "BLUETOOTH": "Bluetooth",
+    "NOVA_BANNER_BADGE": "Neu",
+    "NOVA_BANNER_TITLE": "Nova ist da",
+    "NOVA_BANNER_SUBTITLE": "Klicken Sie hier, um die neue Benutzeroberfläche auszuprobieren",
+    "NOVA_BANNER_TOOLTIP": "Schaltet dieses Gerät auf die Nova-Schnittstelle um. Sie können jederzeit wieder zu dieser Schnittstelle zurückkehren."
   },
   "MYVOLUMIO": {
     "MY_VOLUMIO": "MyVolumio",
@@ -1074,7 +1078,9 @@
     "DAC_OUTPUT_LEVEL_DOC": "Stellen Sie den internen DAC-Ausgangspegel in Volt RMS ein, der der Eingangsempfindlichkeit Ihres Verstärkers entspricht.",
     "DISPLAY_UI_DOC": "Wählen Sie die Art der Benutzeroberfläche, die auf dem Display angezeigt werden soll",
     "DISPLAY_UI2": "Benutzeroberfläche anzeigen",
-    "DISPLAY_UI2_DOC": "Wählen Sie den Stil der Benutzeroberfläche, der auf dem Display angezeigt werden soll"
+    "DISPLAY_UI2_DOC": "Wählen Sie den Stil der Benutzeroberfläche, der auf dem Display angezeigt werden soll",
+    "STANDBY_SCREEN": "Standby-Bildschirm",
+    "STANDBY_SCREEN_DOC": "Wählen Sie aus, was auf dem Display angezeigt wird, während sich das Gerät im Standby-Modus befindet"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Die besten Sender",

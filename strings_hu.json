@@ -747,7 +747,11 @@
   },
   "SIDEMENU": {
     "ANALOG_INPUT": "Analóg Bemenet",
-    "BLUETOOTH": "Bluetooth"
+    "BLUETOOTH": "Bluetooth",
+    "NOVA_BANNER_BADGE": "Új",
+    "NOVA_BANNER_TITLE": "Megérkezett a Nova",
+    "NOVA_BANNER_SUBTITLE": "Kattintson ide, hogy kipróbálja az új felületet",
+    "NOVA_BANNER_TOOLTIP": "Ezzel a készülék a Nova felületre vált. Bármikor visszatérhet erre a felületre."
   },
   "MYVOLUMIO_PLANS": {
     "LATEST_NEWS": "Kapja meg MyVolumio hírcsatornánkat",
@@ -1074,7 +1078,9 @@
     "DAC_OUTPUT_LEVEL_DOC": "Állítsa be a belső DAC kimeneti szintjét Volt RMS-ben, hogy megfeleljen az erősítő bemeneti érzékenységének.",
     "DISPLAY_UI_DOC": "A kijelzőn megjelenítendő felhasználói felület típusának kiválasztása",
     "DISPLAY_UI2": "Felhasználói felület megjelenítése",
-    "DISPLAY_UI2_DOC": "A kijelzőn megjelenítendő felhasználói felület stílusának kiválasztása"
+    "DISPLAY_UI2_DOC": "A kijelzőn megjelenítendő felhasználói felület stílusának kiválasztása",
+    "STANDBY_SCREEN": "Készenléti képernyő",
+    "STANDBY_SCREEN_DOC": "Válassza ki, hogy mi jelenjen meg a kijelzőn, amikor a készülék készenléti állapotban van"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Legjobb rádiók",

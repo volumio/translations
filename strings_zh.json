@@ -516,7 +516,11 @@
   },
   "SIDEMENU": {
     "ANALOG_INPUT": "模拟输入",
-    "BLUETOOTH": "蓝牙"
+    "BLUETOOTH": "蓝牙",
+    "NOVA_BANNER_BADGE": "新",
+    "NOVA_BANNER_TITLE": "Nova 来了",
+    "NOVA_BANNER_SUBTITLE": "点击此处体验新界面",
+    "NOVA_BANNER_TOOLTIP": "将该设备切换至Nova界面。您可以随时返回此界面。"
   },
   "MYVOLUMIO": {
     "MY_VOLUMIO": "MyVolumio",
@@ -1075,7 +1079,9 @@
     "DAC_OUTPUT_LEVEL_DOC": "以伏特有效值为单位设置内部 DAC 输出电平，以匹配放大器的输入灵敏度",
     "DISPLAY_UI_DOC": "选择要在显示屏上显示的用户界面类型",
     "DISPLAY_UI2": "显示用户界面",
-    "DISPLAY_UI2_DOC": "选择要在显示屏上显示的用户界面样式"
+    "DISPLAY_UI2_DOC": "选择要在显示屏上显示的用户界面样式",
+    "STANDBY_SCREEN": "待机屏幕",
+    "STANDBY_SCREEN_DOC": "选择设备处于待机状态时屏幕上显示的内容"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "最佳收音机",

@@ -516,7 +516,11 @@
   },
   "SIDEMENU": {
     "ANALOG_INPUT": "ANALOGINĖ ĮVESTIS",
-    "BLUETOOTH": "BLUETOOTH"
+    "BLUETOOTH": "BLUETOOTH",
+    "NOVA_BANNER_BADGE": "Nauja",
+    "NOVA_BANNER_TITLE": "„Nova“ jau čia",
+    "NOVA_BANNER_SUBTITLE": "Spauskite čia, kad išbandytumėte naują sąsają",
+    "NOVA_BANNER_TOOLTIP": "Perjungia šį įrenginį į „Nova“ sąsają. Į ją galite grįžti bet kuriuo metu."
   },
   "APPEARANCE": {
     "LARGE": "Dideli",
@@ -1031,7 +1035,9 @@
     "DAC_OUTPUT_LEVEL_DOC": "Nustatykite vidinį DAC išvesties lygį voltų vidutine kvadratine verte, kad jis atitiktų jūsų stiprintuvo įvesties jautrumą.",
     "DISPLAY_UI_DOC": "Pasirinkite naudotojo sąsajos, kuri bus rodoma ekrane, tipą",
     "DISPLAY_UI2": "Ekrano naudotojo sąsaja",
-    "DISPLAY_UI2_DOC": "Pasirinkite naudotojo sąsajos stilių, kuris bus rodomas ekrane"
+    "DISPLAY_UI2_DOC": "Pasirinkite naudotojo sąsajos stilių, kuris bus rodomas ekrane",
+    "STANDBY_SCREEN": "Ekranas budėjimo režime",
+    "STANDBY_SCREEN_DOC": "Pasirinkite, kas bus rodomas ekrane, kai prietaisas yra budėjimo režime"
   },
   "MAIN_MENU": {
     "ALARM": "Žadintuvas",
@@ -1175,7 +1181,8 @@
     "SAVE_QUALITY_SUCCESS": "Kokybės nustatymai sėkmingai išsaugoti",
     "EPSINGLES": "TIDAL EP ir singlai",
     "MQA_TITLE": "Pagrindinė kokybė (MQA)",
-    "MQA_DESCR": "MQA bus atkuriama bet kuriame įrenginyje ir užtikrins aukštesnę nei CD kokybę. Sujungus su MQA dekoderiu, MQA faile atsiskleidžia originalus pagrindinis įrašas."
+    "MQA_DESCR": "MQA bus atkuriama bet kuriame įrenginyje ir užtikrins aukštesnę nei CD kokybę. Sujungus su MQA dekoderiu, MQA faile atsiskleidžia originalus pagrindinis įrašas.",
+    "SECTION_TIDAL_ACCOUNT_DESC": ""
   },
   "PLUGIN_QOBUZ": {
     "QOBUZ_CONFIG_TITLE": "QOBUZ nustatymai",

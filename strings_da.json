@@ -945,7 +945,9 @@
     "DAC_OUTPUT_LEVEL_DOC": "Indstil det interne DAC-udgangsniveau i Volt RMS, så det passer til din forstærkers indgangsfølsomhed.",
     "DISPLAY_UI_DOC": "Vælg den type brugergrænseflade, der skal vises på skærmen",
     "DISPLAY_UI2": "Vis brugergrænseflade",
-    "DISPLAY_UI2_DOC": "Vælg den brugergrænsefladestil, der skal vises på displayet"
+    "DISPLAY_UI2_DOC": "Vælg den brugergrænsefladestil, der skal vises på displayet",
+    "STANDBY_SCREEN": "Standby-skærm",
+    "STANDBY_SCREEN_DOC": "Vælg, hvad der skal vises på skærmen, mens enheden er i standbytilstand"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "De bedste radioer",
@@ -1052,7 +1054,11 @@
   },
   "SIDEMENU": {
     "ANALOG_INPUT": "ANALOG INDGANG",
-    "BLUETOOTH": "BLUETOOTH"
+    "BLUETOOTH": "BLUETOOTH",
+    "NOVA_BANNER_BADGE": "Nyt",
+    "NOVA_BANNER_TITLE": "Nova er her",
+    "NOVA_BANNER_SUBTITLE": "Klik her for at prøve den nye brugerflade",
+    "NOVA_BANNER_TOOLTIP": "Skifter denne enhed over til Nova-grænsefladen. Du kan når som helst vende tilbage til denne."
   },
   "MYVOLUMIO_PLANS": {
     "LATEST_NEWS": "Modtag vores MyVolumio-nyhedsfeed",

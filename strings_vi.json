@@ -515,7 +515,11 @@
   },
   "SIDEMENU": {
     "ANALOG_INPUT": "Đầu vào Analog",
-    "BLUETOOTH": "BLUETOOTH"
+    "BLUETOOTH": "BLUETOOTH",
+    "NOVA_BANNER_BADGE": "Mới",
+    "NOVA_BANNER_TITLE": "Nova đã có mặt rồi",
+    "NOVA_BANNER_SUBTITLE": "Nhấp vào đây để trải nghiệm giao diện mới",
+    "NOVA_BANNER_TOOLTIP": "Chuyển thiết bị này sang giao diện Nova. Bạn có thể quay lại giao diện này bất cứ lúc nào."
   },
   "MYVOLUMIO": {
     "MY_VOLUMIO": "Volumio Của tôi",
@@ -1074,7 +1078,9 @@
     "DAC_OUTPUT_LEVEL_DOC": "Điều chỉnh mức đầu ra tối đa của bộ chuyển đổi số sang analog (DAC) nội bộ để phù hợp với khả năng đầu vào của bộ khuếch đại.",
     "DISPLAY_UI_DOC": "Chọn loại giao diện người dùng (User Interface) sẽ hiển thị trên màn hình.",
     "DISPLAY_UI2": "Giao diện người dùng hiển thị",
-    "DISPLAY_UI2_DOC": "Chọn kiểu giao diện người dùng (User Interface) sẽ hiển thị trên màn hình."
+    "DISPLAY_UI2_DOC": "Chọn kiểu giao diện người dùng (User Interface) sẽ hiển thị trên màn hình.",
+    "STANDBY_SCREEN": "Màn hình chờ",
+    "STANDBY_SCREEN_DOC": "Chọn nội dung hiển thị trên màn hình khi thiết bị ở chế độ chờ"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Đài Radios tốt nhất",

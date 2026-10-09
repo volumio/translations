@@ -518,7 +518,11 @@
   },
   "SIDEMENU": {
     "ANALOG_INPUT": "INPUT ANALOGICO",
-    "BLUETOOTH": "BLUETOOTH"
+    "BLUETOOTH": "BLUETOOTH",
+    "NOVA_BANNER_BADGE": "Novità",
+    "NOVA_BANNER_TITLE": "Nova è arrivata",
+    "NOVA_BANNER_SUBTITLE": "Clicca qui per provare la nuova interfaccia",
+    "NOVA_BANNER_TOOLTIP": "Consente di passare all'interfaccia Nova su questo dispositivo. È possibile tornare a questa interfaccia in qualsiasi momento."
   },
   "MYVOLUMIO": {
     "MY_VOLUMIO": "MyVolumio",

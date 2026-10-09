@@ -516,7 +516,11 @@
   },
   "SIDEMENU": {
     "ANALOG_INPUT": "WEJŚCIE ANALOGOWE",
-    "BLUETOOTH": "BLUETOOTH"
+    "BLUETOOTH": "BLUETOOTH",
+    "NOVA_BANNER_BADGE": "Nowość",
+    "NOVA_BANNER_TITLE": "Nova już jest",
+    "NOVA_BANNER_SUBTITLE": "Kliknij tutaj, aby wypróbować nowy interfejs",
+    "NOVA_BANNER_TOOLTIP": "Przełącza to urządzenie na interfejs Nova. W każdej chwili możesz wrócić do tego interfejsu."
   },
   "MYVOLUMIO_PLANS": {
     "LATEST_NEWS": "Otrzymuj informacje z naszego kanału wiadomości MyVolumio",
@@ -1074,7 +1078,9 @@
     "DAC_OUTPUT_LEVEL_DOC": "Ustaw poziom wyjściowy wewnętrznego przetwornika cyfrowo-analogowego w woltach RMS, aby dopasować go do czułości wejściowej wzmacniacza.",
     "DISPLAY_UI_DOC": "Wybór typu interfejsu użytkownika wyświetlanego na wyświetlaczu",
     "DISPLAY_UI2": "Interfejs użytkownika wyświetlacza",
-    "DISPLAY_UI2_DOC": "Wybór stylu interfejsu użytkownika wyświetlanego na ekranie"
+    "DISPLAY_UI2_DOC": "Wybór stylu interfejsu użytkownika wyświetlanego na ekranie",
+    "STANDBY_SCREEN": "Ekran czuwania",
+    "STANDBY_SCREEN_DOC": "Wybierz, co ma być wyświetlane na ekranie, gdy urządzenie znajduje się w trybie czuwania"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najlepsze stacje radiowe",

@@ -516,7 +516,11 @@
   },
   "SIDEMENU": {
     "ANALOG_INPUT": "ANALOG GİRİŞ",
-    "BLUETOOTH": "BLUETOOTH"
+    "BLUETOOTH": "BLUETOOTH",
+    "NOVA_BANNER_BADGE": "Yeni",
+    "NOVA_BANNER_TITLE": "Nova geldi",
+    "NOVA_BANNER_SUBTITLE": "Yeni arayüzü denemek için buraya tıklayın",
+    "NOVA_BANNER_TOOLTIP": "Bu cihazı Nova arayüzüne geçirir. İstediğiniz zaman bu arayüze geri dönebilirsiniz."
   },
   "MYVOLUMIO": {
     "MY_VOLUMIO": "MyVolumio",
@@ -1075,7 +1079,9 @@
     "DAC_OUTPUT_LEVEL_DOC": "Dahili DAC Çıkış Seviyesini Volt RMS cinsinden amplifikatörünüzün giriş hassasiyetine uyacak şekilde ayarlayın",
     "DISPLAY_UI_DOC": "Ekranda görüntülenecek Kullanıcı Arayüzü türünü seçin",
     "DISPLAY_UI2": "Ekran Kullanıcı Arayüzü",
-    "DISPLAY_UI2_DOC": "Ekranda gösterilecek Kullanıcı Arayüzü stilini seçin"
+    "DISPLAY_UI2_DOC": "Ekranda gösterilecek Kullanıcı Arayüzü stilini seçin",
+    "STANDBY_SCREEN": "Bekleme Ekranı",
+    "STANDBY_SCREEN_DOC": "Cihaz bekleme modundayken ekranda neyin gösterileceğini seçin"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "En iyi Radyolar",

@@ -465,7 +465,11 @@
   },
   "SIDEMENU": {
     "ANALOG_INPUT": "アナログ入力",
-    "BLUETOOTH": "Bluetooth"
+    "BLUETOOTH": "Bluetooth",
+    "NOVA_BANNER_BADGE": "新着",
+    "NOVA_BANNER_TITLE": "Novaが登場しました",
+    "NOVA_BANNER_SUBTITLE": "新しいインターフェースをお試しになるには、こちらをクリックしてください",
+    "NOVA_BANNER_TOOLTIP": "このデバイスをNovaインターフェースに切り替えます。いつでもこのインターフェースに戻ることができます。"
   },
   "APPEARANCE": {
     "ALBUMARTIST": "アルバムアーティスト",
@@ -989,7 +993,9 @@
     "DAC_OUTPUT_LEVEL_DOC": "アンプの入力感度に合うように、内部DAC出力レベルをボルトRMSで設定する。",
     "DISPLAY_UI_DOC": "ディスプレイに表示するユーザーインターフェースの種類を選択する。",
     "DISPLAY_UI2": "ディスプレイ・ユーザー・インターフェース",
-    "DISPLAY_UI2_DOC": "ディスプレイに表示するユーザーインターフェースのスタイルを選択する。"
+    "DISPLAY_UI2_DOC": "ディスプレイに表示するユーザーインターフェースのスタイルを選択する。",
+    "STANDBY_SCREEN": "スタンバイ画面",
+    "STANDBY_SCREEN_DOC": "デバイスがスタンバイ状態のときに画面に表示する内容を選択してください"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "ベストラジオ",

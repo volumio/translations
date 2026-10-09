@@ -516,7 +516,11 @@
   },
   "SIDEMENU": {
     "ANALOG_INPUT": "ANALOGOVÝ VSTUP",
-    "BLUETOOTH": "BLUETOOTH"
+    "BLUETOOTH": "BLUETOOTH",
+    "NOVA_BANNER_BADGE": "Nové",
+    "NOVA_BANNER_TITLE": "Nova je tu",
+    "NOVA_BANNER_SUBTITLE": "Kliknite sem a vyskúšajte nové rozhranie",
+    "NOVA_BANNER_TOOLTIP": "Týmto sa zariadenie prepne na rozhranie Nova. K tomuto rozhraniu sa môžete kedykoľvek vrátiť."
   },
   "MYVOLUMIO": {
     "MY_VOLUMIO": "MyVolumio",
@@ -1075,7 +1079,9 @@
     "DAC_OUTPUT_LEVEL_DOC": "Nastavte internú výstupnú úroveň DAC vo voltoch RMS tak, aby zodpovedala vstupnej citlivosti zosilňovača.",
     "DISPLAY_UI_DOC": "Výber typu používateľského rozhrania, ktoré sa má zobraziť na displeji",
     "DISPLAY_UI2": "Používateľské rozhranie displeja",
-    "DISPLAY_UI2_DOC": "Výber štýlu používateľského rozhrania, ktorý sa má zobraziť na displeji"
+    "DISPLAY_UI2_DOC": "Výber štýlu používateľského rozhrania, ktorý sa má zobraziť na displeji",
+    "STANDBY_SCREEN": "Obrazovka v pohotovostnom režime",
+    "STANDBY_SCREEN_DOC": "Vyberte, čo sa má zobrazovať na displeji, keď je zariadenie v pohotovostnom režime"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najlepšie rádia",

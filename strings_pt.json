@@ -954,7 +954,9 @@
     "DAC_OUTPUT_LEVEL_DOC": "Defina o nível de saída do DAC interno em Volt RMS, para corresponder à sensibilidade de entrada do seu amplificador",
     "DISPLAY_UI_DOC": "Selecionar o tipo de interface de utilizador a apresentar no ecrã",
     "DISPLAY_UI2": "Exibir a interface do utilizador",
-    "DISPLAY_UI2_DOC": "Selecionar o estilo de interface do utilizador a ser apresentado no ecrã"
+    "DISPLAY_UI2_DOC": "Selecionar o estilo de interface do utilizador a ser apresentado no ecrã",
+    "STANDBY_SCREEN": "Ecrã de espera",
+    "STANDBY_SCREEN_DOC": "Selecione o que aparece no ecrã enquanto o dispositivo estiver em modo de espera"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Melhores rádios",
@@ -1052,7 +1054,11 @@
   },
   "SIDEMENU": {
     "ANALOG_INPUT": "ENTRADA ANALÓGICA",
-    "BLUETOOTH": "BLUETOOTH"
+    "BLUETOOTH": "BLUETOOTH",
+    "NOVA_BANNER_BADGE": "Novo",
+    "NOVA_BANNER_TITLE": "A Nova já chegou",
+    "NOVA_BANNER_SUBTITLE": "Clique aqui para experimentar a nova interface",
+    "NOVA_BANNER_TOOLTIP": "Muda este dispositivo para a interface Nova. Pode voltar a esta interface a qualquer momento."
   },
   "MYVOLUMIO_PLANS": {
     "LATEST_NEWS": "Receber o nosso feed de notícias MyVolumio",

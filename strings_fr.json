@@ -517,7 +517,11 @@
   },
   "SIDEMENU": {
     "ANALOG_INPUT": "Entrée Analogique",
-    "BLUETOOTH": "BLUETOOTH"
+    "BLUETOOTH": "BLUETOOTH",
+    "NOVA_BANNER_BADGE": "Nouveau",
+    "NOVA_BANNER_TITLE": "Nova est là",
+    "NOVA_BANNER_SUBTITLE": "Cliquez ici pour découvrir la nouvelle interface",
+    "NOVA_BANNER_TOOLTIP": "Permet de basculer cet appareil vers l'interface Nova. Vous pouvez revenir à celle-ci à tout moment."
   },
   "MYVOLUMIO": {
     "MY_VOLUMIO": "MyVolumio",
@@ -1077,7 +1081,9 @@
     "DAC_OUTPUT_LEVEL_DOC": "Réglez le niveau de sortie du CNA interne en Volt RMS, pour correspondre à la sensibilité d'entrée de votre amplificateur.",
     "DISPLAY_UI_DOC": "Sélectionner le type d'interface utilisateur à afficher sur l'écran",
     "DISPLAY_UI2": "Affichage de l'interface utilisateur",
-    "DISPLAY_UI2_DOC": "Sélectionner le style d'interface utilisateur à afficher sur l'écran"
+    "DISPLAY_UI2_DOC": "Sélectionner le style d'interface utilisateur à afficher sur l'écran",
+    "STANDBY_SCREEN": "Écran de veille",
+    "STANDBY_SCREEN_DOC": "Sélectionnez ce qui s'affiche à l'écran lorsque l'appareil est en veille"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Meilleures Radios",

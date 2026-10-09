@@ -954,7 +954,9 @@
     "DAC_OUTPUT_LEVEL_DOC": "Aseta sisäisen DAC:n lähtötaso voltin RMS-arvona vastaamaan vahvistimesi tulosherkkyyttä.",
     "DISPLAY_UI_DOC": "Valitse näytöllä näytettävän käyttöliittymän tyyppi.",
     "DISPLAY_UI2": "Näyttö Käyttöliittymä",
-    "DISPLAY_UI2_DOC": "Valitse näytössä näytettävä käyttöliittymätyyli."
+    "DISPLAY_UI2_DOC": "Valitse näytössä näytettävä käyttöliittymätyyli.",
+    "STANDBY_SCREEN": "Valmiustilan näyttö",
+    "STANDBY_SCREEN_DOC": "Valitse, mitä näytöllä näkyy, kun laite on valmiustilassa"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Parhaat radiot",
@@ -1052,7 +1054,11 @@
   },
   "SIDEMENU": {
     "ANALOG_INPUT": "ANALOGITULO",
-    "BLUETOOTH": "BLUETOOTH"
+    "BLUETOOTH": "BLUETOOTH",
+    "NOVA_BANNER_BADGE": "Uusi",
+    "NOVA_BANNER_TITLE": "Nova on täällä",
+    "NOVA_BANNER_SUBTITLE": "Klikkaa tästä kokeillaksesi uutta käyttöliittymää",
+    "NOVA_BANNER_TOOLTIP": "Vaihtaa tämän laitteen Nova-käyttöliittymään. Voit palata tähän milloin tahansa."
   },
   "MYVOLUMIO_PLANS": {
     "LATEST_NEWS": "Vastaanota MyVolumio-uutissyötteet",

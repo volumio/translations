@@ -516,7 +516,11 @@
   },
   "SIDEMENU": {
     "ANALOG_INPUT": "ANALOG INGÅNG",
-    "BLUETOOTH": "BLUETOOTH"
+    "BLUETOOTH": "BLUETOOTH",
+    "NOVA_BANNER_BADGE": "Nytt",
+    "NOVA_BANNER_TITLE": "Nova är här",
+    "NOVA_BANNER_SUBTITLE": "Klicka här för att testa det nya gränssnittet",
+    "NOVA_BANNER_TOOLTIP": "Ställer in den här enheten på Nova-gränssnittet. Du kan när som helst återgå till det här gränssnittet."
   },
   "MYVOLUMIO": {
     "MY_VOLUMIO": "MyVolumio",
@@ -1075,7 +1079,9 @@
     "DAC_OUTPUT_LEVEL_DOC": "Ställ in den interna DAC-utgångsnivån i Volt RMS, så att den matchar förstärkarens ingångskänslighet",
     "DISPLAY_UI_DOC": "Välj vilken typ av användargränssnitt som ska visas på displayen",
     "DISPLAY_UI2": "Display Användargränssnitt",
-    "DISPLAY_UI2_DOC": "Välj vilken typ av användargränssnitt som ska visas på displayen"
+    "DISPLAY_UI2_DOC": "Välj vilken typ av användargränssnitt som ska visas på displayen",
+    "STANDBY_SCREEN": "Standby-skärm",
+    "STANDBY_SCREEN_DOC": "Välj vad som ska visas på skärmen när enheten är i viloläge"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Bäst radio",
