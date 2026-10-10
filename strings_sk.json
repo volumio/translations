@@ -1099,7 +1099,9 @@
     "DISPLAY_UI2": "Používateľské rozhranie displeja",
     "DISPLAY_UI2_DOC": "Výber štýlu používateľského rozhrania, ktorý sa má zobraziť na displeji",
     "STANDBY_SCREEN": "Obrazovka v pohotovostnom režime",
-    "STANDBY_SCREEN_DOC": "Vyberte, čo sa má zobrazovať na displeji, keď je zariadenie v pohotovostnom režime"
+    "STANDBY_SCREEN_DOC": "Vyberte, čo sa má zobrazovať na displeji, keď je zariadenie v pohotovostnom režime",
+    "KNOB_BRIGHTNESS": "Jas ovládača",
+    "KNOB_BRIGHTNESS_DOC": "Nastavte jas displeja ovládača"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najlepšie rádia",

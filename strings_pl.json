@@ -1098,7 +1098,9 @@
     "DISPLAY_UI2": "Interfejs użytkownika wyświetlacza",
     "DISPLAY_UI2_DOC": "Wybór stylu interfejsu użytkownika wyświetlanego na ekranie",
     "STANDBY_SCREEN": "Ekran czuwania",
-    "STANDBY_SCREEN_DOC": "Wybierz, co ma być wyświetlane na ekranie, gdy urządzenie znajduje się w trybie czuwania"
+    "STANDBY_SCREEN_DOC": "Wybierz, co ma być wyświetlane na ekranie, gdy urządzenie znajduje się w trybie czuwania",
+    "KNOB_BRIGHTNESS": "Jasność pokrętła",
+    "KNOB_BRIGHTNESS_DOC": "Ustaw jasność wyświetlacza pokrętła"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najlepsze stacje radiowe",

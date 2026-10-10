@@ -965,7 +965,9 @@
     "DISPLAY_UI2": "Vis brugergrænseflade",
     "DISPLAY_UI2_DOC": "Vælg den brugergrænsefladestil, der skal vises på displayet",
     "STANDBY_SCREEN": "Standby-skærm",
-    "STANDBY_SCREEN_DOC": "Vælg, hvad der skal vises på skærmen, mens enheden er i standbytilstand"
+    "STANDBY_SCREEN_DOC": "Vælg, hvad der skal vises på skærmen, mens enheden er i standbytilstand",
+    "KNOB_BRIGHTNESS": "Knap til lysstyrke",
+    "KNOB_BRIGHTNESS_DOC": "Indstil lysstyrken på drejeknapdisplayet"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "De bedste radioer",

@@ -974,7 +974,9 @@
     "DISPLAY_UI2": "Brukergrensesnitt på skjermen",
     "DISPLAY_UI2_DOC": "Velg hvilken stil på brukergrensesnittet som skal vises på skjermen",
     "STANDBY_SCREEN": "Standby-skjerm",
-    "STANDBY_SCREEN_DOC": "Velg hva som skal vises på skjermen når enheten er i standby-modus"
+    "STANDBY_SCREEN_DOC": "Velg hva som skal vises på skjermen når enheten er i standby-modus",
+    "KNOB_BRIGHTNESS": "Justering av lysstyrke",
+    "KNOB_BRIGHTNESS_DOC": "Still inn lysstyrken på knottdisplayet"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "De beste radioene",

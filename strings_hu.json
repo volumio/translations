@@ -1098,7 +1098,9 @@
     "DISPLAY_UI2": "Felhasználói felület megjelenítése",
     "DISPLAY_UI2_DOC": "A kijelzőn megjelenítendő felhasználói felület stílusának kiválasztása",
     "STANDBY_SCREEN": "Készenléti képernyő",
-    "STANDBY_SCREEN_DOC": "Válassza ki, hogy mi jelenjen meg a kijelzőn, amikor a készülék készenléti állapotban van"
+    "STANDBY_SCREEN_DOC": "Válassza ki, hogy mi jelenjen meg a kijelzőn, amikor a készülék készenléti állapotban van",
+    "KNOB_BRIGHTNESS": "Gomb fényereje",
+    "KNOB_BRIGHTNESS_DOC": "A gomb kijelzőjének fényerejének beállítása"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Legjobb rádiók",

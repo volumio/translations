@@ -1104,7 +1104,9 @@
     "DISPLAY_UI2": "Interfaccia utente del display",
     "DISPLAY_UI2_DOC": "Selezionare lo stile dell'interfaccia utente da visualizzare sul display.",
     "STANDBY_SCREEN": "Schermata di standby",
-    "STANDBY_SCREEN_DOC": "Seleziona cosa mostra il display quando il dispositivo è in standby"
+    "STANDBY_SCREEN_DOC": "Seleziona cosa mostra il display quando il dispositivo è in standby",
+    "KNOB_BRIGHTNESS": "Luminosità del pomello",
+    "KNOB_BRIGHTNESS_DOC": "Imposta la luminosità del display della manopola"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Le Radio Migliori",

@@ -1098,7 +1098,9 @@
     "DISPLAY_UI2": "Giao diện người dùng hiển thị",
     "DISPLAY_UI2_DOC": "Chọn kiểu giao diện người dùng (User Interface) sẽ hiển thị trên màn hình.",
     "STANDBY_SCREEN": "Màn hình chờ",
-    "STANDBY_SCREEN_DOC": "Chọn nội dung hiển thị trên màn hình khi thiết bị ở chế độ chờ"
+    "STANDBY_SCREEN_DOC": "Chọn nội dung hiển thị trên màn hình khi thiết bị ở chế độ chờ",
+    "KNOB_BRIGHTNESS": "Nút điều chỉnh độ sáng",
+    "KNOB_BRIGHTNESS_DOC": "Điều chỉnh độ sáng của màn hình núm vặn"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Đài Radios tốt nhất",

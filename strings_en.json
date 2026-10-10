@@ -1151,7 +1151,9 @@
     "DISPLAY_UI2": "Display User Interface",
     "DISPLAY_UI2_DOC": "Select the User Interface style to be shown on the display",
     "STANDBY_SCREEN": "Standby Screen",
-    "STANDBY_SCREEN_DOC": "Select what the display shows while the device is in standby"
+    "STANDBY_SCREEN_DOC": "Select what the display shows while the device is in standby",
+    "KNOB_BRIGHTNESS": "Knob Brightness",
+    "KNOB_BRIGHTNESS_DOC": "Set the brightness of the knob display"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Best Radios",

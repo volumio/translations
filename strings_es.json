@@ -1098,7 +1098,9 @@
     "DISPLAY_UI2": "Pantalla Interfaz de usuario",
     "DISPLAY_UI2_DOC": "Seleccione el estilo de interfaz de usuario que se mostrará en la pantalla",
     "STANDBY_SCREEN": "Pantalla de espera",
-    "STANDBY_SCREEN_DOC": "Selecciona lo que se muestra en la pantalla mientras el dispositivo está en modo de espera"
+    "STANDBY_SCREEN_DOC": "Selecciona lo que se muestra en la pantalla mientras el dispositivo está en modo de espera",
+    "KNOB_BRIGHTNESS": "Brillo del mando",
+    "KNOB_BRIGHTNESS_DOC": "Ajusta el brillo de la pantalla del mando"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Mejores radios",

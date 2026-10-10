@@ -1013,7 +1013,9 @@
     "DISPLAY_UI2": "ディスプレイ・ユーザー・インターフェース",
     "DISPLAY_UI2_DOC": "ディスプレイに表示するユーザーインターフェースのスタイルを選択する。",
     "STANDBY_SCREEN": "スタンバイ画面",
-    "STANDBY_SCREEN_DOC": "デバイスがスタンバイ状態のときに画面に表示する内容を選択してください"
+    "STANDBY_SCREEN_DOC": "デバイスがスタンバイ状態のときに画面に表示する内容を選択してください",
+    "KNOB_BRIGHTNESS": "ノブの明るさ",
+    "KNOB_BRIGHTNESS_DOC": "ノブディスプレイの明るさを設定する"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "ベストラジオ",

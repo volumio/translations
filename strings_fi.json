@@ -974,7 +974,9 @@
     "DISPLAY_UI2": "Näyttö Käyttöliittymä",
     "DISPLAY_UI2_DOC": "Valitse näytössä näytettävä käyttöliittymätyyli.",
     "STANDBY_SCREEN": "Valmiustilan näyttö",
-    "STANDBY_SCREEN_DOC": "Valitse, mitä näytöllä näkyy, kun laite on valmiustilassa"
+    "STANDBY_SCREEN_DOC": "Valitse, mitä näytöllä näkyy, kun laite on valmiustilassa",
+    "KNOB_BRIGHTNESS": "Nupin kirkkaus",
+    "KNOB_BRIGHTNESS_DOC": "Säädä säätimen näytön kirkkautta"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Parhaat radiot",

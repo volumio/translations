@@ -1098,7 +1098,9 @@
     "DISPLAY_UI2": "디스플레이 사용자 인터페이스",
     "DISPLAY_UI2_DOC": "디스플레이에 표시할 사용자 인터페이스 스타일을 선택합니다.",
     "STANDBY_SCREEN": "대기 화면",
-    "STANDBY_SCREEN_DOC": "기기가 대기 모드일 때 화면에 표시될 내용을 선택하세요"
+    "STANDBY_SCREEN_DOC": "기기가 대기 모드일 때 화면에 표시될 내용을 선택하세요",
+    "KNOB_BRIGHTNESS": "노브 밝기",
+    "KNOB_BRIGHTNESS_DOC": "노브 디스플레이의 밝기 설정"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "베스트 라디오",

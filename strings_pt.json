@@ -974,7 +974,9 @@
     "DISPLAY_UI2": "Exibir a interface do utilizador",
     "DISPLAY_UI2_DOC": "Selecionar o estilo de interface do utilizador a ser apresentado no ecrã",
     "STANDBY_SCREEN": "Ecrã de espera",
-    "STANDBY_SCREEN_DOC": "Selecione o que aparece no ecrã enquanto o dispositivo estiver em modo de espera"
+    "STANDBY_SCREEN_DOC": "Selecione o que aparece no ecrã enquanto o dispositivo estiver em modo de espera",
+    "KNOB_BRIGHTNESS": "Brilho do botão",
+    "KNOB_BRIGHTNESS_DOC": "Definir o brilho do ecrã do botão"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Melhores rádios",

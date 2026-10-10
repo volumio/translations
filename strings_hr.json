@@ -1099,7 +1099,9 @@
     "DISPLAY_UI2": "Prikaz korisničkog sučelja",
     "DISPLAY_UI2_DOC": "Odaberite stil korisničkog sučelja koji će se prikazati na zaslonu.",
     "STANDBY_SCREEN": "Ekran mirovanja",
-    "STANDBY_SCREEN_DOC": "Odaberite što prikaz prikazuje dok je uređaj u stanju mirovanja"
+    "STANDBY_SCREEN_DOC": "Odaberite što prikaz prikazuje dok je uređaj u stanju mirovanja",
+    "KNOB_BRIGHTNESS": "Podešavanje svjetline",
+    "KNOB_BRIGHTNESS_DOC": "Postavite svjetlinu prikaza kotačića"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najbolje radio postaje",

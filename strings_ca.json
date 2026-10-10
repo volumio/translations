@@ -1099,7 +1099,9 @@
     "DISPLAY_UI2": "Interfície d'usuari de visualització",
     "DISPLAY_UI2_DOC": "Seleccioneu l'estil de la interfície d'usuari que es mostrarà a la pantalla.",
     "STANDBY_SCREEN": "Pantalla d'espera",
-    "STANDBY_SCREEN_DOC": "Seleccioneu què mostra la pantalla mentre el dispositiu està en espera."
+    "STANDBY_SCREEN_DOC": "Seleccioneu què mostra la pantalla mentre el dispositiu està en espera.",
+    "KNOB_BRIGHTNESS": "Botó de brillantor",
+    "KNOB_BRIGHTNESS_DOC": "Establiu la brillantor de la pantalla del botó"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Millors ràdios",

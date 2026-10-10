@@ -1062,7 +1062,9 @@
     "DISPLAY_UI2": "顯示使用者介面",
     "DISPLAY_UI2_DOC": "選擇要在螢幕上顯示的使用者介面樣式",
     "STANDBY_SCREEN": "待機畫面",
-    "STANDBY_SCREEN_DOC": "選擇裝置處於待機狀態時螢幕上顯示的內容"
+    "STANDBY_SCREEN_DOC": "選擇裝置處於待機狀態時螢幕上顯示的內容",
+    "KNOB_BRIGHTNESS": "亮度旋鈕",
+    "KNOB_BRIGHTNESS_DOC": "設定旋鈕顯示器的亮度"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "最佳收音機",

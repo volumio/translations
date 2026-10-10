@@ -1098,7 +1098,9 @@
     "DISPLAY_UI2": "Benutzeroberfläche anzeigen",
     "DISPLAY_UI2_DOC": "Wählen Sie den Stil der Benutzeroberfläche, der auf dem Display angezeigt werden soll",
     "STANDBY_SCREEN": "Standby-Bildschirm",
-    "STANDBY_SCREEN_DOC": "Wählen Sie aus, was auf dem Display angezeigt wird, während sich das Gerät im Standby-Modus befindet"
+    "STANDBY_SCREEN_DOC": "Wählen Sie aus, was auf dem Display angezeigt wird, während sich das Gerät im Standby-Modus befindet",
+    "KNOB_BRIGHTNESS": "Helligkeit des Reglers",
+    "KNOB_BRIGHTNESS_DOC": "Helligkeit des Drehregler-Displays einstellen"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Die besten Sender",

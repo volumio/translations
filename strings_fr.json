@@ -1101,7 +1101,9 @@
     "DISPLAY_UI2": "Affichage de l'interface utilisateur",
     "DISPLAY_UI2_DOC": "Sélectionner le style d'interface utilisateur à afficher sur l'écran",
     "STANDBY_SCREEN": "Écran de veille",
-    "STANDBY_SCREEN_DOC": "Sélectionnez ce qui s'affiche à l'écran lorsque l'appareil est en veille"
+    "STANDBY_SCREEN_DOC": "Sélectionnez ce qui s'affiche à l'écran lorsque l'appareil est en veille",
+    "KNOB_BRIGHTNESS": "Réglage de la luminosité",
+    "KNOB_BRIGHTNESS_DOC": "Régler la luminosité de l'écran du bouton"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Meilleures Radios",

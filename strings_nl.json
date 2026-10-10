@@ -1152,7 +1152,9 @@
     "DISPLAY_UI2": "Gebruikersinterface weergeven",
     "DISPLAY_UI2_DOC": "Selecteer de gebruikersinterfacestijl die op het scherm moet worden weergegeven",
     "STANDBY_SCREEN": "Stand-byscherm",
-    "STANDBY_SCREEN_DOC": "Kies wat er op het scherm wordt weergegeven terwijl het apparaat in de stand-bymodus staat"
+    "STANDBY_SCREEN_DOC": "Kies wat er op het scherm wordt weergegeven terwijl het apparaat in de stand-bymodus staat",
+    "KNOB_BRIGHTNESS": "Helderheid van de knop",
+    "KNOB_BRIGHTNESS_DOC": "Stel de helderheid van het display van de draaiknop in"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Beste radiostations",

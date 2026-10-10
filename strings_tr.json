@@ -1099,7 +1099,9 @@
     "DISPLAY_UI2": "Ekran Kullanıcı Arayüzü",
     "DISPLAY_UI2_DOC": "Ekranda gösterilecek Kullanıcı Arayüzü stilini seçin",
     "STANDBY_SCREEN": "Bekleme Ekranı",
-    "STANDBY_SCREEN_DOC": "Cihaz bekleme modundayken ekranda neyin gösterileceğini seçin"
+    "STANDBY_SCREEN_DOC": "Cihaz bekleme modundayken ekranda neyin gösterileceğini seçin",
+    "KNOB_BRIGHTNESS": "Düğme Parlaklığı",
+    "KNOB_BRIGHTNESS_DOC": "Düğme ekranının parlaklığını ayarlayın"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "En iyi Radyolar",

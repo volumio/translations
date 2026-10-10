@@ -1099,7 +1099,9 @@
     "DISPLAY_UI2": "显示用户界面",
     "DISPLAY_UI2_DOC": "选择要在显示屏上显示的用户界面样式",
     "STANDBY_SCREEN": "待机屏幕",
-    "STANDBY_SCREEN_DOC": "选择设备处于待机状态时屏幕上显示的内容"
+    "STANDBY_SCREEN_DOC": "选择设备处于待机状态时屏幕上显示的内容",
+    "KNOB_BRIGHTNESS": "旋钮亮度",
+    "KNOB_BRIGHTNESS_DOC": "设置旋钮显示屏的亮度"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "最佳收音机",

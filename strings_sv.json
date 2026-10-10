@@ -1099,7 +1099,9 @@
     "DISPLAY_UI2": "Display Användargränssnitt",
     "DISPLAY_UI2_DOC": "Välj vilken typ av användargränssnitt som ska visas på displayen",
     "STANDBY_SCREEN": "Standby-skärm",
-    "STANDBY_SCREEN_DOC": "Välj vad som ska visas på skärmen när enheten är i viloläge"
+    "STANDBY_SCREEN_DOC": "Välj vad som ska visas på skärmen när enheten är i viloläge",
+    "KNOB_BRIGHTNESS": "Reglage för ljusstyrka",
+    "KNOB_BRIGHTNESS_DOC": "Ställ in ljusstyrkan på vredets display"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Bäst radio",
