@@ -1101,7 +1101,15 @@
     "STANDBY_SCREEN": "Bekleme Ekranı",
     "STANDBY_SCREEN_DOC": "Cihaz bekleme modundayken ekranda neyin gösterileceğini seçin",
     "KNOB_BRIGHTNESS": "Düğme Parlaklığı",
-    "KNOB_BRIGHTNESS_DOC": "Düğme ekranının parlaklığını ayarlayın"
+    "KNOB_BRIGHTNESS_DOC": "Düğme ekranının parlaklığını ayarlayın",
+    "INTERNAL_SSD": "Dahili SSD",
+    "INTERNAL_SSD_FREE": "__SIZE__ boş",
+    "REINITIALIZE_SSD": "SSD’yi Yeniden Başlat",
+    "REINITIALIZE_SSD_DOC": "Dahili SSD’yi silin ve onu yeniden Dahili Depolama olarak hazırlayın",
+    "REINITIALIZE_SSD_CONFIRM": "Dahili SSD'deki tüm veriler silinecektir. Bu işlem geri alınamaz. Devam etmek istiyor musunuz?",
+    "REINITIALIZE_SSD_PROGRESS": "Dahili SSD yeniden başlatılıyor, lütfen bekleyin",
+    "REINITIALIZE_SSD_DONE": "Dahili SSD yeniden başlatıldı",
+    "REINITIALIZE_SSD_FAILED": "Dahili SSD’nin yeniden başlatılması başarısız oldu"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "En iyi Radyolar",

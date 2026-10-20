@@ -1153,7 +1153,15 @@
     "STANDBY_SCREEN": "Standby Screen",
     "STANDBY_SCREEN_DOC": "Select what the display shows while the device is in standby",
     "KNOB_BRIGHTNESS": "Knob Brightness",
-    "KNOB_BRIGHTNESS_DOC": "Set the brightness of the knob display"
+    "KNOB_BRIGHTNESS_DOC": "Set the brightness of the knob display",
+    "INTERNAL_SSD": "Internal SSD",
+    "INTERNAL_SSD_FREE": "__SIZE__ free",
+    "REINITIALIZE_SSD": "Reinitialize SSD",
+    "REINITIALIZE_SSD_DOC": "Erase the internal SSD and prepare it again as Internal Storage",
+    "REINITIALIZE_SSD_CONFIRM": "All data on the internal SSD will be erased. This cannot be undone. Do you want to continue?",
+    "REINITIALIZE_SSD_PROGRESS": "Reinitializing the internal SSD, please wait",
+    "REINITIALIZE_SSD_DONE": "Internal SSD reinitialized",
+    "REINITIALIZE_SSD_FAILED": "Internal SSD reinitialization failed"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Best Radios",

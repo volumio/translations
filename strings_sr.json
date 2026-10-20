@@ -1152,7 +1152,15 @@
     "STANDBY_SCREEN": "Екран у приправности",
     "STANDBY_SCREEN_DOC": "Изаберите шта приказ показује док је уређај у приправности.",
     "KNOB_BRIGHTNESS": "Подешавање осветљености",
-    "KNOB_BRIGHTNESS_DOC": "Подесите осветљеност дисплеја копче"
+    "KNOB_BRIGHTNESS_DOC": "Подесите осветљеност дисплеја копче",
+    "INTERNAL_SSD": "Унутрашњи SSD",
+    "INTERNAL_SSD_FREE": "__SIZE__ бесплатно",
+    "REINITIALIZE_SSD": "Поново иницирајте SSD",
+    "REINITIALIZE_SSD_DOC": "Избришите унутрашњи SSD и поново га припремите као унутрашњу меморију.",
+    "REINITIALIZE_SSD_CONFIRM": "Сви подаци на унутрашњем SSD-у ће бити избрисани. Ово се не може поништити. Да ли желите да наставите?",
+    "REINITIALIZE_SSD_PROGRESS": "Поновно иницијализовање унутрашњег SSD-а, молимо сачекајте",
+    "REINITIALIZE_SSD_DONE": "Унутрашњи SSD је поново иницијализован",
+    "REINITIALIZE_SSD_FAILED": "Унутрашња поновно иницирање SSD-а није успело"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Најбољи радији",

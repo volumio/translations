@@ -1103,7 +1103,15 @@
     "STANDBY_SCREEN": "Écran de veille",
     "STANDBY_SCREEN_DOC": "Sélectionnez ce qui s'affiche à l'écran lorsque l'appareil est en veille",
     "KNOB_BRIGHTNESS": "Réglage de la luminosité",
-    "KNOB_BRIGHTNESS_DOC": "Régler la luminosité de l'écran du bouton"
+    "KNOB_BRIGHTNESS_DOC": "Régler la luminosité de l'écran du bouton",
+    "INTERNAL_SSD": "SSD interne",
+    "INTERNAL_SSD_FREE": "__SIZE__ libre",
+    "REINITIALIZE_SSD": "Réinitialiser le SSD",
+    "REINITIALIZE_SSD_DOC": "Effacez le SSD interne et reconfigurez-le en tant que « Stockage interne »",
+    "REINITIALIZE_SSD_CONFIRM": "Toutes les données stockées sur le SSD interne seront effacées. Cette opération est irréversible. Souhaitez-vous continuer ?",
+    "REINITIALIZE_SSD_PROGRESS": "Réinitialisation du SSD interne en cours, veuillez patienter",
+    "REINITIALIZE_SSD_DONE": "Le SSD interne a été réinitialisé",
+    "REINITIALIZE_SSD_FAILED": "Échec de la réinitialisation du SSD interne"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Meilleures Radios",

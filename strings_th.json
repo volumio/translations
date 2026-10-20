@@ -1101,7 +1101,15 @@
     "STANDBY_SCREEN": "หน้าจอรอ",
     "STANDBY_SCREEN_DOC": "เลือกเนื้อหาที่จะแสดงบนหน้าจอเมื่ออุปกรณ์อยู่ในโหมดสแตนด์บาย",
     "KNOB_BRIGHTNESS": "ปุ่มปรับความสว่าง",
-    "KNOB_BRIGHTNESS_DOC": "ปรับความสว่างของหน้าจอแสดงผลบนปุ่มหมุน"
+    "KNOB_BRIGHTNESS_DOC": "ปรับความสว่างของหน้าจอแสดงผลบนปุ่มหมุน",
+    "INTERNAL_SSD": "SSD ภายใน",
+    "INTERNAL_SSD_FREE": "__SIZE__ ฟรี",
+    "REINITIALIZE_SSD": "ตั้งค่า SSD ให้กลับสู่สถานะเริ่มต้นใหม่",
+    "REINITIALIZE_SSD_DOC": "ลบข้อมูลบน SSD ภายใน และตั้งค่าใหม่ให้เป็นพื้นที่เก็บข้อมูลภายใน",
+    "REINITIALIZE_SSD_CONFIRM": "ข้อมูลทั้งหมดบน SSD ภายในจะถูกลบไปทั้งหมด การดำเนินการนี้ไม่สามารถย้อนกลับได้ คุณต้องการดำเนินการต่อหรือไม่?",
+    "REINITIALIZE_SSD_PROGRESS": "กำลังตั้งค่า SSD ภายในใหม่ โปรดรอสักครู่",
+    "REINITIALIZE_SSD_DONE": "SSD ภายในได้รับการรีเซ็ตแล้ว",
+    "REINITIALIZE_SSD_FAILED": "การรีเซ็ต SSD ภายในไม่สำเร็จ"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "วิทยุที่ดีที่สุด",

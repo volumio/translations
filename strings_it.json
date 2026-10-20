@@ -1106,7 +1106,15 @@
     "STANDBY_SCREEN": "Schermata di standby",
     "STANDBY_SCREEN_DOC": "Seleziona cosa mostra il display quando il dispositivo è in standby",
     "KNOB_BRIGHTNESS": "Luminosità del pomello",
-    "KNOB_BRIGHTNESS_DOC": "Imposta la luminosità del display della manopola"
+    "KNOB_BRIGHTNESS_DOC": "Imposta la luminosità del display della manopola",
+    "INTERNAL_SSD": "SSD interno",
+    "INTERNAL_SSD_FREE": "__SIZE__ libero",
+    "REINITIALIZE_SSD": "Reinizializza l'SSD",
+    "REINITIALIZE_SSD_DOC": "Cancella l'SSD interno e configuralo nuovamente come memoria interna",
+    "REINITIALIZE_SSD_CONFIRM": "Tutti i dati presenti sull'SSD interno verranno cancellati. Questa operazione non può essere annullata. Vuoi continuare?",
+    "REINITIALIZE_SSD_PROGRESS": "Reinizializzazione dell'SSD interno in corso, attendere prego",
+    "REINITIALIZE_SSD_DONE": "SSD interno reinizializzato",
+    "REINITIALIZE_SSD_FAILED": "Errore durante la reinizializzazione dell'SSD interno"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Le Radio Migliori",

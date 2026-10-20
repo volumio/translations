@@ -1100,7 +1100,15 @@
     "STANDBY_SCREEN": "대기 화면",
     "STANDBY_SCREEN_DOC": "기기가 대기 모드일 때 화면에 표시될 내용을 선택하세요",
     "KNOB_BRIGHTNESS": "노브 밝기",
-    "KNOB_BRIGHTNESS_DOC": "노브 디스플레이의 밝기 설정"
+    "KNOB_BRIGHTNESS_DOC": "노브 디스플레이의 밝기 설정",
+    "INTERNAL_SSD": "내장형 SSD",
+    "INTERNAL_SSD_FREE": "__SIZE__ 무료",
+    "REINITIALIZE_SSD": "SSD 재초기화",
+    "REINITIALIZE_SSD_DOC": "내장 SSD를 포맷하고 다시 내부 저장소로 설정하세요.",
+    "REINITIALIZE_SSD_CONFIRM": "내부 SSD에 저장된 모든 데이터가 삭제됩니다. 이 작업은 되돌릴 수 없습니다. 계속하시겠습니까?",
+    "REINITIALIZE_SSD_PROGRESS": "내장 SSD를 다시 초기화하고 있습니다. 잠시만 기다려 주십시오.",
+    "REINITIALIZE_SSD_DONE": "내장 SSD가 재초기화되었습니다.",
+    "REINITIALIZE_SSD_FAILED": "내부 SSD 재초기화에 실패했습니다."
   },
   "WEBRADIO": {
     "BEST_RADIOS": "베스트 라디오",

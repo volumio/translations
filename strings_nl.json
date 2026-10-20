@@ -1154,7 +1154,15 @@
     "STANDBY_SCREEN": "Stand-byscherm",
     "STANDBY_SCREEN_DOC": "Kies wat er op het scherm wordt weergegeven terwijl het apparaat in de stand-bymodus staat",
     "KNOB_BRIGHTNESS": "Helderheid van de knop",
-    "KNOB_BRIGHTNESS_DOC": "Stel de helderheid van het display van de draaiknop in"
+    "KNOB_BRIGHTNESS_DOC": "Stel de helderheid van het display van de draaiknop in",
+    "INTERNAL_SSD": "Interne SSD",
+    "INTERNAL_SSD_FREE": "__SIZE__ vrij",
+    "REINITIALIZE_SSD": "SSD opnieuw initialiseren",
+    "REINITIALIZE_SSD_DOC": "Wis de interne SSD en stel deze opnieuw in als interne opslag",
+    "REINITIALIZE_SSD_CONFIRM": "Alle gegevens op de interne SSD worden gewist. Dit kan niet ongedaan worden gemaakt. Wilt u doorgaan?",
+    "REINITIALIZE_SSD_PROGRESS": "De interne SSD wordt opnieuw geïnitialiseerd. Even geduld a.u.b.",
+    "REINITIALIZE_SSD_DONE": "Interne SSD opnieuw geïnitialiseerd",
+    "REINITIALIZE_SSD_FAILED": "Het opnieuw initialiseren van de interne SSD is mislukt"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Beste radiostations",

@@ -1101,7 +1101,15 @@
     "STANDBY_SCREEN": "Obrazovka v pohotovostnom režime",
     "STANDBY_SCREEN_DOC": "Vyberte, čo sa má zobrazovať na displeji, keď je zariadenie v pohotovostnom režime",
     "KNOB_BRIGHTNESS": "Jas ovládača",
-    "KNOB_BRIGHTNESS_DOC": "Nastavte jas displeja ovládača"
+    "KNOB_BRIGHTNESS_DOC": "Nastavte jas displeja ovládača",
+    "INTERNAL_SSD": "Interný SSD",
+    "INTERNAL_SSD_FREE": "__SIZE__ voľné",
+    "REINITIALIZE_SSD": "Znovu inicializovať SSD",
+    "REINITIALIZE_SSD_DOC": "Vymažte vnútorný SSD a znovu ho nastavte ako vnútorné úložisko",
+    "REINITIALIZE_SSD_CONFIRM": "Všetky údaje na internom SSD disku budú vymazané. Túto akciu nie je možné vrátiť späť. Chcete pokračovať?",
+    "REINITIALIZE_SSD_PROGRESS": "Prebieha reinicializácia interného SSD, prosím, počkajte",
+    "REINITIALIZE_SSD_DONE": "Vnútorný SSD bol znovu inicializovaný",
+    "REINITIALIZE_SSD_FAILED": "Zlyhala reinicializácia interného SSD"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najlepšie rádia",

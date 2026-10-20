@@ -1015,7 +1015,15 @@
     "STANDBY_SCREEN": "スタンバイ画面",
     "STANDBY_SCREEN_DOC": "デバイスがスタンバイ状態のときに画面に表示する内容を選択してください",
     "KNOB_BRIGHTNESS": "ノブの明るさ",
-    "KNOB_BRIGHTNESS_DOC": "ノブディスプレイの明るさを設定する"
+    "KNOB_BRIGHTNESS_DOC": "ノブディスプレイの明るさを設定する",
+    "INTERNAL_SSD": "内蔵SSD",
+    "INTERNAL_SSD_FREE": "__SIZE__ 空き容量",
+    "REINITIALIZE_SSD": "SSDを再初期化",
+    "REINITIALIZE_SSD_DOC": "内蔵SSDのデータを消去し、再び「内部ストレージ」として設定し直してください",
+    "REINITIALIZE_SSD_CONFIRM": "内蔵SSD上のすべてのデータが消去されます。この操作は元に戻せません。続行しますか？",
+    "REINITIALIZE_SSD_PROGRESS": "内蔵SSDを再初期化しています。しばらくお待ちください",
+    "REINITIALIZE_SSD_DONE": "内蔵SSDが再初期化されました",
+    "REINITIALIZE_SSD_FAILED": "内蔵SSDの再初期化に失敗しました"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "ベストラジオ",

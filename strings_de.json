@@ -1100,7 +1100,15 @@
     "STANDBY_SCREEN": "Standby-Bildschirm",
     "STANDBY_SCREEN_DOC": "Wählen Sie aus, was auf dem Display angezeigt wird, während sich das Gerät im Standby-Modus befindet",
     "KNOB_BRIGHTNESS": "Helligkeit des Reglers",
-    "KNOB_BRIGHTNESS_DOC": "Helligkeit des Drehregler-Displays einstellen"
+    "KNOB_BRIGHTNESS_DOC": "Helligkeit des Drehregler-Displays einstellen",
+    "INTERNAL_SSD": "Interne SSD",
+    "INTERNAL_SSD_FREE": "__SIZE__ frei",
+    "REINITIALIZE_SSD": "SSD neu initialisieren",
+    "REINITIALIZE_SSD_DOC": "Löschen Sie die interne SSD und richten Sie sie erneut als internen Speicher ein.",
+    "REINITIALIZE_SSD_CONFIRM": "Alle Daten auf der internen SSD werden gelöscht. Dieser Vorgang kann nicht rückgängig gemacht werden. Möchten Sie fortfahren?",
+    "REINITIALIZE_SSD_PROGRESS": "Die interne SSD wird neu initialisiert. Bitte warten Sie.",
+    "REINITIALIZE_SSD_DONE": "Interne SSD neu initialisiert",
+    "REINITIALIZE_SSD_FAILED": "Die Neuinitialisierung der internen SSD ist fehlgeschlagen"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Die besten Sender",

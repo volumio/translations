@@ -1101,7 +1101,15 @@
     "STANDBY_SCREEN": "待机屏幕",
     "STANDBY_SCREEN_DOC": "选择设备处于待机状态时屏幕上显示的内容",
     "KNOB_BRIGHTNESS": "旋钮亮度",
-    "KNOB_BRIGHTNESS_DOC": "设置旋钮显示屏的亮度"
+    "KNOB_BRIGHTNESS_DOC": "设置旋钮显示屏的亮度",
+    "INTERNAL_SSD": "内置固态硬盘",
+    "INTERNAL_SSD_FREE": "__SIZE__ 免费",
+    "REINITIALIZE_SSD": "重新初始化 SSD",
+    "REINITIALIZE_SSD_DOC": "擦除内部 SSD 并将其重新设置为内部存储",
+    "REINITIALIZE_SSD_CONFIRM": "内部 SSD 上的所有数据都将被清除。此操作无法撤销。是否要继续？",
+    "REINITIALIZE_SSD_PROGRESS": "正在重新初始化内部 SSD，请稍候",
+    "REINITIALIZE_SSD_DONE": "内部 SSD 已重新初始化",
+    "REINITIALIZE_SSD_FAILED": "内部 SSD 重新初始化失败"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "最佳收音机",

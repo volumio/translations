@@ -976,7 +976,15 @@
     "STANDBY_SCREEN": "Standby-skjerm",
     "STANDBY_SCREEN_DOC": "Velg hva som skal vises på skjermen når enheten er i standby-modus",
     "KNOB_BRIGHTNESS": "Justering av lysstyrke",
-    "KNOB_BRIGHTNESS_DOC": "Still inn lysstyrken på knottdisplayet"
+    "KNOB_BRIGHTNESS_DOC": "Still inn lysstyrken på knottdisplayet",
+    "INTERNAL_SSD": "Intern SSD",
+    "INTERNAL_SSD_FREE": "__SIZE__ ledig",
+    "REINITIALIZE_SSD": "Initialiser SSD på nytt",
+    "REINITIALIZE_SSD_DOC": "Slett den interne SSD-en og konfigurer den på nytt som intern lagringsplass",
+    "REINITIALIZE_SSD_CONFIRM": "Alle data på den interne SSD-en vil bli slettet. Dette kan ikke gjøres om. Vil du fortsette?",
+    "REINITIALIZE_SSD_PROGRESS": "Den interne SSD-en initialiseres på nytt. Vennligst vent",
+    "REINITIALIZE_SSD_DONE": "Intern SSD er blitt initialisert på nytt",
+    "REINITIALIZE_SSD_FAILED": "Det gikk ikke å starte den interne SSD-en på nytt"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "De beste radioene",

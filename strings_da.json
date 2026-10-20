@@ -967,7 +967,15 @@
     "STANDBY_SCREEN": "Standby-skærm",
     "STANDBY_SCREEN_DOC": "Vælg, hvad der skal vises på skærmen, mens enheden er i standbytilstand",
     "KNOB_BRIGHTNESS": "Knap til lysstyrke",
-    "KNOB_BRIGHTNESS_DOC": "Indstil lysstyrken på drejeknapdisplayet"
+    "KNOB_BRIGHTNESS_DOC": "Indstil lysstyrken på drejeknapdisplayet",
+    "INTERNAL_SSD": "Intern SSD",
+    "INTERNAL_SSD_FREE": "__SIZE__ ledig",
+    "REINITIALIZE_SSD": "Geninitialiser SSD’en",
+    "REINITIALIZE_SSD_DOC": "Slet den interne SSD, og konfigurer den igen som internt lager",
+    "REINITIALIZE_SSD_CONFIRM": "Alle data på den interne SSD vil blive slettet. Dette kan ikke fortrydes. Vil du fortsætte?",
+    "REINITIALIZE_SSD_PROGRESS": "Den interne SSD geninitialiseres. Vent venligst.",
+    "REINITIALIZE_SSD_DONE": "Intern SSD er blevet geninitialiseret",
+    "REINITIALIZE_SSD_FAILED": "Geninitialiseringen af den interne SSD mislykkedes"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "De bedste radioer",

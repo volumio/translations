@@ -1101,7 +1101,15 @@
     "STANDBY_SCREEN": "Pantalla d'espera",
     "STANDBY_SCREEN_DOC": "Seleccioneu què mostra la pantalla mentre el dispositiu està en espera.",
     "KNOB_BRIGHTNESS": "Botó de brillantor",
-    "KNOB_BRIGHTNESS_DOC": "Establiu la brillantor de la pantalla del botó"
+    "KNOB_BRIGHTNESS_DOC": "Establiu la brillantor de la pantalla del botó",
+    "INTERNAL_SSD": "SSD intern",
+    "INTERNAL_SSD_FREE": "__TAMANY__ gratuït",
+    "REINITIALIZE_SSD": "Reinicialitzar SSD",
+    "REINITIALIZE_SSD_DOC": "Esborra l'SSD intern i torna a preparar-lo com a emmagatzematge intern.",
+    "REINITIALIZE_SSD_CONFIRM": "Totes les dades de l'SSD intern s'esborraran. Això no es pot desfer. Vols continuar?",
+    "REINITIALIZE_SSD_PROGRESS": "Reinicialitzant l'SSD intern, si us plau espereu.",
+    "REINITIALIZE_SSD_DONE": "SSD intern reinicialitzat",
+    "REINITIALIZE_SSD_FAILED": "La reinicialització de l'SSD intern ha fallat"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Millors ràdios",

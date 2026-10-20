@@ -1101,7 +1101,15 @@
     "STANDBY_SCREEN": "Ekran mirovanja",
     "STANDBY_SCREEN_DOC": "Odaberite što prikaz prikazuje dok je uređaj u stanju mirovanja",
     "KNOB_BRIGHTNESS": "Podešavanje svjetline",
-    "KNOB_BRIGHTNESS_DOC": "Postavite svjetlinu prikaza kotačića"
+    "KNOB_BRIGHTNESS_DOC": "Postavite svjetlinu prikaza kotačića",
+    "INTERNAL_SSD": "Ugrađeni SSD",
+    "INTERNAL_SSD_FREE": "__VELIČINA__ besplatno",
+    "REINITIALIZE_SSD": "Ponovno inicijalizirajte SSD",
+    "REINITIALIZE_SSD_DOC": "Izbrišite interni SSD i ponovno ga pripremite kao internu pohranu.",
+    "REINITIALIZE_SSD_CONFIRM": "Svi podaci na internom SSD-u bit će izbrisani. Ovo se ne može poništiti. Želite li nastaviti?",
+    "REINITIALIZE_SSD_PROGRESS": "Ponovno inicijaliziranje internog SSD-a, molimo pričekajte",
+    "REINITIALIZE_SSD_DONE": "Unutarnji SSD je ponovno inicijaliziran",
+    "REINITIALIZE_SSD_FAILED": "Unutarnja ponovna inicijalizacija SSD-a nije uspjela"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najbolje radio postaje",

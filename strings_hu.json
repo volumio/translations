@@ -1100,7 +1100,15 @@
     "STANDBY_SCREEN": "Készenléti képernyő",
     "STANDBY_SCREEN_DOC": "Válassza ki, hogy mi jelenjen meg a kijelzőn, amikor a készülék készenléti állapotban van",
     "KNOB_BRIGHTNESS": "Gomb fényereje",
-    "KNOB_BRIGHTNESS_DOC": "A gomb kijelzőjének fényerejének beállítása"
+    "KNOB_BRIGHTNESS_DOC": "A gomb kijelzőjének fényerejének beállítása",
+    "INTERNAL_SSD": "Belső SSD",
+    "INTERNAL_SSD_FREE": "__SIZE__ szabad",
+    "REINITIALIZE_SSD": "Az SSD újraindítása",
+    "REINITIALIZE_SSD_DOC": "Törölje a beépített SSD-t, majd állítsa be újra belső tárhelyként",
+    "REINITIALIZE_SSD_CONFIRM": "A belső SSD-n található összes adat törlődik. Ez a művelet visszafordíthatatlan. Folytatni szeretné?",
+    "REINITIALIZE_SSD_PROGRESS": "A belső SSD újraindítása folyamatban van, kérjük, várjon",
+    "REINITIALIZE_SSD_DONE": "A belső SSD újraindítva",
+    "REINITIALIZE_SSD_FAILED": "A belső SSD újraindítása sikertelen volt"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Legjobb rádiók",

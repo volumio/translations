@@ -1057,7 +1057,15 @@
     "STANDBY_SCREEN": "Ekranas budėjimo režime",
     "STANDBY_SCREEN_DOC": "Pasirinkite, kas bus rodomas ekrane, kai prietaisas yra budėjimo režime",
     "KNOB_BRIGHTNESS": "Rankenėlės ryškumas",
-    "KNOB_BRIGHTNESS_DOC": "Nustatykite rankenėlės ekrano ryškumą"
+    "KNOB_BRIGHTNESS_DOC": "Nustatykite rankenėlės ekrano ryškumą",
+    "INTERNAL_SSD": "Vidinis SSD",
+    "INTERNAL_SSD_FREE": "__SIZE__ laisvos vietos",
+    "REINITIALIZE_SSD": "Iš naujo inicijuoti SSD",
+    "REINITIALIZE_SSD_DOC": "Ištrinkite vidinį SSD ir vėl jį paruoškite kaip vidinę saugyklą",
+    "REINITIALIZE_SSD_CONFIRM": "Visi duomenys vidiniame SSD diske bus ištrinti. Šio veiksmo atšaukti nebus galima. Ar norite tęsti?",
+    "REINITIALIZE_SSD_PROGRESS": "Atliekamas vidinio SSD iš naujo inicijavimas, prašome palaukti",
+    "REINITIALIZE_SSD_DONE": "Vidinį SSD diską iš naujo inicijuota",
+    "REINITIALIZE_SSD_FAILED": "Nepavyko iš naujo inicijuoti vidinio SSD disko"
   },
   "MAIN_MENU": {
     "ALARM": "Žadintuvas",

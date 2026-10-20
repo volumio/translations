@@ -1101,7 +1101,15 @@
     "STANDBY_SCREEN": "Standby-skärm",
     "STANDBY_SCREEN_DOC": "Välj vad som ska visas på skärmen när enheten är i viloläge",
     "KNOB_BRIGHTNESS": "Reglage för ljusstyrka",
-    "KNOB_BRIGHTNESS_DOC": "Ställ in ljusstyrkan på vredets display"
+    "KNOB_BRIGHTNESS_DOC": "Ställ in ljusstyrkan på vredets display",
+    "INTERNAL_SSD": "Intern SSD",
+    "INTERNAL_SSD_FREE": "__SIZE__ ledigt",
+    "REINITIALIZE_SSD": "Återställ SSD",
+    "REINITIALIZE_SSD_DOC": "Radera den interna SSD-enheten och konfigurera den på nytt som intern lagringsenhet",
+    "REINITIALIZE_SSD_CONFIRM": "Alla data på den interna SSD-enheten kommer att raderas. Detta går inte att ångra. Vill du fortsätta?",
+    "REINITIALIZE_SSD_PROGRESS": "Den interna SSD-enheten initialiseras om. Vänligen vänta.",
+    "REINITIALIZE_SSD_DONE": "Den interna SSD-enheten har återställts",
+    "REINITIALIZE_SSD_FAILED": "Omstart av den interna SSD-enheten misslyckades"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Bäst radio",

@@ -1100,7 +1100,15 @@
     "STANDBY_SCREEN": "Ekran czuwania",
     "STANDBY_SCREEN_DOC": "Wybierz, co ma być wyświetlane na ekranie, gdy urządzenie znajduje się w trybie czuwania",
     "KNOB_BRIGHTNESS": "Jasność pokrętła",
-    "KNOB_BRIGHTNESS_DOC": "Ustaw jasność wyświetlacza pokrętła"
+    "KNOB_BRIGHTNESS_DOC": "Ustaw jasność wyświetlacza pokrętła",
+    "INTERNAL_SSD": "Wewnętrzny dysk SSD",
+    "INTERNAL_SSD_FREE": "__SIZE__ wolne",
+    "REINITIALIZE_SSD": "Ponowna inicjalizacja dysku SSD",
+    "REINITIALIZE_SSD_DOC": "Skasuj zawartość wewnętrznego dysku SSD i ponownie skonfiguruj go jako pamięć wewnętrzną",
+    "REINITIALIZE_SSD_CONFIRM": "Wszystkie dane z wewnętrznego dysku SSD zostaną usunięte. Czynności tej nie da się cofnąć. Czy chcesz kontynuować?",
+    "REINITIALIZE_SSD_PROGRESS": "Trwa ponowna inicjalizacja wewnętrznego dysku SSD. Proszę poczekać.",
+    "REINITIALIZE_SSD_DONE": "Wewnętrzny dysk SSD został ponownie zainicjowany",
+    "REINITIALIZE_SSD_FAILED": "Nie udało się ponownie zainicjować wewnętrznego dysku SSD"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najlepsze stacje radiowe",

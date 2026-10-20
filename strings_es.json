@@ -1100,7 +1100,15 @@
     "STANDBY_SCREEN": "Pantalla de espera",
     "STANDBY_SCREEN_DOC": "Selecciona lo que se muestra en la pantalla mientras el dispositivo está en modo de espera",
     "KNOB_BRIGHTNESS": "Brillo del mando",
-    "KNOB_BRIGHTNESS_DOC": "Ajusta el brillo de la pantalla del mando"
+    "KNOB_BRIGHTNESS_DOC": "Ajusta el brillo de la pantalla del mando",
+    "INTERNAL_SSD": "SSD interno",
+    "INTERNAL_SSD_FREE": "__SIZE__ libre",
+    "REINITIALIZE_SSD": "Reinicializar el SSD",
+    "REINITIALIZE_SSD_DOC": "Borra el SSD interno y vuelve a configurarlo como almacenamiento interno",
+    "REINITIALIZE_SSD_CONFIRM": "Se borrarán todos los datos del SSD interno. Esta acción no se puede revertir. ¿Deseas continuar?",
+    "REINITIALIZE_SSD_PROGRESS": "Se está reinicializando el SSD interno. Por favor, espera.",
+    "REINITIALIZE_SSD_DONE": "Se ha reinicializado el SSD interno",
+    "REINITIALIZE_SSD_FAILED": "Error al reiniciar el SSD interno"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Mejores radios",
