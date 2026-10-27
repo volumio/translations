@@ -274,7 +274,8 @@
     "UPDATING_PLUGIN_FILES": "Đang cập nhật file tiện ích",
     "CHECKING_DEPENDENCIES": "Kiểm tra xem plugin có tương thích với phiên bản Volumio này hay không.",
     "PLUGIN_LOGIN_MESSAGE": "Để truy cập cửa hàng plugin, bạn cần <a href=\"/myvolumio/signup\">đăng nhập vào MyVolumio</a>",
-    "PLUGIN_LOGIN": "Vui lòng đăng nhập"
+    "PLUGIN_LOGIN": "Vui lòng đăng nhập",
+    "WAITING_FOR_RUNNING_INSTALL": "Một plugin khác đang được cài đặt; plugin này sẽ bắt đầu chạy ngay sau khi quá trình cài đặt kia hoàn tất"
   },
   "UPDATER": {
     "DOWNLOAD_SPEED": "Tốc độ tải xuống",

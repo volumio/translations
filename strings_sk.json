@@ -274,7 +274,8 @@
     "UPDATING_PLUGIN_FILES": "Aktualizáciu súborov pluginu",
     "CHECKING_DEPENDENCIES": "Kontrola, či je zásuvný modul vhodný pre túto verziu aplikácie Volumio",
     "PLUGIN_LOGIN_MESSAGE": "Ak chcete získať prístup do obchodu so zásuvnými modulmi, musíte sa <a href=\"/myvolumio/signup\">prihlásiť do MyVolumio</a>",
-    "PLUGIN_LOGIN": "Prihláste sa, prosím"
+    "PLUGIN_LOGIN": "Prihláste sa, prosím",
+    "WAITING_FOR_RUNNING_INSTALL": "Inštaluje sa ďalší doplnok; tento sa spustí hneď, ako sa dokončí inštalácia predchádzajúceho doplnku"
   },
   "UPDATER": {
     "DOWNLOAD_SPEED": "Rýchlosť sťahovania",

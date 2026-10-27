@@ -274,7 +274,8 @@
     "UPDATING_PLUGIN_FILES": "Beépülő fájlok frissítése",
     "CHECKING_DEPENDENCIES": "Annak ellenőrzése, hogy a plugin alkalmas-e a Volumio adott verziójához",
     "PLUGIN_LOGIN_MESSAGE": "A bővítménytárhoz való hozzáféréshez <a href=\"/myvolumio/signup\">be kell jelentkeznie a MyVolumio rendszerbe</a>.",
-    "PLUGIN_LOGIN": "Kérjük, jelentkezzen be"
+    "PLUGIN_LOGIN": "Kérjük, jelentkezzen be",
+    "WAITING_FOR_RUNNING_INSTALL": "Egy újabb bővítmény telepítése folyamatban van; ez az előző befejezése után azonnal elindul"
   },
   "UPDATER": {
     "DOWNLOAD_SPEED": "Vissza a beépülőkhöz",

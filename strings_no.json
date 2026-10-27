@@ -274,7 +274,8 @@
     "UPDATING_PLUGIN_FILES": "Oppdatering av plugin-filer",
     "CHECKING_DEPENDENCIES": "Kontrollere at plugin-modulen er kompatibel med denne versjonen av Volumio",
     "PLUGIN_LOGIN_MESSAGE": "For å få tilgang til plugin-butikken må du <a href=\"/myvolumio/signup\">logge inn på MyVolumio</a>",
-    "PLUGIN_LOGIN": "Vennligst logg inn"
+    "PLUGIN_LOGIN": "Vennligst logg inn",
+    "WAITING_FOR_RUNNING_INSTALL": "Det installeres et nytt plugin; dette starter så snart den forrige installasjonen er fullført"
   },
   "UPDATER": {
     "DOWNLOAD_SPEED": "Tilbake til Plugins",

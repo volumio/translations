@@ -409,7 +409,8 @@
     "UNINSTALLING_PLUGIN": "Деинсталирање додатка",
     "UNPACKING_PLUGIN": "Распаковање додатка",
     "UPDATING_PLUGIN": "Ажурирање додатка",
-    "UPDATING_PLUGIN_FILES": "Ажурирање фајлова додатка"
+    "UPDATING_PLUGIN_FILES": "Ажурирање фајлова додатка",
+    "WAITING_FOR_RUNNING_INSTALL": "Инсталира се још један додатак, овај ће почети чим се онај заврши."
   },
   "UPDATER": {
     "DOWNLOAD_SPEED": "Брзина преузимања",

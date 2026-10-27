@@ -274,7 +274,8 @@
     "UPDATING_PLUGIN_FILES": "Lisäosatiedostojen päivittäminen",
     "CHECKING_DEPENDENCIES": "Tarkistetaan, että lisäosa sopii Volumion tähän versioon.",
     "PLUGIN_LOGIN_MESSAGE": "Päästäksesi lisäosien kauppaan sinun on <a href=\"/myvolumio/signup\">kirjauduttava sisään MyVolumioon</a>.",
-    "PLUGIN_LOGIN": "Kirjaudu sisään"
+    "PLUGIN_LOGIN": "Kirjaudu sisään",
+    "WAITING_FOR_RUNNING_INSTALL": "Toinen laajennus on asennettavana; tämä käynnistyy heti, kun edellinen on valmis"
   },
   "UPDATER": {
     "DOWNLOAD_SPEED": "Latausnopeus",

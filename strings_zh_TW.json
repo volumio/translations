@@ -274,7 +274,8 @@
     "UPDATING_PLUGIN_FILES": "更新外掛程式檔案",
     "CHECKING_DEPENDENCIES": "確認此外掛程式是否適用於此版本的 Volumio",
     "PLUGIN_LOGIN_MESSAGE": "若要存取外掛程式商店，您需要<a href=\"/myvolumio/signup\">登入 MyVolumio</a>",
-    "PLUGIN_LOGIN": "請登入"
+    "PLUGIN_LOGIN": "請登入",
+    "WAITING_FOR_RUNNING_INSTALL": "正在安裝另一個外掛程式，這個外掛程式會在剛才那個安裝完成後立即開始運作"
   },
   "UPDATER": {
     "DOWNLOAD_SPEED": "回到外掛列表",

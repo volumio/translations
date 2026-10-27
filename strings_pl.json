@@ -274,7 +274,8 @@
     "UPDATING_PLUGIN_FILES": "Aktualizowanie plików wtyczki",
     "CHECKING_DEPENDENCIES": "Sprawdzenie, czy wtyczka jest odpowiednia dla tej wersji Volumio",
     "PLUGIN_LOGIN_MESSAGE": "Aby uzyskać dostęp do sklepu z wtyczkami, należy <a href=\"/myvolumio/signup\">zalogować się do MyVolumio</a>.",
-    "PLUGIN_LOGIN": "Zaloguj się"
+    "PLUGIN_LOGIN": "Zaloguj się",
+    "WAITING_FOR_RUNNING_INSTALL": "Trwa instalacja kolejnej wtyczki; ta uruchomi się zaraz po zakończeniu poprzedniej"
   },
   "UPDATER": {
     "DOWNLOAD_SPEED": "Szybkość pobierania",

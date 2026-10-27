@@ -274,7 +274,8 @@
     "UPDATING_PLUGIN_FILES": "플러그인 파일 업데이트 중",
     "CHECKING_DEPENDENCIES": "플러그인이 이 버전의 Volumio에 적합한지 확인합니다.",
     "PLUGIN_LOGIN_MESSAGE": "플러그인 스토어에 액세스하려면 <a href=\"/myvolumio/signup\">MyVolumio에 로그인</a>해야 합니다.",
-    "PLUGIN_LOGIN": "로그인하세요"
+    "PLUGIN_LOGIN": "로그인하세요",
+    "WAITING_FOR_RUNNING_INSTALL": "다른 플러그인이 설치 중이며, 이 플러그인은 설치가 완료되는 즉시 실행됩니다."
   },
   "UPDATER": {
     "DOWNLOAD_SPEED": "다운로드 속도",

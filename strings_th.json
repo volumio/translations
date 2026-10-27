@@ -274,7 +274,8 @@
     "UPDATING_PLUGIN_FILES": "กําลังอัปเดตไฟล์ปลั๊กอิน",
     "CHECKING_DEPENDENCIES": "ตรวจสอบว่าปลั๊กอินนี้เหมาะกับเวอร์ชันของ Volumio นี้",
     "PLUGIN_LOGIN_MESSAGE": "เพื่อเข้าถึงร้านค้าปลั๊กอิน คุณจำเป็นต้อง <a href=\"/myvolumio/signup\">เข้าสู่ระบบ MyVolumio ของคุณ</a>",
-    "PLUGIN_LOGIN": "กรุณาเข้าสู่ระบบ"
+    "PLUGIN_LOGIN": "กรุณาเข้าสู่ระบบ",
+    "WAITING_FOR_RUNNING_INSTALL": "กำลังติดตั้งปลั๊กอินอีกตัวหนึ่ง ซึ่งปลั๊กอินนี้จะเริ่มทำงานทันทีที่การติดตั้งตัวนั้นเสร็จสิ้น"
   },
   "UPDATER": {
     "DOWNLOAD_SPEED": "ความเร็วในการดาวน์โหลด",

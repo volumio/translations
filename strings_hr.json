@@ -274,7 +274,8 @@
     "UPDATING_PLUGIN_FILES": "Ažuriranje datoteka dodatka",
     "CHECKING_DEPENDENCIES": "Provjera je li dodatak prikladan za ovu verziju Volumia",
     "PLUGIN_LOGIN_MESSAGE": "Za pristup trgovini dodataka potrebno je <a href=\"/myvolumio/signup\">prijaviti</a> se<a href=\"/myvolumio/signup\"> na MyVolumio.</a>",
-    "PLUGIN_LOGIN": "Molimo prijavite se"
+    "PLUGIN_LOGIN": "Molimo prijavite se",
+    "WAITING_FOR_RUNNING_INSTALL": "Instalira se još jedan dodatak, ovaj će se pokrenuti čim se on završi."
   },
   "UPDATER": {
     "DOWNLOAD_SPEED": "Brzina preuzimanja",

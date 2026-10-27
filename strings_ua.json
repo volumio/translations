@@ -274,7 +274,8 @@
     "UPDATING_PLUGIN_FILES": "Оновлення файлів плагінів",
     "CHECKING_DEPENDENCIES": "Перевірка сумісності плагіна з цією версією Volumio",
     "PLUGIN_LOGIN_MESSAGE": "Щоб отримати доступ до магазину плагінів, потрібно <a href=\"/myvolumio/signup\">увійти в систему MyVolumio</a>",
-    "PLUGIN_LOGIN": "Будь ласка, увійдіть"
+    "PLUGIN_LOGIN": "Будь ласка, увійдіть",
+    "WAITING_FOR_RUNNING_INSTALL": "Зараз встановлюється ще один плагін; цей запуститься, щойно завершиться попереднє встановлення"
   },
   "UPDATER": {
     "DOWNLOAD_SPEED": "Швидкість завантаження",

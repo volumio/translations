@@ -327,7 +327,8 @@
     "UPDATING_PLUGIN_FILES": "Plug-in bestanden updaten",
     "CHECKING_DEPENDENCIES": "Controleren of de plugin geschikt is voor deze versie van Volumio",
     "PLUGIN_LOGIN_MESSAGE": "Om toegang te krijgen tot de plugins store moet je <a href=\"/myvolumio/signup\">inloggen bij MyVolumio</a>",
-    "PLUGIN_LOGIN": "Inloggen"
+    "PLUGIN_LOGIN": "Inloggen",
+    "WAITING_FOR_RUNNING_INSTALL": "Er wordt nog een plug-in geïnstalleerd; deze start zodra de vorige klaar is"
   },
   "UPDATER": {
     "DOWNLOAD_SPEED": "Terug naar plug-ins",

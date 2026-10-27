@@ -274,7 +274,8 @@
     "UPDATING_PLUGIN_FILES": "Eklenti dosyalarını güncelleme",
     "CHECKING_DEPENDENCIES": "Eklentinin Volumio'nun bu sürümü için uygun olup olmadığını kontrol etme",
     "PLUGIN_LOGIN_MESSAGE": "Eklentiler mağazasına erişmek için <a href=\"/myvolumio/signup\">MyVolumio'da oturum açmanız</a> gerekir",
-    "PLUGIN_LOGIN": "Lütfen giriş yapın"
+    "PLUGIN_LOGIN": "Lütfen giriş yapın",
+    "WAITING_FOR_RUNNING_INSTALL": "Başka bir eklenti yükleniyor; bu eklenti, o yükleme biter bitmez çalışmaya başlayacak"
   },
   "UPDATER": {
     "DOWNLOAD_SPEED": "İndirme hızı",

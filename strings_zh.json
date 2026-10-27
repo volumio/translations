@@ -274,7 +274,8 @@
     "UPDATING_PLUGIN_FILES": "更新插件文件",
     "CHECKING_DEPENDENCIES": "检查该插件是否适用于该版本的Volumio",
     "PLUGIN_LOGIN_MESSAGE": "要访问插件商店，您需要<a href=\"/myvolumio/signup\">登录到MyVolumio</a>。",
-    "PLUGIN_LOGIN": "请登录"
+    "PLUGIN_LOGIN": "请登录",
+    "WAITING_FOR_RUNNING_INSTALL": "正在安装另一个插件，该插件将在前一个安装完成后立即启动"
   },
   "UPDATER": {
     "DOWNLOAD_SPEED": "返回插件列表",

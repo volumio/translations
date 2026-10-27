@@ -94,7 +94,8 @@
     "UNINSTALLING_PLUGIN": "Įskiepio pašalinimas",
     "UNPACKING_PLUGIN": "Įskiepio išpakavimas",
     "UPDATING_PLUGIN": "Įskiepio atnaujinimas",
-    "UPDATING_PLUGIN_FILES": "Įskiepių failų atnaujinimas"
+    "UPDATING_PLUGIN_FILES": "Įskiepių failų atnaujinimas",
+    "WAITING_FOR_RUNNING_INSTALL": "Įdiegiamas dar vienas papildinys; šis paleis, kai tik bus baigtas ankstesnis"
   },
   "UPDATER": {
     "UPDATE_NOW": "Atnaujinti dabar",

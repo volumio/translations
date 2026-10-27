@@ -274,7 +274,8 @@
     "UPDATING_PLUGIN_FILES": "Actualitzar arxius del complement",
     "CHECKING_DEPENDENCIES": "Comprovar que el connector és adequat per a aquesta versió de Volumio",
     "PLUGIN_LOGIN_MESSAGE": "Per accedir a la botiga de complements, cal iniciar <a href=\"/myvolumio/signup\">sessió a MyVolumio.</a>",
-    "PLUGIN_LOGIN": "Inicieu la sessió, si us plau"
+    "PLUGIN_LOGIN": "Inicieu la sessió, si us plau",
+    "WAITING_FOR_RUNNING_INSTALL": "S'està instal·lant un altre complement; aquest començarà tan bon punt s'acabi."
   },
   "UPDATER": {
     "DOWNLOAD_SPEED": "Velocitat de descàrrega",

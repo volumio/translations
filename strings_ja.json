@@ -274,7 +274,8 @@
     "UPDATING_PLUGIN_FILES": "更新中",
     "CHECKING_DEPENDENCIES": "このバージョンのVolumioに適合するか依存関係を確認しています",
     "PLUGIN_LOGIN_MESSAGE": "プラグインストアにアクセスするには<a href=\"/myvolumio/signup\">MyVolumioにログイン</a>が必要です",
-    "PLUGIN_LOGIN": "ログインしてください"
+    "PLUGIN_LOGIN": "ログインしてください",
+    "WAITING_FOR_RUNNING_INSTALL": "別のプラグインがインストールされています。このプラグインは、そのインストールが完了次第、すぐに起動します。"
   },
   "UPDATER": {
     "DOWNLOAD_SPEED": "ダウンロード速度",

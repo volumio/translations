@@ -274,7 +274,8 @@
     "UPDATING_PLUGIN_FILES": "Actualizar archivos del complemento",
     "CHECKING_DEPENDENCIES": "Comprobación de que el plugin es adecuado para esta versión de Volumio",
     "PLUGIN_LOGIN_MESSAGE": "Para acceder a la tienda de plugins necesitas <a href=\"/myvolumio/signup\">iniciar sesión en MyVolumio</a>.",
-    "PLUGIN_LOGIN": "Inicie sesión"
+    "PLUGIN_LOGIN": "Inicie sesión",
+    "WAITING_FOR_RUNNING_INSTALL": "Se está instalando otro complemento; este se iniciará en cuanto termine el anterior."
   },
   "UPDATER": {
     "DOWNLOAD_SPEED": "Velocidad de descarga",

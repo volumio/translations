@@ -274,7 +274,8 @@
     "UPDATING_PLUGIN_FILES": "Ενημέρωση αρχείων προσθηκών",
     "CHECKING_DEPENDENCIES": "Επαλήθευση ότι το πρόσθετο είναι συμβατό με αυτή την έκδοση του Volumio",
     "PLUGIN_LOGIN_MESSAGE": "Για να αποκτήσετε πρόσβαση στο κατάστημα προσθηκών, πρέπει να <a href=\"/myvolumio/signup\">συνδεθείτε στο MyVolumio</a>",
-    "PLUGIN_LOGIN": "Παρακαλώ συνδεθείτε"
+    "PLUGIN_LOGIN": "Παρακαλώ συνδεθείτε",
+    "WAITING_FOR_RUNNING_INSTALL": "Εγκαθίσταται ένα άλλο πρόσθετο· αυτό θα ξεκινήσει αμέσως μόλις ολοκληρωθεί η προηγούμενη εγκατάσταση"
   },
   "UPDATER": {
     "DOWNLOAD_SPEED": "Επιστροφή στα Plugins",
