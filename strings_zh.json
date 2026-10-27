@@ -870,7 +870,11 @@
     "DISPLAY_VISUALIZER_METERS": "米",
     "DISPLAY_VISUALIZER_PANELS": "面板",
     "DISPLAY_VISUALIZER_SLEEVE": "套筒",
-    "DISPLAY_VISUALIZER_VU": "VU"
+    "DISPLAY_VISUALIZER_VU": "VU",
+    "DISPLAY_METER": "米",
+    "DISPLAY_METER_DOC": "峰值（Peak）跟随最响的采样信号。均方根（RMS）跟随平均电平，就像VU表的读数一样。",
+    "DISPLAY_METER_PEAK": "峰值",
+    "DISPLAY_METER_RMS": "RMS"
   },
   "MAIN_MENU": {
     "ALARM": "闹钟",

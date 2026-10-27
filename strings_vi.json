@@ -869,7 +869,11 @@
     "DISPLAY_VISUALIZER_METERS": "Mét",
     "DISPLAY_VISUALIZER_PANELS": "Tấm",
     "DISPLAY_VISUALIZER_SLEEVE": "Ống tay",
-    "DISPLAY_VISUALIZER_VU": "VU"
+    "DISPLAY_VISUALIZER_VU": "VU",
+    "DISPLAY_METER": "Mét",
+    "DISPLAY_METER_DOC": "Peak phản ánh mức âm lượng cao nhất của mẫu âm thanh. RMS phản ánh mức âm lượng trung bình, giống như cách hiển thị trên đồng hồ VU.",
+    "DISPLAY_METER_PEAK": "Đỉnh",
+    "DISPLAY_METER_RMS": "RMS"
   },
   "MAIN_MENU": {
     "ALARM": "Báo thức",

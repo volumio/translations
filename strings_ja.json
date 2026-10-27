@@ -538,7 +538,11 @@
     "DISPLAY_VISUALIZER_METERS": "メートル",
     "DISPLAY_VISUALIZER_PANELS": "パネル",
     "DISPLAY_VISUALIZER_SLEEVE": "スリーブ",
-    "DISPLAY_VISUALIZER_VU": "VU"
+    "DISPLAY_VISUALIZER_VU": "VU",
+    "DISPLAY_METER": "メーター",
+    "DISPLAY_METER_DOC": "ピークは最も大きなサンプル値に基づきます。RMSは平均レベルに基づいており、VUメーターの表示と同じ仕組みです。",
+    "DISPLAY_METER_PEAK": "ピーク",
+    "DISPLAY_METER_RMS": "RMS"
   },
   "MAIN_MENU": {
     "ALARM": "アラーム",

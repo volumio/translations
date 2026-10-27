@@ -923,7 +923,11 @@
     "DISPLAY_VISUALIZER_METERS": "Meters",
     "DISPLAY_VISUALIZER_PANELS": "Panelen",
     "DISPLAY_VISUALIZER_SLEEVE": "Mouw",
-    "DISPLAY_VISUALIZER_VU": "VU"
+    "DISPLAY_VISUALIZER_VU": "VU",
+    "DISPLAY_METER": "Meter",
+    "DISPLAY_METER_DOC": "Peak geeft het luidste geluidsfragment weer. RMS geeft het gemiddelde niveau weer, net zoals een VU-meter dat doet.",
+    "DISPLAY_METER_PEAK": "Piek",
+    "DISPLAY_METER_RMS": "RMS"
   },
   "MAIN_MENU": {
     "ALARM": "Wekker",

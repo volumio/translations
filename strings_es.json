@@ -869,7 +869,11 @@
     "DISPLAY_VISUALIZER_METERS": "Metros",
     "DISPLAY_VISUALIZER_PANELS": "Paneles",
     "DISPLAY_VISUALIZER_SLEEVE": "Manga",
-    "DISPLAY_VISUALIZER_VU": "VU"
+    "DISPLAY_VISUALIZER_VU": "VU",
+    "DISPLAY_METER": "Medidor",
+    "DISPLAY_METER_DOC": "El valor «Peak» corresponde a la muestra más alta. El valor «RMS» corresponde al nivel medio, tal y como lo indica un medidor VU.",
+    "DISPLAY_METER_PEAK": "Pico",
+    "DISPLAY_METER_RMS": "RMS"
   },
   "MAIN_MENU": {
     "ALARM": "Alarma",

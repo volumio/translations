@@ -870,7 +870,11 @@
     "DISPLAY_VISUALIZER_METERS": "Mjerači",
     "DISPLAY_VISUALIZER_PANELS": "Paneli",
     "DISPLAY_VISUALIZER_SLEEVE": "Navlaka",
-    "DISPLAY_VISUALIZER_VU": "VU"
+    "DISPLAY_VISUALIZER_VU": "VU",
+    "DISPLAY_METER": "Meter",
+    "DISPLAY_METER_DOC": "Peak prati najglasniji uzorak. RMS prati prosječnu razinu, kao što VU mjerač prikazuje.",
+    "DISPLAY_METER_PEAK": "Vrh",
+    "DISPLAY_METER_RMS": "RMS"
   },
   "MAIN_MENU": {
     "ALARM": "Budilica",

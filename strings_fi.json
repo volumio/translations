@@ -500,7 +500,11 @@
     "DISPLAY_VISUALIZER_METERS": "Metrit",
     "DISPLAY_VISUALIZER_PANELS": "Paneelit",
     "DISPLAY_VISUALIZER_SLEEVE": "Hiha",
-    "DISPLAY_VISUALIZER_VU": "VU"
+    "DISPLAY_VISUALIZER_VU": "VU",
+    "DISPLAY_METER": "Mittari",
+    "DISPLAY_METER_DOC": "Peak-arvo perustuu äänekkäimpään näytteeseen. RMS-arvo perustuu keskimääräiseen tasoon, samalla tavalla kuin VU-mittari näyttää.",
+    "DISPLAY_METER_PEAK": "Huippu",
+    "DISPLAY_METER_RMS": "RMS"
   },
   "MAIN_MENU": {
     "ALARM": "Herätys",

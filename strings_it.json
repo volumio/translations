@@ -875,7 +875,11 @@
     "DISPLAY_VISUALIZER_METERS": "Metri",
     "DISPLAY_VISUALIZER_PANELS": "Pannelli",
     "DISPLAY_VISUALIZER_SLEEVE": "Manica",
-    "DISPLAY_VISUALIZER_VU": "VU"
+    "DISPLAY_VISUALIZER_VU": "VU",
+    "DISPLAY_METER": "Contatore",
+    "DISPLAY_METER_DOC": "Il valore di picco corrisponde al campione più forte. Il valore RMS corrisponde al livello medio, proprio come indica un misuratore VU.",
+    "DISPLAY_METER_PEAK": "Picco",
+    "DISPLAY_METER_RMS": "RMS"
   },
   "MAIN_MENU": {
     "ALARM": "Sveglie",

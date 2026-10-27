@@ -588,7 +588,11 @@
     "DISPLAY_VISUALIZER_METERS": "公尺",
     "DISPLAY_VISUALIZER_PANELS": "面板",
     "DISPLAY_VISUALIZER_SLEEVE": "套筒",
-    "DISPLAY_VISUALIZER_VU": "VU"
+    "DISPLAY_VISUALIZER_VU": "VU",
+    "DISPLAY_METER": "計量器",
+    "DISPLAY_METER_DOC": "「峰值」跟隨最響亮的樣本。「RMS」則跟隨平均電平，就像 VU 表的讀數一樣。",
+    "DISPLAY_METER_PEAK": "高峰",
+    "DISPLAY_METER_RMS": "RMS"
   },
   "MAIN_MENU": {
     "ALARM": "鬧鐘",

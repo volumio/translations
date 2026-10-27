@@ -869,7 +869,11 @@
     "DISPLAY_VISUALIZER_METERS": "Méter",
     "DISPLAY_VISUALIZER_PANELS": "Panelek",
     "DISPLAY_VISUALIZER_SLEEVE": "Hüvely",
-    "DISPLAY_VISUALIZER_VU": "VU"
+    "DISPLAY_VISUALIZER_VU": "VU",
+    "DISPLAY_METER": "Mérő",
+    "DISPLAY_METER_DOC": "A „Peak” a leghangosabb mintát követi. Az „RMS” az átlagos szintet követi, ahogyan azt a VU-mérő is jelzi.",
+    "DISPLAY_METER_PEAK": "Csúcs",
+    "DISPLAY_METER_RMS": "RMS"
   },
   "MAIN_MENU": {
     "ALARM": "Ébresztő",

@@ -500,7 +500,11 @@
     "DISPLAY_VISUALIZER_METERS": "Metros",
     "DISPLAY_VISUALIZER_PANELS": "Painéis",
     "DISPLAY_VISUALIZER_SLEEVE": "Manga",
-    "DISPLAY_VISUALIZER_VU": "VU"
+    "DISPLAY_VISUALIZER_VU": "VU",
+    "DISPLAY_METER": "Medidor",
+    "DISPLAY_METER_DOC": "O valor de pico corresponde à amostra com maior volume. O valor RMS corresponde ao nível médio, tal como é indicado num medidor VU.",
+    "DISPLAY_METER_PEAK": "Pico",
+    "DISPLAY_METER_RMS": "RMS"
   },
   "MAIN_MENU": {
     "ALARM": "Despertador",

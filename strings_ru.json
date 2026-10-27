@@ -869,7 +869,11 @@
     "DISPLAY_VISUALIZER_METERS": "Метры",
     "DISPLAY_VISUALIZER_PANELS": "Панели",
     "DISPLAY_VISUALIZER_SLEEVE": "Рукав",
-    "DISPLAY_VISUALIZER_VU": "VU"
+    "DISPLAY_VISUALIZER_VU": "VU",
+    "DISPLAY_METER": "Метр",
+    "DISPLAY_METER_DOC": "Показатель «Peak» отражает самый громкий фрагмент. Показатель «RMS» отражает средний уровень, как это отображается на VU-индикаторе.",
+    "DISPLAY_METER_PEAK": "Пик",
+    "DISPLAY_METER_RMS": "RMS"
   },
   "MAIN_MENU": {
     "ALARM": "Будильник",

@@ -869,7 +869,11 @@
     "DISPLAY_VISUALIZER_METERS": "미터",
     "DISPLAY_VISUALIZER_PANELS": "패널",
     "DISPLAY_VISUALIZER_SLEEVE": "소매",
-    "DISPLAY_VISUALIZER_VU": "VU"
+    "DISPLAY_VISUALIZER_VU": "VU",
+    "DISPLAY_METER": "미터",
+    "DISPLAY_METER_DOC": "피크(Peak)는 가장 큰 음량의 샘플을 따릅니다. RMS는 VU 미터가 표시하는 방식과 마찬가지로 평균 레벨을 따릅니다.",
+    "DISPLAY_METER_PEAK": "피크",
+    "DISPLAY_METER_RMS": "RMS"
   },
   "MAIN_MENU": {
     "ALARM": "알람",

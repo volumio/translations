@@ -872,7 +872,11 @@
     "DISPLAY_VISUALIZER_METERS": "Mètres",
     "DISPLAY_VISUALIZER_PANELS": "Panneaux",
     "DISPLAY_VISUALIZER_SLEEVE": "Manchon",
-    "DISPLAY_VISUALIZER_VU": "VU"
+    "DISPLAY_VISUALIZER_VU": "VU",
+    "DISPLAY_METER": "Mètre",
+    "DISPLAY_METER_DOC": "La valeur « Peak » correspond à l'échantillon le plus fort. La valeur « RMS » correspond au niveau moyen, comme l'indique un vumètre.",
+    "DISPLAY_METER_PEAK": "Pic",
+    "DISPLAY_METER_RMS": "RMS"
   },
   "MAIN_MENU": {
     "ALARM": "Alarme",

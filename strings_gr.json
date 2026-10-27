@@ -491,7 +491,11 @@
     "DISPLAY_VISUALIZER_METERS": "Μέτρα",
     "DISPLAY_VISUALIZER_PANELS": "Πάνελ",
     "DISPLAY_VISUALIZER_SLEEVE": "Μανίκι",
-    "DISPLAY_VISUALIZER_VU": "VU"
+    "DISPLAY_VISUALIZER_VU": "VU",
+    "DISPLAY_METER": "Μετρητής",
+    "DISPLAY_METER_DOC": "Η τιμή «Peak» αντιστοιχεί στο δείγμα με τη μεγαλύτερη ένταση. Η τιμή «RMS» αντιστοιχεί στο μέσο επίπεδο, όπως εμφανίζεται σε ένα μετρητή VU.",
+    "DISPLAY_METER_PEAK": "Κορυφή",
+    "DISPLAY_METER_RMS": "RMS"
   },
   "MAIN_MENU": {
     "ALARM": "Ξυπνητήρι",

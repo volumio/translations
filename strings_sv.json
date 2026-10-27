@@ -870,7 +870,11 @@
     "DISPLAY_VISUALIZER_METERS": "Meter",
     "DISPLAY_VISUALIZER_PANELS": "Paneler",
     "DISPLAY_VISUALIZER_SLEEVE": "Hylsa",
-    "DISPLAY_VISUALIZER_VU": "VU"
+    "DISPLAY_VISUALIZER_VU": "VU",
+    "DISPLAY_METER": "Mätare",
+    "DISPLAY_METER_DOC": "Peak avser det högsta ljudet i ett ljudprov. RMS avser medelnivån, precis som en VU-mätare visar.",
+    "DISPLAY_METER_PEAK": "Topp",
+    "DISPLAY_METER_RMS": "RMS"
   },
   "MAIN_MENU": {
     "ALARM": "Alarm",

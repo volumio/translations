@@ -500,7 +500,11 @@
     "DISPLAY_VISUALIZER_METERS": "Метри",
     "DISPLAY_VISUALIZER_PANELS": "Панелі",
     "DISPLAY_VISUALIZER_SLEEVE": "Рукав",
-    "DISPLAY_VISUALIZER_VU": "VU"
+    "DISPLAY_VISUALIZER_VU": "VU",
+    "DISPLAY_METER": "Лічильник",
+    "DISPLAY_METER_DOC": "Показник «Peak» відображає найгучніший фрагмент. Показник «RMS» відображає середній рівень, так само, як це робить VU-метр.",
+    "DISPLAY_METER_PEAK": "Пік",
+    "DISPLAY_METER_RMS": "RMS"
   },
   "MAIN_MENU": {
     "ALARM": "Будильник",

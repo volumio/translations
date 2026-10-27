@@ -90,7 +90,11 @@
     "DISPLAY_VISUALIZER_METERS": "Метри",
     "DISPLAY_VISUALIZER_PANELS": "Панели",
     "DISPLAY_VISUALIZER_SLEEVE": "Насловница",
-    "DISPLAY_VISUALIZER_VU": "ВУ"
+    "DISPLAY_VISUALIZER_VU": "ВУ",
+    "DISPLAY_METER": "Метар",
+    "DISPLAY_METER_DOC": "Пик прати најјачи узорак. RMS прати просечни ниво, као што га показује VU мерач.",
+    "DISPLAY_METER_PEAK": "Врх",
+    "DISPLAY_METER_RMS": "РМС"
   },
   "DEVICESETUP": {
     "SETUP_NEW_DEVICE": "Конфигуришите нови уређај",

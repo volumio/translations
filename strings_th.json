@@ -870,7 +870,11 @@
     "DISPLAY_VISUALIZER_METERS": "มิเตอร์",
     "DISPLAY_VISUALIZER_PANELS": "แผง",
     "DISPLAY_VISUALIZER_SLEEVE": "ปลอกแขน",
-    "DISPLAY_VISUALIZER_VU": "VU"
+    "DISPLAY_VISUALIZER_VU": "VU",
+    "DISPLAY_METER": "มิเตอร์",
+    "DISPLAY_METER_DOC": "Peak ใช้ค่าตัวอย่างที่มีระดับเสียงสูงสุด ส่วน RMS ใช้ค่าระดับเสียงเฉลี่ย เหมือนกับวิธีที่มิเตอร์ VU แสดงผล",
+    "DISPLAY_METER_PEAK": "จุดสูงสุด",
+    "DISPLAY_METER_RMS": "RMS"
   },
   "MAIN_MENU": {
     "ALARM": "ปลุก",

@@ -491,7 +491,11 @@
     "DISPLAY_VISUALIZER_METERS": "Meter",
     "DISPLAY_VISUALIZER_PANELS": "Paneler",
     "DISPLAY_VISUALIZER_SLEEVE": "Ærme",
-    "DISPLAY_VISUALIZER_VU": "VU"
+    "DISPLAY_VISUALIZER_VU": "VU",
+    "DISPLAY_METER": "Måler",
+    "DISPLAY_METER_DOC": "Peak angiver det højeste lydniveau i en sample. RMS angiver det gennemsnitlige lydniveau, ligesom et VU-meter viser.",
+    "DISPLAY_METER_PEAK": "Toppunkt",
+    "DISPLAY_METER_RMS": "RMS"
   },
   "MAIN_MENU": {
     "ALARM": "Alarm",

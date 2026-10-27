@@ -870,7 +870,11 @@
     "DISPLAY_VISUALIZER_METERS": "Metre",
     "DISPLAY_VISUALIZER_PANELS": "Paneller",
     "DISPLAY_VISUALIZER_SLEEVE": "Kılıf",
-    "DISPLAY_VISUALIZER_VU": "VU"
+    "DISPLAY_VISUALIZER_VU": "VU",
+    "DISPLAY_METER": "Metre",
+    "DISPLAY_METER_DOC": "Peak, en yüksek sesli örneği gösterir. RMS ise ortalama seviyeyi gösterir; tıpkı bir VU ölçerin gösterdiği gibi.",
+    "DISPLAY_METER_PEAK": "Zirve",
+    "DISPLAY_METER_RMS": "RMS"
   },
   "MAIN_MENU": {
     "ALARM": "Uyandırma/Alarm",

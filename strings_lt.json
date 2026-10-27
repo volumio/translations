@@ -589,7 +589,11 @@
     "DISPLAY_VISUALIZER_METERS": "Metrai",
     "DISPLAY_VISUALIZER_PANELS": "Plokštės",
     "DISPLAY_VISUALIZER_SLEEVE": "Rankovė",
-    "DISPLAY_VISUALIZER_VU": "VU"
+    "DISPLAY_VISUALIZER_VU": "VU",
+    "DISPLAY_METER": "Matas",
+    "DISPLAY_METER_DOC": "„Peak“ rodo garsiausią įrašo fragmentą. „RMS“ rodo vidutinį lygį, kaip ir VU matuoklis.",
+    "DISPLAY_METER_PEAK": "Aukščiausias taškas",
+    "DISPLAY_METER_RMS": "RMS"
   },
   "MYVOLUMIO": {
     "ENABLE_YOUR_DEVICE_TO_USE_THIS_FUNCTIONALITY": "Norėdami naudotis šia funkcija ,savo įrenginyje, įrenginių sąraše įjunkite „MyVolumio“",

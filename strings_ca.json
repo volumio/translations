@@ -869,7 +869,11 @@
     "DISPLAY_VISUALIZER_METERS": "Mètres",
     "DISPLAY_VISUALIZER_PANELS": "Panells",
     "DISPLAY_VISUALIZER_SLEEVE": "Màniga",
-    "DISPLAY_VISUALIZER_VU": "VU"
+    "DISPLAY_VISUALIZER_VU": "VU",
+    "DISPLAY_METER": "Metr",
+    "DISPLAY_METER_DOC": "Peak segueix la mostra més forta. RMS segueix el nivell mitjà, tal com ho llegeix un indicador VU.",
+    "DISPLAY_METER_PEAK": "Cim",
+    "DISPLAY_METER_RMS": "RMS"
   },
   "MAIN_MENU": {
     "ALARM": "Alarma",

@@ -870,7 +870,11 @@
     "DISPLAY_VISUALIZER_METERS": "Metery",
     "DISPLAY_VISUALIZER_PANELS": "Panely",
     "DISPLAY_VISUALIZER_SLEEVE": "Rukáv",
-    "DISPLAY_VISUALIZER_VU": "VU"
+    "DISPLAY_VISUALIZER_VU": "VU",
+    "DISPLAY_METER": "Meter",
+    "DISPLAY_METER_DOC": "Hodnota Peak sleduje najhlasnejší vzorok. Hodnota RMS sleduje priemernú úroveň, podobne ako to robí VU meter.",
+    "DISPLAY_METER_PEAK": "Vrchol",
+    "DISPLAY_METER_RMS": "RMS"
   },
   "MAIN_MENU": {
     "ALARM": "Budík",

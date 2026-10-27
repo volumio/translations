@@ -869,7 +869,11 @@
     "DISPLAY_VISUALIZER_METERS": "Meter",
     "DISPLAY_VISUALIZER_PANELS": "Paneele",
     "DISPLAY_VISUALIZER_SLEEVE": "Hülle",
-    "DISPLAY_VISUALIZER_VU": "VU"
+    "DISPLAY_VISUALIZER_VU": "VU",
+    "DISPLAY_METER": "Meter",
+    "DISPLAY_METER_DOC": "„Peak“ bezieht sich auf das lauteste Sample. „RMS“ bezieht sich auf den Durchschnittspegel, so wie er auf einem VU-Meter angezeigt wird.",
+    "DISPLAY_METER_PEAK": "Spitzenwert",
+    "DISPLAY_METER_RMS": "RMS"
   },
   "MAIN_MENU": {
     "ALARM": "Wecker",
