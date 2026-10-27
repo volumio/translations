@@ -984,7 +984,12 @@
     "REINITIALIZE_SSD_CONFIRM": "Усі дані на внутрішньому SSD-накопичувачі будуть видалені. Цю дію неможливо скасувати. Чи бажаєте продовжити?",
     "REINITIALIZE_SSD_PROGRESS": "Відбувається повторна ініціалізація внутрішнього SSD, будь ласка, зачекайте",
     "REINITIALIZE_SSD_DONE": "Внутрішній SSD-накопичувач переініціалізовано",
-    "REINITIALIZE_SSD_FAILED": "Помилка під час повторної ініціалізації внутрішнього SSD-накопичувача"
+    "REINITIALIZE_SSD_FAILED": "Помилка під час повторної ініціалізації внутрішнього SSD-накопичувача",
+    "STANDBY_SCREEN_OFF": "Вимкнено",
+    "STANDBY_SCREEN_LOGO": "Логотип",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_1": "Цифровий годинник № 1",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_2": "Цифровий годинник № 2",
+    "STANDBY_SCREEN_ANALOG_CLOCK": "Аналоговий годинник"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Найкращі радіоприймачі",

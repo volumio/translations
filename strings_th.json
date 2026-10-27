@@ -1109,7 +1109,12 @@
     "REINITIALIZE_SSD_CONFIRM": "ข้อมูลทั้งหมดบน SSD ภายในจะถูกลบไปทั้งหมด การดำเนินการนี้ไม่สามารถย้อนกลับได้ คุณต้องการดำเนินการต่อหรือไม่?",
     "REINITIALIZE_SSD_PROGRESS": "กำลังตั้งค่า SSD ภายในใหม่ โปรดรอสักครู่",
     "REINITIALIZE_SSD_DONE": "SSD ภายในได้รับการรีเซ็ตแล้ว",
-    "REINITIALIZE_SSD_FAILED": "การรีเซ็ต SSD ภายในไม่สำเร็จ"
+    "REINITIALIZE_SSD_FAILED": "การรีเซ็ต SSD ภายในไม่สำเร็จ",
+    "STANDBY_SCREEN_OFF": "ปิด",
+    "STANDBY_SCREEN_LOGO": "โลโก้",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_1": "นาฬิกาดิจิทัล #1",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_2": "นาฬิกาดิจิทัล #2",
+    "STANDBY_SCREEN_ANALOG_CLOCK": "นาฬิกาแบบอนาล็อก"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "วิทยุที่ดีที่สุด",

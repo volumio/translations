@@ -975,7 +975,12 @@
     "REINITIALIZE_SSD_CONFIRM": "Όλα τα δεδομένα στον εσωτερικό SSD θα διαγραφούν. Αυτή η ενέργεια είναι μη αναστρέψιμη. Θέλετε να συνεχίσετε;",
     "REINITIALIZE_SSD_PROGRESS": "Επανεκκίνηση του εσωτερικού SSD, παρακαλώ περιμένετε",
     "REINITIALIZE_SSD_DONE": "Το εσωτερικό SSD επαναρυθμίστηκε",
-    "REINITIALIZE_SSD_FAILED": "Αποτυχία επανεκκίνησης του εσωτερικού SSD"
+    "REINITIALIZE_SSD_FAILED": "Αποτυχία επανεκκίνησης του εσωτερικού SSD",
+    "STANDBY_SCREEN_OFF": "Απενεργοποίηση",
+    "STANDBY_SCREEN_LOGO": "Λογότυπο",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_1": "Ψηφιακό ρολόι #1",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_2": "Ψηφιακό ρολόι #2",
+    "STANDBY_SCREEN_ANALOG_CLOCK": "Αναλογικό ρολόι"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Τα καλύτερα ραδιόφωνα",

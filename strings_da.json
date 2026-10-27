@@ -975,7 +975,12 @@
     "REINITIALIZE_SSD_CONFIRM": "Alle data på den interne SSD vil blive slettet. Dette kan ikke fortrydes. Vil du fortsætte?",
     "REINITIALIZE_SSD_PROGRESS": "Den interne SSD geninitialiseres. Vent venligst.",
     "REINITIALIZE_SSD_DONE": "Intern SSD er blevet geninitialiseret",
-    "REINITIALIZE_SSD_FAILED": "Geninitialiseringen af den interne SSD mislykkedes"
+    "REINITIALIZE_SSD_FAILED": "Geninitialiseringen af den interne SSD mislykkedes",
+    "STANDBY_SCREEN_OFF": "Fra",
+    "STANDBY_SCREEN_LOGO": "Logo",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_1": "Digitalt ur nr. 1",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_2": "Digitalt ur nr. 2",
+    "STANDBY_SCREEN_ANALOG_CLOCK": "Analogt ur"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "De bedste radioer",

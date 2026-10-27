@@ -1161,7 +1161,12 @@
     "REINITIALIZE_SSD_CONFIRM": "All data on the internal SSD will be erased. This cannot be undone. Do you want to continue?",
     "REINITIALIZE_SSD_PROGRESS": "Reinitializing the internal SSD, please wait",
     "REINITIALIZE_SSD_DONE": "Internal SSD reinitialized",
-    "REINITIALIZE_SSD_FAILED": "Internal SSD reinitialization failed"
+    "REINITIALIZE_SSD_FAILED": "Internal SSD reinitialization failed",
+    "STANDBY_SCREEN_OFF": "Off",
+    "STANDBY_SCREEN_LOGO": "Logo",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_1": "Digital Clock #1",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_2": "Digital Clock #2",
+    "STANDBY_SCREEN_ANALOG_CLOCK": "Analog Clock"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Best Radios",

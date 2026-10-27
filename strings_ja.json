@@ -1023,7 +1023,12 @@
     "REINITIALIZE_SSD_CONFIRM": "内蔵SSD上のすべてのデータが消去されます。この操作は元に戻せません。続行しますか？",
     "REINITIALIZE_SSD_PROGRESS": "内蔵SSDを再初期化しています。しばらくお待ちください",
     "REINITIALIZE_SSD_DONE": "内蔵SSDが再初期化されました",
-    "REINITIALIZE_SSD_FAILED": "内蔵SSDの再初期化に失敗しました"
+    "REINITIALIZE_SSD_FAILED": "内蔵SSDの再初期化に失敗しました",
+    "STANDBY_SCREEN_OFF": "オフ",
+    "STANDBY_SCREEN_LOGO": "ロゴ",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_1": "デジタル時計 #1",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_2": "デジタル時計 #2",
+    "STANDBY_SCREEN_ANALOG_CLOCK": "アナログ時計"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "ベストラジオ",

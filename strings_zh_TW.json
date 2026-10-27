@@ -1072,7 +1072,12 @@
     "REINITIALIZE_SSD_CONFIRM": "內部 SSD 上的所有資料都將被清除。此操作無法撤銷。您要繼續嗎？",
     "REINITIALIZE_SSD_PROGRESS": "正在重新初始化內部 SSD，請稍候",
     "REINITIALIZE_SSD_DONE": "內部 SSD 已重新初始化",
-    "REINITIALIZE_SSD_FAILED": "內部 SSD 重新初始化失敗"
+    "REINITIALIZE_SSD_FAILED": "內部 SSD 重新初始化失敗",
+    "STANDBY_SCREEN_OFF": "關閉",
+    "STANDBY_SCREEN_LOGO": "標誌",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_1": "數位時鐘 #1",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_2": "數位時鐘 #2",
+    "STANDBY_SCREEN_ANALOG_CLOCK": "指針式時鐘"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "最佳收音機",

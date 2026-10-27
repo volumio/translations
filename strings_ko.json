@@ -1108,7 +1108,12 @@
     "REINITIALIZE_SSD_CONFIRM": "내부 SSD에 저장된 모든 데이터가 삭제됩니다. 이 작업은 되돌릴 수 없습니다. 계속하시겠습니까?",
     "REINITIALIZE_SSD_PROGRESS": "내장 SSD를 다시 초기화하고 있습니다. 잠시만 기다려 주십시오.",
     "REINITIALIZE_SSD_DONE": "내장 SSD가 재초기화되었습니다.",
-    "REINITIALIZE_SSD_FAILED": "내부 SSD 재초기화에 실패했습니다."
+    "REINITIALIZE_SSD_FAILED": "내부 SSD 재초기화에 실패했습니다.",
+    "STANDBY_SCREEN_OFF": "꺼짐",
+    "STANDBY_SCREEN_LOGO": "로고",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_1": "디지털 시계 #1",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_2": "디지털 시계 #2",
+    "STANDBY_SCREEN_ANALOG_CLOCK": "아날로그 시계"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "베스트 라디오",

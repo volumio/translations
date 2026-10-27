@@ -1108,7 +1108,12 @@
     "REINITIALIZE_SSD_CONFIRM": "A belső SSD-n található összes adat törlődik. Ez a művelet visszafordíthatatlan. Folytatni szeretné?",
     "REINITIALIZE_SSD_PROGRESS": "A belső SSD újraindítása folyamatban van, kérjük, várjon",
     "REINITIALIZE_SSD_DONE": "A belső SSD újraindítva",
-    "REINITIALIZE_SSD_FAILED": "A belső SSD újraindítása sikertelen volt"
+    "REINITIALIZE_SSD_FAILED": "A belső SSD újraindítása sikertelen volt",
+    "STANDBY_SCREEN_OFF": "Ki",
+    "STANDBY_SCREEN_LOGO": "Logó",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_1": "1. számú digitális óra",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_2": "2. számú digitális óra",
+    "STANDBY_SCREEN_ANALOG_CLOCK": "Analóg óra"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Legjobb rádiók",

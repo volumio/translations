@@ -1109,7 +1109,12 @@
     "REINITIALIZE_SSD_CONFIRM": "Svi podaci na internom SSD-u bit će izbrisani. Ovo se ne može poništiti. Želite li nastaviti?",
     "REINITIALIZE_SSD_PROGRESS": "Ponovno inicijaliziranje internog SSD-a, molimo pričekajte",
     "REINITIALIZE_SSD_DONE": "Unutarnji SSD je ponovno inicijaliziran",
-    "REINITIALIZE_SSD_FAILED": "Unutarnja ponovna inicijalizacija SSD-a nije uspjela"
+    "REINITIALIZE_SSD_FAILED": "Unutarnja ponovna inicijalizacija SSD-a nije uspjela",
+    "STANDBY_SCREEN_OFF": "Isključeno",
+    "STANDBY_SCREEN_LOGO": "Logo",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_1": "Digitalni sat #1",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_2": "Digitalni sat br. 2",
+    "STANDBY_SCREEN_ANALOG_CLOCK": "Analogni sat"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najbolje radio postaje",

@@ -1108,7 +1108,12 @@
     "REINITIALIZE_SSD_CONFIRM": "Wszystkie dane z wewnętrznego dysku SSD zostaną usunięte. Czynności tej nie da się cofnąć. Czy chcesz kontynuować?",
     "REINITIALIZE_SSD_PROGRESS": "Trwa ponowna inicjalizacja wewnętrznego dysku SSD. Proszę poczekać.",
     "REINITIALIZE_SSD_DONE": "Wewnętrzny dysk SSD został ponownie zainicjowany",
-    "REINITIALIZE_SSD_FAILED": "Nie udało się ponownie zainicjować wewnętrznego dysku SSD"
+    "REINITIALIZE_SSD_FAILED": "Nie udało się ponownie zainicjować wewnętrznego dysku SSD",
+    "STANDBY_SCREEN_OFF": "Wyłączone",
+    "STANDBY_SCREEN_LOGO": "Logo",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_1": "Zegar cyfrowy nr 1",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_2": "Zegar cyfrowy nr 2",
+    "STANDBY_SCREEN_ANALOG_CLOCK": "Zegar analogowy"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Najlepsze stacje radiowe",

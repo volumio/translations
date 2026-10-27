@@ -984,7 +984,12 @@
     "REINITIALIZE_SSD_CONFIRM": "Alle data på den interne SSD-en vil bli slettet. Dette kan ikke gjøres om. Vil du fortsette?",
     "REINITIALIZE_SSD_PROGRESS": "Den interne SSD-en initialiseres på nytt. Vennligst vent",
     "REINITIALIZE_SSD_DONE": "Intern SSD er blitt initialisert på nytt",
-    "REINITIALIZE_SSD_FAILED": "Det gikk ikke å starte den interne SSD-en på nytt"
+    "REINITIALIZE_SSD_FAILED": "Det gikk ikke å starte den interne SSD-en på nytt",
+    "STANDBY_SCREEN_OFF": "Av",
+    "STANDBY_SCREEN_LOGO": "Logo",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_1": "Digital klokke nr. 1",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_2": "Digital klokke nr. 2",
+    "STANDBY_SCREEN_ANALOG_CLOCK": "Analog klokke"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "De beste radioene",

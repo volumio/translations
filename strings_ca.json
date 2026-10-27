@@ -1109,7 +1109,12 @@
     "REINITIALIZE_SSD_CONFIRM": "Totes les dades de l'SSD intern s'esborraran. Això no es pot desfer. Vols continuar?",
     "REINITIALIZE_SSD_PROGRESS": "Reinicialitzant l'SSD intern, si us plau espereu.",
     "REINITIALIZE_SSD_DONE": "SSD intern reinicialitzat",
-    "REINITIALIZE_SSD_FAILED": "La reinicialització de l'SSD intern ha fallat"
+    "REINITIALIZE_SSD_FAILED": "La reinicialització de l'SSD intern ha fallat",
+    "STANDBY_SCREEN_OFF": "Apagat",
+    "STANDBY_SCREEN_LOGO": "Logotip",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_1": "Relòtic digital núm. 1",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_2": "Relòtic digital núm. 2",
+    "STANDBY_SCREEN_ANALOG_CLOCK": "Relòtge analògic"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Millors ràdios",

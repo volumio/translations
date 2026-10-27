@@ -984,7 +984,12 @@
     "REINITIALIZE_SSD_CONFIRM": "Todos os dados no SSD interno serão apagados. Esta ação não pode ser revertida. Deseja continuar?",
     "REINITIALIZE_SSD_PROGRESS": "A reinicializar o SSD interno. Por favor, aguarde",
     "REINITIALIZE_SSD_DONE": "SSD interno reinicializado",
-    "REINITIALIZE_SSD_FAILED": "Falha na reinicialização do SSD interno"
+    "REINITIALIZE_SSD_FAILED": "Falha na reinicialização do SSD interno",
+    "STANDBY_SCREEN_OFF": "Desligado",
+    "STANDBY_SCREEN_LOGO": "Logótipo",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_1": "Relógio digital n.º 1",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_2": "Relógio digital n.º 2",
+    "STANDBY_SCREEN_ANALOG_CLOCK": "Relógio analógico"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Melhores rádios",

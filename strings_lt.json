@@ -1065,7 +1065,12 @@
     "REINITIALIZE_SSD_CONFIRM": "Visi duomenys vidiniame SSD diske bus ištrinti. Šio veiksmo atšaukti nebus galima. Ar norite tęsti?",
     "REINITIALIZE_SSD_PROGRESS": "Atliekamas vidinio SSD iš naujo inicijavimas, prašome palaukti",
     "REINITIALIZE_SSD_DONE": "Vidinį SSD diską iš naujo inicijuota",
-    "REINITIALIZE_SSD_FAILED": "Nepavyko iš naujo inicijuoti vidinio SSD disko"
+    "REINITIALIZE_SSD_FAILED": "Nepavyko iš naujo inicijuoti vidinio SSD disko",
+    "STANDBY_SCREEN_OFF": "Išjungta",
+    "STANDBY_SCREEN_LOGO": "Logotipas",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_1": "Skaitmeninis laikrodis Nr. 1",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_2": "Skaitmeninis laikrodis Nr. 2",
+    "STANDBY_SCREEN_ANALOG_CLOCK": "Analoginis laikrodis"
   },
   "MAIN_MENU": {
     "ALARM": "Žadintuvas",

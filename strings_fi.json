@@ -984,7 +984,12 @@
     "REINITIALIZE_SSD_CONFIRM": "Sisäisen SSD-levyn kaikki tiedot poistetaan. Tätä toimintoa ei voi peruuttaa. Haluatko jatkaa?",
     "REINITIALIZE_SSD_PROGRESS": "Sisäisen SSD-levyn alustaminen uudelleen, odota hetki",
     "REINITIALIZE_SSD_DONE": "Sisäinen SSD-asema alustettiin uudelleen",
-    "REINITIALIZE_SSD_FAILED": "Sisäisen SSD-levyn uudelleenalustaminen epäonnistui"
+    "REINITIALIZE_SSD_FAILED": "Sisäisen SSD-levyn uudelleenalustaminen epäonnistui",
+    "STANDBY_SCREEN_OFF": "Pois",
+    "STANDBY_SCREEN_LOGO": "Logo",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_1": "Digitaalikello nro 1",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_2": "Digitaalikello nro 2",
+    "STANDBY_SCREEN_ANALOG_CLOCK": "Analoginen kello"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Parhaat radiot",

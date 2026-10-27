@@ -1114,7 +1114,12 @@
     "REINITIALIZE_SSD_CONFIRM": "Tutti i dati presenti sull'SSD interno verranno cancellati. Questa operazione non può essere annullata. Vuoi continuare?",
     "REINITIALIZE_SSD_PROGRESS": "Reinizializzazione dell'SSD interno in corso, attendere prego",
     "REINITIALIZE_SSD_DONE": "SSD interno reinizializzato",
-    "REINITIALIZE_SSD_FAILED": "Errore durante la reinizializzazione dell'SSD interno"
+    "REINITIALIZE_SSD_FAILED": "Errore durante la reinizializzazione dell'SSD interno",
+    "STANDBY_SCREEN_OFF": "Spento",
+    "STANDBY_SCREEN_LOGO": "Logo",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_1": "Orologio digitale n. 1",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_2": "Orologio digitale n. 2",
+    "STANDBY_SCREEN_ANALOG_CLOCK": "Orologio analogico"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Le Radio Migliori",

@@ -1108,7 +1108,12 @@
     "REINITIALIZE_SSD_CONFIRM": "Alle Daten auf der internen SSD werden gelöscht. Dieser Vorgang kann nicht rückgängig gemacht werden. Möchten Sie fortfahren?",
     "REINITIALIZE_SSD_PROGRESS": "Die interne SSD wird neu initialisiert. Bitte warten Sie.",
     "REINITIALIZE_SSD_DONE": "Interne SSD neu initialisiert",
-    "REINITIALIZE_SSD_FAILED": "Die Neuinitialisierung der internen SSD ist fehlgeschlagen"
+    "REINITIALIZE_SSD_FAILED": "Die Neuinitialisierung der internen SSD ist fehlgeschlagen",
+    "STANDBY_SCREEN_OFF": "Aus",
+    "STANDBY_SCREEN_LOGO": "Logo",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_1": "Digitale Uhr Nr. 1",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_2": "Digitale Uhr Nr. 2",
+    "STANDBY_SCREEN_ANALOG_CLOCK": "Analoguhr"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Die besten Sender",

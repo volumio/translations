@@ -1108,7 +1108,12 @@
     "REINITIALIZE_SSD_CONFIRM": "Tất cả dữ liệu trên ổ SSD nội bộ sẽ bị xóa. Thao tác này không thể hoàn tác. Bạn có muốn tiếp tục không?",
     "REINITIALIZE_SSD_PROGRESS": "Đang khởi tạo lại ổ SSD nội bộ, vui lòng chờ",
     "REINITIALIZE_SSD_DONE": "Ổ SSD nội bộ đã được khởi tạo lại",
-    "REINITIALIZE_SSD_FAILED": "Không thể khởi tạo lại ổ SSD nội bộ"
+    "REINITIALIZE_SSD_FAILED": "Không thể khởi tạo lại ổ SSD nội bộ",
+    "STANDBY_SCREEN_OFF": "Tắt",
+    "STANDBY_SCREEN_LOGO": "Logo",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_1": "Đồng hồ kỹ thuật số số 1",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_2": "Đồng hồ kỹ thuật số số 2",
+    "STANDBY_SCREEN_ANALOG_CLOCK": "Đồng hồ kim"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Đài Radios tốt nhất",

@@ -1108,7 +1108,12 @@
     "REINITIALIZE_SSD_CONFIRM": "Все данные на внутреннем SSD-накопителе будут удалены. Это действие нельзя отменить. Хотите продолжить?",
     "REINITIALIZE_SSD_PROGRESS": "Происходит повторная инициализация внутреннего SSD, пожалуйста, подождите",
     "REINITIALIZE_SSD_DONE": "Внутренний SSD-накопитель переинициализирован",
-    "REINITIALIZE_SSD_FAILED": "Ошибка при повторной инициализации внутреннего SSD-накопителя"
+    "REINITIALIZE_SSD_FAILED": "Ошибка при повторной инициализации внутреннего SSD-накопителя",
+    "STANDBY_SCREEN_OFF": "Выкл.",
+    "STANDBY_SCREEN_LOGO": "Логотип",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_1": "Цифровые часы № 1",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_2": "Цифровые часы № 2",
+    "STANDBY_SCREEN_ANALOG_CLOCK": "Аналоговые часы"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Лучшие радиостанции",

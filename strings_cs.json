@@ -1110,7 +1110,12 @@
     "REINITIALIZE_SSD_CONFIRM": "Všechna data na interním SSD disku budou smazána. Tento úkon nelze vrátit zpět. Chcete pokračovat?",
     "REINITIALIZE_SSD_PROGRESS": "Probíhá opětovná inicializace interního SSD, prosím vyčkejte",
     "REINITIALIZE_SSD_DONE": "Vnitřní SSD byl znovu inicializován",
-    "REINITIALIZE_SSD_FAILED": "Selhala reinicializace interního SSD"
+    "REINITIALIZE_SSD_FAILED": "Selhala reinicializace interního SSD",
+    "STANDBY_SCREEN_OFF": "Vypnuto",
+    "STANDBY_SCREEN_LOGO": "Logo",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_1": "Digitální hodiny č. 1",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_2": "Digitální hodiny č. 2",
+    "STANDBY_SCREEN_ANALOG_CLOCK": "Analogové hodiny"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Nejlepší rádia",

@@ -1162,7 +1162,12 @@
     "REINITIALIZE_SSD_CONFIRM": "Alle gegevens op de interne SSD worden gewist. Dit kan niet ongedaan worden gemaakt. Wilt u doorgaan?",
     "REINITIALIZE_SSD_PROGRESS": "De interne SSD wordt opnieuw geïnitialiseerd. Even geduld a.u.b.",
     "REINITIALIZE_SSD_DONE": "Interne SSD opnieuw geïnitialiseerd",
-    "REINITIALIZE_SSD_FAILED": "Het opnieuw initialiseren van de interne SSD is mislukt"
+    "REINITIALIZE_SSD_FAILED": "Het opnieuw initialiseren van de interne SSD is mislukt",
+    "STANDBY_SCREEN_OFF": "Uit",
+    "STANDBY_SCREEN_LOGO": "Logo",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_1": "Digitale klok nr. 1",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_2": "Digitale klok #2",
+    "STANDBY_SCREEN_ANALOG_CLOCK": "Analoge klok"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Beste radiostations",

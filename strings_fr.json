@@ -1111,7 +1111,12 @@
     "REINITIALIZE_SSD_CONFIRM": "Toutes les données stockées sur le SSD interne seront effacées. Cette opération est irréversible. Souhaitez-vous continuer ?",
     "REINITIALIZE_SSD_PROGRESS": "Réinitialisation du SSD interne en cours, veuillez patienter",
     "REINITIALIZE_SSD_DONE": "Le SSD interne a été réinitialisé",
-    "REINITIALIZE_SSD_FAILED": "Échec de la réinitialisation du SSD interne"
+    "REINITIALIZE_SSD_FAILED": "Échec de la réinitialisation du SSD interne",
+    "STANDBY_SCREEN_OFF": "Désactivé",
+    "STANDBY_SCREEN_LOGO": "Logo",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_1": "Horloge numérique n° 1",
+    "STANDBY_SCREEN_DIGITAL_CLOCK_2": "Horloge numérique n° 2",
+    "STANDBY_SCREEN_ANALOG_CLOCK": "Horloge analogique"
   },
   "WEBRADIO": {
     "BEST_RADIOS": "Meilleures Radios",
