@@ -880,7 +880,9 @@
     "DISPLAY_THEME_DARK": "Tma",
     "DISPLAY_THEME_LIGHT": "Svetlo",
     "DISPLAY_TITLE": "Predný displej",
-    "DISPLAY_VU_READING": "Čítanie z VU"
+    "DISPLAY_VU_READING": "Čítanie z VU",
+    "DISPLAY_ON": "Zobraziť na",
+    "DISPLAY_ON_DOC": "Keď je funkcia vypnutá, predný displej zostáva tmavý aj po prechode do pohotovostného režimu alebo po reštarte, kým ju tu opäť nezapnete."
   },
   "MAIN_MENU": {
     "ALARM": "Budík",

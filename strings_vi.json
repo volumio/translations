@@ -879,7 +879,9 @@
     "DISPLAY_THEME_DARK": "Tối",
     "DISPLAY_THEME_LIGHT": "Ánh sáng",
     "DISPLAY_TITLE": "Màn hình phía trước",
-    "DISPLAY_VU_READING": "Đọc tài liệu của VU"
+    "DISPLAY_VU_READING": "Đọc tài liệu của VU",
+    "DISPLAY_ON": "Hiển thị trên",
+    "DISPLAY_ON_DOC": "Khi tắt, màn hình phía trước sẽ vẫn tối, kể cả sau khi ở chế độ chờ hoặc khởi động lại, cho đến khi bạn bật lại tại đây."
   },
   "MAIN_MENU": {
     "ALARM": "Báo thức",

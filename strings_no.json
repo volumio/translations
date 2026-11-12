@@ -510,7 +510,9 @@
     "DISPLAY_THEME_DARK": "Mørkt",
     "DISPLAY_THEME_LIGHT": "Lys",
     "DISPLAY_TITLE": "Frontdisplay",
-    "DISPLAY_VU_READING": "VU-lesing"
+    "DISPLAY_VU_READING": "VU-lesing",
+    "DISPLAY_ON": "Vis på",
+    "DISPLAY_ON_DOC": "Når skjermen er slått av, forblir frontskjermen mørk – også etter standby eller en omstart – inntil du slår den på igjen her."
   },
   "MAIN_MENU": {
     "ALARM": "Alarm",

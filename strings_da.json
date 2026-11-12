@@ -501,7 +501,9 @@
     "DISPLAY_THEME_DARK": "Mørkt",
     "DISPLAY_THEME_LIGHT": "Lys",
     "DISPLAY_TITLE": "Frontdisplay",
-    "DISPLAY_VU_READING": "VU-læsning"
+    "DISPLAY_VU_READING": "VU-læsning",
+    "DISPLAY_ON": "Vis på",
+    "DISPLAY_ON_DOC": "Når skærmen er slukket, forbliver den mørk, også efter standby eller en genstart, indtil du tænder den igen her."
   },
   "MAIN_MENU": {
     "ALARM": "Alarm",

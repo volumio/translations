@@ -548,7 +548,9 @@
     "DISPLAY_THEME_DARK": "ダーク",
     "DISPLAY_THEME_LIGHT": "光",
     "DISPLAY_TITLE": "前面ディスプレイ",
-    "DISPLAY_VU_READING": "VUの読書"
+    "DISPLAY_VU_READING": "VUの読書",
+    "DISPLAY_ON": "表示する",
+    "DISPLAY_ON_DOC": "オフの状態では、ここで再びオンにするまで、フロントディスプレイは暗いままであり、スタンバイ状態や再起動後も同様です。"
   },
   "MAIN_MENU": {
     "ALARM": "アラーム",

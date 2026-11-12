@@ -932,7 +932,9 @@
     "DISPLAY_THEME_DARK": "Dark",
     "DISPLAY_THEME_LIGHT": "Light",
     "DISPLAY_TITLE": "Front display",
-    "DISPLAY_VU_READING": "VU reading"
+    "DISPLAY_VU_READING": "VU reading",
+    "DISPLAY_ON": "Display on",
+    "DISPLAY_ON_DOC": "When off, the front display stays dark, also after standby or a restart, until you turn it back on here."
   },
   "MAIN_MENU": {
     "ALARM": "Alarm",

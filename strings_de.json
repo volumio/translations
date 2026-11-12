@@ -879,7 +879,9 @@
     "DISPLAY_THEME_DARK": "Dunkel",
     "DISPLAY_THEME_LIGHT": "Licht",
     "DISPLAY_TITLE": "Frontdisplay",
-    "DISPLAY_VU_READING": "VU-Lektüre"
+    "DISPLAY_VU_READING": "VU-Lektüre",
+    "DISPLAY_ON": "Anzeige auf",
+    "DISPLAY_ON_DOC": "Wenn das Gerät ausgeschaltet ist, bleibt das Frontdisplay dunkel – auch nach dem Standby-Modus oder einem Neustart –, bis Sie es hier wieder einschalten."
   },
   "MAIN_MENU": {
     "ALARM": "Wecker",

@@ -879,7 +879,9 @@
     "DISPLAY_THEME_DARK": "Sötét",
     "DISPLAY_THEME_LIGHT": "Fény",
     "DISPLAY_TITLE": "Első kijelző",
-    "DISPLAY_VU_READING": "VU-olvasás"
+    "DISPLAY_VU_READING": "VU-olvasás",
+    "DISPLAY_ON": "Megjelenítés",
+    "DISPLAY_ON_DOC": "Kikapcsolt állapotban az elülső kijelző sötét marad – akár készenléti állapotból, akár újraindítás után is –, amíg itt újra be nem kapcsolja."
   },
   "MAIN_MENU": {
     "ALARM": "Ébresztő",

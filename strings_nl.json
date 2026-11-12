@@ -933,7 +933,9 @@
     "DISPLAY_THEME_DARK": "Donker",
     "DISPLAY_THEME_LIGHT": "Licht",
     "DISPLAY_TITLE": "Display aan de voorkant",
-    "DISPLAY_VU_READING": "VU-lezing"
+    "DISPLAY_VU_READING": "VU-lezing",
+    "DISPLAY_ON": "Weergeven op",
+    "DISPLAY_ON_DOC": "Als het scherm is uitgeschakeld, blijft het voorste scherm donker, ook na een stand-by of een herstart, totdat je het hier weer inschakelt."
   },
   "MAIN_MENU": {
     "ALARM": "Wekker",

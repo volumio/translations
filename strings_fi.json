@@ -510,7 +510,9 @@
     "DISPLAY_THEME_DARK": "Pimeä",
     "DISPLAY_THEME_LIGHT": "Valo",
     "DISPLAY_TITLE": "Etunäyttö",
-    "DISPLAY_VU_READING": "VU-lukeminen"
+    "DISPLAY_VU_READING": "VU-lukeminen",
+    "DISPLAY_ON": "Näytä",
+    "DISPLAY_ON_DOC": "Kun toiminto on pois päältä, etunäyttö pysyy pimeänä myös valmiustilan tai uudelleenkäynnistyksen jälkeen, kunnes kytket sen takaisin päälle tästä."
   },
   "MAIN_MENU": {
     "ALARM": "Herätys",

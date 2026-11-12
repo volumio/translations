@@ -882,7 +882,9 @@
     "DISPLAY_THEME_DARK": "Sombre",
     "DISPLAY_THEME_LIGHT": "Lumière",
     "DISPLAY_TITLE": "Écran avant",
-    "DISPLAY_VU_READING": "Lecture de la VU"
+    "DISPLAY_VU_READING": "Lecture de la VU",
+    "DISPLAY_ON": "Afficher sur",
+    "DISPLAY_ON_DOC": "Lorsqu'il est désactivé, l'écran avant reste éteint, même après une mise en veille ou un redémarrage, jusqu'à ce que vous le réactiviez ici."
   },
   "MAIN_MENU": {
     "ALARM": "Alarme",

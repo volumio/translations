@@ -510,7 +510,9 @@
     "DISPLAY_THEME_DARK": "Escuro",
     "DISPLAY_THEME_LIGHT": "Luz",
     "DISPLAY_TITLE": "Ecrã frontal",
-    "DISPLAY_VU_READING": "Leitura da VU"
+    "DISPLAY_VU_READING": "Leitura da VU",
+    "DISPLAY_ON": "Exibir em",
+    "DISPLAY_ON_DOC": "Quando está desligado, o ecrã frontal permanece apagado, mesmo após o modo de espera ou um reinício, até que o volte a ligar aqui."
   },
   "MAIN_MENU": {
     "ALARM": "Despertador",

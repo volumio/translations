@@ -879,7 +879,9 @@
     "DISPLAY_THEME_DARK": "Ciemność",
     "DISPLAY_THEME_LIGHT": "Światło",
     "DISPLAY_TITLE": "Wyświetlacz przedni",
-    "DISPLAY_VU_READING": "Lektura z zakresu VU"
+    "DISPLAY_VU_READING": "Lektura z zakresu VU",
+    "DISPLAY_ON": "Wyświetl na",
+    "DISPLAY_ON_DOC": "Gdy urządzenie jest wyłączone, przedni wyświetlacz pozostaje wyłączony, również po przejściu w tryb czuwania lub ponownym uruchomieniu, dopóki nie włączysz go ponownie w tym miejscu."
   },
   "MAIN_MENU": {
     "ALARM": "Budzik",

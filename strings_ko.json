@@ -879,7 +879,9 @@
     "DISPLAY_THEME_DARK": "어둠",
     "DISPLAY_THEME_LIGHT": "빛",
     "DISPLAY_TITLE": "전면 디스플레이",
-    "DISPLAY_VU_READING": "VU 독서"
+    "DISPLAY_VU_READING": "VU 독서",
+    "DISPLAY_ON": "표시 위치:",
+    "DISPLAY_ON_DOC": "이 기능을 끄면, 대기 모드나 재시작 후에도 여기서 다시 켜기 전까지는 전면 디스플레이가 꺼진 상태로 유지됩니다."
   },
   "MAIN_MENU": {
     "ALARM": "알람",

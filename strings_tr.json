@@ -880,7 +880,9 @@
     "DISPLAY_THEME_DARK": "Karanlık",
     "DISPLAY_THEME_LIGHT": "Işık",
     "DISPLAY_TITLE": "Ön ekran",
-    "DISPLAY_VU_READING": "VU okuma"
+    "DISPLAY_VU_READING": "VU okuma",
+    "DISPLAY_ON": "Ekranda göster",
+    "DISPLAY_ON_DOC": "Kapalıyken, ön ekran, bekleme modundan çıktıktan veya yeniden başlatıldıktan sonra bile, buradan tekrar açana kadar karanlık kalır."
   },
   "MAIN_MENU": {
     "ALARM": "Uyandırma/Alarm",

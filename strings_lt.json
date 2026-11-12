@@ -599,7 +599,9 @@
     "DISPLAY_THEME_DARK": "Tamsus",
     "DISPLAY_THEME_LIGHT": "Šviesa",
     "DISPLAY_TITLE": "Priekinis ekranas",
-    "DISPLAY_VU_READING": "VU skaitymas"
+    "DISPLAY_VU_READING": "VU skaitymas",
+    "DISPLAY_ON": "Rodyti",
+    "DISPLAY_ON_DOC": "Kai funkcija išjungta, priekinis ekranas lieka tamsus – taip pat ir po budėjimo režimo ar perkrovimo – kol čia vėl jį įjungsite."
   },
   "MYVOLUMIO": {
     "ENABLE_YOUR_DEVICE_TO_USE_THIS_FUNCTIONALITY": "Norėdami naudotis šia funkcija ,savo įrenginyje, įrenginių sąraše įjunkite „MyVolumio“",

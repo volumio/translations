@@ -879,7 +879,9 @@
     "DISPLAY_THEME_DARK": "Oscuro",
     "DISPLAY_THEME_LIGHT": "Luz",
     "DISPLAY_TITLE": "Pantalla frontal",
-    "DISPLAY_VU_READING": "Lectura de la VU"
+    "DISPLAY_VU_READING": "Lectura de la VU",
+    "DISPLAY_ON": "Mostrar en",
+    "DISPLAY_ON_DOC": "Cuando está apagada, la pantalla frontal permanece apagada, incluso tras estar en modo de espera o tras un reinicio, hasta que la vuelvas a encender desde aquí."
   },
   "MAIN_MENU": {
     "ALARM": "Alarma",

@@ -880,7 +880,9 @@
     "DISPLAY_THEME_DARK": "Mörkt",
     "DISPLAY_THEME_LIGHT": "Ljus",
     "DISPLAY_TITLE": "Frontdisplay",
-    "DISPLAY_VU_READING": "Läsning vid VU"
+    "DISPLAY_VU_READING": "Läsning vid VU",
+    "DISPLAY_ON": "Visa på",
+    "DISPLAY_ON_DOC": "När den är avstängd förblir den främre skärmen mörk, även efter viloläge eller omstart, tills du slår på den igen här."
   },
   "MAIN_MENU": {
     "ALARM": "Alarm",

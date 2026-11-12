@@ -879,7 +879,9 @@
     "DISPLAY_THEME_DARK": "Fosc",
     "DISPLAY_THEME_LIGHT": "Lleuger",
     "DISPLAY_TITLE": "Expositor frontal",
-    "DISPLAY_VU_READING": "Lectura VU"
+    "DISPLAY_VU_READING": "Lectura VU",
+    "DISPLAY_ON": "Mostra",
+    "DISPLAY_ON_DOC": "Quan està apagat, la pantalla frontal roman fosca, també després de l'espera o un reinici, fins que la torneu a encendre aquí."
   },
   "MAIN_MENU": {
     "ALARM": "Alarma",

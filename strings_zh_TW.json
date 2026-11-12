@@ -598,7 +598,9 @@
     "DISPLAY_THEME_DARK": "黑暗",
     "DISPLAY_THEME_LIGHT": "光",
     "DISPLAY_TITLE": "正面顯示幕",
-    "DISPLAY_VU_READING": "VU 閱讀"
+    "DISPLAY_VU_READING": "VU 閱讀",
+    "DISPLAY_ON": "顯示於",
+    "DISPLAY_ON_DOC": "當裝置關閉時，前置螢幕會保持熄滅狀態；即使在待機或重新啟動後，螢幕仍會保持熄滅，直到您在此處重新開啟為止。"
   },
   "MAIN_MENU": {
     "ALARM": "鬧鐘",

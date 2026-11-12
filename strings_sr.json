@@ -100,7 +100,9 @@
     "DISPLAY_THEME_DARK": "Тамно",
     "DISPLAY_THEME_LIGHT": "Лагано",
     "DISPLAY_TITLE": "Предњи дисплеј",
-    "DISPLAY_VU_READING": "ВУ читање"
+    "DISPLAY_VU_READING": "ВУ читање",
+    "DISPLAY_ON": "Прикажи укључено",
+    "DISPLAY_ON_DOC": "Када је искључен, предњи дисплеј остаје мрачан, чак и након стандби режима или поновног покретања, све док га овде поново не укључите."
   },
   "DEVICESETUP": {
     "SETUP_NEW_DEVICE": "Конфигуришите нови уређај",

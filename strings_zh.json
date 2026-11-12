@@ -880,7 +880,9 @@
     "DISPLAY_THEME_DARK": "黑暗",
     "DISPLAY_THEME_LIGHT": "光",
     "DISPLAY_TITLE": "正面显示屏",
-    "DISPLAY_VU_READING": "VU阅读"
+    "DISPLAY_VU_READING": "VU阅读",
+    "DISPLAY_ON": "显示在",
+    "DISPLAY_ON_DOC": "关闭后，前置显示屏将保持熄灭状态，即使在待机或重启后也是如此，直到您在此处将其重新打开为止。"
   },
   "MAIN_MENU": {
     "ALARM": "闹钟",

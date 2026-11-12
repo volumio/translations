@@ -885,7 +885,9 @@
     "DISPLAY_THEME_DARK": "Buio",
     "DISPLAY_THEME_LIGHT": "Luce",
     "DISPLAY_TITLE": "Display frontale",
-    "DISPLAY_VU_READING": "Lettura della VU"
+    "DISPLAY_VU_READING": "Lettura della VU",
+    "DISPLAY_ON": "Visualizza su",
+    "DISPLAY_ON_DOC": "Quando è spento, il display anteriore rimane spento, anche dopo lo standby o un riavvio, finché non lo si riaccende da qui."
   },
   "MAIN_MENU": {
     "ALARM": "Sveglie",

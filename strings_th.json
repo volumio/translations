@@ -880,7 +880,9 @@
     "DISPLAY_THEME_DARK": "มืด",
     "DISPLAY_THEME_LIGHT": "แสง",
     "DISPLAY_TITLE": "หน้าจอด้านหน้า",
-    "DISPLAY_VU_READING": "การอ่าน VU"
+    "DISPLAY_VU_READING": "การอ่าน VU",
+    "DISPLAY_ON": "แสดงบน",
+    "DISPLAY_ON_DOC": "เมื่อปิดเครื่อง หน้าจอด้านหน้าจะยังคงมืดอยู่ แม้หลังจากอยู่ในโหมดสแตนด์บายหรือรีสตาร์ท จนกว่าคุณจะเปิดเครื่องขึ้นใหม่ที่นี่"
   },
   "MAIN_MENU": {
     "ALARM": "ปลุก",

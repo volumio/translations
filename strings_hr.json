@@ -880,7 +880,9 @@
     "DISPLAY_THEME_DARK": "Tamno",
     "DISPLAY_THEME_LIGHT": "Lagan",
     "DISPLAY_TITLE": "Prednji zaslon",
-    "DISPLAY_VU_READING": "VU čitanje"
+    "DISPLAY_VU_READING": "VU čitanje",
+    "DISPLAY_ON": "Prikaži",
+    "DISPLAY_ON_DOC": "Kad je isključen, prednji zaslon ostaje ugašen, čak i nakon stanja pripravnosti ili ponovnog pokretanja, sve dok ga ovdje ponovno ne uključite."
   },
   "MAIN_MENU": {
     "ALARM": "Budilica",
