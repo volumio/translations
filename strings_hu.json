@@ -873,7 +873,13 @@
     "DISPLAY_METER": "Mérő",
     "DISPLAY_METER_DOC": "A „Peak” a leghangosabb mintát követi. Az „RMS” az átlagos szintet követi, ahogyan azt a VU-mérő is jelzi.",
     "DISPLAY_METER_PEAK": "Csúcs",
-    "DISPLAY_METER_RMS": "RMS"
+    "DISPLAY_METER_RMS": "RMS",
+    "DISPLAY_ACCENT_RED": "Piros",
+    "DISPLAY_SAVED": "A kijelző mentve",
+    "DISPLAY_THEME_DARK": "Sötét",
+    "DISPLAY_THEME_LIGHT": "Fény",
+    "DISPLAY_TITLE": "Első kijelző",
+    "DISPLAY_VU_READING": "VU-olvasás"
   },
   "MAIN_MENU": {
     "ALARM": "Ébresztő",

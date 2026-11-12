@@ -873,7 +873,13 @@
     "DISPLAY_METER": "Licznik",
     "DISPLAY_METER_DOC": "Wartość szczytowa odnosi się do najgłośniejszego fragmentu próbki. Wartość RMS odnosi się do średniego poziomu, tak jak wskazuje to miernik VU.",
     "DISPLAY_METER_PEAK": "Szczyt",
-    "DISPLAY_METER_RMS": "RMS"
+    "DISPLAY_METER_RMS": "RMS",
+    "DISPLAY_ACCENT_RED": "Czerwony",
+    "DISPLAY_SAVED": "Wyświetl zapisane",
+    "DISPLAY_THEME_DARK": "Ciemność",
+    "DISPLAY_THEME_LIGHT": "Światło",
+    "DISPLAY_TITLE": "Wyświetlacz przedni",
+    "DISPLAY_VU_READING": "Lektura z zakresu VU"
   },
   "MAIN_MENU": {
     "ALARM": "Budzik",

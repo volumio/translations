@@ -592,7 +592,13 @@
     "DISPLAY_METER": "計量器",
     "DISPLAY_METER_DOC": "「峰值」跟隨最響亮的樣本。「RMS」則跟隨平均電平，就像 VU 表的讀數一樣。",
     "DISPLAY_METER_PEAK": "高峰",
-    "DISPLAY_METER_RMS": "RMS"
+    "DISPLAY_METER_RMS": "RMS",
+    "DISPLAY_ACCENT_RED": "紅色",
+    "DISPLAY_SAVED": "顯示已儲存",
+    "DISPLAY_THEME_DARK": "黑暗",
+    "DISPLAY_THEME_LIGHT": "光",
+    "DISPLAY_TITLE": "正面顯示幕",
+    "DISPLAY_VU_READING": "VU 閱讀"
   },
   "MAIN_MENU": {
     "ALARM": "鬧鐘",

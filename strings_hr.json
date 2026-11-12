@@ -874,7 +874,13 @@
     "DISPLAY_METER": "Meter",
     "DISPLAY_METER_DOC": "Peak prati najglasniji uzorak. RMS prati prosječnu razinu, kao što VU mjerač prikazuje.",
     "DISPLAY_METER_PEAK": "Vrh",
-    "DISPLAY_METER_RMS": "RMS"
+    "DISPLAY_METER_RMS": "RMS",
+    "DISPLAY_ACCENT_RED": "Crveni",
+    "DISPLAY_SAVED": "Prikaz spremljen",
+    "DISPLAY_THEME_DARK": "Tamno",
+    "DISPLAY_THEME_LIGHT": "Lagan",
+    "DISPLAY_TITLE": "Prednji zaslon",
+    "DISPLAY_VU_READING": "VU čitanje"
   },
   "MAIN_MENU": {
     "ALARM": "Budilica",

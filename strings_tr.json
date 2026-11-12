@@ -874,7 +874,13 @@
     "DISPLAY_METER": "Metre",
     "DISPLAY_METER_DOC": "Peak, en yüksek sesli örneği gösterir. RMS ise ortalama seviyeyi gösterir; tıpkı bir VU ölçerin gösterdiği gibi.",
     "DISPLAY_METER_PEAK": "Zirve",
-    "DISPLAY_METER_RMS": "RMS"
+    "DISPLAY_METER_RMS": "RMS",
+    "DISPLAY_ACCENT_RED": "Kırmızı",
+    "DISPLAY_SAVED": "Kaydedildi",
+    "DISPLAY_THEME_DARK": "Karanlık",
+    "DISPLAY_THEME_LIGHT": "Işık",
+    "DISPLAY_TITLE": "Ön ekran",
+    "DISPLAY_VU_READING": "VU okuma"
   },
   "MAIN_MENU": {
     "ALARM": "Uyandırma/Alarm",

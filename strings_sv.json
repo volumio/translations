@@ -874,7 +874,13 @@
     "DISPLAY_METER": "Mätare",
     "DISPLAY_METER_DOC": "Peak avser det högsta ljudet i ett ljudprov. RMS avser medelnivån, precis som en VU-mätare visar.",
     "DISPLAY_METER_PEAK": "Topp",
-    "DISPLAY_METER_RMS": "RMS"
+    "DISPLAY_METER_RMS": "RMS",
+    "DISPLAY_ACCENT_RED": "Röd",
+    "DISPLAY_SAVED": "Visning sparad",
+    "DISPLAY_THEME_DARK": "Mörkt",
+    "DISPLAY_THEME_LIGHT": "Ljus",
+    "DISPLAY_TITLE": "Frontdisplay",
+    "DISPLAY_VU_READING": "Läsning vid VU"
   },
   "MAIN_MENU": {
     "ALARM": "Alarm",

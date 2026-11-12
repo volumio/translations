@@ -593,7 +593,13 @@
     "DISPLAY_METER": "Matas",
     "DISPLAY_METER_DOC": "„Peak“ rodo garsiausią įrašo fragmentą. „RMS“ rodo vidutinį lygį, kaip ir VU matuoklis.",
     "DISPLAY_METER_PEAK": "Aukščiausias taškas",
-    "DISPLAY_METER_RMS": "RMS"
+    "DISPLAY_METER_RMS": "RMS",
+    "DISPLAY_ACCENT_RED": "Raudona",
+    "DISPLAY_SAVED": "Rodoma išsaugota",
+    "DISPLAY_THEME_DARK": "Tamsus",
+    "DISPLAY_THEME_LIGHT": "Šviesa",
+    "DISPLAY_TITLE": "Priekinis ekranas",
+    "DISPLAY_VU_READING": "VU skaitymas"
   },
   "MYVOLUMIO": {
     "ENABLE_YOUR_DEVICE_TO_USE_THIS_FUNCTIONALITY": "Norėdami naudotis šia funkcija ,savo įrenginyje, įrenginių sąraše įjunkite „MyVolumio“",

@@ -873,7 +873,13 @@
     "DISPLAY_METER": "Mét",
     "DISPLAY_METER_DOC": "Peak phản ánh mức âm lượng cao nhất của mẫu âm thanh. RMS phản ánh mức âm lượng trung bình, giống như cách hiển thị trên đồng hồ VU.",
     "DISPLAY_METER_PEAK": "Đỉnh",
-    "DISPLAY_METER_RMS": "RMS"
+    "DISPLAY_METER_RMS": "RMS",
+    "DISPLAY_ACCENT_RED": "Màu đỏ",
+    "DISPLAY_SAVED": "Hiển thị đã lưu",
+    "DISPLAY_THEME_DARK": "Tối",
+    "DISPLAY_THEME_LIGHT": "Ánh sáng",
+    "DISPLAY_TITLE": "Màn hình phía trước",
+    "DISPLAY_VU_READING": "Đọc tài liệu của VU"
   },
   "MAIN_MENU": {
     "ALARM": "Báo thức",

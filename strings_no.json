@@ -504,7 +504,13 @@
     "DISPLAY_METER": "Meter",
     "DISPLAY_METER_DOC": "Peak følger det høyeste lydnivået i et lydklipp. RMS følger gjennomsnittsnivået, slik et VU-meter viser.",
     "DISPLAY_METER_PEAK": "Topp",
-    "DISPLAY_METER_RMS": "RMS"
+    "DISPLAY_METER_RMS": "RMS",
+    "DISPLAY_ACCENT_RED": "Rød",
+    "DISPLAY_SAVED": "Visning lagret",
+    "DISPLAY_THEME_DARK": "Mørkt",
+    "DISPLAY_THEME_LIGHT": "Lys",
+    "DISPLAY_TITLE": "Frontdisplay",
+    "DISPLAY_VU_READING": "VU-lesing"
   },
   "MAIN_MENU": {
     "ALARM": "Alarm",

@@ -873,7 +873,13 @@
     "DISPLAY_METER": "Medidor",
     "DISPLAY_METER_DOC": "El valor «Peak» corresponde a la muestra más alta. El valor «RMS» corresponde al nivel medio, tal y como lo indica un medidor VU.",
     "DISPLAY_METER_PEAK": "Pico",
-    "DISPLAY_METER_RMS": "RMS"
+    "DISPLAY_METER_RMS": "RMS",
+    "DISPLAY_ACCENT_RED": "Rojo",
+    "DISPLAY_SAVED": "Pantalla guardada",
+    "DISPLAY_THEME_DARK": "Oscuro",
+    "DISPLAY_THEME_LIGHT": "Luz",
+    "DISPLAY_TITLE": "Pantalla frontal",
+    "DISPLAY_VU_READING": "Lectura de la VU"
   },
   "MAIN_MENU": {
     "ALARM": "Alarma",

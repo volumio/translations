@@ -94,7 +94,13 @@
     "DISPLAY_METER": "Метар",
     "DISPLAY_METER_DOC": "Пик прати најјачи узорак. RMS прати просечни ниво, као што га показује VU мерач.",
     "DISPLAY_METER_PEAK": "Врх",
-    "DISPLAY_METER_RMS": "РМС"
+    "DISPLAY_METER_RMS": "РМС",
+    "DISPLAY_ACCENT_RED": "Црвени",
+    "DISPLAY_SAVED": "Приказ сачуван",
+    "DISPLAY_THEME_DARK": "Тамно",
+    "DISPLAY_THEME_LIGHT": "Лагано",
+    "DISPLAY_TITLE": "Предњи дисплеј",
+    "DISPLAY_VU_READING": "ВУ читање"
   },
   "DEVICESETUP": {
     "SETUP_NEW_DEVICE": "Конфигуришите нови уређај",

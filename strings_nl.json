@@ -927,7 +927,13 @@
     "DISPLAY_METER": "Meter",
     "DISPLAY_METER_DOC": "Peak geeft het luidste geluidsfragment weer. RMS geeft het gemiddelde niveau weer, net zoals een VU-meter dat doet.",
     "DISPLAY_METER_PEAK": "Piek",
-    "DISPLAY_METER_RMS": "RMS"
+    "DISPLAY_METER_RMS": "RMS",
+    "DISPLAY_ACCENT_RED": "Rood",
+    "DISPLAY_SAVED": "Weergave opgeslagen",
+    "DISPLAY_THEME_DARK": "Donker",
+    "DISPLAY_THEME_LIGHT": "Licht",
+    "DISPLAY_TITLE": "Display aan de voorkant",
+    "DISPLAY_VU_READING": "VU-lezing"
   },
   "MAIN_MENU": {
     "ALARM": "Wekker",

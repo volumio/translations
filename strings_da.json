@@ -495,7 +495,13 @@
     "DISPLAY_METER": "Måler",
     "DISPLAY_METER_DOC": "Peak angiver det højeste lydniveau i en sample. RMS angiver det gennemsnitlige lydniveau, ligesom et VU-meter viser.",
     "DISPLAY_METER_PEAK": "Toppunkt",
-    "DISPLAY_METER_RMS": "RMS"
+    "DISPLAY_METER_RMS": "RMS",
+    "DISPLAY_ACCENT_RED": "Rød",
+    "DISPLAY_SAVED": "Visning gemt",
+    "DISPLAY_THEME_DARK": "Mørkt",
+    "DISPLAY_THEME_LIGHT": "Lys",
+    "DISPLAY_TITLE": "Frontdisplay",
+    "DISPLAY_VU_READING": "VU-læsning"
   },
   "MAIN_MENU": {
     "ALARM": "Alarm",

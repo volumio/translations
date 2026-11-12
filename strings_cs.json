@@ -875,7 +875,13 @@
     "DISPLAY_METER": "Měřidlo",
     "DISPLAY_METER_DOC": "Hodnota Peak sleduje nejhlasitější vzorek. Hodnota RMS sleduje průměrnou úroveň, podobně jako to dělá VU metr.",
     "DISPLAY_METER_PEAK": "Vrchol",
-    "DISPLAY_METER_RMS": "RMS"
+    "DISPLAY_METER_RMS": "RMS",
+    "DISPLAY_ACCENT_RED": "Červená",
+    "DISPLAY_SAVED": "Zobrazení uloženo",
+    "DISPLAY_THEME_DARK": "Tma",
+    "DISPLAY_THEME_LIGHT": "Světlo",
+    "DISPLAY_TITLE": "Přední displej",
+    "DISPLAY_VU_READING": "Čtení na VU"
   },
   "MAIN_MENU": {
     "ALARM": "Budík",

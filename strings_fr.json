@@ -876,7 +876,13 @@
     "DISPLAY_METER": "Mètre",
     "DISPLAY_METER_DOC": "La valeur « Peak » correspond à l'échantillon le plus fort. La valeur « RMS » correspond au niveau moyen, comme l'indique un vumètre.",
     "DISPLAY_METER_PEAK": "Pic",
-    "DISPLAY_METER_RMS": "RMS"
+    "DISPLAY_METER_RMS": "RMS",
+    "DISPLAY_ACCENT_RED": "Rouge",
+    "DISPLAY_SAVED": "Affichage enregistré",
+    "DISPLAY_THEME_DARK": "Sombre",
+    "DISPLAY_THEME_LIGHT": "Lumière",
+    "DISPLAY_TITLE": "Écran avant",
+    "DISPLAY_VU_READING": "Lecture de la VU"
   },
   "MAIN_MENU": {
     "ALARM": "Alarme",

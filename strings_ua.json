@@ -504,7 +504,13 @@
     "DISPLAY_METER": "Лічильник",
     "DISPLAY_METER_DOC": "Показник «Peak» відображає найгучніший фрагмент. Показник «RMS» відображає середній рівень, так само, як це робить VU-метр.",
     "DISPLAY_METER_PEAK": "Пік",
-    "DISPLAY_METER_RMS": "RMS"
+    "DISPLAY_METER_RMS": "RMS",
+    "DISPLAY_ACCENT_RED": "Червоний",
+    "DISPLAY_SAVED": "Зображення збережено",
+    "DISPLAY_THEME_DARK": "Темний",
+    "DISPLAY_THEME_LIGHT": "Світло",
+    "DISPLAY_TITLE": "Передній дисплей",
+    "DISPLAY_VU_READING": "Читання VU"
   },
   "MAIN_MENU": {
     "ALARM": "Будильник",

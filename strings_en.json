@@ -926,7 +926,13 @@
     "DISPLAY_METER": "Meter",
     "DISPLAY_METER_DOC": "Peak follows the loudest sample. RMS follows the average level, the way a VU meter reads.",
     "DISPLAY_METER_PEAK": "Peak",
-    "DISPLAY_METER_RMS": "RMS"
+    "DISPLAY_METER_RMS": "RMS",
+    "DISPLAY_ACCENT_RED": "Red",
+    "DISPLAY_SAVED": "Display saved",
+    "DISPLAY_THEME_DARK": "Dark",
+    "DISPLAY_THEME_LIGHT": "Light",
+    "DISPLAY_TITLE": "Front display",
+    "DISPLAY_VU_READING": "VU reading"
   },
   "MAIN_MENU": {
     "ALARM": "Alarm",

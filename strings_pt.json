@@ -504,7 +504,13 @@
     "DISPLAY_METER": "Medidor",
     "DISPLAY_METER_DOC": "O valor de pico corresponde à amostra com maior volume. O valor RMS corresponde ao nível médio, tal como é indicado num medidor VU.",
     "DISPLAY_METER_PEAK": "Pico",
-    "DISPLAY_METER_RMS": "RMS"
+    "DISPLAY_METER_RMS": "RMS",
+    "DISPLAY_ACCENT_RED": "Vermelho",
+    "DISPLAY_SAVED": "Exibir guardado",
+    "DISPLAY_THEME_DARK": "Escuro",
+    "DISPLAY_THEME_LIGHT": "Luz",
+    "DISPLAY_TITLE": "Ecrã frontal",
+    "DISPLAY_VU_READING": "Leitura da VU"
   },
   "MAIN_MENU": {
     "ALARM": "Despertador",

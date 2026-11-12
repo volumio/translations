@@ -873,7 +873,13 @@
     "DISPLAY_METER": "Meter",
     "DISPLAY_METER_DOC": "„Peak“ bezieht sich auf das lauteste Sample. „RMS“ bezieht sich auf den Durchschnittspegel, so wie er auf einem VU-Meter angezeigt wird.",
     "DISPLAY_METER_PEAK": "Spitzenwert",
-    "DISPLAY_METER_RMS": "RMS"
+    "DISPLAY_METER_RMS": "RMS",
+    "DISPLAY_ACCENT_RED": "Rot",
+    "DISPLAY_SAVED": "Anzeige gespeichert",
+    "DISPLAY_THEME_DARK": "Dunkel",
+    "DISPLAY_THEME_LIGHT": "Licht",
+    "DISPLAY_TITLE": "Frontdisplay",
+    "DISPLAY_VU_READING": "VU-Lektüre"
   },
   "MAIN_MENU": {
     "ALARM": "Wecker",

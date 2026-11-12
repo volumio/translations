@@ -873,7 +873,13 @@
     "DISPLAY_METER": "Metr",
     "DISPLAY_METER_DOC": "Peak segueix la mostra més forta. RMS segueix el nivell mitjà, tal com ho llegeix un indicador VU.",
     "DISPLAY_METER_PEAK": "Cim",
-    "DISPLAY_METER_RMS": "RMS"
+    "DISPLAY_METER_RMS": "RMS",
+    "DISPLAY_ACCENT_RED": "Vermell",
+    "DISPLAY_SAVED": "Visualització guardada",
+    "DISPLAY_THEME_DARK": "Fosc",
+    "DISPLAY_THEME_LIGHT": "Lleuger",
+    "DISPLAY_TITLE": "Expositor frontal",
+    "DISPLAY_VU_READING": "Lectura VU"
   },
   "MAIN_MENU": {
     "ALARM": "Alarma",
