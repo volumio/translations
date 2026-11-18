@@ -311,7 +311,8 @@
     "STANDBY": "У приправности",
     "FILTER_ALL": "Све",
     "PLAY_NEXT_TITLE": "Пусти следеће",
-    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Проверите да ли је ваш уређај повезан на интернет."
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Проверите да ли је ваш уређај повезан на интернет.",
+    "SHOW_MORE": "Прикажи више"
   },
   "DEVICELIST": {
     "SETUP_NEW_DEVICE": "Конфигуришите нови уређај",

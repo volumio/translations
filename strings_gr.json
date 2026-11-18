@@ -171,7 +171,8 @@
     "STANDBY": "Αναμονή",
     "FILTER_ALL": "Όλα",
     "PLAY_NEXT_TITLE": "Παίξε το επόμενο",
-    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Ελέγξτε αν η συσκευή σας είναι συνδεδεμένη στο διαδίκτυο"
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Ελέγξτε αν η συσκευή σας είναι συνδεδεμένη στο διαδίκτυο",
+    "SHOW_MORE": "Εμφάνιση περισσότερων"
   },
   "BROWSER": {
     "PLAY": "Play",

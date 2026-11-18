@@ -173,7 +173,8 @@
     "STANDBY": "Pohotovostní režim",
     "FILTER_ALL": "Všechny",
     "PLAY_NEXT_TITLE": "Přehrát další",
-    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Zkontrolujte, zda je zařízení připojeno k internetu"
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Zkontrolujte, zda je zařízení připojeno k internetu",
+    "SHOW_MORE": "Zobrazit více"
   },
   "BROWSER": {
     "PLAY": "Přehrát",

@@ -445,7 +445,8 @@
     "STANDBY": "Budėjimo režimas",
     "FILTER_ALL": "Visi",
     "PLAY_NEXT_TITLE": "Groti kitą",
-    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Patikrinkite, ar jūsų prietaisas prijungtas prie interneto"
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Patikrinkite, ar jūsų prietaisas prijungtas prie interneto",
+    "SHOW_MORE": "Rodyti daugiau"
   },
   "MY_MUSIC": {
     "UPDATE": "Atnaujinti",

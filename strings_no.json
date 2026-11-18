@@ -171,7 +171,8 @@
     "STANDBY": "Standby",
     "FILTER_ALL": "Alle",
     "PLAY_NEXT_TITLE": "Spill neste",
-    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Sjekk om enheten din er koblet til internett"
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Sjekk om enheten din er koblet til internett",
+    "SHOW_MORE": "Vis mer"
   },
   "BROWSER": {
     "PLAY": "Spiller",

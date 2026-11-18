@@ -171,7 +171,8 @@
     "STANDBY": "Standby",
     "FILTER_ALL": "Alle",
     "PLAY_NEXT_TITLE": "Afspil næste",
-    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Tjek, om din enhed har forbindelse til internettet"
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Tjek, om din enhed har forbindelse til internettet",
+    "SHOW_MORE": "Vis mere"
   },
   "BROWSER": {
     "PLAY": "Afspil",

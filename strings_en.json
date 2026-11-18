@@ -206,7 +206,8 @@
     "STANDBY": "Standby",
     "FILTER_ALL": "All",
     "PLAY_NEXT_TITLE": "Play next",
-    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Check if your device is connected to the internet"
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Check if your device is connected to the internet",
+    "SHOW_MORE": "Show more"
   },
   "DEVICELIST": {
     "SETUP_NEW_DEVICE": "Configure a new device",

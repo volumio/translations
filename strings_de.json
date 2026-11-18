@@ -171,7 +171,8 @@
     "STANDBY": "Bereitschaft",
     "FILTER_ALL": "Alle",
     "PLAY_NEXT_TITLE": "Weiter spielen",
-    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Prüfen Sie, ob Ihr Gerät mit dem Internet verbunden ist"
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Prüfen Sie, ob Ihr Gerät mit dem Internet verbunden ist",
+    "SHOW_MORE": "Mehr anzeigen"
   },
   "BROWSER": {
     "PLAY": "Wiedergeben",

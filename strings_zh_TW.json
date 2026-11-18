@@ -171,7 +171,8 @@
     "STANDBY": "待命",
     "FILTER_ALL": "全部",
     "PLAY_NEXT_TITLE": "播放下一首",
-    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "請確認您的裝置是否已連上網"
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "請確認您的裝置是否已連上網",
+    "SHOW_MORE": "顯示更多"
   },
   "BROWSER": {
     "PLAY": "播放",

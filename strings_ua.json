@@ -171,7 +171,8 @@
     "STANDBY": "Режим очікування",
     "FILTER_ALL": "Усі",
     "PLAY_NEXT_TITLE": "Перейти до наступного",
-    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Перевірте, чи підключено ваш пристрій до Інтернету"
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Перевірте, чи підключено ваш пристрій до Інтернету",
+    "SHOW_MORE": "Показати більше"
   },
   "BROWSER": {
     "PLAY": "Відтворити",

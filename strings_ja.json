@@ -171,7 +171,8 @@
     "STANDBY": "スタンバイ",
     "FILTER_ALL": "すべて",
     "PLAY_NEXT_TITLE": "次に再生",
-    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "機器がインターネットに接続されていることを確認してください"
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "機器がインターネットに接続されていることを確認してください",
+    "SHOW_MORE": "もっと見る"
   },
   "BROWSER": {
     "PLAY": "再生",

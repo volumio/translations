@@ -172,7 +172,8 @@
     "STANDBY": "En attente",
     "FILTER_ALL": "Tous",
     "PLAY_NEXT_TITLE": "Jouer la suite",
-    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Vérifiez si votre appareil est connecté à l'internet"
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Vérifiez si votre appareil est connecté à l'internet",
+    "SHOW_MORE": "Afficher plus"
   },
   "BROWSER": {
     "PLAY": "Lecture",

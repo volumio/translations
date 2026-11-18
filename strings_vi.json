@@ -171,7 +171,8 @@
     "STANDBY": "Chế độ chờ",
     "FILTER_ALL": "Tất cả",
     "PLAY_NEXT_TITLE": "Chơi tiếp",
-    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Kiểm tra xem thiết bị của bạn có kết nối với internet hay không."
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Kiểm tra xem thiết bị của bạn có kết nối với internet hay không.",
+    "SHOW_MORE": "Xem thêm"
   },
   "BROWSER": {
     "PLAY": "Play",

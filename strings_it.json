@@ -171,7 +171,8 @@
     "STANDBY": "Standby",
     "FILTER_ALL": "Tutti",
     "PLAY_NEXT_TITLE": "Riproduzione successiva",
-    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Controllare se il dispositivo è connesso a Internet"
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Controllare se il dispositivo è connesso a Internet",
+    "SHOW_MORE": "Mostra altro"
   },
   "BROWSER": {
     "PLAY": "Riproduci",

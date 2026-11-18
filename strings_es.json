@@ -171,7 +171,8 @@
     "STANDBY": "En espera",
     "FILTER_ALL": "Todos",
     "PLAY_NEXT_TITLE": "Siguiente",
-    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Comprueba si tu dispositivo está conectado a Internet"
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Comprueba si tu dispositivo está conectado a Internet",
+    "SHOW_MORE": "Ver más"
   },
   "BROWSER": {
     "PLAY": "Reproducir",

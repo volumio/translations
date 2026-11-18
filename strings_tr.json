@@ -171,7 +171,8 @@
     "STANDBY": "Bekleme",
     "FILTER_ALL": "Tümü",
     "PLAY_NEXT_TITLE": "Sonraki oynat",
-    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Cihazınızın internete bağlı olup olmadığını kontrol edin"
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Cihazınızın internete bağlı olup olmadığını kontrol edin",
+    "SHOW_MORE": "Daha fazlasını göster"
   },
   "BROWSER": {
     "PLAY": "Oynat",

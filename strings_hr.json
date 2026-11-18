@@ -171,7 +171,8 @@
     "STANDBY": "U pripravnosti",
     "FILTER_ALL": "Sve",
     "PLAY_NEXT_TITLE": "Pusti sljedeće",
-    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Provjerite je li vaš uređaj povezan na internet."
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Provjerite je li vaš uređaj povezan na internet.",
+    "SHOW_MORE": "Prikaži više"
   },
   "BROWSER": {
     "PLAY": "Sviraj",

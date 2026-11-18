@@ -171,7 +171,8 @@
     "STANDBY": "Tryb gotowości",
     "FILTER_ALL": "Wszystkie",
     "PLAY_NEXT_TITLE": "Odtwórz jako następny",
-    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Sprawdź, czy urządzenie jest połączone z Internetem"
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Sprawdź, czy urządzenie jest połączone z Internetem",
+    "SHOW_MORE": "Pokaż więcej"
   },
   "BROWSER": {
     "PLAY": "Odtwarzaj",

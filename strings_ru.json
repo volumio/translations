@@ -171,7 +171,8 @@
     "STANDBY": "В режиме ожидания",
     "FILTER_ALL": "Все",
     "PLAY_NEXT_TITLE": "Играть дальше",
-    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Проверьте, подключено ли ваше устройство к интернету"
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "Проверьте, подключено ли ваше устройство к интернету",
+    "SHOW_MORE": "Показать больше"
   },
   "BROWSER": {
     "PLAY": "Воспроизвести",

@@ -171,7 +171,8 @@
     "STANDBY": "대기",
     "FILTER_ALL": "모두",
     "PLAY_NEXT_TITLE": "다음 재생",
-    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "디바이스가 인터넷에 연결되어 있는지 확인"
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "디바이스가 인터넷에 연결되어 있는지 확인",
+    "SHOW_MORE": "더 보기"
   },
   "BROWSER": {
     "PLAY": "재생",

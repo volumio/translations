@@ -171,7 +171,8 @@
     "STANDBY": "สแตนด์บาย",
     "FILTER_ALL": "ทั้งหมด",
     "PLAY_NEXT_TITLE": "เล่นถัดไป",
-    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "ตรวจสอบว่าอุปกรณ์ของคุณเชื่อมต่อกับอินเทอร์เน็ตหรือไม่"
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "ตรวจสอบว่าอุปกรณ์ของคุณเชื่อมต่อกับอินเทอร์เน็ตหรือไม่",
+    "SHOW_MORE": "แสดงเพิ่มเติม"
   },
   "BROWSER": {
     "PLAY": "เล่น",

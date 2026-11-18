@@ -171,7 +171,8 @@
     "STANDBY": "备用",
     "FILTER_ALL": "全部",
     "PLAY_NEXT_TITLE": "播放下一个",
-    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "检查设备是否已连接互联网"
+    "CHECK_IF_YOUR_DEVICE_IS_CONNECTED_TO_INTERNET": "检查设备是否已连接互联网",
+    "SHOW_MORE": "显示更多"
   },
   "BROWSER": {
     "PLAY": "播放",
