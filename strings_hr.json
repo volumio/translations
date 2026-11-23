@@ -479,11 +479,11 @@
     "SLEEP_MODE_HOUR": "sat(i)",
     "SLEEP_MODE_IN": "za",
     "SLEEP_MODE_MINUTE": "minuta",
-    "SLEEP_MODE_SYSTEM_WILL": "Sustav će",
+    "SLEEP_MODE_SYSTEM_WILL": "Zakazano:",
     "SLEEP_MODE_TITLE": "Način spavanja",
-    "STOP_MUSIC": "zaustaviti glazbu",
+    "STOP_MUSIC": "Zaustavi glazbu",
     "TIME_SELECT_ERROR": "Izaberite vrijeme budilice",
-    "TURN_OFF": "se isključiti"
+    "TURN_OFF": "Isključi"
   },
   "MULTIDEVICE": {
     "EDIT_GROUPS": "Uredi grupe",

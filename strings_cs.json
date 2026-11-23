@@ -481,7 +481,7 @@
     "SLEEP_MODE_HOUR": "hodin",
     "SLEEP_MODE_IN": "za",
     "SLEEP_MODE_MINUTE": "minut",
-    "SLEEP_MODE_SYSTEM_WILL": "Zařízení bude",
+    "SLEEP_MODE_SYSTEM_WILL": "Naplánováno:",
     "SLEEP_MODE_TITLE": "Režim uspání",
     "STOP_MUSIC": "Zastavit přehrávání",
     "TIME_SELECT_ERROR": "Vyberte čas budíku",
@@ -769,7 +769,7 @@
     "MODAL_SUPERSEARCH_PREMIUM_TEXT": "Textové vyhledávání, nekonečné přehrávání pomocí umělé inteligence",
     "MODAL_INFINITY_PLAN_PREMIUM_TEXT": "Nekonečné přehrávání s umělou inteligencí",
     "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio podporuje streamovací služby, jako jsou TIDAL, QOBUZ a High Res Audio, a mnoho dalších zásuvných modulů. Abyste k nim získali plný přístup, musíte si předplatit MyVolumio. Přejděte na stránku www.myvolumio.org a spusťte bezplatnou zkušební verzi!",
-    "PREMIUM_DEVICE": "Prémiové zařízení"
+    "PREMIUM_DEVICE": "Zařízení Premium"
   },
   "MYVOLUMIO_PLANS": {
     "LATEST_NEWS": "Dostávejte novinky MyVolumio",

@@ -479,11 +479,11 @@
     "SLEEP_MODE_HOUR": "hora(s)",
     "SLEEP_MODE_IN": "en",
     "SLEEP_MODE_MINUTE": "minuto(s)",
-    "SLEEP_MODE_SYSTEM_WILL": "El sistema",
+    "SLEEP_MODE_SYSTEM_WILL": "Programado:",
     "SLEEP_MODE_TITLE": "Modo reposo",
-    "STOP_MUSIC": "detendrá la música",
+    "STOP_MUSIC": "Detener la música",
     "TIME_SELECT_ERROR": "Selecciona una hora de inicio de la alarma",
-    "TURN_OFF": "se apagará"
+    "TURN_OFF": "Apagar"
   },
   "MULTIDEVICE": {
     "EDIT_GROUPS": "Editar grupos",
@@ -758,7 +758,7 @@
     "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio incluye soporte para servicios de streaming como TIDAL, QOBUZ y  High Res Audio, así como muchos complementos adicionales. Para obtener acceso completo a ellos, deberás suscribirte a un plan MyVolumio. ¡Ve a www.myvolumio.org para empezar una prueba gratuita!",
     "NO_THANKS_NOT_INTERESTED": "No, gracias, no me interesa",
     "GO_PREMIUM": "Hazte Premium",
-    "SAVE": "Guardar",
+    "SAVE": "Ahorra",
     "MANIFEST_UI_ACCESS": "Acceso a Manifest UI",
     "MANIFEST_UI_ACCESS_DESCRIPTION": "Esta interfaz de usuario requiere un plan premium de Volumio. Pulsa OK para iniciar sesión o registrarte en myVolumio. Pulsa Cancelar para salir de esta interfaz.",
     "CONGRATULATIONS": "Enhorabuena",

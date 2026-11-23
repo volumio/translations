@@ -483,7 +483,7 @@
     "ALARM_CLOCK_SAVE": "Žadintuvas nustatytas",
     "TIME_SELECT_ERROR": "Pasirinkite žadintuvo pradžios laiką",
     "SLEEP_MODE_MINUTE": "minutės(-čių)",
-    "SLEEP_MODE_SYSTEM_WILL": "Sistema"
+    "SLEEP_MODE_SYSTEM_WILL": "Suplanuota:"
   },
   "MULTIDEVICE": {
     "GROUP": "Grupė",
@@ -833,7 +833,7 @@
     "LANDING_FEATURE_CD_TEXT": "Iš naujo atraskite savo kompaktinių diskų kolekciją tiesiog prijungę bet kurį USB CD-ROM skaitytuvą prie \"Volumio\" prietaiso. Grokite arba kopijuokite kompaktinius diskus tiksliausiu būdu.",
     "NO_THANKS_NOT_INTERESTED": "Ne, ačiū, manęs nedomina",
     "GO_PREMIUM": "Rinkitės \"Premium\"",
-    "SAVE": "Išsaugoti",
+    "SAVE": "Sutaupykite",
     "MANIFEST_UI_ACCESS": "Prieiga prie Manifest vartotojo sąsajos",
     "MANIFEST_UI_ACCESS_DESCRIPTION": "Šiai vartotojo sąsajai reikalingas \"Volumio Premium\" planas. Paspauskite \"Gerai\", kad prisijungtumėte arba užsiregistruotumėte \"MyVolumio\". Paspauskite \"Atšaukti\", kad išeitumėte iš šios vartotojo sąsajos.",
     "CONGRATULATIONS": "Sveikiname",

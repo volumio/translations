@@ -796,13 +796,13 @@
     "ALARM_CLOCK_TITLE": "Ébresztőóra",
     "PLAYLIST_SELECT_ERROR": "Válasszon lejátszási listát",
     "SLEEP_MODE_HOUR": "óra",
-    "SLEEP_MODE_IN": "ennyi idő múlva:",
+    "SLEEP_MODE_IN": "–",
     "SLEEP_MODE_MINUTE": "perc",
-    "SLEEP_MODE_SYSTEM_WILL": "A rendszer",
+    "SLEEP_MODE_SYSTEM_WILL": "Ütemezve:",
     "SLEEP_MODE_TITLE": "Alvó mód",
-    "STOP_MUSIC": "leállítja a zenét",
+    "STOP_MUSIC": "Zene leállítása",
     "TIME_SELECT_ERROR": "Válassza ki az ébresztés idejét",
-    "TURN_OFF": "kikapcsol"
+    "TURN_OFF": "Kikapcsolás"
   },
   "APPEARANCE": {
     "ALBUMARTIST": "Albumelőadó",

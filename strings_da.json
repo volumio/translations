@@ -419,11 +419,11 @@
     "SLEEP_MODE_HOUR": "time(r)",
     "SLEEP_MODE_IN": "om",
     "SLEEP_MODE_MINUTE": "minut(ter)",
-    "SLEEP_MODE_SYSTEM_WILL": "Systemet vil",
+    "SLEEP_MODE_SYSTEM_WILL": "Planlagt:",
     "SLEEP_MODE_TITLE": "Dvaletilstand",
-    "STOP_MUSIC": "stoppe musikken",
+    "STOP_MUSIC": "Stop musikken",
     "TIME_SELECT_ERROR": "Vælg venligst et starttidspunkt for alarmen",
-    "TURN_OFF": "slukke",
+    "TURN_OFF": "Sluk",
     "CRATE_PLAYLIST_FIRST": "For at kunne bruge vækkeuret skal du først oprette mindst én afspilningsliste."
   },
   "APPEARANCE": {

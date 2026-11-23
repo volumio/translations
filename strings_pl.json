@@ -479,11 +479,11 @@
     "SLEEP_MODE_HOUR": "godz.",
     "SLEEP_MODE_IN": "za",
     "SLEEP_MODE_MINUTE": "min",
-    "SLEEP_MODE_SYSTEM_WILL": "System",
+    "SLEEP_MODE_SYSTEM_WILL": "Zaplanowano:",
     "SLEEP_MODE_TITLE": "Tryb uśpienia",
-    "STOP_MUSIC": "zatrzyma odtwarzanie",
+    "STOP_MUSIC": "Zatrzymaj odtwarzanie",
     "TIME_SELECT_ERROR": "Wybierz godzinę uruchomienia budzika",
-    "TURN_OFF": "wyłączy się"
+    "TURN_OFF": "Wyłącz"
   },
   "MULTIDEVICE": {
     "EDIT_GROUPS": "Edytuj grupy",

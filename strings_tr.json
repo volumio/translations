@@ -477,13 +477,13 @@
     "ALARM_CLOCK_TITLE": "Çalar Saat",
     "PLAYLIST_SELECT_ERROR": "Lütfen bir çalma listesi seçin",
     "SLEEP_MODE_HOUR": "saat",
-    "SLEEP_MODE_IN": "– kalan süre:",
+    "SLEEP_MODE_IN": "–",
     "SLEEP_MODE_MINUTE": "dakika",
-    "SLEEP_MODE_SYSTEM_WILL": "Sistem",
+    "SLEEP_MODE_SYSTEM_WILL": "Planlandı:",
     "SLEEP_MODE_TITLE": "Uyku modu",
-    "STOP_MUSIC": "müziği durduracak",
+    "STOP_MUSIC": "Müziği durdur",
     "TIME_SELECT_ERROR": "Lütfen bir alarm başlangıç saati seçin",
-    "TURN_OFF": "kapanacak"
+    "TURN_OFF": "Kapat"
   },
   "MULTIDEVICE": {
     "EDIT_GROUPS": "Grupları düzenle",

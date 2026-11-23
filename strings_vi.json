@@ -479,11 +479,11 @@
     "SLEEP_MODE_HOUR": "giờ",
     "SLEEP_MODE_IN": "sau",
     "SLEEP_MODE_MINUTE": "phút",
-    "SLEEP_MODE_SYSTEM_WILL": "Hệ thống sẽ",
+    "SLEEP_MODE_SYSTEM_WILL": "Đã hẹn:",
     "SLEEP_MODE_TITLE": "Chế độ ngủ",
-    "STOP_MUSIC": "dừng phát nhạc",
+    "STOP_MUSIC": "Dừng phát nhạc",
     "TIME_SELECT_ERROR": "Vui lòng lựa chọn giờ bắt đầu báo thức",
-    "TURN_OFF": "tắt máy"
+    "TURN_OFF": "Tắt máy"
   },
   "MULTIDEVICE": {
     "EDIT_GROUPS": "Chỉnh sửa nhóm",

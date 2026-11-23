@@ -479,7 +479,7 @@
     "SLEEP_MODE_HOUR": "timmar",
     "SLEEP_MODE_IN": "om",
     "SLEEP_MODE_MINUTE": "minuter",
-    "SLEEP_MODE_SYSTEM_WILL": "Systemet kommer att",
+    "SLEEP_MODE_SYSTEM_WILL": "Schemalagt:",
     "SLEEP_MODE_TITLE": "Sovläge",
     "STOP_MUSIC": "Stoppa musiken",
     "TIME_SELECT_ERROR": "Du måste välja en starttid för alarmet",

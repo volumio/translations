@@ -479,11 +479,11 @@
     "SLEEP_MODE_HOUR": "hodín",
     "SLEEP_MODE_IN": "za",
     "SLEEP_MODE_MINUTE": "minút",
-    "SLEEP_MODE_SYSTEM_WILL": "Systém",
+    "SLEEP_MODE_SYSTEM_WILL": "Naplánované:",
     "SLEEP_MODE_TITLE": "Režim uspania",
-    "STOP_MUSIC": "zastaví prehrávanie",
+    "STOP_MUSIC": "Zastaviť prehrávanie",
     "TIME_SELECT_ERROR": "Vyberte čas budíku",
-    "TURN_OFF": "sa vypne"
+    "TURN_OFF": "Vypnúť zariadenie"
   },
   "MULTIDEVICE": {
     "EDIT_GROUPS": "Upraviť skupiny",
@@ -758,7 +758,7 @@
     "LANDING_FEATURE_CD_TEXT": "Znovuobjavte svoju zbierku diskov CD jednoduchým pripojením akejkoľvek jednotky USB CD Rom k zariadeniu Volumio. Prehrávajte alebo kopírujte svoje disky CD tým najpresnejším spôsobom.",
     "NO_THANKS_NOT_INTERESTED": "Nie, ďakujem, nemám záujem",
     "GO_PREMIUM": "Prejsť na Premium",
-    "SAVE": "Uložiť",
+    "SAVE": "Ušetrite",
     "MANIFEST_UI_ACCESS": "Prístup k rozhraniu Manifest",
     "MANIFEST_UI_ACCESS_DESCRIPTION": "Toto používateľské rozhranie vyžaduje prémiový plán Volumio. Stlačením tlačidla OK sa prihláste alebo zaregistrujte do služby myVolumio. Stlačením tlačidla zrušiť ukončíte toto používateľské rozhranie.",
     "CONGRATULATIONS": "Gratulujeme",
@@ -1066,7 +1066,7 @@
     "UPDATE_FAILED": "Aktualizácia zlyhala",
     "VIDEO_OUT_OPTIONS": "Nastavenie videovýstupu",
     "AUTOMATIC_UPDATES": "Automatické aktualizácie",
-    "AUTOMATIC_UPDATES_DOC": "Povolenie automatických aktualizácií. Skontrolujte, či je správne nakonfigurované časové pásmo.",
+    "AUTOMATIC_UPDATES_DOC": "Povolenie automatických aktualizácií. Skontrolujte, či je správne nakonfigurované časové pásmo. ",
     "AUTOMATIC_UPDATES_START_TIME": "Čas spustenia okna automatickej aktualizácie",
     "AUTOMATIC_UPDATES_START_TIME_DOC": "Čas spustenia okna automatickej aktualizácie",
     "AUTOMATIC_UPDATES_STOP_TIME": "Čas ukončenia okna automatickej aktualizácie",

@@ -419,11 +419,11 @@
     "SLEEP_MODE_HOUR": "ώρα(ες)",
     "SLEEP_MODE_IN": "σε",
     "SLEEP_MODE_MINUTE": "λεπτό(ά)",
-    "SLEEP_MODE_SYSTEM_WILL": "Το σύστημα θα",
+    "SLEEP_MODE_SYSTEM_WILL": "Προγραμματισμένο:",
     "SLEEP_MODE_TITLE": "Λειτουργία ύπνου",
-    "STOP_MUSIC": "σταματήσει τη μουσική",
+    "STOP_MUSIC": "Διακοπή μουσικής",
     "TIME_SELECT_ERROR": "Παρακαλώ επιλέξτε μια ώρα έναρξης ξυπνητηριού",
-    "TURN_OFF": "απενεργοποιηθεί",
+    "TURN_OFF": "Απενεργοποίηση",
     "CRATE_PLAYLIST_FIRST": "Για να χρησιμοποιήσετε το ξυπνητήρι, πρέπει πρώτα να δημιουργήσετε τουλάχιστον μία λίστα αναπαραγωγής"
   },
   "APPEARANCE": {

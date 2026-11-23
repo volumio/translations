@@ -428,11 +428,11 @@
     "SLEEP_MODE_HOUR": "time(r)",
     "SLEEP_MODE_IN": "om",
     "SLEEP_MODE_MINUTE": "minutt(er)",
-    "SLEEP_MODE_SYSTEM_WILL": "Systemet vil",
+    "SLEEP_MODE_SYSTEM_WILL": "Planlagt:",
     "SLEEP_MODE_TITLE": "Sovemodus",
-    "STOP_MUSIC": "stoppe musikken",
+    "STOP_MUSIC": "Stopp musikken",
     "TIME_SELECT_ERROR": "Velg en starttid for alarmen",
-    "TURN_OFF": "slå av",
+    "TURN_OFF": "Slå av",
     "CRATE_PLAYLIST_FIRST": "For å kunne bruke vekkerklokken må du først opprette minst én spilleliste"
   },
   "APPEARANCE": {
@@ -763,7 +763,7 @@
     "LANDING_FEATURE_CD_TEXT": "Oppdag CD-samlingen din på nytt ved ganske enkelt å koble en hvilken som helst USB-CD-ROM-stasjon til Volumio-enheten din. Spill av eller kopier CD-ene dine med høyeste nøyaktighet.",
     "NO_THANKS_NOT_INTERESTED": "Nei takk, jeg er ikke interessert",
     "GO_PREMIUM": "Oppgrader til Premium",
-    "SAVE": "Lagre",
+    "SAVE": "Spar",
     "MANIFEST_UI_ACCESS": "Tilgang til Manifest-brukergrensesnittet",
     "MANIFEST_UI_ACCESS_DESCRIPTION": "Dette brukergrensesnittet krever et Volumio-premiumabonnement. Trykk på OK for å logge inn eller registrere deg på myVolumio. Trykk på Avbryt for å forlate dette brukergrensesnittet.",
     "CONGRATULATIONS": "Gratulerer",

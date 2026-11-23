@@ -480,11 +480,11 @@
     "SLEEP_MODE_HOUR": "heure(s)",
     "SLEEP_MODE_IN": "dans",
     "SLEEP_MODE_MINUTE": "minute(s)",
-    "SLEEP_MODE_SYSTEM_WILL": "Le système va",
+    "SLEEP_MODE_SYSTEM_WILL": "Programmé :",
     "SLEEP_MODE_TITLE": "Mode sommeil",
-    "STOP_MUSIC": "arrêter la musique",
+    "STOP_MUSIC": "Arrêter la musique",
     "TIME_SELECT_ERROR": "Veuillez sélectionner l'heure de début de l'alarme",
-    "TURN_OFF": "s'éteindre"
+    "TURN_OFF": "Éteindre"
   },
   "MULTIDEVICE": {
     "EDIT_GROUPS": "Modifier les groupes",
@@ -1320,7 +1320,7 @@
     "TRACK_INFO": "Infos sur la piste",
     "FUNCTION_TRACK_INFO": "Explorez les histoires des artistes et des albums, les crédits et naviguez vers la page de l'artiste ou de l'album.",
     "CONGRATULATIONS": "Félicitations !",
-    "FUNCTION_FINISH": "Pour plus d'informations, visitez help.volumio.com/help/",
+    "FUNCTION_FINISH": "Vous avez terminé la visite guidée.<br> Pour plus d'informations, consultez help.volumio.com/help/",
     "CONNECTION_DEVICE": "Se connecter à votre Wifi ou Ethernet",
     "SETTINGS_SYSTEM": "Réglages généraux du système",
     "PLUGINS": "Ajouter une plateforme de streaming musical",

@@ -429,11 +429,11 @@
     "SLEEP_MODE_HOUR": "hora(es)",
     "SLEEP_MODE_IN": "en",
     "SLEEP_MODE_MINUTE": "minut(s)",
-    "SLEEP_MODE_SYSTEM_WILL": "El sistema",
+    "SLEEP_MODE_SYSTEM_WILL": "Programat:",
     "SLEEP_MODE_TITLE": "Mode de repòs",
-    "STOP_MUSIC": "aturarà la música",
+    "STOP_MUSIC": "Aturar la música",
     "TIME_SELECT_ERROR": "Selecciona una hora d'inici de l'alarma",
-    "TURN_OFF": "s'apagarà"
+    "TURN_OFF": "Apagar"
   },
   "MULTIDEVICE": {
     "EDIT_GROUPS": "Editar grups",
@@ -708,7 +708,7 @@
     "PLEASE_ENABLE_MY_VOLUMIO": "MyVolumio inclou suport per a serveis de streaming com TIDAL, QOBUZ i High Res Audio, així com molts complements addicionals. Per tenir-hi accés complet, t'has de subscriure a un pla MyVolumio. Ves a www.myvolumio.org per començar una prova gratuïta!",
     "NO_THANKS_NOT_INTERESTED": "No, gràcies, no m'interessa",
     "GO_PREMIUM": "Passa a Premium",
-    "SAVE": "Desa",
+    "SAVE": "Estalvia",
     "MANIFEST_UI_ACCESS": "Accés a la interfície d'usuari de Manifest",
     "MANIFEST_UI_ACCESS_DESCRIPTION": "Aquesta interfície requereix un pla premium de Volumio. Prem OK per iniciar sessió o registrar-te a myVolumio. Prem Cancel·lar per sortir d'aquesta interfície.",
     "CONGRATULATIONS": "Enhorabona",
