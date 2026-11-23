@@ -482,11 +482,11 @@
     "SLEEP_MODE_HOUR": "h",
     "SLEEP_MODE_IN": "tra",
     "SLEEP_MODE_MINUTE": "min",
-    "SLEEP_MODE_SYSTEM_WILL": "Il sistema",
+    "SLEEP_MODE_SYSTEM_WILL": "Programmato:",
     "SLEEP_MODE_TITLE": "Timer di spegnimento",
-    "STOP_MUSIC": "fermerà la musica",
+    "STOP_MUSIC": "Ferma la musica",
     "TIME_SELECT_ERROR": "Seleziona l'ora della sveglia",
-    "TURN_OFF": "si spegnerà"
+    "TURN_OFF": "Spegni"
   },
   "MULTIDEVICE": {
     "EDIT_GROUPS": "Modifica gruppi",
@@ -651,7 +651,7 @@
     "WHAT_IS_MYVOLUMIO": "Cos'è MyVolumio?",
     "TRY_FOR_FREE": "Prova gratis",
     "LIFETIME": "A vita",
-    "FREE": "Free",
+    "FREE": "Gratis",
     "KEEP_ME_UPDATED_VIA_MAIL": "Tienimi aggiornato sulle novità di Volumio via email",
     "MY_VOLUMIO_SHORTDESC": "Migliora la tua esperienza con servizi premium come l'integrazione di TIDAL, TIDAL Connect e QOBUZ, la copia dei CD, i metadati avanzati, l'ingresso Bluetooth e molto altro",
     "MY_VOLUMIO_MORE_INFO": "Scopri tutte le funzionalità",
