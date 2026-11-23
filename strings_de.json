@@ -1317,7 +1317,7 @@
     "TRACK_INFO": "Titelinfos",
     "FUNCTION_TRACK_INFO": "Entdecke Geschichten und Credits zu Interpreten und Alben und wechsle zur Interpreten- oder Albumseite",
     "CONGRATULATIONS": "Herzlichen Glückwunsch!",
-    "FUNCTION_FINISH": "Sie haben das Onboarding erfolgreich abgeschlossen.<br> Weitere Informationen finden Sie unter help.volumio.com/help/",
+    "FUNCTION_FINISH": "Du hast das Onboarding erfolgreich abgeschlossen.<br> Weitere Informationen findest du unter help.volumio.com/help/",
     "CONNECTION_DEVICE": "Mit WLAN oder Ethernet verbinden",
     "SETTINGS_SYSTEM": "Allgemeine Systemeinstellungen",
     "PLUGINS": "Musik-Streaming-Plattform hinzufügen",
