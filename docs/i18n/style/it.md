@@ -166,6 +166,7 @@ Use the established audio terms and keep the industry acronyms in English.
 | Subscription | Abbonamento |
 | Plan (Free / Premium) | Piano Free / Piano Premium. Plan names stay English. Never `programma` or `abbonamento` for *plan*. |
 | Free trial | Prova gratuita |
+| Free (price, `MYVOLUMIO.FREE`) | Gratis (a zero price on the plan card, not the plan name) |
 | Cancel subscription | Disdici l'abbonamento |
 | Alarm / Sleep | Sveglia / Timer di spegnimento |
 | Appearance | Aspetto |
@@ -177,7 +178,7 @@ Use the established audio terms and keep the industry acronyms in English.
 Product, feature and protocol names stay in English: Volumio, MyVolumio, Nova,
 TIDAL, TIDAL Connect, Qobuz, QOBUZ Connect, Spotify, Spotify Connect, Amazon Music,
 AirPlay, Shairport, UPnP, DLNA, Roon, Bluetooth, Alexa, AI Infinity Playback, Premium,
-Free, SMB, NFS, CIFS.
+Free (as a plan name), SMB, NFS, CIFS.
 
 ## Placeholders, fragments and agreement
 
